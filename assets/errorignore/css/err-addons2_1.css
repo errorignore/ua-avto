@@ -62,6 +62,7 @@
     font-family: 'Fira Sans', sans-serif;
     font-size: 0.8rem;
     font-weight: normal;
+    font-weight: 300;
 }
 
 .display-7 > .err-iconfont {
@@ -22902,6 +22903,8 @@ p.err-text {
     margin: 0rem !important;
     font-size: 0.777rem !important;
     line-height: 1.5rem !important;
+    font-weight: 300;
+    color: white;
 }
 
 .err.container {

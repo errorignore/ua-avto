@@ -264,7 +264,7 @@ figure[err-media-size] {
         color: #282828;
         background-color: #242424;
         min-height: auto;
-        margin-bottom: 1rem;
+        margin-bottom: 0rem;
 }
 
 @media (max-width: 991px) {
