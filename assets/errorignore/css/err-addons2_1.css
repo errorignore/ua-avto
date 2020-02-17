@@ -23499,7 +23499,7 @@ img.card-img {
 	}
 
 img.product-img {
-    object-fit: cover;
+    object-fit: scale-down;
     background-color: white;
     min-height: 50vh;
     max-height: 60vh;
