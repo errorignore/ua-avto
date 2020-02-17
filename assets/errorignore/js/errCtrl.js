@@ -3,7 +3,7 @@ var app = angular.module('err1', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1_tyaga_naveski_mtz";
     $scope.productimg = "assets/img/777969028_tyaga-naveski-mtz.jpg";
     $scope.productname = "Тяга навески МТЗ 80/82 короткая правая";
@@ -22,7 +22,7 @@ var app = angular.module('err2', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p2_shesternya_vedomaya_peredachi";
     $scope.productimg = "assets/img/1107207408_shesternya-vedomaya-2.jpg";
     $scope.productname = "Шестерня ведомая 2 и 4 передачи Т-25 z=42";
@@ -41,7 +41,7 @@ var app = angular.module('err3', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p3_sektor_gur_yumz";
     $scope.productimg = "assets/img/1098345697_sektor-gur-yumz.jpg";
     $scope.productname = "Сектор ГУР ЮМЗ";
@@ -60,7 +60,7 @@ var app = angular.module('err4', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p4_vkladysh_uplotneniya_kolenchatogo";
     $scope.productimg = "assets/img/1098345698_vkladysh-uplotneniya-kolenchatogo.jpg";
     $scope.productname = "Вкладыш уплотнения коленчатого вала ЮМЗ";
@@ -79,7 +79,7 @@ var app = angular.module('err5', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p5_val_glavnoj_peredachi";
     $scope.productimg = "assets/img/467693948_val-glavnoj-peredachi.jpg";
     $scope.productimg = "assets/img/489436358_val-glavnoj-peredachi.jpg";
@@ -99,7 +99,7 @@ var app = angular.module('err6', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p6_shesternya_promezhutochnaya";
     $scope.productimg = "assets/img/1107207405_shesternya-promezhutochnaya-t-25.jpg";
     $scope.productname = "Шестерня промежуточная Т-25";
@@ -118,7 +118,7 @@ var app = angular.module('err7', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p7_nozh_otvala_tselnyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Нож отвала цельный 14мм 2м Борекс";
@@ -137,7 +137,7 @@ var app = angular.module('err8', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p8_shesternya_glavnogo_vala";
     $scope.productimg = "assets/img/603893315_shesternya-glavnogo-vala.jpg";
     $scope.productname = "Шестерня главного вала КПП Т-25Ф";
@@ -156,7 +156,7 @@ var app = angular.module('err9', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p9_stakan_podshipnikov_vala";
     $scope.productimg = "assets/img/351723428_stakan-podshipnikov-vala.jpg";
     $scope.productname = "Стакан подшипников вала ВОМ ЮМЗ";
@@ -175,7 +175,7 @@ var app = angular.module('err10', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p10_shesternya_reversa_25f";
     $scope.productimg = "assets/img/603893314_shesternya-reversa-t-25f.jpg";
     $scope.productname = "Шестерня реверса Т-25Ф";
@@ -194,7 +194,7 @@ var app = angular.module('err11', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p11_val_rulevogo_upravleniya";
     $scope.productimg = "assets/img/351723480_val-rulevogo-upravleniya.jpg";
     $scope.productname = "Вал рулевого управления короткий ЮМЗ";
@@ -213,7 +213,7 @@ var app = angular.module('err12', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p12_chehol_zaschitnyj_rychaga";
     $scope.productimg = "assets/img/467779083_chehol-zaschitnyj-rychaga.jpg";
     $scope.productname = "Чехол защитный рычага КПП верхний ЮМЗ";
@@ -232,7 +232,7 @@ var app = angular.module('err13', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p13_val_kolenchatyj_2455";
     $scope.productimg = "assets/img/352799174_val-kolenchatyj-d.jpg";
     $scope.productname = "Вал коленчатый Д 245.5, 12С (МТЗ ЗИЛ) под шлиц";
@@ -251,7 +251,7 @@ var app = angular.module('err14', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p14_dovodok_mufty_stsepleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Доводок муфты сцепления Т-25";
@@ -270,7 +270,7 @@ var app = angular.module('err15', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p15_shesternya_privoda_toplivnogo";
     $scope.productimg = "assets/img/1200528332_shesternya-privoda-toplivnogo.jpg";
     $scope.productname = "Шестерня привода топливного насоса Z=56 ЮМЗ";
@@ -289,7 +289,7 @@ var app = angular.module('err16', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p16_vkladyshi_korennye_yumz";
     $scope.productimg = "assets/img/467779087_vkladyshi-korennye-yumz.jpg";
     $scope.productname = "Вкладыши коренные ЮМЗ Н2 Тамбов";
@@ -308,7 +308,7 @@ var app = angular.module('err17', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p17_koltso_stopornoe_pruzhinnoe";
     $scope.productimg = "assets/img/467779086_koltso-stopornoe-pruzhinnoe.jpg";
     $scope.productname = "Кольцо стопорное пружинное ЮМЗ";
@@ -327,7 +327,7 @@ var app = angular.module('err18', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p18_vkladysh_paltsa_prodolnoj";
     $scope.productimg = "assets/img/467779211_vkladysh-paltsa-prodolnoj.jpg";
     $scope.productname = "Вкладыш пальца продольной тяги ЮМЗ";
@@ -346,7 +346,7 @@ var app = angular.module('err19', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p19_styazhka_mehanizma_zadnej";
     $scope.productimg = "assets/img/489437142_styazhka-mehanizma-zadnej.jpg";
     $scope.productname = "Стяжка механизма задней навески Т-25";
@@ -365,7 +365,7 @@ var app = angular.module('err20', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p20_gruz_perednij_20kg";
     $scope.productimg = "assets/img/467779208_gruz-perednij-20kg.jpg";
     $scope.productimg = "assets/img/489437151_gruz-perednij-20kg.jpg";
@@ -385,7 +385,7 @@ var app = angular.module('err21', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p21_privod_nasosa_dozatora";
     $scope.productimg = "assets/img/351723396_privod-nasosa-dozatora-yumz.jpg";
     $scope.productname = "Привод насоса-дозатора ЮМЗ (стакан рулевого управления)";
@@ -404,7 +404,7 @@ var app = angular.module('err22', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p22_shesternya_vala_kolenchatogo";
     $scope.productimg = "assets/img/351723403_shesternya-vala-kolenchatogo.jpg";
     $scope.productname = "Шестерня вала коленчатого ЮМЗ";
@@ -423,7 +423,7 @@ var app = angular.module('err23', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p23_palets_100mm_d60";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец ЭО 100мм д=60 в=140 поворот.цилиндра средний";
@@ -442,7 +442,7 @@ var app = angular.module('err24', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p24_vilka_vklyucheniya_reversa";
     $scope.productimg = "assets/img/351723407_vilka-vklyucheniya-reversa.jpg";
     $scope.productname = "Вилка включения реверса Т-25 узкий шлиц";
@@ -461,7 +461,7 @@ var app = angular.module('err25', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p25_vint_ustanovochnyj_kpp";
     $scope.productimg = "assets/img/827004187_vint-ustanovochnyj-kpp.jpg";
     $scope.productname = "Винт установочный КПП ЮМЗ";
@@ -480,7 +480,7 @@ var app = angular.module('err26', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p26_shesternya_reversa_kpp";
     $scope.productimg = "assets/img/603893484_shesternya-reversa-kpp.jpg";
     $scope.productname = "Шестерня реверса КПП коническая Z=26 Z=35 Т-25";
@@ -499,7 +499,7 @@ var app = angular.module('err27', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p27_bolt_shatuna_mtz";
     $scope.productimg = "assets/img/816545845_bolt-shatuna-mtz.jpg";
     $scope.productname = "Болт шатуна МТЗ";
@@ -518,7 +518,7 @@ var app = angular.module('err28', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p28_koleso_zubchatoe_privoda";
     $scope.productimg = "assets/img/467779316_koleso-zubchatoe-privoda.jpg";
     $scope.productname = "Колесо зубчатое привода НШ-10 ЮМЗ";
@@ -537,7 +537,7 @@ var app = angular.module('err29', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p29_povodok_valika_promezhutochnogo";
     $scope.productimg = "assets/img/467779312_povodok-valika-promezhutochnogo.jpg";
     $scope.productname = "Поводок валика промежуточного КПП ЮМЗ";
@@ -556,7 +556,7 @@ var app = angular.module('err30', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p30_palets_shesterni_promezhutochnyj";
     $scope.productimg = "assets/img/351723451_palets-shesterni-promezhutochnyj.jpg";
     $scope.productname = "Палец шестерни промежуточный ЮМЗ";
@@ -575,7 +575,7 @@ var app = angular.module('err31', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p31_disk_stsepleniya";
     $scope.productimg = "assets/img/351723444_disk-stsepleniya-t-25.jpg";
     $scope.productname = "Диск сцепления Т-25";
@@ -594,7 +594,7 @@ var app = angular.module('err32', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p32_kronshtejn_gur_yumz";
     $scope.productimg = "assets/img/351723455_kronshtejn-gur-yumz.jpg";
     $scope.productname = "Кронштейн ГУР ЮМЗ";
@@ -613,7 +613,7 @@ var app = angular.module('err33', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p33_karter_mahovika_yumz";
     $scope.productimg = "assets/img/467779313_karter-mahovika-yumz.jpg";
     $scope.productimg = "assets/img/489437400_karter-mahovika-yumz.jpg";
@@ -633,7 +633,7 @@ var app = angular.module('err34', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p34_mufta_soedenitelnaya_mehanizma";
     $scope.productimg = "assets/img/1200255017_mufta-soedenitelnaya-mehanizma.jpg";
     $scope.productname = "Муфта соеденительная механизма блокировки ЮМЗ";
@@ -652,7 +652,7 @@ var app = angular.module('err35', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p35_valik_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/467779315_valik-pereklyucheniya-2-j.jpg";
     $scope.productname = "Валик переключения 2-й и 4-й передачи ЮМЗ";
@@ -671,7 +671,7 @@ var app = angular.module('err36', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p36_kolonka_upravleniya_dzhojstik";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Колонка управления ЭО джойстик ал";
@@ -690,7 +690,7 @@ var app = angular.module('err37', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p37_bolt_pervichnogo_vala";
     $scope.productimg = "assets/img/1134106744_bolt-pervichnogo-vala.jpg";
     $scope.productname = "Болт первичного вала стяжной ЮМЗ";
@@ -709,7 +709,7 @@ var app = angular.module('err38', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p38_korzina_stsepleniya";
     $scope.productimg = "assets/img/603893581_korzina-stsepleniya-t-25.jpg";
     $scope.productname = "Корзина сцепления Т-25";
@@ -728,7 +728,7 @@ var app = angular.module('err39', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p39_lonzheron_yumz_pravyj";
     $scope.productimg = "assets/img/467779406_lonzheron-yumz-pravyj.jpg";
     $scope.productimg = "assets/img/489437933_lonzheron-yumz-pravyj.jpg";
@@ -748,7 +748,7 @@ var app = angular.module('err40', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p40_gajka_tsapfy_yumz";
     $scope.productimg = "assets/img/1177265951_gajka-tsapfy-yumz.jpg";
     $scope.productname = "Гайка цапфы ЮМЗ";
@@ -767,7 +767,7 @@ var app = angular.module('err41', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p41_bak_radiatora_yumz";
     $scope.productimg = "assets/img/467779475_bak-radiatora-yumz.jpg";
     $scope.productimg = "assets/img/489437953_bak-radiatora-yumz.jpg";
@@ -787,7 +787,7 @@ var app = angular.module('err42', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p42_val_yumz_kpp";
     $scope.productimg = "assets/img/351728034_val-yumz-kpp.jpg";
     $scope.productname = "Вал ЮМЗ КПП 049 (редуктора ПД)";
@@ -806,7 +806,7 @@ var app = angular.module('err43', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p43_kulak_yumz_levyj";
     $scope.productimg = "assets/img/489438012_kulak-yumz-levyj.jpg";
     $scope.productname = "Кулак ЮМЗ левый";
@@ -825,7 +825,7 @@ var app = angular.module('err44', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p44_krylo_perednee";
     $scope.productimg = "assets/img/603893664_krylo-perednee-t-25.jpg";
     $scope.productname = "Крыло переднее Т-25";
@@ -844,7 +844,7 @@ var app = angular.module('err45', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p45_korzina_stsepleniya_yumz";
     $scope.productimg = "assets/img/467779472_korzina-stsepleniya-yumz.jpg";
     $scope.productimg = "assets/img/489438128_korzina-stsepleniya-yumz.jpg";
@@ -864,7 +864,7 @@ var app = angular.module('err46', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p46_val_raspredelitelnyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Вал распределительный Т-25";
@@ -883,7 +883,7 @@ var app = angular.module('err47', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p47_obojma_vala_kpp";
     $scope.productimg = "assets/img/603893663_obojma-vala-kpp.jpg";
     $scope.productname = "Обойма вала КПП Т-16 Т-25 Т-40";
@@ -902,7 +902,7 @@ var app = angular.module('err48', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p48_otvodka_stsepleniya_yumz";
     $scope.productimg = "assets/img/351728021_otvodka-stsepleniya-yumz.jpg";
     $scope.productname = "Отводка сцепления ЮМЗ";
@@ -921,7 +921,7 @@ var app = angular.module('err49', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p49_rychag_povorotnyj_tsapfy";
     $scope.productimg = "assets/img/351728026_rychag-povorotnyj-tsapfy.jpg";
     $scope.productname = "Рычаг поворотный цапфы левый ЮМЗ";
@@ -940,7 +940,7 @@ var app = angular.module('err50', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p50_shajba_pruzhiny_klapana";
     $scope.productimg = "assets/img/753531182_shajba-pruzhiny-klapana.jpg";
     $scope.productname = "Шайба пружины клапана верхняя МТЗ";
@@ -959,7 +959,7 @@ var app = angular.module('err51', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p51_klapan_ekskavatornyj_boreks";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Клапан 71 экскаваторный Борекс";
@@ -978,7 +978,7 @@ var app = angular.module('err52', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p52_gnezdo_podshipnika_vala";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Гнездо подшипника вала первичного КПП Т-25";
@@ -997,7 +997,7 @@ var app = angular.module('err53', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p53_val_vtorichnyj_kpp";
     $scope.productimg = "assets/img/351728054_val-vtorichnyj-kpp.jpg";
     $scope.productname = "Вал вторичный КПП ЮМЗ";
@@ -1016,7 +1016,7 @@ var app = angular.module('err54', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p54_rychag_blokirovki_differentsiala";
     $scope.productimg = "assets/img/603893737_rychag-blokirovki-differentsiala.jpg";
     $scope.productname = "Рычаг блокировки дифференциала Т-25";
@@ -1035,7 +1035,7 @@ var app = angular.module('err55', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p55_val_glavnoj_mufty";
     $scope.productimg = "assets/img/1200292259_val-glavnoj-mufty.jpg";
     $scope.productname = "Вал главной муфты ЮМЗ";
@@ -1054,7 +1054,7 @@ var app = angular.module('err56', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p56_shtanga_tolkatelya_yumz";
     $scope.productimg = "assets/img/351728072_shtanga-tolkatelya-yumz.jpg";
     $scope.productname = "Штанга толкателя ЮМЗ";
@@ -1073,7 +1073,7 @@ var app = angular.module('err57', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p57_zub_kovsha_ekskavatora";
     $scope.productimg = "assets/img/603893738_zub-kovsha-ekskavatora.jpg";
     $scope.productname = "Зуб ковша экскаватора ЭО-2621 переднего";
@@ -1092,7 +1092,7 @@ var app = angular.module('err58', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p58_korpus_mufty_stsepleniya";
     $scope.productimg = "assets/img/467779534_korpus-mufty-stsepleniya.jpg";
     $scope.productimg = "assets/img/489438714_korpus-mufty-stsepleniya.jpg";
@@ -1112,7 +1112,7 @@ var app = angular.module('err59', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p59_obechajka_kozhuha_stsepleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Обечайка кожуха сцепления ЮМЗ";
@@ -1131,7 +1131,7 @@ var app = angular.module('err60', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p60_tyaga_privoda_blokirovki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга привода блокировки дифференциала Т-25";
@@ -1150,7 +1150,7 @@ var app = angular.module('err61', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p61_shesternya_konicheskaya_zamedlennoj";
     $scope.productimg = "assets/img/603893931_shesternya-konicheskaya-zamedlennoj.jpg";
     $scope.productname = "Шестерня коническая замедленной передачи Т-25";
@@ -1169,7 +1169,7 @@ var app = angular.module('err62', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p62_korpus_gidrobaka";
     $scope.productimg = "assets/img/603893930_korpus-gidrobaka-t-25.jpg";
     $scope.productname = "Корпус гидробака Т-25";
@@ -1188,7 +1188,7 @@ var app = angular.module('err63', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p63_vkladyshi_shatunnye_t16";
     $scope.productimg = "assets/img/603893929_vkladyshi-shatunnye-d-21.jpg";
     $scope.productname = "Вкладыши шатунные Д-21 Т16 Т25 Р1 пр-во ЗПС г.Тамбов";
@@ -1207,7 +1207,7 @@ var app = angular.module('err64', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p64_vkladyshi_korennye_t16";
     $scope.productimg = "assets/img/1668631839_vkladyshi-korennye-d-21.jpg";
     $scope.productname = "Вкладыши коренные Д-21 Т16 Т25 Н1 пр-во ЗПС г.Тамбов";
@@ -1226,7 +1226,7 @@ var app = angular.module('err65', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p65_shesternya_kpp_z15";
     $scope.productimg = "assets/img/603894022_shesternya-kpp-t-25.jpg";
     $scope.productname = "Шестерня КПП Т-25 Z=15";
@@ -1245,7 +1245,7 @@ var app = angular.module('err66', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p66_stupitsa_perednyaya";
     $scope.productimg = "assets/img/603894023_stupitsa-perednyaya-t-25.jpg";
     $scope.productname = "Ступица передняя Т-25";
@@ -1264,7 +1264,7 @@ var app = angular.module('err67', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p67_korpus_kulaka_pravyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Корпус кулака правый передней оси Т-25";
@@ -1283,7 +1283,7 @@ var app = angular.module('err68', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p68_vilka_vklyucheniya_nsh";
     $scope.productimg = "assets/img/351728070_vilka-vklyucheniya-nsh-32.jpg";
     $scope.productname = "Вилка включения НШ-32 ЮМЗ 36-1022050 СБ";
@@ -1302,7 +1302,7 @@ var app = angular.module('err69', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p69_palets_ramy_kolonny";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец ЭО рамы колонны в сборе";
@@ -1321,7 +1321,7 @@ var app = angular.module('err70', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p70_shkiv_vodyanogo_nasosa";
     $scope.productimg = "assets/img/351728011_shkiv-vodyanogo-nasosa.jpg";
     $scope.productname = "Шкив водяного насоса ЮМЗ 1-ручейный";
@@ -1340,7 +1340,7 @@ var app = angular.module('err71', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p71_probka_toplivnogo_baka";
     $scope.productimg = "assets/img/351728017_probka-toplivnogo-baka.jpg";
     $scope.productname = "Пробка топливного бака ЮМЗ Т-150";
@@ -1359,7 +1359,7 @@ var app = angular.module('err72', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p72_vilka_vyklyucheniya_stsepleniya";
     $scope.productimg = "assets/img/467779643_vilka-vyklyucheniya-stsepleniya.jpg";
     $scope.productname = "Вилка выключения сцепления ЮМЗ";
@@ -1378,7 +1378,7 @@ var app = angular.module('err73', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p73_rychag_tsentralnyj_perednej";
     $scope.productimg = "assets/img/351731423_rychag-tsentralnyj-perednej.jpg";
     $scope.productname = "Рычаг центральный передней оси ЮМЗ";
@@ -1397,7 +1397,7 @@ var app = angular.module('err74', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p74_shkiv_kolenvala";
     $scope.productimg = "assets/img/351731505_shkiv-kolenvala-t-25.jpg";
     $scope.productname = "Шкив коленвала Т-25";
@@ -1416,7 +1416,7 @@ var app = angular.module('err75', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p75_koleso_zubchatoe_skolzyaschee";
     $scope.productimg = "assets/img/351731465_koleso-zubchatoe-skolzyaschee.jpg";
     $scope.productname = "Колесо зубчатое скользящее 2 и 4 передачи ЮМЗ Z=32/21";
@@ -1435,7 +1435,7 @@ var app = angular.module('err76', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p76_gajka_kolpaka_klapannoj";
     $scope.productimg = "assets/img/822246100_gajka-kolpaka-klapannoj.jpg";
     $scope.productname = "Гайка колпака клапанной крышки МТЗ";
@@ -1454,7 +1454,7 @@ var app = angular.module('err77', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p77_shesternya_z21_kpp";
     $scope.productimg = "assets/img/489440057_shesternya-z21-kpp.jpg";
     $scope.productname = "Шестерня z=21 КПП 3 и 4 передачи Т 25";
@@ -1473,7 +1473,7 @@ var app = angular.module('err78', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p78_kollektor_vypusknoj_yumz";
     $scope.productimg = "assets/img/467779688_kollektor-vypusknoj-yumz.jpg";
     $scope.productname = "Коллектор выпускной ЮМЗ";
@@ -1492,7 +1492,7 @@ var app = angular.module('err79', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p79_prokladki_kpp_yumz";
     $scope.productimg = "assets/img/1133747890_prokladki-kpp-yumz.jpg";
     $scope.productname = "Прокладки КПП ЮМЗ";
@@ -1511,7 +1511,7 @@ var app = angular.module('err80', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p80_tyaga_poperechnaya";
     $scope.productimg = "assets/img/489440310_tyaga-poperechnaya-t-25.jpg";
     $scope.productimg = "assets/img/489440311_tyaga-poperechnaya-t-25.jpg";
@@ -1531,7 +1531,7 @@ var app = angular.module('err81', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p81_tyaga_rulevaya_poperechnaya";
     $scope.productimg = "assets/img/467779689_tyaga-rulevaya-poperechnaya.jpg";
     $scope.productname = "Тяга рулевая поперечная длинная передней оси ЮМЗ";
@@ -1550,7 +1550,7 @@ var app = angular.module('err82', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p82_shajba_opornaya_perednego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба опорная переднего моста Т-25";
@@ -1569,7 +1569,7 @@ var app = angular.module('err83', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p83_tsapfy_perednego_mosta";
     $scope.productimg = "assets/img/489440456_os-tsapfy-perednego.jpg";
     $scope.productname = "Ось цапфы переднего моста левая Т-25 Харьков";
@@ -1588,7 +1588,7 @@ var app = angular.module('err84', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p84_korpus_termostata_yumz";
     $scope.productimg = "assets/img/351731396_korpus-termostata-yumz.jpg";
     $scope.productname = "Корпус термостата ЮМЗ";
@@ -1607,7 +1607,7 @@ var app = angular.module('err85', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p85_schit_raspredeleniya_240";
     $scope.productimg = "assets/img/751433717_schit-raspredeleniya-d.jpg";
     $scope.productname = "Щит распределения Д 240 Д 245 МТЗ";
@@ -1626,7 +1626,7 @@ var app = angular.module('err86', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p86_revers_sbore_komplekt";
     $scope.productimg = "assets/img/351731419_revers-v-sbore.jpg";
     $scope.productname = "Реверс в сборе Т-25 (комплект шестерен)";
@@ -1645,7 +1645,7 @@ var app = angular.module('err87', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p87_vilka_kpp_reversa";
     $scope.productimg = "assets/img/351731425_vilka-kpp-reversa.jpg";
     $scope.productname = "Вилка КПП реверса широкий шлиц Т-25";
@@ -1664,7 +1664,7 @@ var app = angular.module('err88', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p88_pruzhina_rychaga_otzhimnogo";
     $scope.productimg = "assets/img/351731493_pruzhina-rychaga-otzhimnogo.jpg";
     $scope.productname = "Пружина рычага отжимного ЮМЗ";
@@ -1683,7 +1683,7 @@ var app = angular.module('err89', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p89_vtulka_osi_shesterni";
     $scope.productimg = "assets/img/1200412491_vtulka-osi-shesterni.jpg";
     $scope.productname = "Втулка оси шестерни заднего хода ЮМЗ";
@@ -1702,7 +1702,7 @@ var app = angular.module('err90', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p90_valik_vodyanogo_nasosa";
     $scope.productimg = "assets/img/351731411_valik-vodyanogo-nasosa.jpg";
     $scope.productname = "Валик водяного насоса ЮМЗ";
@@ -1721,7 +1721,7 @@ var app = angular.module('err91', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p91_soshka_vala_rulevogo";
     $scope.productimg = "assets/img/351731415_soshka-vala-rulevogo.jpg";
     $scope.productname = "Сошка вала рулевого управления ЮМЗ";
@@ -1740,7 +1740,7 @@ var app = angular.module('err92', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p92_val_vilki_vyklyucheniya";
     $scope.productimg = "assets/img/351731438_val-vilki-vyklyucheniya.jpg";
     $scope.productname = "Вал вилки выключения сцепления ЮМЗ";
@@ -1759,7 +1759,7 @@ var app = angular.module('err93', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p93_rychag_otzhimnoj_korziny";
     $scope.productimg = "assets/img/351731439_rychag-otzhimnoj-korziny.jpg";
     $scope.productname = "Рычаг отжимной корзины сцепления ЮМЗ";
@@ -1778,7 +1778,7 @@ var app = angular.module('err94', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p94_vilka_pereklyucheniya_reduktora";
     $scope.productimg = "assets/img/351731446_vilka-pereklyucheniya-reduktora.jpg";
     $scope.productname = "Вилка переключения редуктора ЮМЗ";
@@ -1797,7 +1797,7 @@ var app = angular.module('err95', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p95_koltso_upornoe_shesterni";
     $scope.productimg = "assets/img/351731473_koltso-upornoe-shesterni.jpg";
     $scope.productname = "Кольцо упорное шестерни двигателя ЮМЗ";
@@ -1816,7 +1816,7 @@ var app = angular.module('err96', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p96_nakladka_diska_stsepleniya";
     $scope.productimg = "assets/img/603894338_nakladka-diska-stsepleniya.jpg";
     $scope.productname = "Накладка диска сцепления Т-25 Т-16";
@@ -1835,7 +1835,7 @@ var app = angular.module('err97', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p97_prokladka_golovki_bloka";
     $scope.productimg = "assets/img/753597363_prokladka-golovki-bloka.jpg";
     $scope.productname = "Прокладка головки блока с герметиком Д 240 МТЗ";
@@ -1854,7 +1854,7 @@ var app = angular.module('err98', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p98_patrubok_vypusknoj_yumz";
     $scope.productimg = "assets/img/467779761_patrubok-vypusknoj-yumz.jpg";
     $scope.productname = "Патрубок выпускной ЮМЗ";
@@ -1873,7 +1873,7 @@ var app = angular.module('err99', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p99_plastina_zamkovaya_yumz";
     $scope.productimg = "assets/img/467779763_plastina-zamkovaya-yumz.jpg";
     $scope.productname = "Пластина замковая ЮМЗ";
@@ -1892,7 +1892,7 @@ var app = angular.module('err100', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p100_blok_shesteren_z1529";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Блок шестерен Т-25 Z=15/29";
@@ -1911,7 +1911,7 @@ var app = angular.module('err101', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p101_palets_360mm_d50";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец ЭО 360мм. д.50";
@@ -1930,7 +1930,7 @@ var app = angular.module('err102', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p102_shajba_regulirovochnaya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба регулировочная Т-25";
@@ -1949,7 +1949,7 @@ var app = angular.module('err103', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p103_mahovik_ventsom_yumz";
     $scope.productimg = "assets/img/467779764_mahovik-s-ventsom.jpg";
     $scope.productimg = "assets/img/489441463_mahovik-s-ventsom.jpg";
@@ -1969,7 +1969,7 @@ var app = angular.module('err104', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p104_palets_shesterni_parazitnoj";
     $scope.productimg = "assets/img/351735183_palets-shesterni-parazitnoj.jpg";
     $scope.productname = "Палец шестерни паразитной Т-25";
@@ -1988,7 +1988,7 @@ var app = angular.module('err105', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p105_zub_kovsha_ekskavatora";
     $scope.productimg = "assets/img/603894339_zub-kovsha-ekskavatora.jpg";
     $scope.productname = "Зуб ковша экскаватора ЭО-2621";
@@ -2007,7 +2007,7 @@ var app = angular.module('err106', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p106_tsapfy_pravaya_perednego";
     $scope.productimg = "assets/img/489441826_os-tsapfy-pravaya.jpg";
     $scope.productname = "Ось цапфы правая переднего моста Т-25 Харьков (шпонка справа)";
@@ -2026,7 +2026,7 @@ var app = angular.module('err107', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p107_nasos_maslyanyj_yumz";
     $scope.productimg = "assets/img/467779848_nasos-maslyanyj-yumz.jpg";
     $scope.productimg = "assets/img/489441827_nasos-maslyanyj-yumz.jpg";
@@ -2046,7 +2046,7 @@ var app = angular.module('err108', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p108_gajka_bolta_shatunnogo";
     $scope.productimg = "assets/img/816484730_gajka-bolta-shatunnogo.jpg";
     $scope.productname = "Гайка болта шатунного МТЗ";
@@ -2065,7 +2065,7 @@ var app = angular.module('err109', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p109_pedal_vklyucheniya_blokirovki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Педаль включения блокировки дифференциала Т-25";
@@ -2084,7 +2084,7 @@ var app = angular.module('err110', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p110_poluos_perednego_mosta";
     $scope.productimg = "assets/img/351735179_poluos-perednego-mosta.jpg";
     $scope.productname = "Полуось переднего моста Т-25";
@@ -2103,7 +2103,7 @@ var app = angular.module('err111', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p111_trubka_smazki_klapannogo";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Трубка смазки клапанного механизма в сборе Т-25";
@@ -2122,7 +2122,7 @@ var app = angular.module('err112', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p112_stojka_osi_koromysel";
     $scope.productimg = "assets/img/753617270_stojka-osi-koromysel.jpg";
     $scope.productname = "Стойка оси коромысел Д 240 243 245 крайняя (2 отверстия) МТЗ";
@@ -2141,7 +2141,7 @@ var app = angular.module('err113', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p113_gajka_shpilki_golovki";
     $scope.productimg = "assets/img/1134135050_gajka-shpilki-golovki.jpg";
     $scope.productname = "Гайка шпильки головки цилиндров ЮМЗ";
@@ -2160,7 +2160,7 @@ var app = angular.module('err114', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p114_prokladka_kryshki_raspredelitelnyh";
     $scope.productimg = "assets/img/751452579_prokladka-kryshki-raspredelitelnyh.jpg";
     $scope.productname = "Прокладка крышки распределительных шестерен Д 240 243 245";
@@ -2179,7 +2179,7 @@ var app = angular.module('err115', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p115_vtulka_rychaga_vala";
     $scope.productimg = "assets/img/351735201_vtulka-rychaga-vala.jpg";
     $scope.productname = "Втулка рычага вала рулевого ЮМЗ";
@@ -2198,7 +2198,7 @@ var app = angular.module('err116', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p116_val_pervichnyj_z18";
     $scope.productimg = "assets/img/351735203_val-pervichnyj-t-25.jpg";
     $scope.productname = "Вал первичный Т-25 Z=18";
@@ -2217,7 +2217,7 @@ var app = angular.module('err117', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p117_val_kolenchatyj";
     $scope.productimg = "assets/img/603894425_val-kolenchatyj-t-25.jpg";
     $scope.productname = "Вал коленчатый Т-25";
@@ -2236,7 +2236,7 @@ var app = angular.module('err118', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p118_satellit_zadnego_mosta";
     $scope.productimg = "assets/img/351735233_satellit-zadnego-mosta.jpg";
     $scope.productname = "Сателлит заднего моста ЮМЗ без втулки";
@@ -2255,7 +2255,7 @@ var app = angular.module('err119', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p119_koltso_stopornoe_kpp";
     $scope.productimg = "assets/img/351735234_koltso-stopornoe-kpp.jpg";
     $scope.productname = "Кольцо стопорное КПП ЮМЗ";
@@ -2274,7 +2274,7 @@ var app = angular.module('err120', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p120_plastina_stopornaya_shatuna";
     $scope.productimg = "assets/img/467779996_plastina-stopornaya-shatuna.jpg";
     $scope.productname = "Пластина стопорная шатуна ЮМЗ";
@@ -2293,7 +2293,7 @@ var app = angular.module('err121', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p121_valik_yumz_privoda";
     $scope.productimg = "assets/img/1200464907_valik-yumz-privoda.jpg";
     $scope.productname = "Валик ЮМЗ привода НШ-100";
@@ -2312,7 +2312,7 @@ var app = angular.module('err122', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p122_mahovik_";
     $scope.productimg = "assets/img/489443444_mahovik-t-25.jpg";
     $scope.productimg = "assets/img/489443445_mahovik-t-25.jpg";
@@ -2332,7 +2332,7 @@ var app = angular.module('err123', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p123_koleso_zubchatoe_veduschee";
     $scope.productimg = "assets/img/351735149_koleso-zubchatoe-veduschee.jpg";
     $scope.productname = "Колесо зубчатое ведущее 4 и 5 передачи ЮМЗ Z=41/37";
@@ -2351,7 +2351,7 @@ var app = angular.module('err124', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p124_klin_osi_kachaniya";
     $scope.productimg = "assets/img/351735151_klin-osi-kachaniya.jpg";
     $scope.productname = "Клин оси качания ЮМЗ";
@@ -2370,7 +2370,7 @@ var app = angular.module('err125', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p125_shesternya_promezhutochnaya_privoda";
     $scope.productimg = "assets/img/467779995_shesternya-promezhutochnaya-privoda.jpg";
     $scope.productname = "Шестерня промежуточная привода НШ-100 ЮМЗ Z=31";
@@ -2389,7 +2389,7 @@ var app = angular.module('err126', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p126_val_povorotnyj_mehanizma";
     $scope.productimg = "assets/img/467780115_val-povorotnyj-mehanizma.jpg";
     $scope.productimg = "assets/img/489443775_val-povorotnyj-mehanizma.jpg";
@@ -2409,7 +2409,7 @@ var app = angular.module('err127', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p127_polumufta_privoda_nsh";
     $scope.productimg = "assets/img/1200466795_polumufta-privoda-nsh-100.jpg";
     $scope.productname = "Полумуфта привода НШ-100 ЮМЗ ЭО-2621";
@@ -2428,7 +2428,7 @@ var app = angular.module('err128', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p128_perednyaya_balka_yumz";
     $scope.productimg = "assets/img/1200469076_os-perednyaya-balka.jpg";
     $scope.productname = "Ось передняя (балка ) ЮМЗ";
@@ -2447,7 +2447,7 @@ var app = angular.module('err129', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p129_naveski_prodolnyh_tyag";
     $scope.productimg = "assets/img/555883868_os-naveski-prodolnyh.jpg";
     $scope.productname = "Ось навески продольных тяг ЮМЗ";
@@ -2466,7 +2466,7 @@ var app = angular.module('err130', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p130_val_glavnoj_mufty";
     $scope.productimg = "assets/img/467780182_val-glavnoj-mufty.jpg";
     $scope.productimg = "assets/img/489444600_val-glavnoj-mufty.jpg";
@@ -2486,7 +2486,7 @@ var app = angular.module('err131', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p131_kardannyj_sharnir_verhnij";
     $scope.productimg = "assets/img/351739856_kardannyj-sharnir-verhnij.jpg";
     $scope.productname = "Карданный шарнир верхний ЮМЗ";
@@ -2505,7 +2505,7 @@ var app = angular.module('err132', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p132_vtulka_korpusa_mufty";
     $scope.productimg = "assets/img/467780181_vtulka-korpusa-mufty.jpg";
     $scope.productname = "Втулка корпуса муфты сцепления ЮМЗ";
@@ -2524,7 +2524,7 @@ var app = angular.module('err133', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p133_shesternya_vedomaya_yumz";
     $scope.productimg = "assets/img/467780185_shesternya-vedomaya-yumz.jpg";
     $scope.productname = "Шестерня ведомая ЮМЗ";
@@ -2543,7 +2543,7 @@ var app = angular.module('err134', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p134_kryshka_raspredeleniya_yumz";
     $scope.productimg = "assets/img/603894599_kryshka-raspredeleniya-d-65.jpg";
     $scope.productname = "Крышка распределения Д-65 ЮМЗ";
@@ -2562,7 +2562,7 @@ var app = angular.module('err135', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p135_baraban_tormoznoj_yumz";
     $scope.productimg = "assets/img/467780183_baraban-tormoznoj-yumz.jpg";
     $scope.productname = "Барабан тормозной ЮМЗ";
@@ -2581,7 +2581,7 @@ var app = angular.module('err136', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p136_stakan_podshipnika_vala";
     $scope.productimg = "assets/img/351739869_stakan-podshipnika-vala.jpg";
     $scope.productname = "Стакан подшипника вала внутреннего ЮМЗ";
@@ -2600,7 +2600,7 @@ var app = angular.module('err137', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p137_differentsial_";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Дифференциал Т-25";
@@ -2619,7 +2619,7 @@ var app = angular.module('err138', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p138_val_privoda_vom";
     $scope.productimg = "assets/img/1202674968_val-privoda-vom.jpg";
     $scope.productname = "Вал привода ВОМ ЮМЗ";
@@ -2638,7 +2638,7 @@ var app = angular.module('err139', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p139_koromysel_yumz";
     $scope.productimg = "assets/img/351739765_os-koromysel-d-65.jpg";
     $scope.productname = "Ось коромысел Д-65 ЮМЗ";
@@ -2657,7 +2657,7 @@ var app = angular.module('err140', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p140_shesternya_privoda_raspredelitelnogo";
     $scope.productimg = "assets/img/467780315_shesternya-privoda-raspredelitelnogo.jpg";
     $scope.productimg = "assets/img/489445341_shesternya-privoda-raspredelitelnogo.jpg";
@@ -2677,7 +2677,7 @@ var app = angular.module('err141', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p141_prokladka_kryshki_gnezda";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Прокладка крышки гнезда подшипников Т-25";
@@ -2696,7 +2696,7 @@ var app = angular.module('err142', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p142_koltso_upornoe_otvodki";
     $scope.productimg = "assets/img/467780316_koltso-upornoe-otvodki.jpg";
     $scope.productname = "Кольцо упорное отводки ЮМЗ";
@@ -2715,7 +2715,7 @@ var app = angular.module('err143', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p143_patrubok_nasosa_vodyanogo";
     $scope.productimg = "assets/img/351739833_patrubok-nasosa-vodyanogo.jpg";
     $scope.productname = "Патрубок насоса водяного ЮМЗ";
@@ -2734,7 +2734,7 @@ var app = angular.module('err144', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p144_povodok_kpp";
     $scope.productimg = "assets/img/351739803_povodok-kpp-t-16.jpg";
     $scope.productname = "Поводок КПП Т-16 Т-25";
@@ -2753,7 +2753,7 @@ var app = angular.module('err145', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p145_bolt_kryshki_shatuna";
     $scope.productimg = "assets/img/1200340638_bolt-kryshki-shatuna.jpg";
     $scope.productname = "Болт крышки шатуна Д-65 ЮМЗ";
@@ -2772,7 +2772,7 @@ var app = angular.module('err146', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p146_vtulka_shesterni_reduktora";
     $scope.productimg = "assets/img/351739812_vtulka-shesterni-reduktora.jpg";
     $scope.productname = "Втулка шестерни редуктора ЮМЗ";
@@ -2791,7 +2791,7 @@ var app = angular.module('err147', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p147_vtulka_shesterni_privoda";
     $scope.productimg = "assets/img/351739843_vtulka-shesterni-privoda.jpg";
     $scope.productname = "Втулка шестерни привода топливного насоса Д-65 ЮМЗ";
@@ -2810,7 +2810,7 @@ var app = angular.module('err148', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p148_kollektor_vpusknoj_yumz";
     $scope.productimg = "assets/img/467780317_kollektor-vpusknoj-yumz.jpg";
     $scope.productname = "Коллектор впускной ЮМЗ";
@@ -2829,7 +2829,7 @@ var app = angular.module('err149', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p149_bolt_kryshki_korennogo";
     $scope.productimg = "assets/img/783945626_bolt-kryshki-korennogo.jpg";
     $scope.productname = "Болт крышки коренного подшипника МТЗ 80/82 М16х110";
@@ -2848,7 +2848,7 @@ var app = angular.module('err150', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p150_valik_blokirovki_peredach";
     $scope.productimg = "assets/img/603894750_valik-blokirovki-peredach.jpg";
     $scope.productname = "Валик блокировки передач Т-25";
@@ -2867,7 +2867,7 @@ var app = angular.module('err151', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p151_shesternya_privodnogo_valika";
     $scope.productimg = "assets/img/489446129_shesternya-privodnogo-valika.jpg";
     $scope.productname = "Шестерня приводного валика дополнительной передачи ведущая Т-25 Z=13";
@@ -2886,7 +2886,7 @@ var app = angular.module('err152', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p152_palets_shesterni_parazitnoj";
     $scope.productimg = "assets/img/351744747_palets-shesterni-parazitnoj.jpg";
     $scope.productname = "Палец шестерни паразитной Т-25";
@@ -2905,7 +2905,7 @@ var app = angular.module('err153', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p153_klapan_razgruzochnyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Клапан разгрузочный ЭО";
@@ -2924,7 +2924,7 @@ var app = angular.module('err154', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p154_kolonka_kpp_blokirovkoj";
     $scope.productimg = "assets/img/603894819_kolonka-kpp-s.jpg";
     $scope.productname = "Колонка КПП с блокировкой Т-25";
@@ -2943,7 +2943,7 @@ var app = angular.module('err155', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p155_disk_vedomyj_mufty";
     $scope.productimg = "assets/img/467780423_disk-vedomyj-mufty.jpg";
     $scope.productimg = "assets/img/489446563_disk-vedomyj-mufty.jpg";
@@ -2963,7 +2963,7 @@ var app = angular.module('err156', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p156_bolt_mahovika_t25";
     $scope.productimg = "assets/img/351744724_bolt-mahovika-t25.jpg";
     $scope.productname = "Болт маховика Т25 М14";
@@ -2982,7 +2982,7 @@ var app = angular.module('err157', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p157_prokladka_kollektora_yumz";
     $scope.productimg = "assets/img/351744727_prokladka-kollektora-yumz.jpg";
     $scope.productname = "Прокладка коллектора ЮМЗ впускного и выпускного";
@@ -3001,7 +3001,7 @@ var app = angular.module('err158', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p158_koromyslo_klapana_yumz";
     $scope.productimg = "assets/img/467780419_koromyslo-klapana-yumz.jpg";
     $scope.productname = "Коромысло клапана ЮМЗ";
@@ -3020,7 +3020,7 @@ var app = angular.module('err159', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p159_zub_kovsha_atek";
     $scope.productimg = "assets/img/860457817_zub-kovsha-atek.jpg";
     $scope.productname = "Зуб ковша АТЭК 881/761/012 ЭО-4321 4421 5015";
@@ -3039,7 +3039,7 @@ var app = angular.module('err160', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p160_mufta_soedinitelnaya_pervichnogo";
     $scope.productimg = "assets/img/1596664199_mufta-soedinitelnaya-pervichnogo.jpg";
     $scope.productname = "Муфта соединительная первичного вала Т-25";
@@ -3058,7 +3058,7 @@ var app = angular.module('err161', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p161_klapan_predohranitelnyj_atek";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Клапан предохранительный АТЕК";
@@ -3077,7 +3077,7 @@ var app = angular.module('err162', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p162_shajby_regulirovochnye_komplekt";
     $scope.productimg = "assets/img/469860690_shajby-regulirovochnye-t-25.jpg";
     $scope.productname = "Шайбы регулировочные Т-25 комплект реверса 8 шлиц";
@@ -3096,7 +3096,7 @@ var app = angular.module('err163', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p163_vtulka_shlitsevaya_htz";
     $scope.productimg = "assets/img/469860735_vtulka-shlitsevaya-t-25.jpg";
     $scope.productname = "Втулка шлицевая Т-25 ХТЗ-3511 муфты главного сцепления";
@@ -3115,7 +3115,7 @@ var app = angular.module('err164', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p164_val_promezhutochnyj_kpp";
     $scope.productimg = "assets/img/467780610_val-promezhutochnyj-kpp.jpg";
     $scope.productimg = "assets/img/489447306_val-promezhutochnyj-kpp.jpg";
@@ -3135,7 +3135,7 @@ var app = angular.module('err165', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p165_gajka_val_vom";
     $scope.productimg = "assets/img/788613548_gajka-na-val.jpg";
     $scope.productname = "Гайка на вал ВОМ МТЗ 80/82";
@@ -3154,7 +3154,7 @@ var app = angular.module('err166', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p166_valik_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/467780609_valik-pereklyucheniya-3.jpg";
     $scope.productname = "Валик переключения 3 и 5 передачи ЮМЗ";
@@ -3173,7 +3173,7 @@ var app = angular.module('err167', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p167_palets_150mm_d60";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец ЭО 150мм д=60 в=170 поворотных цилиндров";
@@ -3192,7 +3192,7 @@ var app = angular.module('err168', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p168_bolt_forsunki_240";
     $scope.productimg = "assets/img/754965034_bolt-forsunki-d.jpg";
     $scope.productname = "Болт форсунки Д 240 243 245 МТЗ";
@@ -3211,7 +3211,7 @@ var app = angular.module('err169', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p169_vtulka_osi_kulaka";
     $scope.productimg = "assets/img/351744749_vtulka-osi-kulaka.jpg";
     $scope.productname = "Втулка оси кулака цапфы Т-25";
@@ -3230,7 +3230,7 @@ var app = angular.module('err170', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p170_perehodnik_kollektora_vypusknogo";
     $scope.productimg = "assets/img/768237993_perehodnik-kollektora-vypusknogo.jpg";
     $scope.productname = "Переходник коллектора выпускного Д 245.12С, 7, 9";
@@ -3249,7 +3249,7 @@ var app = angular.module('err171', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p171_dver_levaya_kabiny";
     $scope.productimg = "assets/img/467780612_dver-levaya-kabiny.jpg";
     $scope.productimg = "assets/img/489447957_dver-levaya-kabiny.jpg";
@@ -3269,7 +3269,7 @@ var app = angular.module('err172', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p172_lenta_tormoznaya";
     $scope.productimg = "assets/img/469860819_lenta-tormoznaya-t-25.jpg";
     $scope.productimg = "assets/img/489448049_lenta-tormoznaya-t-25.jpg";
@@ -3289,7 +3289,7 @@ var app = angular.module('err173', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p173_vkladyshi_korennye_yumz";
     $scope.productimg = "assets/img/539789638_vkladyshi-korennye-yumz.jpg";
     $scope.productname = "Вкладыши коренные ЮМЗ Н2 Д 65";
@@ -3308,7 +3308,7 @@ var app = angular.module('err174', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p174_val_privoda_vom";
     $scope.productimg = "assets/img/351748316_val-privoda-vom.jpg";
     $scope.productname = "Вал привода ВОМ ЮМЗ";
@@ -3327,7 +3327,7 @@ var app = angular.module('err175', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p175_nasos_ruchnoj_podkachki";
     $scope.productimg = "assets/img/1060970776_nasos-ruchnoj-podkachki.jpg";
     $scope.productname = "Насос ручной подкачки МТЗ";
@@ -3346,7 +3346,7 @@ var app = angular.module('err176', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p176_kulak_kulaka_povorotnyj";
     $scope.productimg = "assets/img/467780680_kulak-kulaka-povorotnyj.jpg";
     $scope.productname = "Кулак кулака поворотный ЮМЗ правый";
@@ -3365,7 +3365,7 @@ var app = angular.module('err177', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p177_venets_konicheskoj_shesterni";
     $scope.productimg = "assets/img/351748336_venets-konicheskoj-shesterni.jpg";
     $scope.productname = "Венец конической шестерни заднего моста ЮМЗ";
@@ -3384,7 +3384,7 @@ var app = angular.module('err178', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p178_tyaga_rulevaya_prodolnaya";
     $scope.productimg = "assets/img/1706152924_tyaga-rulevaya-prodolnaya.jpg";
     $scope.productname = "Тяга рулевая продольная Т-25 с наконечниками в сборе";
@@ -3403,7 +3403,7 @@ var app = angular.module('err179', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p179_valik_veduschij_diskovogo";
     $scope.productimg = "assets/img/351748312_valik-veduschij-diskovogo.jpg";
     $scope.productname = "Валик ведущий дискового тормоза ЮМЗ";
@@ -3422,7 +3422,7 @@ var app = angular.module('err180', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p180_rychag_valika_vilki";
     $scope.productimg = "assets/img/351748327_rychag-valika-vilki.jpg";
     $scope.productname = "Рычаг валика вилки ЮМЗ";
@@ -3441,7 +3441,7 @@ var app = angular.module('err181', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p181_val_balansira";
     $scope.productimg = "assets/img/469860877_val-balansira-t-25.jpg";
     $scope.productname = "Вал балансира Т-25 Т-16";
@@ -3460,7 +3460,7 @@ var app = angular.module('err182', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p182_raskos_naveski";
     $scope.productimg = "assets/img/469860900_raskos-naveski-t-25.jpg";
     $scope.productname = "Раскос навески Т-25";
@@ -3479,7 +3479,7 @@ var app = angular.module('err183', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p183_disk_stsepleniya_vedomyj";
     $scope.productimg = "assets/img/467780836_disk-stsepleniya-vedomyj.jpg";
     $scope.productname = "Диск сцепления ведомый ЮМЗ";
@@ -3498,7 +3498,7 @@ var app = angular.module('err184', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p184_mufta_smazki_mehanizma";
     $scope.productimg = "assets/img/351748257_mufta-smazki-mehanizma.jpg";
     $scope.productname = "Муфта смазки механизма коромысел ЮМЗ";
@@ -3517,7 +3517,7 @@ var app = angular.module('err185', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p185_korpus_otvodki_yumz";
     $scope.productimg = "assets/img/351748334_korpus-otvodki-yumz.jpg";
     $scope.productname = "Корпус отводки ЮМЗ";
@@ -3536,7 +3536,7 @@ var app = angular.module('err186', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p186_shesternya_z1529_kpp";
     $scope.productimg = "assets/img/351748270_shesternya-t-25-z1529.jpg";
     $scope.productname = "Шестерня Т-25 z=15/29 КПП";
@@ -3555,7 +3555,7 @@ var app = angular.module('err187', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p187_tsapfa_osevaya_perednyaya";
     $scope.productimg = "assets/img/1079615269_tsapfa-osevaya-perednyaya.jpg";
     $scope.productname = "Цапфа осевая передняя Т-25";
@@ -3574,7 +3574,7 @@ var app = angular.module('err188', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p188_palets_krepleniya_kovsha";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец крепления ковша с рукоятью 280х50";
@@ -3593,7 +3593,7 @@ var app = angular.module('err189', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p189_rukav_poluosi_zadnego";
     $scope.productimg = "assets/img/467781020_rukav-poluosi-zadnego.jpg";
     $scope.productname = "Рукав полуоси заднего моста ЮМЗ";
@@ -3612,7 +3612,7 @@ var app = angular.module('err190', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p190_vtulka_vala_vom";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Втулка вала ВОМ промежуточной и паразитной шестерни балансира Т-25";
@@ -3631,7 +3631,7 @@ var app = angular.module('err191', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p191_bolt_vtorichnogo_vala";
     $scope.productimg = "assets/img/351748290_bolt-vtorichnogo-vala.jpg";
     $scope.productname = "Болт вторичного вала ЮМЗ";
@@ -3650,7 +3650,7 @@ var app = angular.module('err192', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p192_chehol_rychaga_kpp";
     $scope.productimg = "assets/img/351748321_chehol-rychaga-kpp.jpg";
     $scope.productname = "Чехол рычага КПП ЮМЗ";
@@ -3669,7 +3669,7 @@ var app = angular.module('err193', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p193_prokladka_kartera_maslyanogo";
     $scope.productimg = "assets/img/561239174_prokladka-kartera-maslyanogo.jpg";
     $scope.productname = "Прокладка картера масляного Д-65 ЮМЗ";
@@ -3688,7 +3688,7 @@ var app = angular.module('err194', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p194_tyaga_rulevaya_perednej";
     $scope.productimg = "assets/img/467781018_tyaga-rulevaya-perednej.jpg";
     $scope.productname = "Тяга рулевая передней оси короткая ЮМЗ";
@@ -3707,7 +3707,7 @@ var app = angular.module('err195', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p195_mufta_reversa_zubchataya";
     $scope.productimg = "assets/img/1719359329_mufta-reversa-t-25.jpg";
     $scope.productname = "Муфта реверса Т-25 зубчатая";
@@ -3726,7 +3726,7 @@ var app = angular.module('err196', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p196_satellita_zadnego_mosta";
     $scope.productimg = "assets/img/467781104_os-satellita-zadnego.jpg";
     $scope.productname = "Ось сателлита заднего моста ЮМЗ";
@@ -3745,7 +3745,7 @@ var app = angular.module('err197', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p197_val_otbora_moschnosti";
     $scope.productimg = "assets/img/467781108_val-otbora-moschnosti.jpg";
     $scope.productimg = "assets/img/489450441_val-otbora-moschnosti.jpg";
@@ -3765,7 +3765,7 @@ var app = angular.module('err198', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p198_vilka_vklyucheniya_glavnoj";
     $scope.productimg = "assets/img/603895051_vilka-vklyucheniya-glavnoj.jpg";
     $scope.productname = "Вилка включения главной муфты сцепления Т-25";
@@ -3784,7 +3784,7 @@ var app = angular.module('err199', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p199_bolt_golovki_bloka";
     $scope.productimg = "assets/img/783886922_bolt-golovki-bloka.jpg";
     $scope.productname = "Болт головки блока цилиндра короткий МТЗ 80/82";
@@ -3803,7 +3803,7 @@ var app = angular.module('err200', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p200_kronshtejn_otvodki_yumz";
     $scope.productimg = "assets/img/351751650_kronshtejn-otvodki-yumz.jpg";
     $scope.productname = "Кронштейн отводки ЮМЗ";
@@ -3822,7 +3822,7 @@ var app = angular.module('err201', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p201_vilka_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/351751660_vilka-pereklyucheniya-3.jpg";
     $scope.productname = "Вилка переключения 3 и 5 передачи ЮМЗ";
@@ -3841,7 +3841,7 @@ var app = angular.module('err202', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p202_koleso_zubchatoe_parazitnoe";
     $scope.productimg = "assets/img/351751683_koleso-zubchatoe-parazitnoe.jpg";
     $scope.productname = "Колесо зубчатое паразитное КПП ЮМЗ Z=25";
@@ -3860,7 +3860,7 @@ var app = angular.module('err203', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p203_gidrozamok_starobr";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Гидрозамок ЭО стар.обр.";
@@ -3879,7 +3879,7 @@ var app = angular.module('err204', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p204_koleso_zubchatoe_privoda";
     $scope.productimg = "assets/img/467781242_koleso-zubchatoe-privoda.jpg";
     $scope.productname = "Колесо зубчатое привода регулятора ЮМЗ";
@@ -3898,7 +3898,7 @@ var app = angular.module('err205', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p205_korpus_differentsiala_golyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Корпус дифференциала Т-25 голый";
@@ -3917,7 +3917,7 @@ var app = angular.module('err206', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p206_shkiv_vala_kolenchatogo";
     $scope.productimg = "assets/img/467781245_shkiv-vala-kolenchatogo.jpg";
     $scope.productname = "Шкив вала коленчатого Д-65 ЮМЗ";
@@ -3936,7 +3936,7 @@ var app = angular.module('err207', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p207_shesternya_perednyaya_veduschaya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шестерня Т-25 передняя ведущая Z=21";
@@ -3955,7 +3955,7 @@ var app = angular.module('err208', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p208_shajba_kolpaka_mtz";
     $scope.productimg = "assets/img/816533953_shajba-kolpaka-mtz.jpg";
     $scope.productname = "Шайба колпака МТЗ";
@@ -3974,7 +3974,7 @@ var app = angular.module('err209', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p209_shajba_upornaya_satellita";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба упорная сателлита дифференциала заднего моста Т-25 Т-40";
@@ -3993,7 +3993,7 @@ var app = angular.module('err210', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p210_ukazatel_davleniya_masla";
     $scope.productimg = "assets/img/1064993642_ukazatel-davleniya-masla.jpg";
     $scope.productname = "Указатель давления масла 10 атмосфер МТЗ";
@@ -4012,7 +4012,7 @@ var app = angular.module('err211', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p211_koleso_zubchatoe_zadnego";
     $scope.productimg = "assets/img/467781329_koleso-zubchatoe-zadnego.jpg";
     $scope.productimg = "assets/img/489451508_koleso-zubchatoe-zadnego.jpg";
@@ -4032,7 +4032,7 @@ var app = angular.module('err212', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p212_val_zadnej_naveski";
     $scope.productimg = "assets/img/603895189_val-zadnej-naveski.jpg";
     $scope.productname = "Вал задней навески поворотный Т-25";
@@ -4051,7 +4051,7 @@ var app = angular.module('err213', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p213_shtutser_flanets_nsh10h32";
     $scope.productimg = "assets/img/469922312_shtutser-na-flanets.jpg";
     $scope.productname = "Штуцер на фланец НШ10х32";
@@ -4070,7 +4070,7 @@ var app = angular.module('err214', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p214_val_rulevogo_upravleniya";
     $scope.productimg = "assets/img/603895188_val-rulevogo-upravleniya.jpg";
     $scope.productname = "Вал рулевого управления Т-25";
@@ -4089,7 +4089,7 @@ var app = angular.module('err215', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p215_ventilyator_vodyanogo_nasosa";
     $scope.productimg = "assets/img/489451678_ventilyator-vodyanogo-nasosa.jpg";
     $scope.productname = "Вентилятор водяного насоса ЮМЗ";
@@ -4108,7 +4108,7 @@ var app = angular.module('err216', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p216_kachaniya_";
     $scope.productimg = "assets/img/489451748_os-kachaniya-t-25.jpg";
     $scope.productname = "Ось качания Т-25";
@@ -4127,7 +4127,7 @@ var app = angular.module('err217', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p217_lapka_korziny_stsepleniya";
     $scope.productimg = "assets/img/351755232_lapka-korziny-stsepleniya.jpg";
     $scope.productname = "Лапка корзины сцепления Т-25";
@@ -4146,7 +4146,7 @@ var app = angular.module('err218', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p218_stakan_pravyj_diskovyh";
     $scope.productimg = "assets/img/539885183_stakan-pravyj-diskovyh.jpg";
     $scope.productname = "Стакан правый дисковых тормозов ЮМЗ";
@@ -4165,7 +4165,7 @@ var app = angular.module('err219', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p219_lonzheron_yumz_levyj";
     $scope.productimg = "assets/img/467781333_lonzheron-yumz-levyj.jpg";
     $scope.productimg = "assets/img/489451764_lonzheron-yumz-levyj.jpg";
@@ -4185,7 +4185,7 @@ var app = angular.module('err220', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p220_bolt_golovki_bloka";
     $scope.productimg = "assets/img/783884998_bolt-golovki-bloka.jpg";
     $scope.productname = "Болт головки блока цилиндра длинный МТЗ 80/82";
@@ -4204,7 +4204,7 @@ var app = angular.module('err221', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p221_chehol_zaschitnyj_rychaga";
     $scope.productimg = "assets/img/467781474_chehol-zaschitnyj-rychaga.jpg";
     $scope.productname = "Чехол защитный рычага КПП нижний ЮМЗ";
@@ -4223,7 +4223,7 @@ var app = angular.module('err222', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p222_element_filtra_maslyanogo";
     $scope.productimg = "assets/img/1117517104_element-filtra-maslyanogo.jpg";
     $scope.productname = "Элемент фильтра масляного ГСТ ДОН 1500";
@@ -4242,7 +4242,7 @@ var app = angular.module('err223', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p223_mufta_prodolnoj_tyagi";
     $scope.productimg = "assets/img/1168195088_mufta-prodolnoj-tyagi.jpg";
     $scope.productname = "Муфта продольной тяги резиновая ЮМЗ";
@@ -4261,7 +4261,7 @@ var app = angular.module('err224', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p224_shesternya_promezhutochnaya_vtulkoj";
     $scope.productimg = "assets/img/351755260_shesternya-promezhutochnaya-so.jpg";
     $scope.productname = "Шестерня промежуточная со втулкой Д-65 ЮМЗ";
@@ -4280,7 +4280,7 @@ var app = angular.module('err225', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p225_vtulka_shesterni_reversa";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Втулка шестерни реверса КПП Т-25 Д-21";
@@ -4299,7 +4299,7 @@ var app = angular.module('err226', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p226_klapan_kontsevik_gidrotsilindra";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Клапан концевик гидроцилиндра ГЦ-75";
@@ -4318,7 +4318,7 @@ var app = angular.module('err227', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p227_korpus_otvodki_stsepleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Корпус отводки сцепления Т-25";
@@ -4337,7 +4337,7 @@ var app = angular.module('err228', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p228_poluos_yumz_diferentsiala";
     $scope.productimg = "assets/img/489452300_poluos-yumz-diferentsiala.jpg";
     $scope.productname = "Полуось ЮМЗ диференциала заднего моста";
@@ -4356,7 +4356,7 @@ var app = angular.module('err229', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p229_val_glavnogo_stsepleniya";
     $scope.productimg = "assets/img/351755295_val-glavnogo-stsepleniya.jpg";
     $scope.productname = "Вал главного сцепления Т-25";
@@ -4375,7 +4375,7 @@ var app = angular.module('err230', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p230_palets_tsilindra_podema";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Палец ЭО цилиндра подьема стрелы";
@@ -4394,7 +4394,7 @@ var app = angular.module('err231', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p231_mufta_soedinitelnaya_privoda";
     $scope.productimg = "assets/img/539985083_mufta-soedinitelnaya-privoda.jpg";
     $scope.productname = "Муфта соединительная привода НШ10 ЮМЗ (НШ32)";
@@ -4413,7 +4413,7 @@ var app = angular.module('err232', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p232_kryshka_gura_yumz";
     $scope.productimg = "assets/img/351755214_kryshka-gura-yumz.jpg";
     $scope.productname = "Крышка ГУРа ЮМЗ";
@@ -4432,7 +4432,7 @@ var app = angular.module('err233', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p233_chervyak_rulevogo_mehanizma";
     $scope.productimg = "assets/img/351755219_chervyak-rulevogo-mehanizma.jpg";
     $scope.productname = "Червяк рулевого механизма ЮМЗ";
@@ -4451,7 +4451,7 @@ var app = angular.module('err234', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p234_klapan_reduktsionnyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Клапан редукционный Т-25";
@@ -4470,7 +4470,7 @@ var app = angular.module('err235', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p235_raskos_naveski_yumz";
     $scope.productimg = "assets/img/467781562_raskos-naveski-yumz.jpg";
     $scope.productname = "Раскос навески ЮМЗ регулируемый";
@@ -4489,7 +4489,7 @@ var app = angular.module('err236', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p236_brus_perednij_yumz";
     $scope.productimg = "assets/img/489452865_brus-perednij-yumz.jpg";
     $scope.productname = "Брус передний ЮМЗ";
@@ -4508,7 +4508,7 @@ var app = angular.module('err237', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p237_vozdushnogo_mtz_1221";
     $scope.productimg = "assets/img/469970390_e-vozdushnogo-mtz-1221.jpg";
     $scope.productname = "Э воздушного МТЗ-1221 Д-260 Альфа170В/170 ПБ В-038";
@@ -4527,7 +4527,7 @@ var app = angular.module('err238', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p238_mufta_zubchataya_reduktora";
     $scope.productimg = "assets/img/467781627_mufta-zubchataya-reduktora.jpg";
     $scope.productname = "Муфта зубчатая редуктора КПП ЮМЗ";
@@ -4546,7 +4546,7 @@ var app = angular.module('err239', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p239_shesternya_reduktora_vedomaya";
     $scope.productimg = "assets/img/467781629_shesternya-reduktora-vedomaya.jpg";
     $scope.productimg = "assets/img/489452956_shesternya-reduktora-vedomaya.jpg";
@@ -4566,7 +4566,7 @@ var app = angular.module('err240', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p240_bolt_mahovika_yumz";
     $scope.productimg = "assets/img/351755282_bolt-mahovika-yumz.jpg";
     $scope.productname = "Болт маховика ЮМЗ";
@@ -4585,7 +4585,7 @@ var app = angular.module('err241', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p241_vtulka_shatuna_yumz";
     $scope.productimg = "assets/img/351755237_vtulka-shatuna-yumz.jpg";
     $scope.productname = "Втулка шатуна ЮМЗ";
@@ -4604,7 +4604,7 @@ var app = angular.module('err242', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p242_kompressor_vozdushnyj_yumz";
     $scope.productimg = "assets/img/351755250_kompressor-vozdushnyj-yumz.jpg";
     $scope.productname = "Компрессор воздушный ЮМЗ";
@@ -4623,7 +4623,7 @@ var app = angular.module('err243', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p243_vtulka_vertikalnogo_sharnira";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Втулка вертикального шарнира Т 150 Т-25";
@@ -4642,7 +4642,7 @@ var app = angular.module('err244', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p244_stupitsa_zadnego_kolesa";
     $scope.productimg = "assets/img/467781740_stupitsa-zadnego-kolesa.jpg";
     $scope.productname = "Ступица заднего колеса ЮМЗ";
@@ -4661,7 +4661,7 @@ var app = angular.module('err245', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p245_rychag_naveski_pravyj";
     $scope.productimg = "assets/img/1706154728_rychag-naveski-t-25.jpg";
     $scope.productname = "Рычаг навески Т-25 правый";
@@ -4680,7 +4680,7 @@ var app = angular.module('err246', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p246_hrapovik_vala_kolenchatogo";
     $scope.productimg = "assets/img/1098345691_hrapovik-vala-kolenchatogo.jpg";
     $scope.productname = "Храповик вала коленчатого Д65 ЮМЗ";
@@ -4699,7 +4699,7 @@ var app = angular.module('err247', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p247_shesternya_veduschaya_peredachi";
     $scope.productimg = "assets/img/351758891_shesternya-veduschaya-3.jpg";
     $scope.productname = "Шестерня ведущая 3 передачи ЮМЗ";
@@ -4718,7 +4718,7 @@ var app = angular.module('err248', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p248_karter_mahovika_yumz";
     $scope.productimg = "assets/img/467781741_karter-mahovika-yumz.jpg";
     $scope.productimg = "assets/img/489453715_karter-mahovika-yumz.jpg";
@@ -4738,7 +4738,7 @@ var app = angular.module('err249', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p249_tyaga_naveski_prodolnaya";
     $scope.productimg = "assets/img/469861130_tyaga-naveski-t-25.jpg";
     $scope.productimg = "assets/img/489453716_tyaga-naveski-t-25.jpg";
@@ -4758,7 +4758,7 @@ var app = angular.module('err250', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p250_shesternya_privoda_vom";
     $scope.productimg = "assets/img/467781742_shesternya-privoda-vom.jpg";
     $scope.productname = "Шестерня привода ВОМ ЮМЗ Z=44";
@@ -4777,7 +4777,7 @@ var app = angular.module('err251', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p251_vtulka_perehodnika_turbokompressora";
     $scope.productimg = "assets/img/1396590887_vtulka-perehodnika-turbokompressora.jpg";
     $scope.productname = "Втулка переходника турбокомпрессора ТКР-7 МТЗ Д 245 Д 240";
@@ -4796,7 +4796,7 @@ var app = angular.module('err252', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p252_trubki_toplivnye_vysokogo";
     $scope.productimg = "assets/img/467781785_trubki-toplivnye-vysokogo.jpg";
     $scope.productname = "Трубки топливные высокого давления ЮМЗ Д65-16-С18-С21";
@@ -4815,7 +4815,7 @@ var app = angular.module('err253', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p253_shesternya_veduschaya_reduktora";
     $scope.productimg = "assets/img/467781783_shesternya-veduschaya-reduktora.jpg";
     $scope.productname = "Шестерня ведущая редуктора ЮМЗ Z=37/18";
@@ -4834,7 +4834,7 @@ var app = angular.module('err254', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p254_prokladka_regulirovochnaya_yumz";
     $scope.productimg = "assets/img/351758868_prokladka-regulirovochnaya-yumz.jpg";
     $scope.productname = "Прокладка регулировочная ЮМЗ заднего моста";
@@ -4853,7 +4853,7 @@ var app = angular.module('err255', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p255_schit_raspredeleniya_yumz";
     $scope.productimg = "assets/img/469861196_schit-raspredeleniya-d-65.jpg";
     $scope.productname = "Щит распределения Д-65 ЮМЗ";
@@ -4872,7 +4872,7 @@ var app = angular.module('err256', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p256_kulisa_mehanizma_pereklyucheniya";
     $scope.productimg = "assets/img/351758935_kulisa-mehanizma-pereklyucheniya.jpg";
     $scope.productname = "Кулиса механизма переключения ЮМЗ";
@@ -4891,7 +4891,7 @@ var app = angular.module('err257', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p257_val_yumz_vnutrennij";
     $scope.productimg = "assets/img/467781787_val-yumz-vnutrennij.jpg";
     $scope.productimg = "assets/img/489454122_val-yumz-vnutrennij.jpg";
@@ -4911,7 +4911,7 @@ var app = angular.module('err258', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p258_karter_bortovoj_peredachi";
     $scope.productimg = "assets/img/469861214_karter-bortovoj-peredachi.jpg";
     $scope.productname = "Картер бортовой передачи Т-25";
@@ -4930,7 +4930,7 @@ var app = angular.module('err259', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p259_styazhka_mehanizma_zadnej";
     $scope.productimg = "assets/img/467781784_styazhka-mehanizma-zadnej.jpg";
     $scope.productname = "Стяжка механизма задней навески ЮМЗ";
@@ -4949,7 +4949,7 @@ var app = angular.module('err260', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p260_prizhim_yumz";
     $scope.productimg = "assets/img/351758848_prizhim-yumz.jpg";
     $scope.productname = "Прижим ЮМЗ";
@@ -4968,7 +4968,7 @@ var app = angular.module('err261', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p261_val_shesternya_reversa";
     $scope.productimg = "assets/img/469861233_val-shesternya-reversa-kpp.jpg";
     $scope.productname = "Вал-шестерня реверса КПП Т-25 Z=29";
@@ -4987,7 +4987,7 @@ var app = angular.module('err262', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p262_kollektor_vypusknoj";
     $scope.productimg = "assets/img/351758865_kollektor-vypusknoj-t-25.jpg";
     $scope.productname = "Коллектор выпускной Т-25";
@@ -5006,7 +5006,7 @@ var app = angular.module('err263', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p263_kachaniya_yumz";
     $scope.productimg = "assets/img/351758867_os-kachaniya-yumz.jpg";
     $scope.productname = "Ось качания ЮМЗ";
@@ -5025,7 +5025,7 @@ var app = angular.module('err264', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p264_tsapfa_povorotnaya_perednej";
     $scope.productimg = "assets/img/467781857_tsapfa-povorotnaya-perednej.jpg";
     $scope.productimg = "assets/img/489454426_tsapfa-povorotnaya-perednej.jpg";
@@ -5045,7 +5045,7 @@ var app = angular.module('err265', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p265_mahovik_ventsom_yumz";
     $scope.productimg = "assets/img/1668525606_mahovik-s-ventsom.jpg";
     $scope.productname = "Маховик с венцом ЮМЗ под стартер";
@@ -5064,7 +5064,7 @@ var app = angular.module('err266', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p266_palets_mahovika_yumz";
     $scope.productimg = "assets/img/351758968_palets-mahovika-yumz.jpg";
     $scope.productname = "Палец маховика ЮМЗ";
@@ -5083,7 +5083,7 @@ var app = angular.module('err267', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p267_styazhka_naveski_yumz";
     $scope.productimg = "assets/img/467781859_styazhka-naveski-yumz.jpg";
     $scope.productname = "Стяжка навески ЮМЗ правая";
@@ -5102,7 +5102,7 @@ var app = angular.module('err268', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p268_ramka_kabiny_yumz";
     $scope.productimg = "assets/img/469861291_ramka-kabiny-yumz.jpg";
     $scope.productimg = "assets/img/489454812_ramka-kabiny-yumz.jpg";
@@ -5122,7 +5122,7 @@ var app = angular.module('err269', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p269_kryshka_rukava_poluosi";
     $scope.productimg = "assets/img/351758842_kryshka-rukava-poluosi.jpg";
     $scope.productname = "Крышка рукава полуоси заднего моста ЮМЗ";
@@ -5141,7 +5141,7 @@ var app = angular.module('err270', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p270_val_raspredelitelnyj_yumz";
     $scope.productimg = "assets/img/467781856_val-raspredelitelnyj-yumz.jpg";
     $scope.productimg = "assets/img/489454944_val-raspredelitelnyj-yumz.jpg";
@@ -5161,7 +5161,7 @@ var app = angular.module('err271', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p271_shesternya_glavnogo_vala";
     $scope.productimg = "assets/img/351762101_shesternya-glavnogo-vala.jpg";
     $scope.productname = "Шестерня главного вала главной передачи Т-25 z=19/19";
@@ -5180,7 +5180,7 @@ var app = angular.module('err272', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p272_shesternya_blok_promezhutochnogo";
     $scope.productimg = "assets/img/351762115_shesternya-blok-promezhutochnogo.jpg";
     $scope.productname = "Шестерня блок промежуточного вала главной передачи Т-25 z=18/29";
@@ -5199,7 +5199,7 @@ var app = angular.module('err273', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p273_privod_startera";
     $scope.productimg = "assets/img/469861382_privod-startera-t-25.jpg";
     $scope.productimg = "assets/img/489455490_privod-startera-t-25.jpg";
@@ -5219,7 +5219,7 @@ var app = angular.module('err274', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p274_salnik_rychaga_perednej";
     $scope.productimg = "assets/img/351762110_salnik-rychaga-perednej.jpg";
     $scope.productname = "Сальник рычага передней оси ЮМЗ войлок 57х35х10";
@@ -5238,7 +5238,7 @@ var app = angular.module('err275', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p275_shesternya_promezhutochnaya_vtulkoj";
     $scope.productimg = "assets/img/1200348794_shesternya-promezhutochnaya-so.jpg";
     $scope.productname = "Шестерня промежуточная со втулкой Z=40/20 ЮМЗ";
@@ -5257,7 +5257,7 @@ var app = angular.module('err276', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p276_kronshtejn_krepleniya_gidrotsilindra";
     $scope.productimg = "assets/img/351762133_kronshtejn-krepleniya-gidrotsilindra.jpg";
     $scope.productname = "Кронштейн крепления гидроцилиндра подьема задней навески ЮМЗ";
@@ -5276,7 +5276,7 @@ var app = angular.module('err277', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p277_venets_mahovika_yumz";
     $scope.productimg = "assets/img/1098345689_venets-mahovika-yumz.jpg";
     $scope.productname = "Венец маховика ЮМЗ под пусковой двигатель";
@@ -5295,7 +5295,7 @@ var app = angular.module('err278', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p278_stakan_podshipnika_2612";
     $scope.productimg = "assets/img/351762182_stakan-podshipnika-2612.jpg";
     $scope.productname = "Стакан подшипника 2612 КПП задний ЮМЗ";
@@ -5314,7 +5314,7 @@ var app = angular.module('err279', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p279_bolt_shesterni_planetarki";
     $scope.productimg = "assets/img/1134023892_bolt-shesterni-planetarki.jpg";
     $scope.productname = "Болт шестерни планетарки 3021 ЮМЗ";
@@ -5333,7 +5333,7 @@ var app = angular.module('err280', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p280_kardanchik_rulevoj_yumz";
     $scope.productimg = "assets/img/351762200_kardanchik-rulevoj-yumz.jpg";
     $scope.productname = "Карданчик рулевой ЮМЗ нижний";
@@ -5352,7 +5352,7 @@ var app = angular.module('err281', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p281_shajba_opornaya_shesterni";
     $scope.productimg = "assets/img/351762163_shajba-opornaya-shesterni.jpg";
     $scope.productname = "Шайба опорная шестерни заднего моста ЮМЗ";
@@ -5371,7 +5371,7 @@ var app = angular.module('err282', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p282_valik_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/1200343347_valik-pereklyucheniya-1j.jpg";
     $scope.productname = "Валик переключения 1й передачи и заднего хода ЮМЗ";
@@ -5390,7 +5390,7 @@ var app = angular.module('err283', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p283_filtr_maslyanyj_zil";
     $scope.productimg = "assets/img/469970933_filtr-maslyanyj-zil.jpg";
     $scope.productname = "Фильтр масляный ЗИЛ, МТЗ вкручив. WL7483/OP563/2 (пр-во WIX-Filtron)";
@@ -5409,7 +5409,7 @@ var app = angular.module('err284', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p284_kronshtejn_vala_povorotnogo";
     $scope.productimg = "assets/img/469861531_kronshtejn-vala-povorotnogo.jpg";
     $scope.productname = "Кронштейн вала поворотного задней навески ЮМЗ";
@@ -5428,7 +5428,7 @@ var app = angular.module('err285', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p285_valik_privoda_maslyanogo";
     $scope.productimg = "assets/img/489456836_valik-privoda-maslyanogo.jpg";
     $scope.productname = "Валик привода масляного насоса ЮМЗ";
@@ -5447,7 +5447,7 @@ var app = angular.module('err286', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p286_bolt_mahovika_t25";
     $scope.productimg = "assets/img/351762114_bolt-mahovika-t25.jpg";
     $scope.productname = "Болт маховика Т25 М12";
@@ -5466,7 +5466,7 @@ var app = angular.module('err287', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p287_shesternya_reduktora_puskovogo";
     $scope.productimg = "assets/img/469861570_shesternya-reduktora-puskovogo.jpg";
     $scope.productimg = "assets/img/489456999_shesternya-reduktora-puskovogo.jpg";
@@ -5486,7 +5486,7 @@ var app = angular.module('err288', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p288_vtulka_reversa_kpp";
     $scope.productimg = "assets/img/469861572_vtulka-reversa-kpp.jpg";
     $scope.productname = "Втулка реверса КПП зубчатая Z=26 Т-25";
@@ -5505,7 +5505,7 @@ var app = angular.module('err289', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p289_shesternya_bortovoj_peredachi";
     $scope.productimg = "assets/img/1110612626_shesternya-bortovoj-peredachi.jpg";
     $scope.productname = "Шестерня бортовой передачи левая полуось Т-25";
@@ -5524,7 +5524,7 @@ var app = angular.module('err290', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p290_val_pervichnyj_kpp";
     $scope.productimg = "assets/img/469861642_val-pervichnyj-kpp.jpg";
     $scope.productimg = "assets/img/489457389_val-pervichnyj-kpp.jpg";
@@ -5544,7 +5544,7 @@ var app = angular.module('err291', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p291_mufta_reversa";
     $scope.productimg = "assets/img/469861641_mufta-reversa-t-25.jpg";
     $scope.productname = "Муфта реверса Т-25";
@@ -5563,7 +5563,7 @@ var app = angular.module('err292', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p292_prokladka_kryshki_klapanov";
     $scope.productimg = "assets/img/351765945_prokladka-kryshki-klapanov.jpg";
     $scope.productname = "Прокладка крышки клапанов ЮМЗ";
@@ -5582,7 +5582,7 @@ var app = angular.module('err293', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p293_kronshtejn_protivovesa_yumz";
     $scope.productimg = "assets/img/469861706_kronshtejn-protivovesa-yumz.jpg";
     $scope.productname = "Кронштейн противовеса ЮМЗ (грузов передних)";
@@ -5601,7 +5601,7 @@ var app = angular.module('err294', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p294_salnik_klapana_240";
     $scope.productimg = "assets/img/753515481_salnik-klapana-d.jpg";
     $scope.productname = "Сальник клапана Д 240 243 245 260 МТЗ ( 8 штук комплект)";
@@ -5620,7 +5620,7 @@ var app = angular.module('err295', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p295_bolt_shkiva_kolenchatogo";
     $scope.productimg = "assets/img/783899297_bolt-shkiva-kolenchatogo.jpg";
     $scope.productname = "Болт шкива коленчатого вала МТЗ 80/82 Д 245";
@@ -5639,7 +5639,7 @@ var app = angular.module('err296', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p296_rychag_rulevoj_valom";
     $scope.productimg = "assets/img/469861707_rychag-rulevoj-s.jpg";
     $scope.productname = "Рычаг рулевой с валом передней оси ЮМЗ";
@@ -5658,7 +5658,7 @@ var app = angular.module('err297', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p297_kronshtejn_sergi_tsentralnoj";
     $scope.productimg = "assets/img/351766014_kronshtejn-sergi-tsentralnoj.jpg";
     $scope.productname = "Кронштейн серьги центральной тяги ЮМЗ";
@@ -5677,7 +5677,7 @@ var app = angular.module('err298', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p298_patrubok_yumz_radiatora";
     $scope.productimg = "assets/img/469861720_patrubok-yumz-radiatora.jpg";
     $scope.productname = "Патрубок ЮМЗ радиатора (4 штуки)";
@@ -5696,7 +5696,7 @@ var app = angular.module('err299', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p299_filtr_masla_245";
     $scope.productimg = "assets/img/469971198_filtr-masla-d-245.jpg";
     $scope.productname = "Фильтр масла Д-245 МТЗ Промбизнес";
@@ -5715,7 +5715,7 @@ var app = angular.module('err300', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p300_shesternya_privodnogo_valika";
     $scope.productimg = "assets/img/469861747_shesternya-privodnogo-valika.jpg";
     $scope.productname = "Шестерня приводного валика дополнительной передачи КПП Т-25 Z=42";
@@ -5734,7 +5734,7 @@ var app = angular.module('err301', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p301_shesternya_poluosevaya_zadnego";
     $scope.productimg = "assets/img/1200344399_shesternya-poluosevaya-zadnego.jpg";
     $scope.productname = "Шестерня полуосевая заднего моста ЮМЗ";
@@ -5753,7 +5753,7 @@ var app = angular.module('err302', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p302_kryshka_bachka_efp";
     $scope.productimg = "assets/img/753582212_kryshka-bachka-efp.jpg";
     $scope.productname = "Крышка бачка ЭФП МТЗ";
@@ -5772,7 +5772,7 @@ var app = angular.module('err303', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p303_blok_tsilindrov_2457";
     $scope.productimg = "assets/img/751341006_blok-tsilindrov-d.jpg";
     $scope.productname = "Блок цилиндров Д 245.7, 9, 12С ГАЗ, МАЗ, ПАЗ, ЗИЛ, МТЗ";
@@ -5791,7 +5791,7 @@ var app = angular.module('err304', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p304_vtulka_osi_kacheniya";
     $scope.productimg = "assets/img/351766042_vtulka-osi-kacheniya.jpg";
     $scope.productname = "Втулка оси качения передняя ЮМЗ";
@@ -5810,7 +5810,7 @@ var app = angular.module('err305', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p305_valik_plavayuschij_mehanizma";
     $scope.productimg = "assets/img/469861784_valik-plavayuschij-mehanizma.jpg";
     $scope.productname = "Валик плавающий механизма блокировки ЮМЗ";
@@ -5829,7 +5829,7 @@ var app = angular.module('err306', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p306_fiksator_kpp_yumz";
     $scope.productimg = "assets/img/351766010_fiksator-kpp-yumz.jpg";
     $scope.productname = "Фиксатор КПП ЮМЗ";
@@ -5848,7 +5848,7 @@ var app = angular.module('err307', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p307_patrubok_radiatora_yumz";
     $scope.productimg = "assets/img/351766016_patrubok-radiatora-yumz.jpg";
     $scope.productname = "Патрубок радиатора ЮМЗ";
@@ -5867,7 +5867,7 @@ var app = angular.module('err308', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p308_val_4321";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Вал ЭО-4321";
@@ -5886,7 +5886,7 @@ var app = angular.module('err309', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p309_shesternya_4321_planetarku";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шестерня ЭО-4321 на планетарку";
@@ -5905,7 +5905,7 @@ var app = angular.module('err310', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p310_kollektor_tsentralnyj_4321";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Коллектор центральный ЭО-4321";
@@ -5924,7 +5924,7 @@ var app = angular.module('err311', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p311_proushina_mehanizma_zadnej";
     $scope.productimg = "assets/img/351766006_proushina-mehanizma-zadnej.jpg";
     $scope.productname = "Проушина механизма задней навески ЮМЗ";
@@ -5943,7 +5943,7 @@ var app = angular.module('err312', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p312_kronshtejn_vklyucheniya_vom";
     $scope.productimg = "assets/img/469861812_kronshtejn-vklyucheniya-vom.jpg";
     $scope.productimg = "assets/img/489458729_kronshtejn-vklyucheniya-vom.jpg";
@@ -5963,7 +5963,7 @@ var app = angular.module('err313', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p313_gidrousilitel_rulya_yumz";
     $scope.productimg = "assets/img/469861814_gidrousilitel-rulya-yumz.jpg";
     $scope.productimg = "assets/img/489458731_gidrousilitel-rulya-yumz.jpg";
@@ -5983,7 +5983,7 @@ var app = angular.module('err314', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p314_valik_veduschij_kolodochnogo";
     $scope.productimg = "assets/img/469861834_valik-veduschij-kolodochnogo.jpg";
     $scope.productname = "Валик ведущий колодочного тормоза ЮМЗ";
@@ -6002,7 +6002,7 @@ var app = angular.module('err315', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p315_tyaga_tsentralnaya_vint";
     $scope.productimg = "assets/img/469861833_tyaga-tsentralnaya-t.jpg";
     $scope.productimg = "assets/img/489458820_tyaga-tsentralnaya-t.jpg";
@@ -6022,7 +6022,7 @@ var app = angular.module('err316', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p316_vilka_pereklyucheniya_pryamoj";
     $scope.productimg = "assets/img/1200462190_vilka-pereklyucheniya-pryamoj.jpg";
     $scope.productname = "Вилка переключения прямой передачи ЮМЗ";
@@ -6041,7 +6041,7 @@ var app = angular.module('err317', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p317_shesternya_zamedlennoj_peredachi";
     $scope.productimg = "assets/img/351765953_shesternya-1-i.jpg";
     $scope.productname = "Шестерня 1 и 2 и замедленной передачи Т-25 z=42 КПП";
@@ -6060,7 +6060,7 @@ var app = angular.module('err318', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p318_kolesa_zubchatogo_zadnego";
     $scope.productimg = "assets/img/1200457822_os-kolesa-zubchatogo.jpg";
     $scope.productname = "Ось колеса зубчатого заднего хода ЮМЗ";
@@ -6079,7 +6079,7 @@ var app = angular.module('err319', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p319_prokladka_baka_radiatora";
     $scope.productimg = "assets/img/351770394_prokladka-baka-radiatora.jpg";
     $scope.productname = "Прокладка бака радиатора ЮМЗ";
@@ -6098,7 +6098,7 @@ var app = angular.module('err320', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p320_palets_sharovoj_tyagi";
     $scope.productimg = "assets/img/1200294399_palets-sharovoj-tyagi.jpg";
     $scope.productname = "Палец шаровой тяги продольной ЮМЗ";
@@ -6117,7 +6117,7 @@ var app = angular.module('err321', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p321_shkiv_tormoza_baraban";
     $scope.productimg = "assets/img/469861873_shkiv-tormoza-t-25.jpg";
     $scope.productimg = "assets/img/489459446_shkiv-tormoza-t-25.jpg";
@@ -6137,7 +6137,7 @@ var app = angular.module('err322', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p322_vtulka_tsapfy_povorotnoj";
     $scope.productimg = "assets/img/351770261_vtulka-tsapfy-povorotnoj.jpg";
     $scope.productname = "Втулка цапфы поворотной ЮМЗ";
@@ -6156,7 +6156,7 @@ var app = angular.module('err323', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p323_shesternya_skolzyaschaya_peredachi";
     $scope.productimg = "assets/img/351770262_shesternya-skolzyaschaya-3.jpg";
     $scope.productname = "Шестерня скользящая 3 и 5 передачи ЮМЗ Z=29/18";
@@ -6175,7 +6175,7 @@ var app = angular.module('err324', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p324_stakan_otvodki_mufty";
     $scope.productimg = "assets/img/469861891_stakan-otvodki-mufty.jpg";
     $scope.productimg = "assets/img/489459538_stakan-otvodki-mufty.jpg";
@@ -6195,7 +6195,7 @@ var app = angular.module('err325', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p325_shesternya_promezhutochnaya_yumz";
     $scope.productimg = "assets/img/351770279_shesternya-promezhutochnaya-pd-10.jpg";
     $scope.productname = "Шестерня промежуточная ПД-10 ЮМЗ";
@@ -6214,7 +6214,7 @@ var app = angular.module('err326', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p326_filtr_maslyanyj_mtz";
     $scope.productimg = "assets/img/469971401_filtr-maslyanyj-mtz.jpg";
     $scope.productname = "Фильтр масляный МТЗ (дв.Д 260)";
@@ -6233,7 +6233,7 @@ var app = angular.module('err327', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p327_shesternya_vedomaya_peredachi";
     $scope.productimg = "assets/img/351770411_shesternya-vedomaya-1.jpg";
     $scope.productname = "Шестерня ведомая 1 и 3 передачи Т-25 z=39 КПП";
@@ -6252,7 +6252,7 @@ var app = angular.module('err328', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p328_vilka_peredachi_zadnego";
     $scope.productimg = "assets/img/351770396_vilka-1-i.jpg";
     $scope.productname = "Вилка 1 и 2 и 4 передачи и заднего хода ЮМЗ";
@@ -6271,7 +6271,7 @@ var app = angular.module('err329', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p329_rychag_naveski_levyj";
     $scope.productimg = "assets/img/1706156934_rychag-naveski-t-25.jpg";
     $scope.productname = "Рычаг навески Т-25 левый";
@@ -6290,7 +6290,7 @@ var app = angular.module('err330', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p330_shesternya_glavnogo_vala";
     $scope.productimg = "assets/img/351770327_shesternya-glavnogo-vala.jpg";
     $scope.productname = "Шестерня главного вала главной передачи Т-25 z=19/25";
@@ -6309,7 +6309,7 @@ var app = angular.module('err331', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p331_stakan_podshipnikov_zadnego";
     $scope.productimg = "assets/img/469862087_stakan-podshipnikov-zadnego.jpg";
     $scope.productname = "Стакан подшипников заднего моста ЮМЗ";
@@ -6328,7 +6328,7 @@ var app = angular.module('err332', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p332_setka_toplivnogo_baka";
     $scope.productimg = "assets/img/351770377_setka-toplivnogo-baka.jpg";
     $scope.productname = "Сетка топливного бака фильтр ЮМЗ Т-150";
@@ -6347,7 +6347,7 @@ var app = angular.module('err333', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p333_vtulka_vala_povorotnogo";
     $scope.productimg = "assets/img/351770398_vtulka-vala-povorotnogo.jpg";
     $scope.productname = "Втулка вала поворотного механизма задней навески ЮМЗ";
@@ -6366,7 +6366,7 @@ var app = angular.module('err334', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p334_stakan_perednij_kpp";
     $scope.productimg = "assets/img/469862102_stakan-perednij-kpp.jpg";
     $scope.productname = "Стакан передний КПП ЮМЗ";
@@ -6385,7 +6385,7 @@ var app = angular.module('err335', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p335_maslootrazhatel_vala_kolenchatogo";
     $scope.productimg = "assets/img/351770263_maslootrazhatel-vala-kolenchatogo.jpg";
     $scope.productname = "Маслоотражатель вала коленчатого ЮМЗ";
@@ -6404,7 +6404,7 @@ var app = angular.module('err336', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p336_tyaga_rulevaya_prodolnaya";
     $scope.productimg = "assets/img/1209819398_tyaga-rulevaya-prodolnaya.jpg";
     $scope.productname = "Тяга рулевая продольная передней оси ЮМЗ";
@@ -6423,7 +6423,7 @@ var app = angular.module('err337', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p337_salnik_rychaga_perednej";
     $scope.productimg = "assets/img/351770323_salnik-rychaga-perednej.jpg";
     $scope.productname = "Сальник рычага передней оси ЮМЗ";
@@ -6442,7 +6442,7 @@ var app = angular.module('err338', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p338_privod_nasosa_nsh";
     $scope.productimg = "assets/img/351770358_privod-nasosa-nsh-10.jpg";
     $scope.productname = "Привод насоса НШ-10 в сборе Т-25";
@@ -6461,7 +6461,7 @@ var app = angular.module('err339', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p339_schup_dvigatelya_yumz";
     $scope.productimg = "assets/img/351770409_schup-dvigatelya-d.jpg";
     $scope.productname = "Щуп двигателя Д 65 ЮМЗ (масломер)";
@@ -6480,7 +6480,7 @@ var app = angular.module('err340', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p340_bolt_krepleniya_mahovika";
     $scope.productimg = "assets/img/783998655_bolt-krepleniya-mahovika.jpg";
     $scope.productname = "Болт крепления маховика МТЗ 80/82";
@@ -6499,7 +6499,7 @@ var app = angular.module('err341', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p341_klapan_vypusknoj_240";
     $scope.productimg = "assets/img/753417265_klapan-vypusknoj-d.jpg";
     $scope.productname = "Клапан выпускной Д 240 243 245 МТЗ";
@@ -6518,7 +6518,7 @@ var app = angular.module('err342', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p342_prokladka_golovki_bloka";
     $scope.productimg = "assets/img/753594947_prokladka-golovki-bloka.jpg";
     $scope.productname = "Прокладка головки блока Д 245 ЕВРО 2";
@@ -6537,7 +6537,7 @@ var app = angular.module('err343', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p343_suhar_klapana_240";
     $scope.productimg = "assets/img/819934222_suhar-klapana-d.jpg";
     $scope.productname = "Сухарь клапана Д 240 243 245 МТЗ (2 шт ком-кт)";
@@ -6556,7 +6556,7 @@ var app = angular.module('err344', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p344_svecha_nakalivaniya_slovakiya";
     $scope.productimg = "assets/img/763661386_svecha-nakalivaniya-pr-vo.jpg";
     $scope.productname = "Свеча накаливания (пр-во Словакия) 12v 24v";
@@ -6575,7 +6575,7 @@ var app = angular.module('err345', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p345_kranik_sliva_bloka";
     $scope.productimg = "assets/img/752431838_kranik-sliva-bloka.jpg";
     $scope.productname = "Краник слива блока цилиндров ( КР-2 ) МТЗ";
@@ -6594,7 +6594,7 @@ var app = angular.module('err346', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p346_bak_toplivnyj_levyj";
     $scope.productimg = "assets/img/592673983_bak-toplivnyj-levyj.jpg";
     $scope.productname = "Бак топливный левый металлический МТЗ 80/82";
@@ -6613,7 +6613,7 @@ var app = angular.module('err347', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p347_bak_toplivnyj_pravyj";
     $scope.productimg = "assets/img/726907344_bak-toplivnyj-pravyj.jpg";
     $scope.productname = "Бак топливный правый металлический МТЗ 80/82";
@@ -6632,7 +6632,7 @@ var app = angular.module('err348', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p348_kollektor_vpusknoj_245";
     $scope.productimg = "assets/img/726909730_kollektor-vpusknoj-d.jpg";
     $scope.productname = "Коллектор впускной Д 245 тракторный";
@@ -6651,7 +6651,7 @@ var app = angular.module('err349', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p349_korpus_filtra_toplivnogo";
     $scope.productimg = "assets/img/726912970_korpus-filtra-toplivnogo.jpg";
     $scope.productname = "Корпус фильтра топливного МТЗ с крышкой";
@@ -6670,7 +6670,7 @@ var app = angular.module('err350', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p350_korpus_filtra_20";
     $scope.productimg = "assets/img/726920023_korpus-filtra-ft-020.jpg";
     $scope.productname = "Корпус фильтра ФТ-020 без кронштейна";
@@ -6689,7 +6689,7 @@ var app = angular.module('err351', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p351_kronshtejn_vozduhoochistitelya_240243";
     $scope.productimg = "assets/img/592691916_kronshtejn-vozduhoochistitelya-d.jpg";
     $scope.productname = "Кронштейн воздухоочистителя Д 240,243";
@@ -6708,7 +6708,7 @@ var app = angular.module('err352', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p352_kryshka_toplivnogo_baka";
     $scope.productimg = "assets/img/592694328_kryshka-toplivnogo-baka.jpg";
     $scope.productname = "Крышка топливного бака МТЗ пластмасовая";
@@ -6727,7 +6727,7 @@ var app = angular.module('err353', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p353_kryshka_filtra_tonkoj";
     $scope.productimg = "assets/img/469862193_kryshka-filtra-tonkoj.jpg";
     $scope.productname = "Крышка фильтра тонкой очистки топлива МТЗ";
@@ -6746,7 +6746,7 @@ var app = angular.module('err354', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p354_lenta_baka_toplivnogo";
     $scope.productimg = "assets/img/729446089_lenta-baka-toplivnogo.jpg";
     $scope.productname = "Лента бака топливного МТЗ";
@@ -6765,7 +6765,7 @@ var app = angular.module('err355', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p355_monotsiklon_mtz_243";
     $scope.productimg = "assets/img/813015603_monotsiklon-mtz-d.jpg";
     $scope.productname = "Моноциклон МТЗ Д 243";
@@ -6784,7 +6784,7 @@ var app = angular.module('err356', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p356_monotsiklon_260_mtz";
     $scope.productimg = "assets/img/729448319_monotsiklon-d-260.jpg";
     $scope.productname = "Моноциклон Д 260 МТЗ";
@@ -6803,7 +6803,7 @@ var app = angular.module('err357', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p357_otrazhatel_filtra_gruboj";
     $scope.productimg = "assets/img/469862249_otrazhatel-filtra-gruboj.jpg";
     $scope.productname = "Отражатель фильтра грубой очистки МТЗ";
@@ -6822,7 +6822,7 @@ var app = angular.module('err358', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p358_pedal_upravleniya_podachej";
     $scope.productimg = "assets/img/592702834_pedal-upravleniya-podachej.jpg";
     $scope.productname = "Педаль управления подачей топлива МТЗ";
@@ -6841,7 +6841,7 @@ var app = angular.module('err359', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p359_plunzhernaya_para_240243d";
     $scope.productimg = "assets/img/729452626_plunzhernaya-para-d.jpg";
     $scope.productname = "Плунжерная пара Д 240,243,Д 120,144,СМД (УТНИ) d=9 + клапанная пара";
@@ -6860,7 +6860,7 @@ var app = angular.module('err360', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p360_plunzhernaya_para_260";
     $scope.productimg = "assets/img/729463730_plunzhernaya-para-d.jpg";
     $scope.productname = "Плунжерная пара Д 260, 243, 245";
@@ -6879,7 +6879,7 @@ var app = angular.module('err361', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p361_prokladka_filtra_toplivnogo";
     $scope.productimg = "assets/img/592704956_prokladka-filtra-toplivnogo.jpg";
     $scope.productname = "Прокладка фильтра топливного, тонкой очистки ЗИЛ 5301";
@@ -6898,7 +6898,7 @@ var app = angular.module('err362', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p362_prokladka_forsunki_zil";
     $scope.productimg = "assets/img/729467183_prokladka-forsunki-zil.jpg";
     $scope.productname = "Прокладка форсунки ЗИЛ 5301";
@@ -6917,7 +6917,7 @@ var app = angular.module('err363', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p363_raspylitel_d245_d260";
     $scope.productimg = "assets/img/729468042_raspylitel-d245-d260.jpg";
     $scope.productname = "Распылитель Д245, Д260 Евро 2";
@@ -6936,7 +6936,7 @@ var app = angular.module('err364', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p364_raspylitel_d245912d260_5h032";
     $scope.productimg = "assets/img/729469557_raspylitel-d245912d260-5h032.jpg";
     $scope.productname = "Распылитель Д245,9,12,Д260 (5х0,32) малогабаритный";
@@ -6955,7 +6955,7 @@ var app = angular.module('err365', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p365_raspylitel_mtz_100";
     $scope.productimg = "assets/img/729471845_raspylitel-mtz-100.jpg";
     $scope.productname = "Распылитель МТЗ 100 (5х0,32) Д-245,12,9-260";
@@ -6974,7 +6974,7 @@ var app = angular.module('err366', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p366_raspylitel_mtz_100";
     $scope.productimg = "assets/img/729474901_raspylitel-mtz-100.jpg";
     $scope.productname = "Распылитель МТЗ 100 (5х0,35)";
@@ -6993,7 +6993,7 @@ var app = angular.module('err367', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p367_raspylitel_mtz_8082";
     $scope.productimg = "assets/img/729478272_raspylitel-mtz-8082.jpg";
     $scope.productname = "Распылитель МТЗ 80,82 (вместо 176.1112110-60)";
@@ -7012,7 +7012,7 @@ var app = angular.module('err368', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p368_raspylitel_16252840";
     $scope.productimg = "assets/img/729477488_raspylitel-t-16252840.jpg";
     $scope.productname = "Распылитель Т 16,25,28,40";
@@ -7031,7 +7031,7 @@ var app = angular.module('err369', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p369_rukav_toplivnyh_bakov";
     $scope.productimg = "assets/img/729480127_rukav-toplivnyh-bakov.jpg";
     $scope.productname = "Рукав топливных баков соединительный (125 мм)";
@@ -7050,7 +7050,7 @@ var app = angular.module('err370', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p370_toplivoprovod_drenazhnyj_245";
     $scope.productimg = "assets/img/729485402_toplivoprovod-drenazhnyj-d.jpg";
     $scope.productname = "Топливопровод дренажный Д 245";
@@ -7069,7 +7069,7 @@ var app = angular.module('err371', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p371_toplivoprovod_drenazhnyj_260";
     $scope.productimg = "assets/img/729783610_toplivoprovod-drenazhnyj-d.jpg";
     $scope.productname = "Топливопровод дренажный Д 260";
@@ -7088,7 +7088,7 @@ var app = angular.module('err372', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p372_toplivoprovod_nizkogo_davleniya";
     $scope.productimg = "assets/img/729788418_toplivoprovod-nizkogo-davleniya.jpg";
     $scope.productname = "Топливопровод низкого давления (3 штуцера) МТЗ-1221";
@@ -7107,7 +7107,7 @@ var app = angular.module('err373', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p373_toplivoprovod_nizkogo_davleniya";
     $scope.productimg = "assets/img/469057081_toplivoprovod-nizkogo-davleniya.jpg";
     $scope.productname = "Топливопровод низкого давления (обратка) МТЗ 1221";
@@ -7126,7 +7126,7 @@ var app = angular.module('err374', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p374_trubka_podvodyaschaya_turbiny";
     $scope.productimg = "assets/img/814083986_trubka-podvodyaschaya-turbiny.jpg";
     $scope.productname = "Трубка подводящая турбины МТЗ Д 245 Д 240";
@@ -7145,7 +7145,7 @@ var app = angular.module('err375', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p375_trubka_podvodyaschaya_245";
     $scope.productimg = "assets/img/729811558_trubka-podvodyaschaya-d.jpg";
     $scope.productname = "Трубка подводящая Д 245 ПАЗ";
@@ -7164,7 +7164,7 @@ var app = angular.module('err376', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p376_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/729814499_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 1-го цилиндра";
@@ -7183,7 +7183,7 @@ var app = angular.module('err377', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p377_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/729822945_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 2-го цилиндра";
@@ -7202,7 +7202,7 @@ var app = angular.module('err378', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p378_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/729826584_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 3-го цилиндра";
@@ -7221,7 +7221,7 @@ var app = angular.module('err379', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p379_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/732506702_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 4-го цилиндра";
@@ -7240,7 +7240,7 @@ var app = angular.module('err380', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p380_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/732507597_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 5-го цилиндра";
@@ -7259,7 +7259,7 @@ var app = angular.module('err381', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p381_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/732510259_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 260 6-го цилиндра";
@@ -7278,7 +7278,7 @@ var app = angular.module('err382', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p382_trubka_toplivnaya_vysokogo";
     $scope.productimg = "assets/img/732513173_trubka-toplivnaya-vysokogo.jpg";
     $scope.productname = "Трубка топливная высокого давления Д 245 1-го цилиндра";
@@ -7297,7 +7297,7 @@ var app = angular.module('err383', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p383_trubka_toplivnaya_nizkogo";
     $scope.productimg = "assets/img/469862526_trubka-toplivnaya-nizkogo.jpg";
     $scope.productname = "Трубка топливная низкого давления ПВХ со штуцером (короткая)";
@@ -7316,7 +7316,7 @@ var app = angular.module('err384', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p384_filtr_vozdushnyj_260";
     $scope.productimg = "assets/img/732517838_filtr-vozdushnyj-d.jpg";
     $scope.productname = "Фильтр воздушный Д 260, МТЗ 1221/100";
@@ -7335,7 +7335,7 @@ var app = angular.module('err385', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p385_filtr_vozdushnyj_260";
     $scope.productimg = "assets/img/732518713_filtr-vozdushnyj-d.jpg";
     $scope.productname = "Фильтр воздушный Д 260 (малый)";
@@ -7354,7 +7354,7 @@ var app = angular.module('err386', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p386_filtr_toplivnyj_gruboj";
     $scope.productimg = "assets/img/754962214_filtr-toplivnyj-gruboj.jpg";
     $scope.productname = "Фильтр топливный грубой очистки Д 240 МТЗ";
@@ -7373,7 +7373,7 @@ var app = angular.module('err387', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p387_filtr_toplivnyj_tonkoj";
     $scope.productimg = "assets/img/732520450_filtr-toplivnyj-tonkoj.jpg";
     $scope.productname = "Фильтр топливный тонкой очистки Д 260";
@@ -7392,7 +7392,7 @@ var app = angular.module('err388', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p388_forsunka_240243245";
     $scope.productimg = "assets/img/469862639_forsunka-d-240243245.jpg";
     $scope.productname = "Форсунка Д 240,243,245";
@@ -7411,7 +7411,7 @@ var app = angular.module('err389', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p389_homut_baka_toplivnogo";
     $scope.productimg = "assets/img/469862640_homut-baka-toplivnogo.jpg";
     $scope.productname = "Хомут бака топливного МТЗ";
@@ -7430,7 +7430,7 @@ var app = angular.module('err390', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p390_shtutser_obratki_mtz";
     $scope.productimg = "assets/img/469862641_shtutser-obratki-mtz.jpg";
     $scope.productname = "Штуцер обратки МТЗ";
@@ -7449,7 +7449,7 @@ var app = angular.module('err391', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p391_element_filtra_vozdushnyj";
     $scope.productimg = "assets/img/732529772_element-filtra-vozdushnyj.jpg";
     $scope.productname = "Элемент фильтра воздушный ЗИЛ 5301";
@@ -7468,7 +7468,7 @@ var app = angular.module('err392', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p392_element_filtra_vozdushnogo";
     $scope.productimg = "assets/img/732531621_element-filtra-vozdushnogo.jpg";
     $scope.productname = "Элемент фильтра воздушного МТЗ (мочалка)";
@@ -7487,7 +7487,7 @@ var app = angular.module('err393', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p393_element_filtra_toplivnogo";
     $scope.productimg = "assets/img/732533372_element-filtra-toplivnogo.jpg";
     $scope.productname = "Элемент фильтра топливного тонкой очистки ЗИЛ 5301 МТЗ";
@@ -7506,7 +7506,7 @@ var app = angular.module('err394', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p394_element_filtra_toplivnogo";
     $scope.productimg = "assets/img/732536605_element-filtra-toplivnogo.jpg";
     $scope.productname = "Элемент фильтра топливного тонкой очистки ЗИЛ 5301 МТЗ";
@@ -7525,7 +7525,7 @@ var app = angular.module('err395', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p395_glushitel_mtz_yumz";
     $scope.productimg = "assets/img/732543448_glushitel-mtz-yumz.jpg";
     $scope.productname = "Глушитель МТЗ ЮМЗ короткий L=930 мм";
@@ -7544,7 +7544,7 @@ var app = angular.module('err396', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p396_bak_radiatora_mtz";
     $scope.productimg = "assets/img/721728059_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 1221 верхний";
@@ -7563,7 +7563,7 @@ var app = angular.module('err397', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p397_bak_radiatora_mtz";
     $scope.productimg = "assets/img/715886154_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 1221 нижний";
@@ -7582,7 +7582,7 @@ var app = angular.module('err398', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p398_ventilyator_sistemy_ohlazhdeniya";
     $scope.productimg = "assets/img/732557460_ventilyator-sistemy-ohlazhdeniya.jpg";
     $scope.productname = "Вентилятор системы охлаждения Д 260";
@@ -7601,7 +7601,7 @@ var app = angular.module('err399', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p399_kozhuh_radiatora_mtz";
     $scope.productimg = "assets/img/469862722_kozhuh-radiatora-mtz.jpg";
     $scope.productname = "Кожух радиатора МТЗ 80/82 (диффузор)";
@@ -7620,7 +7620,7 @@ var app = angular.module('err400', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p400_korpus_termostata_mtz";
     $scope.productimg = "assets/img/820058500_korpus-termostata-mtz.jpg";
     $scope.productname = "Корпус термостата МТЗ";
@@ -7639,7 +7639,7 @@ var app = angular.module('err401', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p401_krylchatka_vodyanogo_nasosa";
     $scope.productimg = "assets/img/732568903_krylchatka-vodyanogo-nasosa.jpg";
     $scope.productname = "Крыльчатка водяного насоса А-41";
@@ -7658,7 +7658,7 @@ var app = angular.module('err402', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p402_krylchatka_nasosa_vod";
     $scope.productimg = "assets/img/732571920_krylchatka-nasosa-vod.jpg";
     $scope.productname = "Крыльчатка насоса вод. СМД 18-22 нового образца";
@@ -7677,7 +7677,7 @@ var app = angular.module('err403', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p403_krylchatka_vodyanogo_nasosa";
     $scope.productimg = "assets/img/469862742_krylchatka-vodyanogo-nasosa.jpg";
     $scope.productname = "Крыльчатка водяного насоса СМД 60 нового образца";
@@ -7696,7 +7696,7 @@ var app = angular.module('err404', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p404_kryshka_radiatora_mtz";
     $scope.productimg = "assets/img/732574156_kryshka-radiatora-mtz.jpg";
     $scope.productname = "Крышка радиатора МТЗ ЮМЗ";
@@ -7715,7 +7715,7 @@ var app = angular.module('err405', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p405_nasos_vodyanoj_2459e230e2";
     $scope.productimg = "assets/img/732598859_nasos-vodyanoj-d.jpg";
     $scope.productname = "Насос водяной Д 245.9Е2,30Е2 МАЗ 4370 (со шкивом)";
@@ -7734,7 +7734,7 @@ var app = angular.module('err406', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p406_nasos_vodyanoj_24500";
     $scope.productimg = "assets/img/732601383_nasos-vodyanoj-d.jpg";
     $scope.productname = "Насос водяной Д 245Е2, МТЗ 1025";
@@ -7753,7 +7753,7 @@ var app = angular.module('err407', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p407_nasos_vodyanoj_260";
     $scope.productimg = "assets/img/732608472_nasos-vodyanoj-d.jpg";
     $scope.productname = "Насос водяной Д 260 без термодатчика";
@@ -7772,7 +7772,7 @@ var app = angular.module('err408', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p408_nasos_vodyanoj_260";
     $scope.productimg = "assets/img/732610416_nasos-vodyanoj-d.jpg";
     $scope.productname = "Насос водяной Д 260 с термодатчиком и шкивом";
@@ -7791,7 +7791,7 @@ var app = angular.module('err409', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p409_natyazhitel_260_mtz";
     $scope.productimg = "assets/img/469057080_natyazhitel-d-260.jpg";
     $scope.productname = "Натяжитель Д 260 МТЗ 1221, 1523, 1522";
@@ -7810,7 +7810,7 @@ var app = angular.module('err410', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p410_patrubok_nasosa_vodyanogo";
     $scope.productimg = "assets/img/813757207_patrubok-nasosa-vodyanogo.jpg";
     $scope.productname = "Патрубок насоса водяного Д 240 МТЗ";
@@ -7829,7 +7829,7 @@ var app = angular.module('err411', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p411_patrubok_nasosa_vodyanogo";
     $scope.productimg = "assets/img/469862832_patrubok-nasosa-vodyanogo.jpg";
     $scope.productname = "Патрубок насоса водяного Д 245 МАЗ 4370,ЗИЛ 5301 (пр-во ММЗ)";
@@ -7848,7 +7848,7 @@ var app = angular.module('err412', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p412_patrubok_nasosa_vodyanogo";
     $scope.productimg = "assets/img/721737822_patrubok-nasosa-vodyanogo.jpg";
     $scope.productname = "Патрубок насоса водяного Д 260 МТЗ 1221";
@@ -7867,7 +7867,7 @@ var app = angular.module('err413', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p413_patrubok_nasosa_vodyanogo";
     $scope.productimg = "assets/img/469862834_patrubok-nasosa-vodyanogo.jpg";
     $scope.productname = "Патрубок насоса водяного со штуцером (пр-во ММЗ)";
@@ -7886,7 +7886,7 @@ var app = angular.module('err414', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p414_patrubok_radiatora_mtz";
     $scope.productimg = "assets/img/732618736_patrubok-radiatora-mtz.jpg";
     $scope.productname = "Патрубок радиатора МТЗ L=130 нижний";
@@ -7905,7 +7905,7 @@ var app = angular.module('err415', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p415_patrubok_radiatora_mtz";
     $scope.productimg = "assets/img/732620425_patrubok-radiatora-mtz.jpg";
     $scope.productname = "Патрубок радиатора МТЗ L=270 верхний";
@@ -7924,7 +7924,7 @@ var app = angular.module('err416', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p416_patrubok_termostata_rezinovyj";
     $scope.productimg = "assets/img/732621776_patrubok-termostata-rezinovyj.jpg";
     $scope.productname = "Патрубок термостата резиновый МТЗ Д 243";
@@ -7943,7 +7943,7 @@ var app = angular.module('err417', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p417_prokladka_korpusa_termostata";
     $scope.productimg = "assets/img/732623766_prokladka-korpusa-termostata.jpg";
     $scope.productname = "Прокладка корпуса термостата МТЗ";
@@ -7962,7 +7962,7 @@ var app = angular.module('err418', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p418_prokladka_nasosa_vodyanogo";
     $scope.productimg = "assets/img/732629619_prokladka-nasosa-vodyanogo.jpg";
     $scope.productname = "Прокладка насоса водяного Д 260";
@@ -7981,7 +7981,7 @@ var app = angular.module('err419', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p419_prokladka_patrubka_vodyanogo";
     $scope.productimg = "assets/img/732632012_prokladka-patrubka-vodyanogo.jpg";
     $scope.productname = "Прокладка патрубка водяного МТЗ";
@@ -8000,7 +8000,7 @@ var app = angular.module('err420', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p420_radiator_vodyanoj_mtz";
     $scope.productimg = "assets/img/469057270_radiator-vodyanoj-mtz.jpg";
     $scope.productname = "Радиатор водяной МТЗ 1221 (4-х рядный)";
@@ -8019,7 +8019,7 @@ var app = angular.module('err421', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p421_radiator_vodogo_ohlazhdeniya";
     $scope.productimg = "assets/img/721735448_radiator-vodogo-ohlazhdeniya.jpg";
     $scope.productname = "Радиатор водого охлаждения МТЗ 1221,-1222 с дв.Д 260.2 (5-х рядн.)";
@@ -8038,7 +8038,7 @@ var app = angular.module('err422', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p422_radiator_vodyanoj_mtz";
     $scope.productimg = "assets/img/732639944_radiator-vodyanoj-mtz.jpg";
     $scope.productname = "Радиатор водяной МТЗ Т 70 , Д 240, 243 (4-х рядный)";
@@ -8057,7 +8057,7 @@ var app = angular.module('err423', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p423_radiator_vodyanoj_mtz";
     $scope.productimg = "assets/img/489464295_radiator-vodyanoj-mtz.jpg";
     $scope.productname = "Радиатор водяной МТЗ (4-х рядный) алюминевый с металическими бачками";
@@ -8076,7 +8076,7 @@ var app = angular.module('err424', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p424_serdtsevina_radiatora_mtz";
     $scope.productimg = "assets/img/808687585_serdtsevina-radiatora-mtz.jpg";
     $scope.productname = "Сердцевина радиатора МТЗ, Т 70 (4-х рядная)";
@@ -8095,7 +8095,7 @@ var app = angular.module('err425', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p425_serdtsevina_radiatora_mtz";
     $scope.productimg = "assets/img/732693937_serdtsevina-radiatora-mtz.jpg";
     $scope.productname = "Сердцевина радиатора МТЗ, Т 70 5-и рядн. (медь)";
@@ -8114,7 +8114,7 @@ var app = angular.module('err426', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p426_stupitsa_shkiva_vodyanogo";
     $scope.productimg = "assets/img/732695837_stupitsa-shkiva-vodyanogo.jpg";
     $scope.productname = "Ступица шкива водяного насоса нового образца";
@@ -8133,7 +8133,7 @@ var app = angular.module('err427', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p427_termostat_zil_5301";
     $scope.productimg = "assets/img/1065232931_termostat-zil-5301.jpg";
     $scope.productname = "Термостат ЗИЛ 5301 МТЗ (t 87 градусов)";
@@ -8152,7 +8152,7 @@ var app = angular.module('err428', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p428_truba_perednyaya_260";
     $scope.productimg = "assets/img/732840748_truba-perednyaya-d.jpg";
     $scope.productname = "Труба передняя Д 260";
@@ -8171,7 +8171,7 @@ var app = angular.module('err429', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p429_fiksator_zadnej_ramki";
     $scope.productimg = "assets/img/732843011_fiksator-zadnej-ramki.jpg";
     $scope.productname = "Фиксатор задней рамки МТЗ";
@@ -8190,7 +8190,7 @@ var app = angular.module('err430', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p430_shkiv_vodyanogo_nasosa";
     $scope.productimg = "assets/img/732849633_shkiv-vodyanogo-nasosa.jpg";
     $scope.productname = "Шкив водяного насоса Д 240";
@@ -8209,7 +8209,7 @@ var app = angular.module('err431', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p431_shtorka_radiatora_mtz";
     $scope.productimg = "assets/img/820054694_shtorka-radiatora-mtz.jpg";
     $scope.productname = "Шторка радиатора МТЗ";
@@ -8228,7 +8228,7 @@ var app = angular.module('err432', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p432_korpus_filtra_maslyanogo";
     $scope.productimg = "assets/img/733812601_korpus-filtra-maslyanogo.jpg";
     $scope.productname = "Корпус фильтра масляного ФМ-009";
@@ -8247,7 +8247,7 @@ var app = angular.module('err433', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p433_maslopriemnik_243_mtz";
     $scope.productimg = "assets/img/819973446_maslopriemnik-d-243.jpg";
     $scope.productname = "Маслоприемник Д 243 МТЗ";
@@ -8266,7 +8266,7 @@ var app = angular.module('err434', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p434_nasos_maslyanyj_243";
     $scope.productimg = "assets/img/813948444_nasos-maslyanyj-d.jpg";
     $scope.productname = "Насос масляный Д 243 Z=36 МТЗ";
@@ -8285,7 +8285,7 @@ var app = angular.module('err435', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p435_nasos_maslyanyj_245";
     $scope.productimg = "assets/img/469863052_nasos-maslyanyj-d.jpg";
     $scope.productname = "Насос масляный Д 245 Z=28 МТЗ";
@@ -8304,7 +8304,7 @@ var app = angular.module('err436', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p436_patrubok_radiatora_maslyanogo";
     $scope.productimg = "assets/img/816489661_patrubok-radiatora-maslyanogo.jpg";
     $scope.productname = "Патрубок радиатора масляного МТЗ";
@@ -8323,7 +8323,7 @@ var app = angular.module('err437', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p437_probka_kartera_maslyanogo";
     $scope.productimg = "assets/img/733831693_probka-kartera-maslyanogo.jpg";
     $scope.productname = "Пробка картера масляного МТЗ";
@@ -8342,7 +8342,7 @@ var app = angular.module('err438', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p438_prokladka_kartera_maslyanogo";
     $scope.productimg = "assets/img/733835283_prokladka-kartera-maslyanogo.jpg";
     $scope.productname = "Прокладка картера масляного МТЗ";
@@ -8361,7 +8361,7 @@ var app = angular.module('err439', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p439_prokladka_kolpaka_filtra";
     $scope.productimg = "assets/img/469863066_prokladka-kolpaka-filtra.jpg";
     $scope.productname = "Прокладка колпака фильтра центробежного Д 240 243";
@@ -8380,7 +8380,7 @@ var app = angular.module('err440', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p440_prokladka_korpusa_filtra";
     $scope.productimg = "assets/img/469863067_prokladka-korpusa-filtra.jpg";
     $scope.productname = "Прокладка корпуса фильтра центробежного Д 240,243";
@@ -8399,7 +8399,7 @@ var app = angular.module('err441', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p441_filtr_maslyanogo_radiatora";
     $scope.productimg = "assets/img/816479529_filtr-maslyanogo-radiatora.jpg";
     $scope.productname = "Фильтр масляного радиатора МТЗ";
@@ -8418,7 +8418,7 @@ var app = angular.module('err442', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p442_shtutser_gidroarmatury_mtz";
     $scope.productimg = "assets/img/822413344_shtutser-gidroarmatury-mtz.jpg";
     $scope.productname = "Штуцер гидроарматуры МТЗ";
@@ -8437,7 +8437,7 @@ var app = angular.module('err443', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p443_element_filtra_maslyanogo";
     $scope.productimg = "assets/img/469863080_element-filtra-maslyanogo.jpg";
     $scope.productname = "Элемент фильтра масляного Амкодор очитстки масла";
@@ -8456,7 +8456,7 @@ var app = angular.module('err444', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p444_element_filtra_maslyanogo";
     $scope.productimg = "assets/img/733864049_element-filtra-maslyanogo.jpg";
     $scope.productname = "Элемент фильтра масляного МТЗ Д 260";
@@ -8475,7 +8475,7 @@ var app = angular.module('err445', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p445_val_veduschij_privoda";
     $scope.productimg = "assets/img/540189305_val-veduschij-privoda.jpg";
     $scope.productname = "Вал ведущий привода ВОМ МТЗ 80/82 Z=18/25";
@@ -8494,7 +8494,7 @@ var app = angular.module('err446', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p446_val_vilki_vyklyucheniya";
     $scope.productimg = "assets/img/489464941_val-vilki-vyklyucheniya.jpg";
     $scope.productname = "Вал вилки выключения сцепления МТЗ";
@@ -8513,7 +8513,7 @@ var app = angular.module('err447', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p447_val_privoda_vom";
     $scope.productimg = "assets/img/469057415_val-privoda-vom.jpg";
     $scope.productname = "Вал привода ВОМ МТЗ 1221 L=230";
@@ -8532,7 +8532,7 @@ var app = angular.module('err448', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p448_val_silovoj_stsepleniya";
     $scope.productimg = "assets/img/469057416_val-silovoj-stsepleniya.jpg";
     $scope.productname = "Вал силовой сцепления МТЗ 1221";
@@ -8551,7 +8551,7 @@ var app = angular.module('err449', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p449_vilka_rychaga_nazhimnogo";
     $scope.productimg = "assets/img/469863106_vilka-rychaga-nazhimnogo.jpg";
     $scope.productname = "Вилка рычага нажимного сцепления МТЗ";
@@ -8570,7 +8570,7 @@ var app = angular.module('err450', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p450_vilka_tyagi_upravleniya";
     $scope.productimg = "assets/img/733877797_vilka-tyagi-upravleniya.jpg";
     $scope.productname = "Вилка тяги управления тормозами, ВОМ, сцеплением МТЗ";
@@ -8589,7 +8589,7 @@ var app = angular.module('err451', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p451_vint_regulirovochnyj_mtz";
     $scope.productimg = "assets/img/469863109_vint-regulirovochnyj-mtz.jpg";
     $scope.productname = "Винт регулировочный МТЗ";
@@ -8608,7 +8608,7 @@ var app = angular.module('err452', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p452_vtulka_vala_stsepleniya";
     $scope.productimg = "assets/img/733902735_vtulka-vala-stsepleniya.jpg";
     $scope.productname = "Втулка вала сцепления МТЗ";
@@ -8627,7 +8627,7 @@ var app = angular.module('err453', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p453_vtulka_korpusa_stsepleniya";
     $scope.productimg = "assets/img/733905334_vtulka-korpusa-stsepleniya.jpg";
     $scope.productname = "Втулка корпуса сцепления и управления тормозами МТЗ";
@@ -8646,7 +8646,7 @@ var app = angular.module('err454', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p454_vtulka_paltsa_mahovika";
     $scope.productimg = "assets/img/822417575_vtulka-paltsa-mahovika.jpg";
     $scope.productname = "Втулка пальца маховика Д 240, Д 245, Д 260 МТЗ";
@@ -8665,7 +8665,7 @@ var app = angular.module('err455', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p455_vtulka_podshipnikov_stsepleniya";
     $scope.productimg = "assets/img/733909464_vtulka-podshipnikov-stsepleniya.jpg";
     $scope.productname = "Втулка подшипников сцепления МТЗ 80/82 упорная";
@@ -8684,7 +8684,7 @@ var app = angular.module('err456', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p456_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/772368503_disk-stsepleniya-nazhimnoj.jpg";
     $scope.productname = "Диск сцепления нажимной Д 245.5 МТЗ в сборе (корзина)";
@@ -8703,7 +8703,7 @@ var app = angular.module('err457', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p457_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/469863168_disk-stsepleniya-nazhimnoj.jpg";
     $scope.productname = "Диск сцепления нажимной МТЗ 1025 (двигатель Д 245) в сборе (корзина)";
@@ -8722,7 +8722,7 @@ var app = angular.module('err458', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p458_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/469057417_disk-stsepleniya-nazhimnoj.jpg";
     $scope.productname = "Диск сцепления нажимной МТЗ 1221";
@@ -8741,7 +8741,7 @@ var app = angular.module('err459', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p459_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/469057419_disk-stsepleniya-nazhimnoj.jpg";
     $scope.productimg = "assets/img/715918294_disk-stsepleniya-nazhimnoj.jpg";
@@ -8761,7 +8761,7 @@ var app = angular.module('err460', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p460_disk_stsepleniya_opornyj";
     $scope.productimg = "assets/img/469863176_disk-stsepleniya-opornyj.jpg";
     $scope.productname = "Диск сцепления опорный МТЗ (корзина усиленная)";
@@ -8780,7 +8780,7 @@ var app = angular.module('err461', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p461_disk_stsepleniya_opornyj";
     $scope.productimg = "assets/img/469863177_disk-stsepleniya-opornyj.jpg";
     $scope.productname = "Диск сцепления опорный МТЗ";
@@ -8799,7 +8799,7 @@ var app = angular.module('err462', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p462_disk_stsepleniya_opornyj";
     $scope.productimg = "assets/img/715960326_disk-stsepleniya-opornyj.jpg";
     $scope.productname = "Диск сцепления опорный МТЗ 1221";
@@ -8818,7 +8818,7 @@ var app = angular.module('err463', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p463_disk_stsepleniya_srednij";
     $scope.productimg = "assets/img/469863178_disk-stsepleniya-srednij.jpg";
     $scope.productname = "Диск сцепления средний МТЗ 100 1221 (голый)";
@@ -8837,7 +8837,7 @@ var app = angular.module('err464', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p464_disk_stsepleniya_srednij";
     $scope.productimg = "assets/img/469057502_disk-stsepleniya-srednij.jpg";
     $scope.productname = "Диск сцепления средний МТЗ 1221";
@@ -8856,7 +8856,7 @@ var app = angular.module('err465', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p465_disk_stsepleniya_srednij";
     $scope.productimg = "assets/img/469863175_disk-stsepleniya-srednij.jpg";
     $scope.productname = "Диск сцепления средний МТЗ 1221 в сборе (с пружиной)";
@@ -8875,7 +8875,7 @@ var app = angular.module('err466', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p466_koltso_vala_privoda";
     $scope.productimg = "assets/img/733956010_koltso-vala-privoda.jpg";
     $scope.productname = "Кольцо вала привода резиновое ( сцепления) МТЗ";
@@ -8894,7 +8894,7 @@ var app = angular.module('err467', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p467_koltso_vtulki_upornoj";
     $scope.productimg = "assets/img/733957751_koltso-vtulki-upornoj.jpg";
     $scope.productname = "Кольцо втулки упорной МТЗ";
@@ -8913,7 +8913,7 @@ var app = angular.module('err468', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p468_korpus_stsepleniya_golyj";
     $scope.productimg = "assets/img/733960443_korpus-stsepleniya-golyj.jpg";
     $scope.productname = "Корпус сцепления голый под стартер МТЗ";
@@ -8932,7 +8932,7 @@ var app = angular.module('err469', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p469_kronshtejn_mufty_stsepleniya";
     $scope.productimg = "assets/img/788480260_kronshtejn-mufty-stsepleniya.jpg";
     $scope.productname = "Кронштейн муфты сцепления МТЗ 80/82";
@@ -8951,7 +8951,7 @@ var app = angular.module('err470', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p470_kronshtejn_otvodki_mtz";
     $scope.productimg = "assets/img/733963205_kronshtejn-otvodki-mtz.jpg";
     $scope.productname = "Кронштейн отводки МТЗ";
@@ -8970,7 +8970,7 @@ var app = angular.module('err471', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p471_kronshtejn_privoda_vyklyucheniya";
     $scope.productimg = "assets/img/733966319_kronshtejn-privoda-vyklyucheniya.jpg";
     $scope.productname = "Кронштейн привода выключения сцепления МТЗ старого образца";
@@ -8989,7 +8989,7 @@ var app = angular.module('err472', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p472_kryshka_korpusa_stsepleniya";
     $scope.productimg = "assets/img/733968093_kryshka-korpusa-stsepleniya.jpg";
     $scope.productname = "Крышка корпуса сцепления нижняя МТЗ";
@@ -9008,7 +9008,7 @@ var app = angular.module('err473', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p473_kryshka_podshipnika_privoda";
     $scope.productimg = "assets/img/733970088_kryshka-podshipnika-privoda.jpg";
     $scope.productname = "Крышка подшипника привода ВОМ МТЗ 80/82";
@@ -9027,7 +9027,7 @@ var app = angular.module('err474', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p474_kryshka_stsepleniya_mtz";
     $scope.productimg = "assets/img/733971769_kryshka-stsepleniya-mtz.jpg";
     $scope.productname = "Крышка сцепления МТЗ";
@@ -9046,7 +9046,7 @@ var app = angular.module('err475', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p475_nakladka_pedali_upravleniya";
     $scope.productimg = "assets/img/469863261_nakladka-pedali-upravleniya.jpg";
     $scope.productname = "Накладка педали управления сцеплением МТЗ";
@@ -9065,7 +9065,7 @@ var app = angular.module('err476', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p476_rychaga_otzhimnogo_korziny";
     $scope.productimg = "assets/img/469057504_os-rychaga-otzhimnogo.jpg";
     $scope.productname = "Ось рычага отжимного корзины МТЗ 1221 1522 1523";
@@ -9084,7 +9084,7 @@ var app = angular.module('err477', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p477_shesterni_privoda_vom";
     $scope.productimg = "assets/img/489465373_os-shesterni-privoda.jpg";
     $scope.productname = "Ось шестерни привода ВОМ МТЗ 80/82";
@@ -9103,7 +9103,7 @@ var app = angular.module('err478', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p478_otvodka_stsepleniya_mtz";
     $scope.productimg = "assets/img/469863264_otvodka-stsepleniya-mtz.jpg";
     $scope.productname = "Отводка сцепления МТЗ без подшипника";
@@ -9122,7 +9122,7 @@ var app = angular.module('err479', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p479_otvodka_stsepleniya_mtz";
     $scope.productimg = "assets/img/733989963_otvodka-stsepleniya-mtz.jpg";
     $scope.productname = "Отводка сцепления МТЗ с подшипником в сборе";
@@ -9141,7 +9141,7 @@ var app = angular.module('err480', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p480_palets_8h65_ost";
     $scope.productimg = "assets/img/733995902_palets-8h65-ost.jpg";
     $scope.productname = "Палец 8х65 ОСТ 37.001.163-75 МТЗ";
@@ -9160,7 +9160,7 @@ var app = angular.module('err481', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p481_palets_rychaga_stsepleniya";
     $scope.productimg = "assets/img/469863279_palets-rychaga-stsepleniya.jpg";
     $scope.productname = "Палец рычага сцепления МТЗ";
@@ -9179,7 +9179,7 @@ var app = angular.module('err482', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p482_palets_rychaga_stsepleniya";
     $scope.productimg = "assets/img/734002458_palets-rychaga-stsepleniya.jpg";
     $scope.productname = "Палец рычага сцепления МТЗ старого образца";
@@ -9198,7 +9198,7 @@ var app = angular.module('err483', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p483_plastina_diska_veduschego";
     $scope.productimg = "assets/img/469863308_plastina-diska-veduschego.jpg";
     $scope.productname = "Пластина диска ведущего МТЗ";
@@ -9217,7 +9217,7 @@ var app = angular.module('err484', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p484_plastina_korpusa_stsepleniya";
     $scope.productimg = "assets/img/469863309_plastina-korpusa-stsepleniya.jpg";
     $scope.productname = "Пластина корпуса сцепления МТЗ";
@@ -9236,7 +9236,7 @@ var app = angular.module('err485', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p485_pruzhina_diska_stsepleniya";
     $scope.productimg = "assets/img/734040066_pruzhina-diska-stsepleniya.jpg";
     $scope.productname = "Пружина диска сцепления (корзина) МТЗ";
@@ -9255,7 +9255,7 @@ var app = angular.module('err486', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p486_pruzhina_rychaga_stsepleniya";
     $scope.productimg = "assets/img/734041741_pruzhina-rychaga-stsepleniya.jpg";
     $scope.productname = "Пружина рычага сцепления МТЗ нового образца";
@@ -9274,7 +9274,7 @@ var app = angular.module('err487', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p487_pruzhina_rychaga_stsepleniya";
     $scope.productimg = "assets/img/734071364_pruzhina-rychaga-stsepleniya.jpg";
     $scope.productname = "Пружина рычага сцепления МТЗ старого образца";
@@ -9293,7 +9293,7 @@ var app = angular.module('err488', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p488_pruzhina_upravleniya_stsepleniem";
     $scope.productimg = "assets/img/788650708_pruzhina-upravleniya-stsepleniem.jpg";
     $scope.productname = "Пружина управления сцеплением МТЗ 80/82";
@@ -9312,7 +9312,7 @@ var app = angular.module('err489', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p489_pruzhina_upravleniya_stsepleniem";
     $scope.productimg = "assets/img/734046632_pruzhina-upravleniya-stsepleniem.jpg";
     $scope.productname = "Пружина управления сцеплением, ВОМ, тормозами, раздататочной коробкой МТЗ";
@@ -9331,7 +9331,7 @@ var app = angular.module('err490', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p490_rychag_vklyucheniya_stsepleniya";
     $scope.productimg = "assets/img/734049168_rychag-vklyucheniya-stsepleniya.jpg";
     $scope.productname = "Рычаг включения сцепления МТЗ";
@@ -9350,7 +9350,7 @@ var app = angular.module('err491', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p491_rychag_otzhimnoj_sbore";
     $scope.productimg = "assets/img/734057136_rychag-otzhimnoj-v.jpg";
     $scope.productname = "Рычаг отжимной в сборе нового образца МТЗ";
@@ -9369,7 +9369,7 @@ var app = angular.module('err492', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p492_rychag_otzhimnoj_stsepleniya";
     $scope.productimg = "assets/img/716897740_rychag-otzhimnoj-stsepleniya.jpg";
     $scope.productname = "Рычаг отжимной сцепления МТЗ 1221-1523";
@@ -9388,7 +9388,7 @@ var app = angular.module('err493', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p493_suhar_stsepleniya_mtz";
     $scope.productimg = "assets/img/469057503_suhar-stsepleniya-mtz.jpg";
     $scope.productname = "Сухарь сцепления МТЗ 1221-1523";
@@ -9407,7 +9407,7 @@ var app = angular.module('err494', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p494_truba_shkvornya_mtz";
     $scope.productimg = "assets/img/734074410_truba-shkvornya-mtz.jpg";
     $scope.productname = "Труба шкворня МТЗ";
@@ -9426,7 +9426,7 @@ var app = angular.module('err495', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p495_upor_privoda_vyklyucheniya";
     $scope.productimg = "assets/img/734076522_upor-privoda-vyklyucheniya.jpg";
     $scope.productname = "Упор привода выключения сцепления МТЗ";
@@ -9445,7 +9445,7 @@ var app = angular.module('err496', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p496_tsilindr_stsepleniya_rabochij";
     $scope.productimg = "assets/img/734077380_tsilindr-stsepleniya-rabochij.jpg";
     $scope.productname = "Цилиндр сцепления рабочий МТЗ";
@@ -9464,7 +9464,7 @@ var app = angular.module('err497', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p497_shesternya_privoda_vom";
     $scope.productimg = "assets/img/884633363_shesternya-privoda-vom.jpg";
     $scope.productname = "Шестерня привода ВОМ Z=39 МТЗ 80/82";
@@ -9483,7 +9483,7 @@ var app = angular.module('err498', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p498_shesternya_vedomaya_privoda";
     $scope.productimg = "assets/img/884643202_shesternya-vedomaya-privoda.jpg";
     $scope.productname = "Шестерня ведомая привода ВОМ Z=47 МТЗ 80/82";
@@ -9502,7 +9502,7 @@ var app = angular.module('err499', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p499_shesternya_promezhutochnaya_mtz";
     $scope.productimg = "assets/img/734087015_shesternya-promezhutochnaya-mtz.jpg";
     $scope.productname = "Шестерня промежуточная МТЗ Z=24";
@@ -9521,7 +9521,7 @@ var app = angular.module('err500', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p500_shesternya_promezhutochnaya_vom";
     $scope.productimg = "assets/img/734102207_shesternya-promezhutochnaya-vom.jpg";
     $scope.productname = "Шестерня промежуточная ВОМ МТЗ 80/82 Z=27";
@@ -9540,7 +9540,7 @@ var app = angular.module('err501', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p501_shesternya_stsepleniya_shlitsami";
     $scope.productimg = "assets/img/772379407_shesternya-stsepleniya-so.jpg";
     $scope.productname = "Шестерня сцепления со шлицами нового образца Z=32 МТЗ 1025-2022";
@@ -9559,7 +9559,7 @@ var app = angular.module('err502', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p502_shponka_vilki_stsepleniya";
     $scope.productimg = "assets/img/734107618_shponka-vilki-stsepleniya.jpg";
     $scope.productname = "Шпонка вилки сцепления МТЗ";
@@ -9578,7 +9578,7 @@ var app = angular.module('err503', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p503_val_peredachi_zadnego";
     $scope.productimg = "assets/img/734183146_val-1-j-peredachi.jpg";
     $scope.productname = "Вал 1-й передачи и заднего хода МТЗ";
@@ -9597,7 +9597,7 @@ var app = angular.module('err504', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p504_val_bloka_shesteren";
     $scope.productimg = "assets/img/734190411_val-bloka-shesteren.jpg";
     $scope.productname = "Вал блока шестерен КПП Z=17 шл.=16/22";
@@ -9616,7 +9616,7 @@ var app = angular.module('err505', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p505_val_vtorichnyj_kpp";
     $scope.productimg = "assets/img/734195153_val-vtorichnyj-kpp.jpg";
     $scope.productname = "Вал вторичный КПП МТЗ с гайкой";
@@ -9635,7 +9635,7 @@ var app = angular.module('err506', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p506_val_pervichnyj_mtz";
     $scope.productimg = "assets/img/734201496_val-pervichnyj-mtz.jpg";
     $scope.productname = "Вал первичный МТЗ 900,920,950,952";
@@ -9654,7 +9654,7 @@ var app = angular.module('err507', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p507_val_ponizhennyh_peredach";
     $scope.productimg = "assets/img/734204108_val-ponizhennyh-peredach.jpg";
     $scope.productname = "Вал пониженных передач КПП МТЗ 1221";
@@ -9673,7 +9673,7 @@ var app = angular.module('err508', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p508_val_promezhutochnyj_kpp";
     $scope.productimg = "assets/img/734210629_val-promezhutochnyj-kpp.jpg";
     $scope.productname = "Вал промежуточный КПП МТЗ под синхронизатор и реверс";
@@ -9692,7 +9692,7 @@ var app = angular.module('err509', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p509_val_silovoj_stsepleniya";
     $scope.productimg = "assets/img/734215780_val-silovoj-stsepleniya.jpg";
     $scope.productname = "Вал силовой сцепления Т 70";
@@ -9711,7 +9711,7 @@ var app = angular.module('err510', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p510_val_upravleniya_kpp";
     $scope.productimg = "assets/img/734218125_val-upravleniya-kpp.jpg";
     $scope.productname = "Вал управления КПП бокового управления МТЗ";
@@ -9730,7 +9730,7 @@ var app = angular.module('err511', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p511_val_upravleniya_kpp";
     $scope.productimg = "assets/img/827069028_val-upravleniya-kpp.jpg";
     $scope.productname = "Вал управления КПП нового образца МТЗ (боковое включение)";
@@ -9749,7 +9749,7 @@ var app = angular.module('err512', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p512_vilka_kpp_mtz";
     $scope.productimg = "assets/img/734226146_vilka-kpp-mtz.jpg";
     $scope.productname = "Вилка КПП МТЗ 900 952 2-й и 3-й передачи";
@@ -9768,7 +9768,7 @@ var app = angular.module('err513', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p513_vilka_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/734228824_vilka-pereklyucheniya-1-j.jpg";
     $scope.productname = "Вилка переключения 1-й передачи МТЗ";
@@ -9787,7 +9787,7 @@ var app = angular.module('err514', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p514_vilka_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/734229576_vilka-pereklyucheniya-3-j.jpg";
     $scope.productname = "Вилка переключения 3-й передачи МТЗ";
@@ -9806,7 +9806,7 @@ var app = angular.module('err515', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p515_vilka_pereklyucheniya_peredachi";
     $scope.productimg = "assets/img/734231023_vilka-pereklyucheniya-4-j.jpg";
     $scope.productname = "Вилка переключения 4-й 5-й передачи МТЗ";
@@ -9825,7 +9825,7 @@ var app = angular.module('err516', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p516_vilka_pereklyucheniya_reduktora";
     $scope.productimg = "assets/img/734232042_vilka-pereklyucheniya-reduktora.jpg";
     $scope.productname = "Вилка переключения редуктора МТЗ";
@@ -9844,7 +9844,7 @@ var app = angular.module('err517', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p517_vtulka_podshipnika_vala";
     $scope.productimg = "assets/img/734235710_vtulka-podshipnika-vala.jpg";
     $scope.productname = "Втулка подшипника вала 1-й передачи и заднего хода МТЗ";
@@ -9863,7 +9863,7 @@ var app = angular.module('err518', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p518_vtulka_raspornaya_vala";
     $scope.productimg = "assets/img/734237464_vtulka-raspornaya-vala.jpg";
     $scope.productname = "Втулка распорная вала вторичного КПП МТЗ";
@@ -9882,7 +9882,7 @@ var app = angular.module('err519', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p519_vtulka_shesterni_vala";
     $scope.productimg = "assets/img/734238546_vtulka-shesterni-vala.jpg";
     $scope.productname = "Втулка шестерни вала промежуточного КПП МТЗ бронза";
@@ -9901,7 +9901,7 @@ var app = angular.module('err520', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p520_vtulka_shesterni_privoda";
     $scope.productimg = "assets/img/870726012_vtulka-shesterni-privoda.jpg";
     $scope.productname = "Втулка шестерни привода ходоуменьшителя МТЗ";
@@ -9920,7 +9920,7 @@ var app = angular.module('err521', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p521_gnezdo_vala_promezhutochnogo";
     $scope.productimg = "assets/img/734240874_gnezdo-vala-promezhutochnogo.jpg";
     $scope.productname = "Гнездо вала промежуточного МТЗ";
@@ -9939,7 +9939,7 @@ var app = angular.module('err522', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p522_gnezdo_podshipnika_kpp";
     $scope.productimg = "assets/img/734241429_gnezdo-podshipnika-kpp.jpg";
     $scope.productname = "Гнездо подшипника КПП МТЗ";
@@ -9958,7 +9958,7 @@ var app = angular.module('err523', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p523_gnezdo_podshipnika_reduktora";
     $scope.productimg = "assets/img/823958536_gnezdo-podshipnika-reduktora.jpg";
     $scope.productname = "Гнездо подшипника редуктора КПП МТЗ";
@@ -9977,7 +9977,7 @@ var app = angular.module('err524', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p524_datchik_davleniya_masla";
     $scope.productimg = "assets/img/716902186_datchik-davleniya-masla.jpg";
     $scope.productname = "Датчик давления масла МТЗ 1221";
@@ -9996,7 +9996,7 @@ var app = angular.module('err525', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p525_datchik_ukazatelya_urovnya";
     $scope.productimg = "assets/img/734243339_datchik-ukazatelya-urovnya.jpg";
     $scope.productname = "Датчик указателя уровня топлива МТЗ";
@@ -10015,7 +10015,7 @@ var app = angular.module('err526', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p526_korpus_vilok_golyj";
     $scope.productimg = "assets/img/768274320_korpus-vilok-golyj.jpg";
     $scope.productname = "Корпус вилок голый МТЗ";
@@ -10034,7 +10034,7 @@ var app = angular.module('err527', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p527_korpus_vilok_sbore";
     $scope.productimg = "assets/img/734255085_korpus-vilok-v.jpg";
     $scope.productname = "Корпус вилок в сборе МТЗ";
@@ -10053,7 +10053,7 @@ var app = angular.module('err528', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p528_korpus_vilok_sbore";
     $scope.productimg = "assets/img/768266266_korpus-vilok-v.jpg";
     $scope.productname = "Корпус вилок в сборе МТЗ 1221";
@@ -10072,7 +10072,7 @@ var app = angular.module('err529', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p529_korpus_kpp_mtz";
     $scope.productimg = "assets/img/734257020_korpus-kpp-mtz.jpg";
     $scope.productname = "Корпус КПП МТЗ (коробки передач)";
@@ -10091,7 +10091,7 @@ var app = angular.module('err530', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p530_krylchatka_kpp_mtz";
     $scope.productimg = "assets/img/734257857_krylchatka-kpp-mtz.jpg";
     $scope.productname = "Крыльчатка КПП МТЗ";
@@ -10110,7 +10110,7 @@ var app = angular.module('err531', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p531_kryshka_kpp_levaya";
     $scope.productimg = "assets/img/734258764_kryshka-kpp-levaya.jpg";
     $scope.productname = "Крышка КПП левая МТЗ";
@@ -10129,7 +10129,7 @@ var app = angular.module('err532', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p532_kryshka_kpp_novogo";
     $scope.productimg = "assets/img/734260634_kryshka-kpp-novogo.jpg";
     $scope.productname = "Крышка КПП нового образца в сборе без рычага (бокового управления) МТЗ";
@@ -10148,7 +10148,7 @@ var app = angular.module('err533', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p533_kryshka_mehanizma_pereklyucheniya";
     $scope.productimg = "assets/img/734263117_kryshka-mehanizma-pereklyucheniya.jpg";
     $scope.productname = "Крышка механизма переключения передач в сборе МТЗ";
@@ -10167,7 +10167,7 @@ var app = angular.module('err534', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p534_kryshka_upravleniya_reduktorom";
     $scope.productimg = "assets/img/734265693_kryshka-upravleniya-reduktorom.jpg";
     $scope.productname = "Крышка управления редуктором понижающим голая МТЗ";
@@ -10186,7 +10186,7 @@ var app = angular.module('err535', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p535_kulisa_kpp_mtz";
     $scope.productimg = "assets/img/734267127_kulisa-kpp-mtz.jpg";
     $scope.productname = "Кулиса КПП МТЗ";
@@ -10205,7 +10205,7 @@ var app = angular.module('err536', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p536_maslomer_mtz_ukazatel";
     $scope.productimg = "assets/img/734268837_maslomer-mtz-ukazatel.jpg";
     $scope.productname = "Масломер МТЗ указатель уровня масля в коробке передач";
@@ -10224,7 +10224,7 @@ var app = angular.module('err537', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p537_mufta_vala_promezhutochnogo";
     $scope.productimg = "assets/img/734270311_mufta-vala-promezhutochnogo.jpg";
     $scope.productname = "Муфта вала промежуточного МТЗ 1005 1025 1221";
@@ -10243,7 +10243,7 @@ var app = angular.module('err538', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p538_mufta_zubchataya_shl24";
     $scope.productimg = "assets/img/871252459_mufta-zubchataya-shl24.jpg";
     $scope.productname = "Муфта зубчатая шл=24 понижающего редуктора МТЗ 1025-3022";
@@ -10262,7 +10262,7 @@ var app = angular.module('err539', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p539_nasos_nmsh_gidrosila";
     $scope.productimg = "assets/img/734275970_nasos-nmsh-25-pr-vo.jpg";
     $scope.productname = "Насос НМШ-25 (пр-во Гидросила)";
@@ -10281,7 +10281,7 @@ var app = angular.module('err540', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p540_opora_mehanizma_pereklyucheniya";
     $scope.productimg = "assets/img/734276812_opora-mehanizma-pereklyucheniya.jpg";
     $scope.productname = "Опора механизма переключения КПП МТЗ";
@@ -10300,7 +10300,7 @@ var app = angular.module('err541', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p541_upravleniya_reduktorom_ponizhayuschim";
     $scope.productimg = "assets/img/871250072_os-upravleniya-reduktorom.jpg";
     $scope.productname = "Ось управления редуктором понижающим МТЗ с рычагом";
@@ -10319,7 +10319,7 @@ var app = angular.module('err542', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p542_shesterni_hoda_zadnego";
     $scope.productimg = "assets/img/734283601_os-shesterni-hoda.jpg";
     $scope.productname = "Ось шестерни хода заднего МТЗ";
@@ -10338,7 +10338,7 @@ var app = angular.module('err543', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p543_planka_kpp_mtz";
     $scope.productimg = "assets/img/871249739_planka-kpp-mtz.jpg";
     $scope.productname = "Планка КПП МТЗ замковая";
@@ -10357,7 +10357,7 @@ var app = angular.module('err544', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p544_plastina_mehanizma_pereklyucheniya";
     $scope.productimg = "assets/img/871249515_plastina-mehanizma-pereklyucheniya.jpg";
     $scope.productname = "Пластина механизма переключения передач МТЗ ограничительная";
@@ -10376,7 +10376,7 @@ var app = angular.module('err545', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p545_povodok_mehanizma_pereklyucheniya";
     $scope.productimg = "assets/img/830069446_povodok-mehanizma-pereklyucheniya.jpg";
     $scope.productname = "Поводок механизма переключения передач МТЗ";
@@ -10395,7 +10395,7 @@ var app = angular.module('err546', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p546_prokladka_regulirovochnaya_kpp";
     $scope.productimg = "assets/img/734287628_prokladka-regulirovochnaya-kpp.jpg";
     $scope.productname = "Прокладка регулировочная КПП МТЗ В=0,2мм";
@@ -10414,7 +10414,7 @@ var app = angular.module('err547', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p547_prokladka_regulirovochnaya_kpp";
     $scope.productimg = "assets/img/736775221_prokladka-regulirovochnaya-kpp.jpg";
     $scope.productname = "Прокладка регулировочная КПП МТЗ В=0,5мм";
@@ -10433,7 +10433,7 @@ var app = angular.module('err548', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p548_pylnik_rychaga_kpp";
     $scope.productimg = "assets/img/736770795_pylnik-rychaga-kpp.jpg";
     $scope.productname = "Пыльник рычага КПП МТЗ";
@@ -10452,7 +10452,7 @@ var app = angular.module('err549', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p549_ramka_pereklyucheniya_peredach";
     $scope.productimg = "assets/img/736768477_ramka-pereklyucheniya-peredach.jpg";
     $scope.productname = "Рамка переключения передач механическая МТЗ";
@@ -10471,7 +10471,7 @@ var app = angular.module('err550', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p550_rukoyatka_rychagov_upravleniya";
     $scope.productimg = "assets/img/738004937_rukoyatka-rychagov-upravleniya.jpg";
     $scope.productname = "Рукоятка рычагов управления МТЗ";
@@ -10490,7 +10490,7 @@ var app = angular.module('err551', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p551_rychag_kpp_mtz";
     $scope.productimg = "assets/img/738066748_rychag-kpp-mtz.jpg";
     $scope.productname = "Рычаг КПП МТЗ с боковым управлением (нового образца) МТЗ";
@@ -10509,7 +10509,7 @@ var app = angular.module('err552', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p552_rychag_kpp_mtz";
     $scope.productimg = "assets/img/738089331_rychag-kpp-mtz.jpg";
     $scope.productname = "Рычаг КПП МТЗ с центральным управлением";
@@ -10528,7 +10528,7 @@ var app = angular.module('err553', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p553_rychag_mehanicheskij_pereklyucheniya";
     $scope.productimg = "assets/img/738081684_rychag-mehanicheskij-pereklyucheniya.jpg";
     $scope.productname = "Рычаг механический переключения передач МТЗ";
@@ -10547,7 +10547,7 @@ var app = angular.module('err554', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p554_rychag_upravleniya_ponizhayuschim";
     $scope.productimg = "assets/img/831327307_rychag-upravleniya-ponizhayuschim.jpg";
     $scope.productname = "Рычаг управления понижающим редуктором (нового образца) МТЗ";
@@ -10566,7 +10566,7 @@ var app = angular.module('err555', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p555_sinhronizator_peredachi_kpp";
     $scope.productimg = "assets/img/831329453_sinhronizator-1j-2j-peredachi.jpg";
     $scope.productname = "Синхронизатор 1й-2й передачи КПП МТЗ 1025 1221 1522 1523";
@@ -10585,7 +10585,7 @@ var app = angular.module('err556', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p556_stakan_podshipnika_vala";
     $scope.productimg = "assets/img/738144566_stakan-podshipnika-vala.jpg";
     $scope.productname = "Стакан подшипника вала вторичного МТЗ (7610А)";
@@ -10604,7 +10604,7 @@ var app = angular.module('err557', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p557_stakan_podshipnika_vala";
     $scope.productimg = "assets/img/738146782_stakan-podshipnika-vala.jpg";
     $scope.productname = "Стакан подшипника вала первичного МТЗ";
@@ -10623,7 +10623,7 @@ var app = angular.module('err558', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p558_stakan_podshipnika_vala";
     $scope.productimg = "assets/img/738148617_stakan-podshipnika-vala.jpg";
     $scope.productname = "Стакан подшипника вала промежуточного МТЗ";
@@ -10642,7 +10642,7 @@ var app = angular.module('err559', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p559_upor_shajby_promezhutochnogo";
     $scope.productimg = "assets/img/738152704_upor-shajby-promezhutochnogo.jpg";
     $scope.productname = "Упор шайбы промежуточного вала МТЗ";
@@ -10661,7 +10661,7 @@ var app = angular.module('err560', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p560_upravlenie_ponizhayuschim_reduktorom";
     $scope.productimg = "assets/img/740233333_upravlenie-ponizhayuschim-reduktorom.jpg";
     $scope.productname = "Управление понижающим редуктором в сборе (нового образца) МТЗ";
@@ -10680,7 +10680,7 @@ var app = angular.module('err561', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p561_upravlenie_ponizhayuschim_reduktorom";
     $scope.productimg = "assets/img/740236137_upravlenie-ponizhayuschim-reduktorom.jpg";
     $scope.productname = "Управление понижающим редуктором в сборе (старого образца) МТЗ";
@@ -10699,7 +10699,7 @@ var app = angular.module('err562', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p562_sektsiya_maslyanogo_filtra";
     $scope.productimg = "assets/img/740238552_sektsiya-maslyanogo-filtra.jpg";
     $scope.productname = "Секция масляного фильтра МТЗ";
@@ -10718,7 +10718,7 @@ var app = angular.module('err563', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p563_chehol_rychaga_kpp";
     $scope.productimg = "assets/img/740241007_chehol-rychaga-kpp.jpg";
     $scope.productname = "Чехол рычага КПП МТЗ (нового образца)";
@@ -10737,7 +10737,7 @@ var app = angular.module('err564', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p564_shesternya_peredachi_zadnego";
     $scope.productimg = "assets/img/884642078_shesternya-1-j-peredachi.jpg";
     $scope.productname = "Шестерня 1-й передачи и заднего хода ведомая МТЗ Z=32";
@@ -10756,7 +10756,7 @@ var app = angular.module('err565', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p565_shesternya_peredachi_zadnego";
     $scope.productimg = "assets/img/884627712_shesternya-1j-peredachi.jpg";
     $scope.productname = "Шестерня 1й передачи и заднего хода МТЗ Z=17";
@@ -10775,7 +10775,7 @@ var app = angular.module('err566', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p566_shesternya_peredachi_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шестерня 3й передачи МТЗ Z=21";
@@ -10794,7 +10794,7 @@ var app = angular.module('err567', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p567_shesternya_peredachi_mtz";
     $scope.productimg = "assets/img/884641416_shesternya-3-j-peredachi.jpg";
     $scope.productname = "Шестерня 3-й передачи МТЗ Z=43";
@@ -10813,7 +10813,7 @@ var app = angular.module('err568', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p568_shesternya_peredachi_mtz";
     $scope.productimg = "assets/img/884629913_shesternya-4-5j-peredachi.jpg";
     $scope.productname = "Шестерня 4-5й передачи МТЗ Zб=27 Zм=24";
@@ -10832,7 +10832,7 @@ var app = angular.module('err569', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p569_shesternya_peredachi_mtz";
     $scope.productimg = "assets/img/884639987_shesternya-4j-peredachi.jpg";
     $scope.productname = "Шестерня 4й передачи МТЗ Z=40";
@@ -10851,7 +10851,7 @@ var app = angular.module('err570', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p570_shesternya_peredachi_zadnego";
     $scope.productimg = "assets/img/884640693_shesternya-5j-peredachi.jpg";
     $scope.productname = "Шестерня 5й передачи и заднего хода МТЗ Z=38/19";
@@ -10870,7 +10870,7 @@ var app = angular.module('err571', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p571_shesternya_vala_pervichnogo";
     $scope.productimg = "assets/img/740397685_shesternya-vala-pervichnogo.jpg";
     $scope.productname = "Шестерня вала первичного (Z=21) КПП МТЗ 1025";
@@ -10889,7 +10889,7 @@ var app = angular.module('err572', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p572_shesternya_vala_pervichnogo";
     $scope.productimg = "assets/img/716928321_shesternya-vala-pervichnogo.jpg";
     $scope.productname = "Шестерня вала первичного (Z=31) КПП МТЗ 1221, 1523";
@@ -10908,7 +10908,7 @@ var app = angular.module('err573', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p573_shesternya_vala_promezhutochnogo";
     $scope.productimg = "assets/img/716936411_shesternya-vala-promezhutochnogo.jpg";
     $scope.productname = "Шестерня вала промежуточного КПП (Z=14) МТЗ 1221, 1523";
@@ -10927,7 +10927,7 @@ var app = angular.module('err574', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p574_shesternya_vedomaya_stupeni";
     $scope.productimg = "assets/img/884636991_shesternya-vedomaya-2-j.jpg";
     $scope.productname = "Шестерня ведомая 2-й ступени МТЗ Z=37";
@@ -10946,7 +10946,7 @@ var app = angular.module('err575', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p575_shesternya_vedomaya_reduktora";
     $scope.productimg = "assets/img/884639213_shesternya-vedomaya-reduktora.jpg";
     $scope.productname = "Шестерня ведомая редуктора понижающего МТЗ Zб=34 Zм=20";
@@ -10965,7 +10965,7 @@ var app = angular.module('err576', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p576_shesternya_veduschaya_reduktora";
     $scope.productimg = "assets/img/884628703_shesternya-veduschaya-reduktora.jpg";
     $scope.productname = "Шестерня ведущая редуктора Z=20/30 МТЗ 80/82";
@@ -10984,7 +10984,7 @@ var app = angular.module('err577', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p577_shesternya_vala_pervichnogo";
     $scope.productimg = "assets/img/469057662_shesternya-vala-pervichnogo.jpg";
     $scope.productname = "Шестерня вала первичного МТЗ 1221 (Z=24)";
@@ -11003,7 +11003,7 @@ var app = angular.module('err578', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p578_shesternya_vtoroj_peredachi";
     $scope.productimg = "assets/img/717057486_shesternya-vtoroj-peredachi.jpg";
     $scope.productname = "Шестерня второй передачи МТЗ 1221 (Z=27)";
@@ -11022,7 +11022,7 @@ var app = angular.module('err579', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p579_shesternya_peredachi_glavnoj";
     $scope.productimg = "assets/img/741444025_shesternya-peredachi-glavnoj.jpg";
     $scope.productname = "Шестерня передачи главной МТЗ Z=12";
@@ -11041,7 +11041,7 @@ var app = angular.module('err580', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p580_shesternya_privoda_stupeni";
     $scope.productimg = "assets/img/884627411_shesternya-privoda-1-j.jpg";
     $scope.productname = "Шестерня привода 1-й ступени редуктора (старого образца) Zб=20 Zм=20 МТЗ";
@@ -11060,7 +11060,7 @@ var app = angular.module('err581', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p581_shesternya_privoda_stupeni";
     $scope.productimg = "assets/img/741936140_shesternya-privoda-2-j.jpg";
     $scope.productname = "Шестерня привода 2-й ступени МТЗ";
@@ -11079,7 +11079,7 @@ var app = angular.module('err582', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p582_shesternya_promezhutochnaya_zadnego";
     $scope.productimg = "assets/img/884638427_shesternya-promezhutochnaya-zadnego.jpg";
     $scope.productname = "Шестерня промежуточная заднего хода МТЗ Z=31";
@@ -11098,7 +11098,7 @@ var app = angular.module('err583', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p583_shesternya_promezhutochnaya_mtz";
     $scope.productimg = "assets/img/884644291_shesternya-promezhutochnaya-mtz.jpg";
     $scope.productname = "Шестерня промежуточная МТЗ Zб=43 Zм=26";
@@ -11117,7 +11117,7 @@ var app = angular.module('err584', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p584_shesternya_promezhutochnogo_reduktora";
     $scope.productimg = "assets/img/823151477_shesternya-promezhutochnogo-reduktora.jpg";
     $scope.productname = "Шестерня промежуточного редуктора МТЗ Zб=35 Zм=30";
@@ -11136,7 +11136,7 @@ var app = angular.module('err585', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p585_shesternya_promezhutochnogo_reduktora";
     $scope.productimg = "assets/img/741981630_shesternya-promezhutochnogo-reduktora.jpg";
     $scope.productname = "Шестерня промежуточного редуктора старого образца МТЗ";
@@ -11155,7 +11155,7 @@ var app = angular.module('err586', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p586_shesternya_vklyucheniya_hodoumenshitelya";
     $scope.productimg = "assets/img/884634849_shesternya-vklyucheniya-hodoumenshitelya.jpg";
     $scope.productname = "Шестерня включения ходоуменшителя МТЗ Z=20";
@@ -11174,7 +11174,7 @@ var app = angular.module('err587', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p587_shtift_ustanovochnyj_revers";
     $scope.productimg = "assets/img/469865539_shtift-ustanovochnyj-revers.jpg";
     $scope.productname = "Штифт установочный реверс редуктора МТЗ";
@@ -11193,7 +11193,7 @@ var app = angular.module('err588', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p588_val_korobki_razdatochnoj";
     $scope.productimg = "assets/img/742005809_val-korobki-razdatochnoj.jpg";
     $scope.productname = "Вал коробки раздаточной МТЗ";
@@ -11212,7 +11212,7 @@ var app = angular.module('err589', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p589_valik_razdatochnoj_korobki";
     $scope.productimg = "assets/img/742013408_valik-razdatochnoj-korobki.jpg";
     $scope.productname = "Валик раздаточной коробки МТЗ с рычагом";
@@ -11231,7 +11231,7 @@ var app = angular.module('err590', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p590_vilka_mufty_razdatochnoj";
     $scope.productimg = "assets/img/742014924_vilka-mufty-razdatochnoj.jpg";
     $scope.productname = "Вилка муфты раздаточной коробки МТЗ";
@@ -11250,7 +11250,7 @@ var app = angular.module('err591', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p591_vint_vtulki_1802092";
     $scope.productimg = "assets/img/742018440_vint-vtulki-52-1802092-b.jpg";
     $scope.productname = "Винт втулки (52-1802092-Б) раздаточной коробки МТЗ";
@@ -11269,7 +11269,7 @@ var app = angular.module('err592', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p592_vtulka_razdatochnoj_korobki";
     $scope.productimg = "assets/img/742021949_vtulka-razdatochnoj-korobki.jpg";
     $scope.productname = "Втулка раздаточной коробки МТЗ без подшипника";
@@ -11288,7 +11288,7 @@ var app = angular.module('err593', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p593_vtulka_razdatochnoj_korobki";
     $scope.productimg = "assets/img/742052596_vtulka-razdatochnoj-korobki.jpg";
     $scope.productname = "Втулка раздаточной коробки МТЗ с подшипником";
@@ -11307,7 +11307,7 @@ var app = angular.module('err594', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p594_vtulka_privoda_pvm";
     $scope.productimg = "assets/img/742068368_vtulka-privoda-pvm.jpg";
     $scope.productname = "Втулка привода ПВМ МТЗ";
@@ -11326,7 +11326,7 @@ var app = angular.module('err595', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p595_vtulka_promezhutochnoj_shesterni";
     $scope.productimg = "assets/img/742071729_vtulka-promezhutochnoj-shesterni.jpg";
     $scope.productname = "Втулка промежуточной шестерни раздаточной коробки МТЗ";
@@ -11345,7 +11345,7 @@ var app = angular.module('err596', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p596_disk_vedomyj_privoda";
     $scope.productimg = "assets/img/469057779_disk-vedomyj-privoda.jpg";
     $scope.productname = "Диск ведомый привода переднего ведущего моста МТЗ 1221";
@@ -11364,7 +11364,7 @@ var app = angular.module('err597', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p597_koltso_stopornoe_podshipnika";
     $scope.productimg = "assets/img/742091005_koltso-stopornoe-podshipnika.jpg";
     $scope.productname = "Кольцо стопорное подшипника 7306 шестерни привода раздаточной коробки МТЗ";
@@ -11383,7 +11383,7 @@ var app = angular.module('err598', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p598_korpus_podshipnika_razdatochnoj";
     $scope.productimg = "assets/img/742096378_korpus-podshipnika-razdatochnoj.jpg";
     $scope.productname = "Корпус подшипника раздаточной коробки МТЗ";
@@ -11402,7 +11402,7 @@ var app = angular.module('err599', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p599_kryshka_korobki_razdatochnoj";
     $scope.productimg = "assets/img/742099529_kryshka-korobki-razdatochnoj.jpg";
     $scope.productname = "Крышка коробки раздаточной МТЗ";
@@ -11421,7 +11421,7 @@ var app = angular.module('err600', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p600_napravlyayuschaya_tyagi_upravleniya";
     $scope.productimg = "assets/img/742101272_napravlyayuschaya-tyagi-upravleniya.jpg";
     $scope.productname = "Направляющая тяги управления раздаточной коробкой (нового образца) МТЗ";
@@ -11440,7 +11440,7 @@ var app = angular.module('err601', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p601_obojma_shesterni_korobki";
     $scope.productimg = "assets/img/742104207_obojma-shesterni-korobki.jpg";
     $scope.productname = "Обойма шестерни коробки раздаточной МТЗ";
@@ -11459,7 +11459,7 @@ var app = angular.module('err602', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p602_shesterni_promezhutochnoj_razdatochnoj";
     $scope.productimg = "assets/img/742106988_os-shesterni-promezhutochnoj.jpg";
     $scope.productname = "Ось шестерни промежуточной раздаточной коробки МТЗ c гайкой";
@@ -11478,7 +11478,7 @@ var app = angular.module('err603', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p603_roliki_korobki_razdatochnoj";
     $scope.productimg = "assets/img/469865747_roliki-korobki-razdatochnoj.jpg";
     $scope.productname = "Ролики коробки раздаточной МТЗ";
@@ -11497,7 +11497,7 @@ var app = angular.module('err604', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p604_rychag_upravleniya_razdatochnoj";
     $scope.productimg = "assets/img/742116454_rychag-upravleniya-razdatochnoj.jpg";
     $scope.productname = "Рычаг управления раздаточной коробки МТЗ";
@@ -11516,7 +11516,7 @@ var app = angular.module('err605', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p605_tyaga_upravleniya_razdatochnoj";
     $scope.productimg = "assets/img/742118178_tyaga-upravleniya-razdatochnoj.jpg";
     $scope.productname = "Тяга управления раздаточной коробкой МТЗ";
@@ -11535,7 +11535,7 @@ var app = angular.module('err606', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p606_flanets_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742120600_flanets-opory-promezhutochnoj.jpg";
     $scope.productname = "Фланец опоры промежуточной МТЗ";
@@ -11554,7 +11554,7 @@ var app = angular.module('err607', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p607_shesternya_korobki_razdatochnoj";
     $scope.productimg = "assets/img/742127225_shesternya-korobki-razdatochnoj.jpg";
     $scope.productname = "Шестерня коробки раздаточной МТЗ";
@@ -11573,7 +11573,7 @@ var app = angular.module('err608', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p608_shesternya_promezhutochnaya_razdatochnoj";
     $scope.productimg = "assets/img/884628036_shesternya-promezhutochnaya-razdatochnoj.jpg";
     $scope.productname = "Шестерня промежуточная раздаточной коробки МТЗ";
@@ -11592,7 +11592,7 @@ var app = angular.module('err609', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p609_shesternya_razdatochnoj_korobki";
     $scope.productimg = "assets/img/871034133_shesternya-razdatochnoj-korobki.jpg";
     $scope.productname = "Шестерня раздаточной коробки МТЗ";
@@ -11611,7 +11611,7 @@ var app = angular.module('err610', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p610_val_kardannyj_perednego";
     $scope.productimg = "assets/img/742136311_val-kardannyj-perednego.jpg";
     $scope.productname = "Вал карданный переднего моста МТЗ";
@@ -11630,7 +11630,7 @@ var app = angular.module('err611', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p611_val_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742139043_val-opory-promezhutochnoj.jpg";
     $scope.productname = "Вал опоры промежуточной МТЗ";
@@ -11649,7 +11649,7 @@ var app = angular.module('err612', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p612_vtulka_vala_2209013";
     $scope.productimg = "assets/img/742141085_vtulka-vala-72-2209013.jpg";
     $scope.productname = "Втулка вала 72-2209013 промежуточной опоры МТЗ";
@@ -11668,7 +11668,7 @@ var app = angular.module('err613', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p613_vtulka_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742143180_vtulka-opory-promezhutochnoj.jpg";
     $scope.productname = "Втулка опоры промежуточной МТЗ";
@@ -11687,7 +11687,7 @@ var app = angular.module('err614', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p614_gryazevik_promezhutochnoj_opory";
     $scope.productimg = "assets/img/742146237_gryazevik-promezhutochnoj-opory.jpg";
     $scope.productname = "Грязевик промежуточной опоры МТЗ";
@@ -11706,7 +11706,7 @@ var app = angular.module('err615', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p615_disk_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742155343_disk-opory-promezhutochnoj.jpg";
     $scope.productname = "Диск опоры промежуточной МТЗ";
@@ -11725,7 +11725,7 @@ var app = angular.module('err616', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p616_disk_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742156664_disk-opory-promezhutochnoj.jpg";
     $scope.productname = "Диск опоры промежуточной МТЗ (толстый)";
@@ -11744,7 +11744,7 @@ var app = angular.module('err617', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p617_disk_opory_promezhutochnoj";
     $scope.productimg = "assets/img/742164586_disk-opory-promezhutochnoj.jpg";
     $scope.productname = "Диск опоры промежуточной МТЗ (тонкий)";
@@ -11763,7 +11763,7 @@ var app = angular.module('err618', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p618_korpus_manzhety_promezhutochnoj";
     $scope.productimg = "assets/img/742165836_korpus-manzhety-promezhutochnoj.jpg";
     $scope.productname = "Корпус манжеты промежуточной опоры МТЗ";
@@ -11782,7 +11782,7 @@ var app = angular.module('err619', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p619_krestovina_vala_kardannogo";
     $scope.productimg = "assets/img/742170395_krestovina-vala-kardannogo.jpg";
     $scope.productname = "Крестовина вала карданного МТЗ";
@@ -11801,7 +11801,7 @@ var app = angular.module('err620', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p620_kronshtejn_opory_promezhutochnoj";
     $scope.productimg = "assets/img/871059776_kronshtejn-opory-promezhutochnoj.jpg";
     $scope.productname = "Кронштейн опоры промежуточной МТЗ";
@@ -11820,7 +11820,7 @@ var app = angular.module('err621', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p621_obojma_vala_kardannogo";
     $scope.productimg = "assets/img/742175676_obojma-vala-kardannogo.jpg";
     $scope.productname = "Обойма вала карданного МТЗ";
@@ -11839,7 +11839,7 @@ var app = angular.module('err622', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p622_opora_vala_kardanannogo";
     $scope.productimg = "assets/img/742178138_opora-vala-kardanannogo.jpg";
     $scope.productname = "Опора вала кардананного МТЗ промежуточная в сборе";
@@ -11858,7 +11858,7 @@ var app = angular.module('err623', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p623_prokladka_korpusa_2209022";
     $scope.productimg = "assets/img/870723765_prokladka-korpusa-72-2209022.jpg";
     $scope.productname = "Прокладка корпуса 72-2209022 МТЗ";
@@ -11877,7 +11877,7 @@ var app = angular.module('err624', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p624_pruzhina_disk_opory";
     $scope.productimg = "assets/img/742181031_pruzhina-disk-opory.jpg";
     $scope.productname = "Пружина (диск) опоры промежуточной карданного вала МТЗ";
@@ -11896,7 +11896,7 @@ var app = angular.module('err625', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p625_bolt_flantsa_reduktora";
     $scope.productimg = "assets/img/782768209_bolt-flantsa-reduktora.jpg";
     $scope.productname = "Болт фланца редуктора переднего ведущего моста МТЗ 80/82";
@@ -11915,7 +11915,7 @@ var app = angular.module('err626', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p626_bolt_korpusa_differentsiala";
     $scope.productimg = "assets/img/783939010_bolt-korpusa-differentsiala.jpg";
     $scope.productname = "Болт корпуса дифференциала переднего ведущего моста МТЗ 80/82";
@@ -11934,7 +11934,7 @@ var app = angular.module('err627', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p627_val_perednego_veduschego";
     $scope.productimg = "assets/img/742628509_val-perednego-veduschego.jpg";
     $scope.productname = "Вал переднего ведущего моста МТЗ короткий";
@@ -11953,7 +11953,7 @@ var app = angular.module('err628', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p628_vtulka_krepleniya_rulevogo";
     $scope.productimg = "assets/img/742629663_vtulka-krepleniya-rulevogo.jpg";
     $scope.productname = "Втулка крепления рулевого рычага МТЗ";
@@ -11972,7 +11972,7 @@ var app = angular.module('err629', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p629_glavnaya_para_mosta";
     $scope.productimg = "assets/img/742634393_glavnaya-para-mosta.jpg";
     $scope.productname = "Главная пара моста переднего ПВМ МТЗ";
@@ -11991,7 +11991,7 @@ var app = angular.module('err630', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p630_gruz_perednij_mtz";
     $scope.productimg = "assets/img/742636066_gruz-perednij-20.jpg";
     $scope.productname = "Груз передний 20 кг МТЗ";
@@ -12010,7 +12010,7 @@ var app = angular.module('err631', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p631_gryazevik_shpilek_mtz";
     $scope.productimg = "assets/img/742637043_gryazevik-5-shpilek.jpg";
     $scope.productname = "Грязевик (5 шпилек) МТЗ";
@@ -12029,7 +12029,7 @@ var app = angular.module('err632', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p632_disk_vedomyj_differentsiala";
     $scope.productimg = "assets/img/742639728_disk-vedomyj-differentsiala.jpg";
     $scope.productname = "Диск ведомый дифференциала МТЗ";
@@ -12048,7 +12048,7 @@ var app = angular.module('err633', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p633_differentsial_mtz_mosta";
     $scope.productimg = "assets/img/742640718_differentsial-mtz-mosta.jpg";
     $scope.productname = "Дифференциал МТЗ моста переднего в сборе";
@@ -12067,7 +12067,7 @@ var app = angular.module('err634', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p634_zaglushka_peredachi_glavnoj";
     $scope.productimg = "assets/img/742646997_zaglushka-peredachi-glavnoj.jpg";
     $scope.productname = "Заглушка передачи главной МТЗ";
@@ -12086,7 +12086,7 @@ var app = angular.module('err635', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p635_klin_perednego_veduschego";
     $scope.productimg = "assets/img/742648507_klin-perednego-veduschego.jpg";
     $scope.productname = "Клин переднего ведущего моста МТЗ";
@@ -12105,7 +12105,7 @@ var app = angular.module('err636', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p636_koltso_uplotnitelnoe_gilzy";
     $scope.productimg = "assets/img/742647945_koltso-uplotnitelnoe-gilzy.jpg";
     $scope.productname = "Кольцо уплотнительное гильзы МТЗ";
@@ -12124,7 +12124,7 @@ var app = angular.module('err637', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p637_koltso_upornoe_podshipnika";
     $scope.productimg = "assets/img/742649055_koltso-upornoe-podshipnika.jpg";
     $scope.productname = "Кольцо упорное подшипника хвостовика ПВМ МТЗ";
@@ -12143,7 +12143,7 @@ var app = angular.module('err638', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p638_koltso_regulivorochnoe_v58mm";
     $scope.productimg = "assets/img/742650175_koltso-regulivorochnoe-v58mm.jpg";
     $scope.productname = "Кольцо регуливорочное В=5,8мм МТЗ";
@@ -12162,7 +12162,7 @@ var app = angular.module('err639', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p639_korpus_mtz_8082";
     $scope.productimg = "assets/img/742658666_korpus-mtz-8082.jpg";
     $scope.productname = "Корпус МТЗ 80/82 уплотнения гильзы шкворня переднего моста РУП";
@@ -12181,7 +12181,7 @@ var app = angular.module('err640', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p640_korpus_reduktora_perednego";
     $scope.productimg = "assets/img/742675397_korpus-reduktora-perednego.jpg";
     $scope.productname = "Корпус редуктора переднего ведущего моста левый (голый) МТЗ";
@@ -12200,7 +12200,7 @@ var app = angular.module('err641', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p641_korpus_reduktora_levyj";
     $scope.productimg = "assets/img/742675648_korpus-reduktora-levyj.jpg";
     $scope.productname = "Корпус редуктора левый моста переднего МТЗ в сборе";
@@ -12219,7 +12219,7 @@ var app = angular.module('err642', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p642_korpus_pary_konicheskoj";
     $scope.productimg = "assets/img/742678445_korpus-pary-konicheskoj.jpg";
     $scope.productname = "Корпус пары конической переднего ведущего моста МТЗ";
@@ -12238,7 +12238,7 @@ var app = angular.module('err643', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p643_korpus_perednego_veduschego";
     $scope.productimg = "assets/img/469057782_korpus-perednego-veduschego.jpg";
     $scope.productname = "Корпус переднего ведущего моста МТЗ 1221, 1522, 1523";
@@ -12257,7 +12257,7 @@ var app = angular.module('err644', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p644_korpus_reduktora_perednego";
     $scope.productimg = "assets/img/742683879_korpus-reduktora-perednego.jpg";
     $scope.productname = "Корпус редуктора переднего ведущего моста правый (голый) МТЗ";
@@ -12276,7 +12276,7 @@ var app = angular.module('err645', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p645_korpus_reduktora_perednego";
     $scope.productimg = "assets/img/742685455_korpus-reduktora-perednego.jpg";
     $scope.productname = "Корпус редуктора переднего ведущего моста правый в сборе МТЗ";
@@ -12295,7 +12295,7 @@ var app = angular.module('err646', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p646_korpus_salnika_reduktora";
     $scope.productimg = "assets/img/742690354_korpus-salnika-reduktora.jpg";
     $scope.productname = "Корпус сальника редуктора моста МТЗ";
@@ -12314,7 +12314,7 @@ var app = angular.module('err647', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p647_kronshtejn_gidrotsilindra_rulevogo";
     $scope.productimg = "assets/img/742692113_kronshtejn-gidrotsilindra-ts-50.jpg";
     $scope.productname = "Кронштейн гидроцилиндра Ц-50 рулевого управления МТЗ";
@@ -12333,7 +12333,7 @@ var app = angular.module('err648', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p648_kryshka_differentsiala_perednego";
     $scope.productimg = "assets/img/742705127_kryshka-differentsiala-perednego.jpg";
     $scope.productname = "Крышка дифференциала переднего моста МТЗ";
@@ -12352,7 +12352,7 @@ var app = angular.module('err649', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p649_kryshka_reduktora_konechnoj";
     $scope.productimg = "assets/img/742711225_kryshka-reduktora-konechnoj.jpg";
     $scope.productname = "Крышка редуктора конечной передачи МТЗ";
@@ -12371,7 +12371,7 @@ var app = angular.module('err650', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p650_kryshka_korpusa_konicheskoj";
     $scope.productimg = "assets/img/742712460_kryshka-korpusa-konicheskoj.jpg";
     $scope.productname = "Крышка корпуса конической пары МТЗ";
@@ -12390,7 +12390,7 @@ var app = angular.module('err651', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p651_kryshki_korpusa_differentsiala";
     $scope.productimg = "assets/img/871250833_os-kryshki-korpusa.jpg";
     $scope.productname = "Ось крышки корпуса дифференциала переднего ведущего моста МТЗ";
@@ -12409,7 +12409,7 @@ var app = angular.module('err652', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p652_planka_osi_kacheniya";
     $scope.productimg = "assets/img/742720832_planka-osi-kacheniya.jpg";
     $scope.productname = "Планка оси качения переднего моста МТЗ";
@@ -12428,7 +12428,7 @@ var app = angular.module('err653', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p653_poluos_perednego_mosta";
     $scope.productimg = "assets/img/742722226_poluos-perednego-mosta.jpg";
     $scope.productname = "Полуось переднего моста МТЗ (длинный шлиц)";
@@ -12447,7 +12447,7 @@ var app = angular.module('err654', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p654_prokladka_reduktora_mtz";
     $scope.productimg = "assets/img/742731775_prokladka-reduktora-mtz.jpg";
     $scope.productname = "Прокладка редуктора МТЗ";
@@ -12466,7 +12466,7 @@ var app = angular.module('err655', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p655_rychag_povorotnyj_levyj";
     $scope.productimg = "assets/img/742733792_rychag-povorotnyj-levyj.jpg";
     $scope.productname = "Рычаг поворотный левый с ГОРУ МТЗ";
@@ -12485,7 +12485,7 @@ var app = angular.module('err656', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p656_rychag_levyj_gur";
     $scope.productimg = "assets/img/742737110_rychag-levyj-s.jpg";
     $scope.productname = "Рычаг левый с ГУР МТЗ";
@@ -12504,7 +12504,7 @@ var app = angular.module('err657', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p657_rychag_pravyj_gur";
     $scope.productimg = "assets/img/742739081_rychag-pravyj-s.jpg";
     $scope.productname = "Рычаг правый с ГУР МТЗ";
@@ -12523,7 +12523,7 @@ var app = angular.module('err658', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p658_rychag_povorotnyj_pravyj";
     $scope.productimg = "assets/img/742975090_rychag-povorotnyj-pravyj.jpg";
     $scope.productname = "Рычаг поворотный правый с ГОРУ МТЗ";
@@ -12542,7 +12542,7 @@ var app = angular.module('err659', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p659_satellit_differentsiala_mosta";
     $scope.productimg = "assets/img/742977441_satellit-differentsiala-mosta.jpg";
     $scope.productname = "Сателлит дифференциала моста переднего МТЗ";
@@ -12561,7 +12561,7 @@ var app = angular.module('err660', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p660_stakan_glavnoj_peredachi";
     $scope.productimg = "assets/img/742978968_stakan-glavnoj-peredachi.jpg";
     $scope.productname = "Стакан главной передачи МТЗ";
@@ -12580,7 +12580,7 @@ var app = angular.module('err661', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p661_truba_shkvornya_mtz";
     $scope.productimg = "assets/img/742981401_truba-shkvornya-mtz.jpg";
     $scope.productname = "Труба шкворня МТЗ";
@@ -12599,7 +12599,7 @@ var app = angular.module('err662', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p662_truba_shkvornya_mtz";
     $scope.productimg = "assets/img/742983275_truba-shkvornya-mtz.jpg";
     $scope.productname = "Труба шкворня МТЗ старого образца (тонкая стенка)";
@@ -12618,7 +12618,7 @@ var app = angular.module('err663', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p663_flanets_perednego_mosta";
     $scope.productimg = "assets/img/742983879_flanets-perednego-mosta.jpg";
     $scope.productname = "Фланец переднего моста 5 отверстий МТЗ";
@@ -12637,7 +12637,7 @@ var app = angular.module('err664', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p664_flanets_perednego_mosta";
     $scope.productimg = "assets/img/742985567_flanets-perednego-mosta.jpg";
     $scope.productname = "Фланец переднего моста 8 отверстий МТЗ";
@@ -12656,7 +12656,7 @@ var app = angular.module('err665', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p665_shesternya_poluosi_perednego";
     $scope.productimg = "assets/img/742991505_shesternya-poluosi-perednego.jpg";
     $scope.productname = "Шестерня полуоси переднего моста МТЗ";
@@ -12675,7 +12675,7 @@ var app = angular.module('err666', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p666_shesternya_hvostovik_2302015";
     $scope.productimg = "assets/img/742993896_shesternya-hvostovik-52-2302015-a.jpg";
     $scope.productname = "Шестерня (хвостовик) 52-2302015-А с корпусом в сборе МТЗ";
@@ -12694,7 +12694,7 @@ var app = angular.module('err667', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p667_shesternya_mtz_vedomaya";
     $scope.productimg = "assets/img/742995452_shesternya-mtz-vedomaya.jpg";
     $scope.productname = "Шестерня МТЗ ведомая РУП МТЗ";
@@ -12713,7 +12713,7 @@ var app = angular.module('err668', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p668_shesternya_reduktora_konechnoj";
     $scope.productimg = "assets/img/742997531_shesternya-reduktora-konechnoj.jpg";
     $scope.productname = "Шестерня редуктора конечной передачи МТЗ";
@@ -12732,7 +12732,7 @@ var app = angular.module('err669', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p669_shtift_reduktora_perednego";
     $scope.productimg = "assets/img/742999039_shtift-reduktora-perednego.jpg";
     $scope.productname = "Штифт редуктора переднего ведущего моста МТЗ";
@@ -12751,7 +12751,7 @@ var app = angular.module('err670', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p670_val_mufty_blokirovki";
     $scope.productimg = "assets/img/743003435_val-mufty-blokirovki.jpg";
     $scope.productname = "Вал муфты блокировки дифференциала МТЗ";
@@ -12770,7 +12770,7 @@ var app = angular.module('err671', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p671_val_upravleniya_mosta";
     $scope.productimg = "assets/img/743005740_val-upravleniya-mosta.jpg";
     $scope.productname = "Вал управления моста заднего МТЗ";
@@ -12789,7 +12789,7 @@ var app = angular.module('err672', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p672_vtulka_vala_veduschego";
     $scope.productimg = "assets/img/469057781_vtulka-vala-veduschego.jpg";
     $scope.productname = "Втулка вала ведущего заднего моста МТЗ 1221";
@@ -12808,7 +12808,7 @@ var app = angular.module('err673', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p673_vtulka_korpusa_mosta";
     $scope.productimg = "assets/img/743007352_vtulka-korpusa-mosta.jpg";
     $scope.productname = "Втулка корпуса моста заднего МТЗ";
@@ -12827,7 +12827,7 @@ var app = angular.module('err674', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p674_glavnaya_para_zadnego";
     $scope.productimg = "assets/img/743008508_glavnaya-para-zadnego.jpg";
     $scope.productname = "Главная пара заднего моста МТЗ";
@@ -12846,7 +12846,7 @@ var app = angular.module('err675', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p675_diafragma_mufty_blokirovki";
     $scope.productimg = "assets/img/940455976_diafragma-mufty-blokirovki.jpg";
     $scope.productname = "Диафрагма муфты блокировки дифференциала МТЗ";
@@ -12865,7 +12865,7 @@ var app = angular.module('err676', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p676_disk_mtz_mehanizma";
     $scope.productimg = "assets/img/743010709_disk-mtz-mehanizma.jpg";
     $scope.productname = "Диск МТЗ механизма блокировки дифференциала нажимной";
@@ -12884,7 +12884,7 @@ var app = angular.module('err677', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p677_disk_otzhimnoj_mehanizma";
     $scope.productimg = "assets/img/743012119_disk-otzhimnoj-mehanizma.jpg";
     $scope.productname = "Диск отжимной механизма блокировки МТЗ";
@@ -12903,7 +12903,7 @@ var app = angular.module('err678', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p678_differentsial_zadnego_mosta";
     $scope.productimg = "assets/img/743013958_differentsial-zadnego-mosta.jpg";
     $scope.productname = "Дифференциал заднего моста МТЗ";
@@ -12922,7 +12922,7 @@ var app = angular.module('err679', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p679_kozhuh_mehanizma_blokirovki";
     $scope.productimg = "assets/img/469057780_kozhuh-mehanizma-blokirovki.jpg";
     $scope.productname = "Кожух механизма блокировки МТЗ 1221,920,82";
@@ -12941,7 +12941,7 @@ var app = angular.module('err680', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p680_korpus_differentsiala_zadnego";
     $scope.productimg = "assets/img/743014985_korpus-differentsiala-zadnego.jpg";
     $scope.productname = "Корпус дифференциала заднего моста МТЗ";
@@ -12960,7 +12960,7 @@ var app = angular.module('err681', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p681_krestovina_differentsiala_mtz";
     $scope.productimg = "assets/img/743016477_krestovina-differentsiala-mtz.jpg";
     $scope.productname = "Крестовина дифференциала МТЗ";
@@ -12979,7 +12979,7 @@ var app = angular.module('err682', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p682_kryshka_diafragmy_blokirovki";
     $scope.productimg = "assets/img/743017811_kryshka-diafragmy-blokirovki.jpg";
     $scope.productname = "Крышка диафрагмы блокировки дифференциала МТЗ";
@@ -12998,7 +12998,7 @@ var app = angular.module('err683', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p683_kryshka_sapuna_zadnego";
     $scope.productimg = "assets/img/743021114_kryshka-sapuna-zadnego.jpg";
     $scope.productname = "Крышка сапуна заднего моста МТЗ";
@@ -13017,7 +13017,7 @@ var app = angular.module('err684', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p684_kryshka_stakana_upravleniya";
     $scope.productimg = "assets/img/743022418_kryshka-stakana-upravleniya.jpg";
     $scope.productname = "Крышка стакана управления ВОМ МТЗ";
@@ -13036,7 +13036,7 @@ var app = angular.module('err685', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p685_mufta_blokirovki_differentsiala";
     $scope.productimg = "assets/img/743024125_mufta-blokirovki-differentsiala.jpg";
     $scope.productname = "Муфта блокировки дифференциала заднего моста в сборе МТЗ";
@@ -13055,7 +13055,7 @@ var app = angular.module('err686', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p686_plastina_stopornaya_korpusa";
     $scope.productimg = "assets/img/743028579_plastina-stopornaya-korpusa.jpg";
     $scope.productname = "Пластина стопорная корпуса дифференциала заднего моста МТЗ";
@@ -13074,7 +13074,7 @@ var app = angular.module('err687', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p687_povodok_upravleniya_vom";
     $scope.productimg = "assets/img/743029619_povodok-upravleniya-vom.jpg";
     $scope.productname = "Поводок управления ВОМ заднего моста МТЗ";
@@ -13093,7 +13093,7 @@ var app = angular.module('err688', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p688_poluos_zadnego_mosta";
     $scope.productimg = "assets/img/1064892398_poluos-zadnego-mosta.jpg";
     $scope.productname = "Полуось заднего моста МТЗ старого образца";
@@ -13112,7 +13112,7 @@ var app = angular.module('err689', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p689_satellit_differentsiala_zadnego";
     $scope.productimg = "assets/img/743639175_satellit-differentsiala-zadnego.jpg";
     $scope.productname = "Сателлит дифференциала заднего моста МТЗ сферический";
@@ -13131,7 +13131,7 @@ var app = angular.module('err690', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p690_satellit_differentsiala_zadnego";
     $scope.productimg = "assets/img/743643965_satellit-differentsiala-zadnego.jpg";
     $scope.productname = "Сателлит дифференциала заднего моста МТЗ (старого образца) прямой";
@@ -13150,7 +13150,7 @@ var app = angular.module('err691', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p691_stakan_shesteren_zadnego";
     $scope.productimg = "assets/img/743646353_stakan-shesteren-zadnego.jpg";
     $scope.productname = "Стакан шестерен заднего моста (подшипников) МТЗ";
@@ -13169,7 +13169,7 @@ var app = angular.module('err692', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p692_sterzhen_upravleniya_vom";
     $scope.productimg = "assets/img/743650450_sterzhen-upravleniya-vom.jpg";
     $scope.productname = "Стержень управления ВОМ заднего моста МТЗ";
@@ -13188,7 +13188,7 @@ var app = angular.module('err693', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p693_shesternya_vedomaya_zadnego";
     $scope.productimg = "assets/img/469057882_shesternya-vedomaya-zadnego.jpg";
     $scope.productname = "Шестерня ведомая заднего моста (Z=54) МТЗ 1221";
@@ -13207,7 +13207,7 @@ var app = angular.module('err694', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p694_shesternya_vedomaya_zadnego";
     $scope.productimg = "assets/img/743653988_shesternya-vedomaya-zadnego.jpg";
     $scope.productname = "Шестерня ведомая заднего моста Z=69 МТЗ";
@@ -13226,7 +13226,7 @@ var app = angular.module('err695', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p695_shesternya_veduschaya_levaya";
     $scope.productimg = "assets/img/743657759_shesternya-veduschaya-levaya.jpg";
     $scope.productname = "Шестерня ведущая левая длинная МТЗ";
@@ -13245,7 +13245,7 @@ var app = angular.module('err696', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p696_shesternya_veduschaya_pravaya";
     $scope.productimg = "assets/img/743660946_shesternya-veduschaya-pravaya.jpg";
     $scope.productname = "Шестерня ведущая правая короткая МТЗ";
@@ -13264,7 +13264,7 @@ var app = angular.module('err697', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p697_shesternya_poluosevaya_differentsiala";
     $scope.productimg = "assets/img/743663571_shesternya-poluosevaya-differentsiala.jpg";
     $scope.productname = "Шестерня полуосевая дифференциала заднего моста МТЗ Z=22";
@@ -13283,7 +13283,7 @@ var app = angular.module('err698', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p698_shtutser_perehodnika_mtz";
     $scope.productimg = "assets/img/743666083_shtutser-perehodnika-mtz.jpg";
     $scope.productname = "Штуцер переходника МТЗ";
@@ -13302,7 +13302,7 @@ var app = angular.module('err699', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p699_lonzheron_levyj_mtz";
     $scope.productimg = "assets/img/743670076_lonzheron-levyj-mtz.jpg";
     $scope.productname = "Лонжерон левый МТЗ";
@@ -13321,7 +13321,7 @@ var app = angular.module('err700', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p700_lonzheron_pravyj_mtz";
     $scope.productimg = "assets/img/743671844_lonzheron-pravyj-mtz.jpg";
     $scope.productname = "Лонжерон правый МТЗ";
@@ -13340,7 +13340,7 @@ var app = angular.module('err701', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p701_vtulka_kulaka_vydvizhnogo";
     $scope.productimg = "assets/img/743679740_vtulka-kulaka-vydvizhnogo.jpg";
     $scope.productname = "Втулка кулака выдвижного МТЗ верхняя сталь";
@@ -13359,7 +13359,7 @@ var app = angular.module('err702', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p702_vtulka_tsapfy_nizhnyaya";
     $scope.productimg = "assets/img/469866822_vtulka-tsapfy-nizhnyaya.jpg";
     $scope.productname = "Втулка цапфы нижняя МТЗ";
@@ -13378,7 +13378,7 @@ var app = angular.module('err703', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p703_vtulka_tsapfy_kulaka";
     $scope.productimg = "assets/img/743683986_vtulka-tsapfy-kulaka.jpg";
     $scope.productname = "Втулка цапфы кулака поворотного МТЗ";
@@ -13397,7 +13397,7 @@ var app = angular.module('err704', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p704_vtulka_tsapfy_kulaka";
     $scope.productimg = "assets/img/743685669_vtulka-tsapfy-kulaka.jpg";
     $scope.productname = "Втулка цапфы кулака поворотного МТЗ верхняя малая";
@@ -13416,7 +13416,7 @@ var app = angular.module('err705', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p705_vtulka_tsapfy_kulaka";
     $scope.productimg = "assets/img/743687318_vtulka-tsapfy-kulaka.jpg";
     $scope.productname = "Втулка цапфы кулака поворотного МТЗ нижняя большая";
@@ -13435,7 +13435,7 @@ var app = angular.module('err706', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p706_kachaniya_mtz_1221";
     $scope.productimg = "assets/img/469057885_os-kachaniya-mtz.jpg";
     $scope.productimg = "assets/img/717315030_os-kachaniya-mtz.jpg";
@@ -13455,7 +13455,7 @@ var app = angular.module('err707', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p707_kachaniya_mtz";
     $scope.productimg = "assets/img/743690935_os-kachaniya-mtz.jpg";
     $scope.productname = "Ось качания МТЗ 50 80";
@@ -13474,7 +13474,7 @@ var app = angular.module('err708', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p708_pruzhina_perednego_mosta";
     $scope.productimg = "assets/img/743692770_pruzhina-perednego-mosta.jpg";
     $scope.productname = "Пружина переднего моста МТЗ";
@@ -13493,7 +13493,7 @@ var app = angular.module('err709', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p709_rychag_povorota_perednej";
     $scope.productimg = "assets/img/743695405_rychag-povorota-perednej.jpg";
     $scope.productname = "Рычаг поворота передней оси МТЗ под ГУР";
@@ -13512,7 +13512,7 @@ var app = angular.module('err710', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p710_rychag_rulevogo_upravleniya";
     $scope.productimg = "assets/img/489471460_rychag-rulevogo-upravleniya.jpg";
     $scope.productname = "Рычаг рулевого управления поворотный левый с ГОРУ (двойной) МТЗ";
@@ -13531,7 +13531,7 @@ var app = angular.module('err711', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p711_struna_gruza_perednego";
     $scope.productimg = "assets/img/489471462_struna-gruza-perednego.jpg";
     $scope.productname = "Струна груза переднего в сборе МТЗ";
@@ -13550,7 +13550,7 @@ var app = angular.module('err712', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p712_truba_tyagi_rulevoj";
     $scope.productimg = "assets/img/745760208_truba-tyagi-rulevoj.jpg";
     $scope.productname = "Труба тяги рулевой МТЗ";
@@ -13569,7 +13569,7 @@ var app = angular.module('err713', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p713_tyaga_rulevaya_sbore";
     $scope.productimg = "assets/img/745762234_tyaga-rulevaya-v.jpg";
     $scope.productname = "Тяга рулевая в сборе (усиленная) МТЗ";
@@ -13588,7 +13588,7 @@ var app = angular.module('err714', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p714_tyaga_rulevaya_sbore";
     $scope.productimg = "assets/img/469057883_tyaga-rulevaya-v.jpg";
     $scope.productname = "Тяга рулевая в сборе МТЗ 1221";
@@ -13607,7 +13607,7 @@ var app = angular.module('err715', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p715_tsapfa_povorotnaya_mtz";
     $scope.productimg = "assets/img/745766722_tsapfa-povorotnaya-mtz.jpg";
     $scope.productname = "Цапфа поворотная МТЗ левая";
@@ -13626,7 +13626,7 @@ var app = angular.module('err716', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p716_tsapfa_povorotnaya_mtz";
     $scope.productimg = "assets/img/489471508_tsapfa-povorotnaya-mtz.jpg";
     $scope.productname = "Цапфа поворотная МТЗ левая с втулкой";
@@ -13645,7 +13645,7 @@ var app = angular.module('err717', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p717_tsapfa_povorotnaya_mtz";
     $scope.productimg = "assets/img/540285840_tsapfa-povorotnaya-mtz.jpg";
     $scope.productname = "Цапфа поворотная МТЗ правая";
@@ -13664,7 +13664,7 @@ var app = angular.module('err718', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p718_tsapfa_povorotnaya_mtz";
     $scope.productimg = "assets/img/745771221_tsapfa-povorotnaya-mtz.jpg";
     $scope.productname = "Цапфа поворотная МТЗ правая с втулкой";
@@ -13683,7 +13683,7 @@ var app = angular.module('err719', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p719_sharnir_unifitsirovannyj_levyj";
     $scope.productimg = "assets/img/489471596_sharnir-unifitsirovannyj-levyj.jpg";
     $scope.productimg = "assets/img/469057884_sharnir-unifitsirovannyj-levyj.jpg";
@@ -13703,7 +13703,7 @@ var app = angular.module('err720', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p720_nakonechnik_rulevoj_tyagi";
     $scope.productimg = "assets/img/745774355_nakonechnik-rulevoj-tyagi.jpg";
     $scope.productname = "Наконечник рулевой тяги МТЗ левый усиленный";
@@ -13722,7 +13722,7 @@ var app = angular.module('err721', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p721_sharnir_unifitsirovannyj_pravyj";
     $scope.productimg = "assets/img/469057886_sharnir-unifitsirovannyj-pravyj.jpg";
     $scope.productimg = "assets/img/489471592_sharnir-unifitsirovannyj-pravyj.jpg";
@@ -13742,7 +13742,7 @@ var app = angular.module('err722', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p722_nakonechnik_rulevoj_tyagi";
     $scope.productimg = "assets/img/745776164_nakonechnik-rulevoj-tyagi.jpg";
     $scope.productname = "Наконечник рулевой тяги МТЗ правый усиленный";
@@ -13761,7 +13761,7 @@ var app = angular.module('err723', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p723_vkladysh_zadnej_stupitsy";
     $scope.productimg = "assets/img/745782797_vkladysh-zadnej-stupitsy.jpg";
     $scope.productname = "Вкладыш задней ступицы МТЗ";
@@ -13780,7 +13780,7 @@ var app = angular.module('err724', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p724_kryshka_vkladysha_zadnej";
     $scope.productimg = "assets/img/819848992_kryshka-vkladysha-zadnej.jpg";
     $scope.productname = "Крышка вкладыша задней ступицы МТЗ";
@@ -13799,7 +13799,7 @@ var app = angular.module('err725', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p725_kryshka_perednej_stupitsy";
     $scope.productimg = "assets/img/819914706_kryshka-perednej-stupitsy.jpg";
     $scope.productname = "Крышка передней ступицы МТЗ";
@@ -13818,7 +13818,7 @@ var app = angular.module('err726', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p726_stupitsa_kolesa_mtz";
     $scope.productimg = "assets/img/819846550_stupitsa-kolesa-mtz.jpg";
     $scope.productname = "Ступица колеса МТЗ заднего без болтов САЗ";
@@ -13837,7 +13837,7 @@ var app = angular.module('err727', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p727_stupitsa_kolesa_mtz";
     $scope.productimg = "assets/img/819863279_stupitsa-kolesa-mtz.jpg";
     $scope.productname = "Ступица колеса МТЗ заднего с болтами САЗ";
@@ -13856,7 +13856,7 @@ var app = angular.module('err728', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p728_stupitsa_kolesa_mtz";
     $scope.productimg = "assets/img/819850056_stupitsa-kolesa-mtz.jpg";
     $scope.productname = "Ступица колеса МТЗ переднего в сборе";
@@ -13875,7 +13875,7 @@ var app = angular.module('err729', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p729_stupitsa_kolesa_mtz";
     $scope.productimg = "assets/img/540551301_stupitsa-kolesa-mtz.jpg";
     $scope.productname = "Ступица колеса МТЗ переднего с болтами";
@@ -13894,7 +13894,7 @@ var app = angular.module('err730', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p730_stupitsa_kolesa_mtz";
     $scope.productimg = "assets/img/819861892_stupitsa-kolesa-mtz.jpg";
     $scope.productname = "Ступица колеса МТЗ ЮМЗ переднего голая";
@@ -13913,7 +13913,7 @@ var app = angular.module('err731', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p731_shajba_gajki_stupitsy";
     $scope.productimg = "assets/img/819892671_shajba-gajki-stupitsy.jpg";
     $scope.productname = "Шайба гайки ступицы передней МТЗ";
@@ -13932,7 +13932,7 @@ var app = angular.module('err732', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p732_shajba_upornaya_podshipnika";
     $scope.productimg = "assets/img/819883381_shajba-upornaya-podshipnika.jpg";
     $scope.productname = "Шайба упорная подшипника ступицы колеса переднего МТЗ";
@@ -13951,7 +13951,7 @@ var app = angular.module('err733', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p733_shponka_zadnej_stupitsy";
     $scope.productimg = "assets/img/819916668_shponka-zadnej-stupitsy.jpg";
     $scope.productname = "Шпонка задней ступицы МТЗ";
@@ -13970,7 +13970,7 @@ var app = angular.module('err734', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p734_amortizator_privoda_upravleniya";
     $scope.productimg = "assets/img/746246773_amortizator-privoda-upravleniya.jpg";
     $scope.productname = "Амортизатор привода управления рулевого МТЗ 80/82";
@@ -13989,7 +13989,7 @@ var app = angular.module('err735', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p735_amortizator_privoda_upravleniya";
     $scope.productimg = "assets/img/778053593_amortizator-privoda-upravleniya.jpg";
     $scope.productname = "Амортизатор привода управления рулевого МТЗ 80/82 большой";
@@ -14008,7 +14008,7 @@ var app = angular.module('err736', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p736_val_povorotnyj_gur";
     $scope.productimg = "assets/img/746255640_val-povorotnyj-gur.jpg";
     $scope.productname = "Вал поворотный ГУР МТЗ";
@@ -14027,7 +14027,7 @@ var app = angular.module('err737', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p737_val_rulevogo_upravleniya";
     $scope.productimg = "assets/img/746259976_val-rulevogo-upravleniya.jpg";
     $scope.productname = "Вал рулевого управления МТЗ";
@@ -14046,7 +14046,7 @@ var app = angular.module('err738', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p738_val_rulevogo_upravleniya";
     $scope.productimg = "assets/img/746264262_val-rulevogo-upravleniya.jpg";
     $scope.productname = "Вал рулевого управления МТЗ";
@@ -14065,7 +14065,7 @@ var app = angular.module('err739', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p739_val_upravleniya_rulevogo";
     $scope.productimg = "assets/img/746269622_val-upravleniya-rulevogo.jpg";
     $scope.productname = "Вал управления рулевого МТЗ в сборе";
@@ -14084,7 +14084,7 @@ var app = angular.module('err740', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p740_vilka_kardanchika_mtz";
     $scope.productimg = "assets/img/746285662_vilka-kardanchika-mtz.jpg";
     $scope.productname = "Вилка карданчика МТЗ";
@@ -14103,7 +14103,7 @@ var app = angular.module('err741', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p741_vilka_krestoviny_mtz";
     $scope.productimg = "assets/img/746418465_vilka-krestoviny-mtz.jpg";
     $scope.productname = "Вилка крестовины МТЗ";
@@ -14122,7 +14122,7 @@ var app = angular.module('err742', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p742_vilka_nasosa_dozatora";
     $scope.productimg = "assets/img/746439695_vilka-nasosa-dozatora-mtz.jpg";
     $scope.productname = "Вилка насоса-дозатора МТЗ";
@@ -14141,7 +14141,7 @@ var app = angular.module('err743', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p743_vtulka_amortizatora_kolonki";
     $scope.productimg = "assets/img/746454848_vtulka-amortizatora-kolonki.jpg";
     $scope.productname = "Втулка амортизатора колонки рулевой МТЗ";
@@ -14160,7 +14160,7 @@ var app = angular.module('err744', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p744_vtulka_gidrotsilindra_rulevogo";
     $scope.productimg = "assets/img/746446110_vtulka-gidrotsilindra-rulevogo.jpg";
     $scope.productname = "Втулка гидроцилиндра рулевого управления МТЗ сферическая";
@@ -14179,7 +14179,7 @@ var app = angular.module('err745', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p745_vtulka_gur_mtz";
     $scope.productimg = "assets/img/746484980_vtulka-gur-mtz.jpg";
     $scope.productname = "Втулка ГУР МТЗ верхняя";
@@ -14198,7 +14198,7 @@ var app = angular.module('err746', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p746_vtulka_gur_mtz";
     $scope.productimg = "assets/img/746501734_vtulka-gur-mtz.jpg";
     $scope.productname = "Втулка ГУР МТЗ нижняя";
@@ -14217,7 +14217,7 @@ var app = angular.module('err747', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p747_vtulka_raspredelitelya_gur";
     $scope.productimg = "assets/img/746505008_vtulka-raspredelitelya-gur.jpg";
     $scope.productname = "Втулка распределителя ГУР МТЗ";
@@ -14236,7 +14236,7 @@ var app = angular.module('err748', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p748_vtulka_rulevogo_upravleniya";
     $scope.productimg = "assets/img/746509016_vtulka-rulevogo-upravleniya.jpg";
     $scope.productname = "Втулка рулевого управления МТЗ шлицевая";
@@ -14255,7 +14255,7 @@ var app = angular.module('err749', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p749_vtulka_upravleniya_rulevogo";
     $scope.productimg = "assets/img/870725128_vtulka-upravleniya-rulevogo.jpg";
     $scope.productname = "Втулка управления рулевого МТЗ с ГОРУ 12 мм";
@@ -14274,7 +14274,7 @@ var app = angular.module('err750', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p750_gidroraspredelitel_gur_mtz";
     $scope.productimg = "assets/img/746516830_gidroraspredelitel-gur-mtz.jpg";
     $scope.productname = "Гидрораспределитель ГУР МТЗ новый";
@@ -14293,7 +14293,7 @@ var app = angular.module('err751', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p751_datchik_blokirovki_rulevogo";
     $scope.productimg = "assets/img/746523783_datchik-blokirovki-rulevogo.jpg";
     $scope.productname = "Датчик блокировки рулевого управления МТЗ";
@@ -14312,7 +14312,7 @@ var app = angular.module('err752', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p752_kardan_rulevoj_mtz";
     $scope.productimg = "assets/img/746528128_kardan-rulevoj-mtz.jpg";
     $scope.productname = "Кардан рулевой МТЗ";
@@ -14331,7 +14331,7 @@ var app = angular.module('err753', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p753_kardan_upravleniya_rulevogo";
     $scope.productimg = "assets/img/469057996_kardan-upravleniya-rulevogo.jpg";
     $scope.productname = "Кардан управления рулевого МТЗ 1221";
@@ -14350,7 +14350,7 @@ var app = angular.module('err754', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p754_kronshtejn_pod_goru";
     $scope.productimg = "assets/img/746542717_kronshtejn-pod-goru.jpg";
     $scope.productname = "Кронштейн под ГОРУ МТЗ";
@@ -14369,7 +14369,7 @@ var app = angular.module('err755', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p755_kryshka_verhnyaya_gur";
     $scope.productimg = "assets/img/540825445_kryshka-verhnyaya-gur.jpg";
     $scope.productname = "Крышка верхняя ГУР в сборе МТЗ";
@@ -14388,7 +14388,7 @@ var app = angular.module('err756', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p756_kryshka_gur_mtz";
     $scope.productimg = "assets/img/746578446_kryshka-gur-mtz.jpg";
     $scope.productname = "Крышка ГУР МТЗ";
@@ -14407,7 +14407,7 @@ var app = angular.module('err757', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p757_masloprovod_gura_mtz";
     $scope.productimg = "assets/img/746580444_masloprovod-gura-mtz.jpg";
     $scope.productname = "Маслопровод ГУРа МТЗ";
@@ -14426,7 +14426,7 @@ var app = angular.module('err758', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p758_masloprovod_gur_mtz";
     $scope.productimg = "assets/img/746584247_masloprovod-gur-mtz.jpg";
     $scope.productname = "Маслопровод ГУР МТЗ подводящий";
@@ -14445,7 +14445,7 @@ var app = angular.module('err759', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p759_nasos_dozator_rulevogo";
     $scope.productimg = "assets/img/469057998_nasos-dozator-rulevogo-upravleniya.jpg";
     $scope.productname = "Насос-дозатор рулевого управления МТЗ";
@@ -14464,7 +14464,7 @@ var app = angular.module('err760', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p760_nasos_dozator_rulevogo";
     $scope.productimg = "assets/img/718308086_nasos-dozator-rulevogo-upravleniya.jpg";
     $scope.productname = "Насос-дозатор рулевого управления МТЗ 1221";
@@ -14483,7 +14483,7 @@ var app = angular.module('err761', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p761_palets_gidrotsilindra_povorota";
     $scope.productimg = "assets/img/746590483_palets-gidrotsilindra-povorota.jpg";
     $scope.productname = "Палец гидроцилиндра поворота с ПВМ (под Ц63) длинный МТЗ-1025 1221 1523";
@@ -14502,7 +14502,7 @@ var app = angular.module('err762', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p762_palets_rejki_gur";
     $scope.productimg = "assets/img/540960763_palets-rejki-gur.jpg";
     $scope.productname = "Палец рейки ГУР МТЗ";
@@ -14521,7 +14521,7 @@ var app = angular.module('err763', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p763_palets_upravleniya_rulevogo";
     $scope.productimg = "assets/img/748381778_palets-upravleniya-rulevogo.jpg";
     $scope.productname = "Палец управления рулевого МТЗ 900 с ГОРУ в сборе";
@@ -14540,7 +14540,7 @@ var app = angular.module('err764', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p764_palets_upravleniya_rulevogo";
     $scope.productimg = "assets/img/748385264_palets-upravleniya-rulevogo.jpg";
     $scope.productname = "Палец управления рулевого с ГОРУ МТЗ в сборе";
@@ -14559,7 +14559,7 @@ var app = angular.module('err765', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p765_palets_shtoka_gidrotsilindra";
     $scope.productimg = "assets/img/748390358_palets-shtoka-gidrotsilindra.jpg";
     $scope.productname = "Палец штока гидроцилиндра Ц50 МТЗ в сборе";
@@ -14578,7 +14578,7 @@ var app = angular.module('err766', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p766_rejka_gur_mtz";
     $scope.productimg = "assets/img/748393438_rejka-gur-mtz.jpg";
     $scope.productname = "Рейка ГУР МТЗ";
@@ -14597,7 +14597,7 @@ var app = angular.module('err767', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p767_rychag_povoronyj_mtz";
     $scope.productimg = "assets/img/541035309_rychag-povoronyj-mtz.jpg";
     $scope.productname = "Рычаг повороный МТЗ двойной";
@@ -14616,7 +14616,7 @@ var app = angular.module('err768', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p768_sektor_rulevoj_mtz";
     $scope.productimg = "assets/img/748398060_sektor-rulevoj-mtz.jpg";
     $scope.productname = "Сектор рулевой МТЗ";
@@ -14635,7 +14635,7 @@ var app = angular.module('err769', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p769_stojka_vala_rulevogo";
     $scope.productimg = "assets/img/748399933_stojka-vala-rulevogo.jpg";
     $scope.productname = "Стойка вала рулевого управления МТЗ";
@@ -14654,7 +14654,7 @@ var app = angular.module('err770', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p770_filtr_gur_mtz";
     $scope.productimg = "assets/img/748403336_filtr-gur-mtz.jpg";
     $scope.productname = "Фильтр ГУР МТЗ";
@@ -14673,7 +14673,7 @@ var app = angular.module('err771', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p771_filtr_maslyanyj_mtz";
     $scope.productimg = "assets/img/718380385_filtr-maslyanyj-mtz.jpg";
     $scope.productname = "Фильтр масляный МТЗ 1221, Амкодор рул. управл. (601Т-1-06, М5601)";
@@ -14692,7 +14692,7 @@ var app = angular.module('err772', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p772_homut_rulevogo_upravleniya";
     $scope.productimg = "assets/img/748407750_homut-rulevogo-upravleniya.jpg";
     $scope.productname = "Хомут рулевого управления МТЗ";
@@ -14711,7 +14711,7 @@ var app = angular.module('err773', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p773_tsilindr_rejkoj_gur";
     $scope.productimg = "assets/img/748407959_tsilindr-s-rejkoj.jpg";
     $scope.productname = "Цилиндр с рейкой ГУР МТЗ";
@@ -14730,7 +14730,7 @@ var app = angular.module('err774', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p774_chashka_mtz";
     $scope.productimg = "assets/img/748409924_chashka-mtz.jpg";
     $scope.productname = "Чашка МТЗ";
@@ -14749,7 +14749,7 @@ var app = angular.module('err775', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p775_chervyak_gur_mtz";
     $scope.productimg = "assets/img/748410899_chervyak-gur-mtz.jpg";
     $scope.productname = "Червяк ГУР МТЗ";
@@ -14768,7 +14768,7 @@ var app = angular.module('err776', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p776_chehol_sharnira_rulevyh";
     $scope.productimg = "assets/img/748421328_chehol-sharnira-rulevyh.jpg";
     $scope.productname = "Чехол шарнира рулевых тяг ЮМЗ МТЗ Т-40";
@@ -14787,7 +14787,7 @@ var app = angular.module('err777', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p777_shlang_rulevogo_upravleniya";
     $scope.productimg = "assets/img/748424991_shlang-rulevogo-upravleniya.jpg";
     $scope.productname = "Шланг рулевого управления С ГОРУ МТЗ L=700";
@@ -14806,7 +14806,7 @@ var app = angular.module('err778', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p778_shtutser_nasos_dozatora";
     $scope.productimg = "assets/img/748426897_shtutser-nasos-dozatora-mtz.jpg";
     $scope.productname = "Штуцер насос-дозатора МТЗ";
@@ -14825,7 +14825,7 @@ var app = angular.module('err779', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p779_val_tormoza_stoyanochno";
     $scope.productimg = "assets/img/748429045_val-tormoza-stoyanochno-zapasnogo.jpg";
     $scope.productname = "Вал тормоза стояночно-запасного МТЗ";
@@ -14844,7 +14844,7 @@ var app = angular.module('err780', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p780_val_tormoznoj_mtz";
     $scope.productimg = "assets/img/748454766_val-tormoznoj-mtz.jpg";
     $scope.productname = "Вал тормозной МТЗ";
@@ -14863,7 +14863,7 @@ var app = angular.module('err781', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p781_val_tormoznoj_mtz";
     $scope.productimg = "assets/img/748460908_val-tormoznoj-mtz.jpg";
     $scope.productname = "Вал тормозной МТЗ 900-952 (3-х дисковые тормоза)";
@@ -14882,7 +14882,7 @@ var app = angular.module('err782', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p782_disk_tormoza_nazhimnoj";
     $scope.productimg = "assets/img/469058150_disk-tormoza-nazhimnoj.jpg";
     $scope.productname = "Диск тормоза нажимной МТЗ 1221";
@@ -14901,7 +14901,7 @@ var app = angular.module('err783', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p783_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/748473188_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ 100";
@@ -14920,7 +14920,7 @@ var app = angular.module('err784', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p784_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/718466336_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ 1221";
@@ -14939,7 +14939,7 @@ var app = angular.module('err785', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p785_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/748475797_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ нажимной";
@@ -14958,7 +14958,7 @@ var app = angular.module('err786', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p786_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/748479037_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ нажимной в сборе нового образца";
@@ -14977,7 +14977,7 @@ var app = angular.module('err787', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p787_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/748488944_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ нажимной в сборе старого образца";
@@ -14996,7 +14996,7 @@ var app = angular.module('err788', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p788_kozhuh_rabochego_tormoza";
     $scope.productimg = "assets/img/718513513_kozhuh-rabochego-tormoza.jpg";
     $scope.productimg = "assets/img/469058149_kozhuh-rabochego-tormoza.jpg";
@@ -15016,7 +15016,7 @@ var app = angular.module('err789', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p789_kozhuh_tormoza_rabochego";
     $scope.productimg = "assets/img/748493726_kozhuh-tormoza-rabochego.jpg";
     $scope.productname = "Кожух тормоза рабочего МТЗ";
@@ -15035,7 +15035,7 @@ var app = angular.module('err790', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p790_kozhuh_tormoza_rabochego";
     $scope.productimg = "assets/img/748500979_kozhuh-tormoza-rabochego.jpg";
     $scope.productname = "Кожух тормоза рабочего МТЗ 900-1221";
@@ -15054,7 +15054,7 @@ var app = angular.module('err791', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p791_kronshtejn_upravleniya_tormoza";
     $scope.productimg = "assets/img/748503776_kronshtejn-upravleniya-tormoza.jpg";
     $scope.productname = "Кронштейн управления тормоза стояночного МТЗ";
@@ -15073,7 +15073,7 @@ var app = angular.module('err792', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p792_kronshtejn_upravleniya_tormozom";
     $scope.productimg = "assets/img/748508851_kronshtejn-upravleniya-tormozom.jpg";
     $scope.productname = "Кронштейн управления тормозом стояночным в сборе";
@@ -15092,7 +15092,7 @@ var app = angular.module('err793', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p793_masloprovod_kompressora_mtz";
     $scope.productimg = "assets/img/748511908_masloprovod-kompressora-mtz.jpg";
     $scope.productname = "Маслопровод компрессора МТЗ L=114мм";
@@ -15111,7 +15111,7 @@ var app = angular.module('err794', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p794_nakladka_diska_tormoznogo";
     $scope.productimg = "assets/img/748522018_nakladka-diska-tormoznogo.jpg";
     $scope.productname = "Накладка диска тормозного МТЗ";
@@ -15130,7 +15130,7 @@ var app = angular.module('err795', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p795_nakladka_pedali_upravleniya";
     $scope.productimg = "assets/img/748523382_nakladka-pedali-upravleniya.jpg";
     $scope.productname = "Накладка педали управления тормозами МТЗ";
@@ -15149,7 +15149,7 @@ var app = angular.module('err796', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p796_pedal_tormoza_mtz";
     $scope.productimg = "assets/img/748524609_pedal-tormoza-mtz.jpg";
     $scope.productname = "Педаль тормоза МТЗ левая";
@@ -15168,7 +15168,7 @@ var app = angular.module('err797', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p797_pedal_tormoza_mtz";
     $scope.productimg = "assets/img/1607277643_pedal-tormoza-mtz.jpg";
     $scope.productname = "Педаль тормоза МТЗ правая";
@@ -15187,7 +15187,7 @@ var app = angular.module('err798', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p798_pruzhina_diska_nazhimnogo";
     $scope.productimg = "assets/img/748526031_pruzhina-diska-nazhimnogo.jpg";
     $scope.productname = "Пружина диска нажимного МТЗ";
@@ -15206,7 +15206,7 @@ var app = angular.module('err799', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p799_regulyator_davleniya_mtz";
     $scope.productimg = "assets/img/748527884_regulyator-davleniya-mtz.jpg";
     $scope.productname = "Регулятор давления МТЗ";
@@ -15225,7 +15225,7 @@ var app = angular.module('err800', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p800_rychag_upravleniya_stoyanochnogo";
     $scope.productimg = "assets/img/748529421_rychag-upravleniya-stoyanochnogo.jpg";
     $scope.productname = "Рычаг управления стояночного и запасного тормоза УК в сборе МТЗ";
@@ -15244,7 +15244,7 @@ var app = angular.module('err801', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p801_rychag_upravleniya_stoyanochnogo";
     $scope.productimg = "assets/img/748530983_rychag-upravleniya-stoyanochnogo.jpg";
     $scope.productname = "Рычаг управления стояночного тормоза МТЗ";
@@ -15263,7 +15263,7 @@ var app = angular.module('err802', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p802_sektor_tormoza_stoyanochnogo";
     $scope.productimg = "assets/img/541318264_sektor-tormoza-stoyanochnogo.jpg";
     $scope.productname = "Сектор тормоза стояночного МТЗ";
@@ -15282,7 +15282,7 @@ var app = angular.module('err803', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p803_tyaga_rychaga_stoyanochnogo";
     $scope.productimg = "assets/img/541318265_tyaga-rychaga-stoyanochnogo.jpg";
     $scope.productname = "Тяга рычага стояночного тормоза МТЗ";
@@ -15301,7 +15301,7 @@ var app = angular.module('err804', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p804_chehol_tormoznoj_mtz";
     $scope.productimg = "assets/img/541377439_chehol-tormoznoj-mtz.jpg";
     $scope.productname = "Чехол тормозной МТЗ";
@@ -15320,7 +15320,7 @@ var app = angular.module('err805', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p805_shtutser_vvertnyj_pnevmoprivoda";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Штуцер ввертный пневмопривода тормозов МТЗ";
@@ -15339,7 +15339,7 @@ var app = angular.module('err806', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p806_shtutser_kompressora_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Штуцер компрессора МТЗ";
@@ -15358,7 +15358,7 @@ var app = angular.module('err807', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p807_shtutser_masloprovoda_mtz";
     $scope.productimg = "assets/img/541377441_shtutser-masloprovoda-mtz.jpg";
     $scope.productname = "Штуцер маслопровода МТЗ";
@@ -15377,7 +15377,7 @@ var app = angular.module('err808', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p808_blok_predohranitelej_mtz";
     $scope.productimg = "assets/img/751086322_blok-predohranitelej-mtz.jpg";
     $scope.productname = "Блок предохранителей МТЗ";
@@ -15396,7 +15396,7 @@ var app = angular.module('err809', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p809_blok_upravleniya_starterom";
     $scope.productimg = "assets/img/751163458_blok-upravleniya-starterom.jpg";
     $scope.productname = "Блок управления стартером МТЗ";
@@ -15415,7 +15415,7 @@ var app = angular.module('err810', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p810_vilka_soedineniya_elektricheskih";
     $scope.productimg = "assets/img/751171686_vilka-soedineniya-elektricheskih.jpg";
     $scope.productname = "Вилка соединения электрических цепей МТЗ";
@@ -15434,7 +15434,7 @@ var app = angular.module('err811', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p811_vtulka_startera_222a";
     $scope.productimg = "assets/img/751190822_vtulka-startera-st-222a-370.jpg";
     $scope.productname = "Втулка стартера (СТ-222А-370) ЗИЛ 5301 МТЗ";
@@ -15453,7 +15453,7 @@ var app = angular.module('err812', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p812_vtulka_startera_samara";
     $scope.productimg = "assets/img/751194985_vtulka-startera-st-24.jpg";
     $scope.productname = "Втулка стартера (СТ-24 Самара) МТЗ (3 штуки)";
@@ -15472,7 +15472,7 @@ var app = angular.module('err813', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p813_vyklyuchatel_blokirovki_zapuska";
     $scope.productimg = "assets/img/751201947_vyklyuchatel-blokirovki-zapuska.jpg";
     $scope.productname = "Выключатель блокировки запуска двигателя МТЗ";
@@ -15491,7 +15491,7 @@ var app = angular.module('err814', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p814_vyklyuchatel_zadnego_hoda";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Выключатель заднего хода и блокировки запуска двигателя МТЗ";
@@ -15510,7 +15510,7 @@ var app = angular.module('err815', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p815_vyklyuchatel_massy_kontaktnyj";
     $scope.productimg = "assets/img/489472190_vyklyuchatel-massy-2-h.jpg";
     $scope.productname = "Выключатель массы 2-х контактный ручной МТЗ";
@@ -15529,7 +15529,7 @@ var app = angular.module('err816', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p816_vyklyuchatel_massy_kontaktnyj";
     $scope.productimg = "assets/img/489472189_vyklyuchatel-massy-3-h.jpg";
     $scope.productname = "Выключатель массы 3-х контактный ручной МТЗ";
@@ -15548,7 +15548,7 @@ var app = angular.module('err817', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p817_vyklyuchatel_massy_kontaktnyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Выключатель массы 4-х контактный электромагнитный МТЗ";
@@ -15567,7 +15567,7 @@ var app = angular.module('err818', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p818_vyklyuchatel_massy_zil";
     $scope.productimg = "assets/img/1560101116_vyklyuchatel-massy-zil.jpg";
     $scope.productname = "Выключатель массы ЗИЛ 4331 5301 МТЗ дистанционный";
@@ -15586,7 +15586,7 @@ var app = angular.module('err819', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p819_vyklyuchatel_ptum_fary";
     $scope.productimg = "assets/img/1328923206_vyklyuchatel-ptum-fary.jpg";
     $scope.productname = "Выключатель п/тум. фары МТЗ клавишный";
@@ -15605,7 +15605,7 @@ var app = angular.module('err820', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p820_vyklyuchatel_signala_zvukovogo";
     $scope.productimg = "assets/img/541433477_vyklyuchatel-signala-zvukovogo.jpg";
     $scope.productname = "Выключатель сигнала звукового МТЗ";
@@ -15624,7 +15624,7 @@ var app = angular.module('err821', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p821_vyklyuchatel_signala_tormoza";
     $scope.productimg = "assets/img/541433473_vyklyuchatel-signala-tormoza.jpg";
     $scope.productname = "Выключатель сигнала тормоза МТЗ";
@@ -15643,7 +15643,7 @@ var app = angular.module('err822', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p822_vyklyuchatel_stop_signala";
     $scope.productimg = "assets/img/489472188_vyklyuchatel-stop-signala.jpg";
     $scope.productname = "Выключатель стоп сигнала МТЗ кнопочного типа";
@@ -15662,7 +15662,7 @@ var app = angular.module('err823', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p823_datchik_avarijnoj_temperatury";
     $scope.productimg = "assets/img/489472272_datchik-avarijnoj-temperatury.jpg";
     $scope.productname = "Датчик аварийной температуры охлаждения жидкости МТЗ МАЗ";
@@ -15681,7 +15681,7 @@ var app = angular.module('err824', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p824_datchik_davleniya_vozduha";
     $scope.productimg = "assets/img/541540762_datchik-davleniya-vozduha.jpg";
     $scope.productname = "Датчик давления воздуха аварийный МТЗ";
@@ -15700,7 +15700,7 @@ var app = angular.module('err825', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p825_datchik_davleniya_masla";
     $scope.productimg = "assets/img/489472273_datchik-davleniya-masla.jpg";
     $scope.productname = "Датчик давления масла аварийный МТЗ";
@@ -15719,7 +15719,7 @@ var app = angular.module('err826', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p826_datchik_davleniya_masla";
     $scope.productimg = "assets/img/489472274_datchik-davleniya-masla.jpg";
     $scope.productname = "Датчик давления масла МТЗ (под винт)";
@@ -15738,7 +15738,7 @@ var app = angular.module('err827', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p827_datchik_signalizatora_davleniya";
     $scope.productimg = "assets/img/489472317_datchik-signalizatora-davleniya.jpg";
     $scope.productname = "Датчик сигнализатора давления масла МТЗ";
@@ -15757,7 +15757,7 @@ var app = angular.module('err828', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p828_datchik_signalizatora_zasorennosti";
     $scope.productimg = "assets/img/489472318_datchik-signalizatora-zasorennosti.jpg";
     $scope.productname = "Датчик сигнализатора засоренности фильтра воздушного МТЗ";
@@ -15776,7 +15776,7 @@ var app = angular.module('err829', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p829_datchik_temperatury_ohlazhdeniya";
     $scope.productimg = "assets/img/541540761_datchik-temperatury-ohlazhdeniya.jpg";
     $scope.productname = "Датчик температуры охлаждения жидкости МТЗ";
@@ -15795,7 +15795,7 @@ var app = angular.module('err830', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p830_datchik_temperatury_ohlazhdeniya";
     $scope.productimg = "assets/img/489472319_datchik-temperatury-ohlazhdeniya.jpg";
     $scope.productname = "Датчик температуры охлаждения жидкости МТЗ";
@@ -15814,7 +15814,7 @@ var app = angular.module('err831', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p831_datchik_ukazatelya_urovnya";
     $scope.productimg = "assets/img/541592295_datchik-ukazatelya-urovnya.jpg";
     $scope.productname = "Датчик указателя уровня топлива МТЗ (D= 514 мм)";
@@ -15833,7 +15833,7 @@ var app = angular.module('err832', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p832_zamok_zazhiganiya_maz";
     $scope.productimg = "assets/img/1152405276_zamok-zazhiganiya-maz.jpg";
     $scope.productname = "Замок зажигания МАЗ КАМАЗ МТЗ";
@@ -15852,7 +15852,7 @@ var app = angular.module('err833', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p833_katushka_startera_zil";
     $scope.productimg = "assets/img/541592296_katushka-startera-zil.jpg";
     $scope.productname = "Катушка стартера ЗИЛ МТЗ ЕВРО-2 полукомплект";
@@ -15871,7 +15871,7 @@ var app = angular.module('err834', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p834_kozhuh_pereklyuchatelya_pkp";
     $scope.productimg = "assets/img/1063985446_kozhuh-pereklyuchatelya-pkp-1.jpg";
     $scope.productname = "Кожух переключателя ПКП-1 (3912.3769) МТЗ";
@@ -15890,7 +15890,7 @@ var app = angular.module('err835', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p835_krestovina_rulevaya_vala";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крестовина рулевая вала карданного МТЗ";
@@ -15909,7 +15909,7 @@ var app = angular.module('err836', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p836_kronshtejn_generatora_mtz";
     $scope.productimg = "assets/img/813960972_kronshtejn-generatora-mtz.jpg";
     $scope.productname = "Кронштейн генератора МТЗ";
@@ -15928,7 +15928,7 @@ var app = angular.module('err837', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p837_kryshka_zadnyaya_izhks711354014";
     $scope.productimg = "assets/img/541592294_kryshka-zadnyaya-izhks711354014.jpg";
     $scope.productname = "Крышка задняя ИЖКС.711354.014 (28В)";
@@ -15947,7 +15947,7 @@ var app = angular.module('err838', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p838_kryshka_zadnyaya_izhks711354015";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крышка задняя ИЖКС.711354.015 (12В)";
@@ -15966,7 +15966,7 @@ var app = angular.module('err839', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p839_lampa_farnaya_6040";
     $scope.productimg = "assets/img/541640634_lampa-farnaya-a.jpg";
     $scope.productname = "Лампа фарная А 24-60+40 МТЗ сельхозтехника";
@@ -15985,7 +15985,7 @@ var app = angular.module('err840', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p840_magneto_kontaktnoe_124";
     $scope.productimg = "assets/img/541640635_magneto-kontaktnoe-m.jpg";
     $scope.productname = "Магнето контактное М 124";
@@ -16004,7 +16004,7 @@ var app = angular.module('err841', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p841_most_diodnyj_bpv";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Мост диодный к БПВ 56-65-02";
@@ -16023,7 +16023,7 @@ var app = angular.module('err842', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p842_otrazhatel_treugolnik_katafot";
     $scope.productimg = "assets/img/541640633_otrazhatel-treugolnik-katafot-krasnyj.jpg";
     $scope.productname = "Отражатель-треугольник (катафот) красный";
@@ -16042,7 +16042,7 @@ var app = angular.module('err843', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p843_pereklyuchatel_ventilyatora_otopitelya";
     $scope.productimg = "assets/img/541640631_pereklyuchatel-ventilyatora-otopitelya.jpg";
     $scope.productname = "Переключатель вентилятора отопителя МТЗ";
@@ -16061,7 +16061,7 @@ var app = angular.module('err844', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p844_pereklyuchatel_obogreva_predpuskovogo";
     $scope.productimg = "assets/img/948312244_pereklyuchatel-obogreva-predpuskovogo.jpg";
     $scope.productname = "Переключатель обогрева предпускового двигателя МТЗ клавиша";
@@ -16080,7 +16080,7 @@ var app = angular.module('err845', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p845_pereklyuchatel_povorotov_mtz";
     $scope.productimg = "assets/img/541686625_pereklyuchatel-povorotov-mtz.jpg";
     $scope.productname = "Переключатель поворотов МТЗ тумблер трёхпозиционный";
@@ -16099,7 +16099,7 @@ var app = angular.module('err846', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p846_pereklyuchatel_sveta_mtz";
     $scope.productimg = "assets/img/541686628_pereklyuchatel-sveta-mtz.jpg";
     $scope.productname = "Переключатель света МТЗ";
@@ -16118,7 +16118,7 @@ var app = angular.module('err847', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p847_pereklyuchatel_sveta_far";
     $scope.productimg = "assets/img/1328925639_pereklyuchatel-sveta-far.jpg";
     $scope.productname = "Переключатель света фар, знак автопоезда МТЗ";
@@ -16137,7 +16137,7 @@ var app = angular.module('err848', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p848_pereklyuchatel_stekloochistitelya_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Переключатель стеклоочистителя МТЗ (ветрового стекла)";
@@ -16156,7 +16156,7 @@ var app = angular.module('err849', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p849_pereklyuchatel_mtz_tumbler";
     $scope.productimg = "assets/img/819812960_pereklyuchatel-mtz-tumbler.jpg";
     $scope.productname = "Переключатель МТЗ тумблер двухпозиционный";
@@ -16175,7 +16175,7 @@ var app = angular.module('err850', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p850_planka_generatora_mtz";
     $scope.productimg = "assets/img/820026213_planka-generatora-mtz.jpg";
     $scope.productname = "Планка генератора МТЗ";
@@ -16194,7 +16194,7 @@ var app = angular.module('err851', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p851_preobrazovatel_napryazheniya_mtz";
     $scope.productimg = "assets/img/489472506_preobrazovatel-napryazheniya-mtz.jpg";
     $scope.productname = "Преобразователь напряжения МТЗ 14/28В";
@@ -16213,7 +16213,7 @@ var app = angular.module('err852', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p852_privod_nasosa_260";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Привод насоса Д 260 МТЗ";
@@ -16232,7 +16232,7 @@ var app = angular.module('err853', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p853_privod_startera_shlitsov";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Привод стартера (10 шлицов ) МТЗ 12/24В";
@@ -16251,7 +16251,7 @@ var app = angular.module('err854', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p854_privod_startera_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Привод стартера МТЗ 12В 6 шлицов";
@@ -16270,7 +16270,7 @@ var app = angular.module('err855', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p855_privod_startera_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Привод стартера МТЗ AZJ (16.911.869)";
@@ -16289,7 +16289,7 @@ var app = angular.module('err856', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p856_privod_startera_mtz";
     $scope.productimg = "assets/img/489472507_privod-startera-mtz.jpg";
     $scope.productimg = "assets/img/489472508_privod-startera-mtz.jpg";
@@ -16310,7 +16310,7 @@ var app = angular.module('err857', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p857_privod_startera_puskovye";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Привод стартера на пусковые двигатели П350 ПД 10УД П-10УД";
@@ -16329,7 +16329,7 @@ var app = angular.module('err858', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p858_privod_startera_zubov";
     $scope.productimg = "assets/img/541729985_privod-startera-11.jpg";
     $scope.productname = "Привод стартера (11 зубов) для стартера JOBs 123708003, -009";
@@ -16348,7 +16348,7 @@ var app = angular.module('err859', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p859_regulyator_napryazheniya_mtz";
     $scope.productimg = "assets/img/489472695_regulyator-napryazheniya-mtz.jpg";
     $scope.productname = "Регулятор напряжения МТЗ";
@@ -16367,7 +16367,7 @@ var app = angular.module('err860', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p860_rele_startera_mtz";
     $scope.productimg = "assets/img/489472696_rele-startera-mtz.jpg";
     $scope.productname = "Реле стартера МТЗ";
@@ -16386,7 +16386,7 @@ var app = angular.module('err861', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p861_rele_preobrazovatel_toka";
     $scope.productimg = "assets/img/489472697_rele-preobrazovatel-toka.jpg";
     $scope.productname = "Реле (преобразователь тока 12/24V) МТЗ";
@@ -16405,7 +16405,7 @@ var app = angular.module('err862', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p862_rele_vtyagivayuschee_evro";
     $scope.productimg = "assets/img/541729984_rele-vtyagivayuschee-evro-2.jpg";
     $scope.productname = "Реле втягивающее ЕВРО-2 ММЗ Д243 Д245 аналог СТ142Н Z=10";
@@ -16424,7 +16424,7 @@ var app = angular.module('err863', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p863_rele_vtyagivayuschee_mtz";
     $scope.productimg = "assets/img/541729987_rele-vtyagivayuschee-mtz.jpg";
     $scope.productname = "Реле втягивающее МТЗ";
@@ -16443,7 +16443,7 @@ var app = angular.module('err864', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p864_rele_vtyagivayuschee_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Реле втягивающее МТЗ";
@@ -16462,7 +16462,7 @@ var app = angular.module('err865', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p865_rele_vtyagivayuschee_mtz";
     $scope.productimg = "assets/img/489472694_rele-vtyagivayuschee-mtz.jpg";
     $scope.productname = "Реле втягивающее МТЗ 12 В";
@@ -16481,7 +16481,7 @@ var app = angular.module('err866', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p866_rele_integralnoe_ya112b";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Реле интегральное Я112Б (пр-во РелКом)";
@@ -16500,7 +16500,7 @@ var app = angular.module('err867', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p867_rele_integralnoe_ya112b1";
     $scope.productimg = "assets/img/541729986_rele-integralnoe-ya112b1.jpg";
     $scope.productname = "Реле интегральное Я112Б1 (пр-во Энергомаш)";
@@ -16519,7 +16519,7 @@ var app = angular.module('err868', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p868_rele_povorotov_rs410";
     $scope.productimg = "assets/img/489472698_rele-povorotov-rs410.jpg";
     $scope.productname = "Реле поворотов РС410 МТЗ Т 25";
@@ -16538,7 +16538,7 @@ var app = angular.module('err869', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p869_rele_povorotov_rs410m";
     $scope.productimg = "assets/img/541729988_rele-povorotov-rs410m.jpg";
     $scope.productname = "Реле поворотов РС410М ХТЗ МТЗ ВТЗ ЛКЗ";
@@ -16557,7 +16557,7 @@ var app = angular.module('err870', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p870_rozetka_soedinenie_elektrotsepyami";
     $scope.productimg = "assets/img/541771751_rozetka-soedinenie-s.jpg";
     $scope.productname = "Розетка соединение с электроцепями прицепа МТЗ";
@@ -16576,7 +16576,7 @@ var app = angular.module('err871', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p871_stator_schetkami_mtz";
     $scope.productimg = "assets/img/541811907_stator-s-schetkami.jpg";
     $scope.productname = "Статор с щетками МТЗ стартера JOBs 12В";
@@ -16595,7 +16595,7 @@ var app = angular.module('err872', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p872_stator_schetkami_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Статор с щетками МТЗ стартера JUBANA 24В";
@@ -16614,7 +16614,7 @@ var app = angular.module('err873', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p873_steklo_fary_kvadratnoj";
     $scope.productimg = "assets/img/1320408415_steklo-fary-kvadratnoj.jpg";
     $scope.productname = "Стекло фары квадратной МТЗ ФГ-308";
@@ -16633,7 +16633,7 @@ var app = angular.module('err874', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p874_steklo_fonarya_zadnego";
     $scope.productimg = "assets/img/1082364890_steklo-fonarya-zadnego.jpg";
     $scope.productname = "Стекло фонаря заднего МТЗ ( нового образца)";
@@ -16652,7 +16652,7 @@ var app = angular.module('err875', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p875_steklo_fonarya_zadnego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Стекло фонаря заднего МТЗ ФП-209";
@@ -16671,7 +16671,7 @@ var app = angular.module('err876', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p876_steklo_fonarya_perednego";
     $scope.productimg = "assets/img/541811909_steklo-fonarya-perednego.jpg";
     $scope.productname = "Стекло фонаря переднего МТЗ ( нового образца)";
@@ -16690,7 +16690,7 @@ var app = angular.module('err877', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p877_steklo_fonarya_perednego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Стекло фонаря переднего МТЗ ФП-204";
@@ -16709,7 +16709,7 @@ var app = angular.module('err878', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p878_ukazatel_davleniya_vozduha";
     $scope.productimg = "assets/img/489472912_ukazatel-davleniya-vozduha.jpg";
     $scope.productname = "Указатель давления воздуха МТЗ с аварийной сигнализацией";
@@ -16728,7 +16728,7 @@ var app = angular.module('err879', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p879_ukazatel_davleniya_masla";
     $scope.productimg = "assets/img/469058267_ukazatel-davleniya-masla.jpg";
     $scope.productname = "Указатель давления масла в трансмиссии МТЗ 1221 12В";
@@ -16747,7 +16747,7 @@ var app = angular.module('err880', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p880_ukazatel_napryazheniya_mtz";
     $scope.productimg = "assets/img/489472917_ukazatel-napryazheniya-mtz.jpg";
     $scope.productname = "Указатель напряжения МТЗ с аварийной сигнализацией";
@@ -16766,7 +16766,7 @@ var app = angular.module('err881', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p881_ukazatel_temperatury_vody";
     $scope.productimg = "assets/img/541853445_ukazatel-temperatury-vody.jpg";
     $scope.productname = "Указатель температуры воды и масла МТЗ МАЗ (АВТОБУС)";
@@ -16785,7 +16785,7 @@ var app = angular.module('err882', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p882_ukazatel_temperatury_vody";
     $scope.productimg = "assets/img/541853444_ukazatel-temperatury-vody.jpg";
     $scope.productname = "Указатель температуры воды и масла МТЗ МАЗ 12В";
@@ -16804,7 +16804,7 @@ var app = angular.module('err883', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p883_ukazatel_topliva_mtz";
     $scope.productimg = "assets/img/541853442_ukazatel-topliva-mtz.jpg";
     $scope.productname = "Указатель топлива МТЗ МАЗ (АВТОБУС) контроля и количества";
@@ -16823,7 +16823,7 @@ var app = angular.module('err884', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p884_ukazatel_urovnya_topliva";
     $scope.productimg = "assets/img/489472911_ukazatel-urovnya-topliva.jpg";
     $scope.productname = "Указатель уровня топлива МТЗ";
@@ -16842,7 +16842,7 @@ var app = angular.module('err885', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p885_ustrojstvo_reguliruyuschee_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Устройство регулирующее МТЗ";
@@ -16861,7 +16861,7 @@ var app = angular.module('err886', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p886_fara_mtz_perednyaya";
     $scope.productimg = "assets/img/738188621_fara-mtz-perednyaya.jpg";
     $scope.productname = "Фара МТЗ передняя дорожная толстая";
@@ -16880,7 +16880,7 @@ var app = angular.module('err887', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p887_fara_mtz_rabochaya";
     $scope.productimg = "assets/img/541853443_fara-mtz-rabochaya.jpg";
     $scope.productname = "Фара МТЗ рабочая галогенная лампа в металическом корпусе";
@@ -16899,7 +16899,7 @@ var app = angular.module('err888', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p888_fara_mtz_rabochaya";
     $scope.productimg = "assets/img/1328948051_fara-mtz-rabochaya.jpg";
     $scope.productname = "Фара МТЗ рабочая галогенная лампа в пластмасовом корпусе";
@@ -16918,7 +16918,7 @@ var app = angular.module('err889', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p889_fara_mtz_yumz";
     $scope.productimg = "assets/img/541853441_fara-mtz-yumz.jpg";
     $scope.productname = "Фара МТЗ ЮМЗ задняя с лампой в пластмасовом корпусе";
@@ -16937,7 +16937,7 @@ var app = angular.module('err890', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p890_fara_mtz_yumz";
     $scope.productimg = "assets/img/489473028_fara-mtz-yumz.jpg";
     $scope.productimg = "assets/img/1328949117_fara-mtz-yumz.jpg";
@@ -16957,7 +16957,7 @@ var app = angular.module('err891', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p891_fara_mtz_yumz";
     $scope.productimg = "assets/img/489473032_fara-mtz-yumz.jpg";
     $scope.productname = "Фара МТЗ ЮМЗ передняя с лампой в пластмассовом корпусе";
@@ -16976,7 +16976,7 @@ var app = angular.module('err892', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p892_fara_150_perednyaya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Фара Т 150 передняя с лампой в металическом корпусе";
@@ -16995,7 +16995,7 @@ var app = angular.module('err893', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p893_fonar_mtz_zadnij";
     $scope.productimg = "assets/img/489473182_fonar-mtz-zadnij.jpg";
     $scope.productname = "Фонарь МТЗ задний многофункциональный";
@@ -17014,7 +17014,7 @@ var app = angular.module('err894', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p894_fonar_mtz_perednij";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Фонарь МТЗ передний многофункциональный";
@@ -17033,7 +17033,7 @@ var app = angular.module('err895', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p895_shkiv_generatora_4603701";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шкив генератора 460.3701 (пр-во Радиоволна)";
@@ -17052,7 +17052,7 @@ var app = angular.module('err896', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p896_shkiv_generatora_4643701";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шкив генератора 464.3701 (пр-во Радиоволна)";
@@ -17071,7 +17071,7 @@ var app = angular.module('err897', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p897_schetka_startera_kamaz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Щетка стартера КАМАЗ СТ-142 комплект 8 штук";
@@ -17090,7 +17090,7 @@ var app = angular.module('err898', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p898_schetka_startera_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Щетка стартера МТЗ усиленного стартера";
@@ -17109,7 +17109,7 @@ var app = angular.module('err899', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p899_schitok_generatora_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Щиток генератора МТЗ";
@@ -17128,7 +17128,7 @@ var app = angular.module('err900', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p900_yakor_zil_5301";
     $scope.productimg = "assets/img/489473183_yakor-zil-5301.jpg";
     $scope.productimg = "assets/img/489473184_yakor-zil-5301.jpg";
@@ -17149,7 +17149,7 @@ var app = angular.module('err901', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p901_yakor_mtz_t25";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Якорь МТЗ Т 40 Т25 2,7 кВт (12В)";
@@ -17168,7 +17168,7 @@ var app = angular.module('err902', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p902_yakor_mtz_743708";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Якорь МТЗ (74.3708) (пр-во БАТЭ)";
@@ -17187,7 +17187,7 @@ var app = angular.module('err903', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p903_yakor_startera_mtz";
     $scope.productimg = "assets/img/489473341_yakor-startera-mtz.jpg";
     $scope.productname = "Якорь стартера МТЗ Д245 24В";
@@ -17206,7 +17206,7 @@ var app = angular.module('err904', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p904_baraban_vom_mtz";
     $scope.productimg = "assets/img/779649453_baraban-vom-mtz.jpg";
     $scope.productname = "Барабан ВОМ МТЗ 1221";
@@ -17225,7 +17225,7 @@ var app = angular.module('err905', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p905_bolt_upravleniya_vom";
     $scope.productimg = "assets/img/784011834_bolt-upravleniya-vom.jpg";
     $scope.productname = "Болт управления ВОМ МТЗ 80/82";
@@ -17244,7 +17244,7 @@ var app = angular.module('err906', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p906_val_vom_mtz";
     $scope.productimg = "assets/img/758341729_val-vom-mtz.jpg";
     $scope.productname = "Вал ВОМ МТЗ 1221";
@@ -17263,7 +17263,7 @@ var app = angular.module('err907', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p907_val_privoda_vom";
     $scope.productimg = "assets/img/788478566_val-privoda-vom.jpg";
     $scope.productname = "Вал привода ВОМ МТЗ 80/82";
@@ -17282,7 +17282,7 @@ var app = angular.module('err908', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p908_val_vom_shlitsov";
     $scope.productimg = "assets/img/772765299_val-vom-6.jpg";
     $scope.productname = "Вал ВОМ 6 шлицов в сборе МТЗ 80/82";
@@ -17301,7 +17301,7 @@ var app = angular.module('err909', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p909_val_vom_mtz";
     $scope.productimg = "assets/img/772766632_val-vom-mtz.jpg";
     $scope.productname = "Вал ВОМ МТЗ 80/82 8 шлицов старого образца";
@@ -17320,7 +17320,7 @@ var app = angular.module('err910', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p910_val_vom_shlitsov";
     $scope.productimg = "assets/img/772802642_val-vom-8.jpg";
     $scope.productname = "Вал ВОМ 8 шлицов в сборе МТЗ 80/82";
@@ -17339,7 +17339,7 @@ var app = angular.module('err911', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p911_val_lenty_vom";
     $scope.productimg = "assets/img/772807539_val-lenty-vom.jpg";
     $scope.productname = "Вал ленты ВОМ МТЗ";
@@ -17358,7 +17358,7 @@ var app = angular.module('err912', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p912_vint_valika_upravleniya";
     $scope.productimg = "assets/img/772815909_vint-valika-upravleniya.jpg";
     $scope.productname = "Винт валика управления ВОМ МТЗ";
@@ -17377,7 +17377,7 @@ var app = angular.module('err913', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p913_vint_ustanovochnyj_vom";
     $scope.productimg = "assets/img/772818045_vint-ustanovochnyj-vom.jpg";
     $scope.productname = "Винт установочный ВОМ МТЗ 80/82";
@@ -17396,7 +17396,7 @@ var app = angular.module('err914', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p914_vodilo_vom_mtz";
     $scope.productimg = "assets/img/772820414_vodilo-vom-mtz.jpg";
     $scope.productname = "Водило ВОМ МТЗ 80/82 в сборе с сателлитами";
@@ -17415,7 +17415,7 @@ var app = angular.module('err915', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p915_kronshtejn_lenty_vom";
     $scope.productimg = "assets/img/788757451_kronshtejn-lenty-vom.jpg";
     $scope.productname = "Кронштейн ленты ВОМ МТЗ 80/82";
@@ -17434,7 +17434,7 @@ var app = angular.module('err916', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p916_kryshka_reduktora_vom";
     $scope.productimg = "assets/img/772829189_kryshka-reduktora-vom.jpg";
     $scope.productname = "Крышка редуктора ВОМ МТЗ 80/82";
@@ -17453,7 +17453,7 @@ var app = angular.module('err917', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p917_kryshka_vom_sbore";
     $scope.productimg = "assets/img/469058268_kryshka-vom-v.jpg";
     $scope.productimg = "assets/img/489473343_kryshka-vom-v.jpg";
@@ -17474,7 +17474,7 @@ var app = angular.module('err918', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p918_kryshka_vom_mtz";
     $scope.productimg = "assets/img/772907051_kryshka-vom-mtz.jpg";
     $scope.productname = "Крышка ВОМ МТЗ 1025 в сборе 8 шлицов";
@@ -17493,7 +17493,7 @@ var app = angular.module('err919', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p919_lenta_tormoznaya_uzkaya";
     $scope.productimg = "assets/img/807677665_lenta-tormoznaya-uzkaya.jpg";
     $scope.productname = "Лента тормозная узкая ВОМ (34 мм) МТЗ 1025/1221";
@@ -17512,7 +17512,7 @@ var app = angular.module('err920', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p920_lenta_tormoznaya_vom";
     $scope.productimg = "assets/img/789678938_lenta-tormoznaya-vom.jpg";
     $scope.productname = "Лента тормозная ВОМ (кубик) МТЗ 80/82";
@@ -17531,7 +17531,7 @@ var app = angular.module('err921', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p921_lenta_tormoznaya_vom";
     $scope.productimg = "assets/img/819900750_lenta-tormoznaya-vom.jpg";
     $scope.productname = "Лента тормозная ВОМ (кубик) МТЗ";
@@ -17550,7 +17550,7 @@ var app = angular.module('err922', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p922_lenta_tormoznaya_vom";
     $scope.productimg = "assets/img/819902708_lenta-tormoznaya-vom.jpg";
     $scope.productname = "Лента тормозная ВОМ (плетенка) МТЗ";
@@ -17569,7 +17569,7 @@ var app = angular.module('err923', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p923_mufta_pereklyucheniya_privoda";
     $scope.productimg = "assets/img/819904307_mufta-pereklyucheniya-privoda.jpg";
     $scope.productname = "Муфта переключения привода ВОМ МТЗ";
@@ -17588,7 +17588,7 @@ var app = angular.module('err924', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p924_mufta_pereklyucheniya_privoda";
     $scope.productimg = "assets/img/787766609_mufta-pereklyucheniya-privoda.jpg";
     $scope.productname = "Муфта переключения привода ВОМ МТЗ 80/82";
@@ -17607,7 +17607,7 @@ var app = angular.module('err925', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p925_vinta_lenty_vom";
     $scope.productimg = "assets/img/793779666_os-vinta-lenty.jpg";
     $scope.productname = "Ось винта ленты ВОМ (без резьбы) МТЗ 80/82";
@@ -17626,7 +17626,7 @@ var app = angular.module('err926', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p926_lenty_vom_mtz";
     $scope.productimg = "assets/img/796008110_os-lenty-vom.jpg";
     $scope.productname = "Ось ленты ВОМ МТЗ 80/82";
@@ -17645,7 +17645,7 @@ var app = angular.module('err927', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p927_palets_vala_otbora";
     $scope.productimg = "assets/img/804510446_palets-vala-otbora.jpg";
     $scope.productname = "Палец вала отбора мощности МТЗ 80/82 с резьбой";
@@ -17664,7 +17664,7 @@ var app = angular.module('err928', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p928_pruzhina_stakana_upravleniya";
     $scope.productimg = "assets/img/806619047_pruzhina-stakana-upravleniya.jpg";
     $scope.productname = "Пружина стакана управления ВОМ МТЗ 80/82";
@@ -17683,7 +17683,7 @@ var app = angular.module('err929', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p929_rychag_lenty_vom";
     $scope.productimg = "assets/img/807667631_rychag-lenty-vom.jpg";
     $scope.productname = "Рычаг ленты ВОМ МТЗ 80/82";
@@ -17702,7 +17702,7 @@ var app = angular.module('err930', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p930_rychag_vklyucheniya_upravleniya";
     $scope.productimg = "assets/img/806657204_rychag-vklyucheniya-upravleniya.jpg";
     $scope.productname = "Рычаг включения управления ВОМ МТЗ 80/82";
@@ -17721,7 +17721,7 @@ var app = angular.module('err931', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p931_satellit_vom_mtz";
     $scope.productimg = "assets/img/819906379_satellit-vom-mtz.jpg";
     $scope.productname = "Сателлит ВОМ МТЗ Z=16";
@@ -17740,7 +17740,7 @@ var app = angular.module('err932', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p932_stupitsa_vala_otbora";
     $scope.productimg = "assets/img/807728781_stupitsa-vala-otbora.jpg";
     $scope.productname = "Ступица вала отбора мощности МТЗ 80/82";
@@ -17759,7 +17759,7 @@ var app = angular.module('err933', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p933_ushko_pruzhiny_upravleniya";
     $scope.productimg = "assets/img/819908745_ushko-pruzhiny-upravleniya.jpg";
     $scope.productname = "Ушко пружины управления ВОМ МТЗ";
@@ -17778,7 +17778,7 @@ var app = angular.module('err934', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p934_hvostovik_vom_mtz";
     $scope.productimg = "assets/img/791916354_hvostovik-vom-mtz.jpg";
     $scope.productname = "Хвостовик ВОМ МТЗ 80/82 6 шлицов нового образца";
@@ -17797,7 +17797,7 @@ var app = angular.module('err935', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p935_shesternya_koronnaya_vom";
     $scope.productimg = "assets/img/884649144_shesternya-koronnaya-vom.jpg";
     $scope.productname = "Шестерня коронная ВОМ МТЗ 80/82";
@@ -17816,7 +17816,7 @@ var app = angular.module('err936', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p936_shtift_pruzhinnyj_4h30";
     $scope.productimg = "assets/img/819910731_shtift-pruzhinnyj-4h30.jpg";
     $scope.productname = "Штифт пружинный 4х30 МТЗ";
@@ -17835,7 +17835,7 @@ var app = angular.module('err937', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p937_vibroizolyator_kabiny_unifitsirovannoj";
     $scope.productimg = "assets/img/758348803_vibroizolyator-kabiny-unifitsirovannoj.jpg";
     $scope.productname = "Виброизолятор кабины унифицированной МТЗ";
@@ -17854,7 +17854,7 @@ var app = angular.module('err938', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p938_vtulka_podushki_kabiny";
     $scope.productimg = "assets/img/758357205_vtulka-podushki-kabiny.jpg";
     $scope.productname = "Втулка подушки кабины МТЗ";
@@ -17873,7 +17873,7 @@ var app = angular.module('err939', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p939_dver_mtz_levaya";
     $scope.productimg = "assets/img/940212088_dver-mtz-levaya.jpg";
     $scope.productname = "Дверь МТЗ левая кабины УК каркас";
@@ -17892,7 +17892,7 @@ var app = angular.module('err940', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p940_dver_mtz_levaya";
     $scope.productimg = "assets/img/758360401_dver-mtz-levaya.jpg";
     $scope.productname = "Дверь МТЗ левая кабины УК в сборе";
@@ -17911,7 +17911,7 @@ var app = angular.module('err941', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p941_zamok_dveri_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Замок двери МТЗ левый унифицированной кабины";
@@ -17930,7 +17930,7 @@ var app = angular.module('err942', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p942_kovrik_pola_kabiny";
     $scope.productimg = "assets/img/940216041_kovrik-pola-kabiny.jpg";
     $scope.productname = "Коврик пола кабины МТЗ (комплект 2 штуки левый и правый)";
@@ -17949,7 +17949,7 @@ var app = angular.module('err943', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p943_kronshtejn_kabiny_levyj";
     $scope.productimg = "assets/img/914353677_kronshtejn-kabiny-levyj.jpg";
     $scope.productname = "Кронштейн кабины левый МТЗ";
@@ -17968,7 +17968,7 @@ var app = angular.module('err944', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p944_kronshtejn_kabiny_pravyj";
     $scope.productimg = "assets/img/489473719_kronshtejn-kabiny-pravyj.jpg";
     $scope.productname = "Кронштейн кабины правый МТЗ";
@@ -17987,7 +17987,7 @@ var app = angular.module('err945', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p945_kronshtejn_fiksatora_ramki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кронштейн фиксатора рамки задн. каб. МТЗ (пр-во МТЗ)";
@@ -18006,7 +18006,7 @@ var app = angular.module('err946', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p946_krysha_kabiny_metallicheskaya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крыша кабины металлическая голая МТЗ";
@@ -18025,7 +18025,7 @@ var app = angular.module('err947', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p947_motoreduktor_stekloochistitelya_universalnoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Моторедуктор стеклоочистителя универсальной кабины МТЗ";
@@ -18044,7 +18044,7 @@ var app = angular.module('err948', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p948_petlya_krepleniya_stekla";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Петля крепления стекла бокового МТЗ";
@@ -18063,7 +18063,7 @@ var app = angular.module('err949', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p949_pnevmopodemnik_kryshi_kabiny";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Пневмоподъемник крыши кабины и рамки заднего стекла МТЗ";
@@ -18082,7 +18082,7 @@ var app = angular.module('err950', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p950_ramka_kabiny_unifitsirovannoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Рамка кабины унифицированной задняя голая МТЗ";
@@ -18101,7 +18101,7 @@ var app = angular.module('err951', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p951_ramka_kabiny_unifitsirovannoj";
     $scope.productimg = "assets/img/489473849_ramka-kabiny-unifitsirovannoj.jpg";
     $scope.productname = "Рамка кабины унифицированной задняя со стеклом МТЗ";
@@ -18120,7 +18120,7 @@ var app = angular.module('err952', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p952_ruchka_dveri_fiksatorom";
     $scope.productimg = "assets/img/824780393_ruchka-dveri-s.jpg";
     $scope.productname = "Ручка двери с фиксатором МТЗ унифицированная кабина";
@@ -18139,7 +18139,7 @@ var app = angular.module('err953', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p953_rychag_stekloochistitelya_schetkoj";
     $scope.productimg = "assets/img/948273824_rychag-stekloochistitelya-so.jpg";
     $scope.productname = "Рычаг стеклоочистителя со щеткой МТЗ";
@@ -18158,7 +18158,7 @@ var app = angular.module('err954', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p954_uplotnenie_stekla_kabiny";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Уплотнение стекла кабины МК МТЗ ( 1 метр)";
@@ -18177,7 +18177,7 @@ var app = angular.module('err955', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p955_uplotnenie_stekla_kabiny";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Уплотнение стекла кабины МК МТЗ (замок)";
@@ -18196,7 +18196,7 @@ var app = angular.module('err956', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p956_uplotnenie_stekla_kabiny";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Уплотнение стекла кабины УК МТЗ (1 шт = 10 м) (пр-во Украина)";
@@ -18215,7 +18215,7 @@ var app = angular.module('err957', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p957_filtr_otopitelya_mtz";
     $scope.productimg = "assets/img/772304590_filtr-otopitelya-mtz.jpg";
     $scope.productname = "Фильтр отопителя МТЗ";
@@ -18234,7 +18234,7 @@ var app = angular.module('err958', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p958_homut_stremyanka_krepleniya";
     $scope.productimg = "assets/img/489473938_homut-stremyanka-krepleniya.jpg";
     $scope.productname = "Хомут (стремянка) крепления кабины МТЗ";
@@ -18253,7 +18253,7 @@ var app = angular.module('err959', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p959_chehol_pedali_gaza";
     $scope.productimg = "assets/img/772306007_chehol-pedali-gaza.jpg";
     $scope.productname = "Чехол педали газа МТЗ";
@@ -18272,7 +18272,7 @@ var app = angular.module('err960', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p960_amortizator_sidenya_mtz";
     $scope.productimg = "assets/img/758347327_amortizator-sidenya-mtz.jpg";
     $scope.productname = "Амортизатор сиденья МТЗ 80/82";
@@ -18291,7 +18291,7 @@ var app = angular.module('err961', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p961_sidenie_kabiny_mtz";
     $scope.productimg = "assets/img/1606775010_sidenie-kabiny-mtz.jpg";
     $scope.productimg = "assets/img/1606774921_sidenie-kabiny-mtz.jpg";
@@ -18311,7 +18311,7 @@ var app = angular.module('err962', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p962_zerkalo_zadnego_vida";
     $scope.productimg = "assets/img/772349134_zerkalo-zadnego-vida.jpg";
     $scope.productname = "Зеркало заднего вида МТЗ УК";
@@ -18330,7 +18330,7 @@ var app = angular.module('err963', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p963_motoreduktor_stekloochistitelya_mtz";
     $scope.productimg = "assets/img/772351247_motoreduktor-stekloochistitelya-mtz.jpg";
     $scope.productname = "Моторедуктор стеклоочистителя МТЗ без щётки";
@@ -18349,7 +18349,7 @@ var app = angular.module('err964', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p964_reshetka_kapota_nizhnyaya";
     $scope.productimg = "assets/img/1135208114_reshetka-kapota-nizhnyaya.jpg";
     $scope.productname = "Решетка капота нижняя под фары МТЗ 920 950 1025 1005 1221";
@@ -18368,7 +18368,7 @@ var app = angular.module('err965', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p965_truba_zerkala_zadnego";
     $scope.productimg = "assets/img/772352226_truba-zerkala-zadnego.jpg";
     $scope.productname = "Труба зеркала заднего вида МТЗ";
@@ -18387,7 +18387,7 @@ var app = angular.module('err966', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p966_remkomplekt_diska_nazhimnogo";
     $scope.productimg = "assets/img/1118937505_remkomplekt-diska-nazhimnogo.jpg";
     $scope.productname = "Ремкомплект диска нажимного сцепления КАМАЗ (12 наименований)";
@@ -18406,7 +18406,7 @@ var app = angular.module('err967', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p967_bolt_kardannogo_vala";
     $scope.productimg = "assets/img/1060914615_bolt-kardannogo-vala.jpg";
     $scope.productname = "Болт карданного вала МТЗ УАЗ ГАЗ24 со спец гайкой";
@@ -18425,7 +18425,7 @@ var app = angular.module('err968', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p968_bortovoj_reduktor_dlya";
     $scope.productimg = "assets/img/539009188_bortovoj-reduktor-dlya.jpg";
     $scope.productimg = "assets/img/539009219_bortovoj-reduktor-dlya.jpg";
@@ -18446,7 +18446,7 @@ var app = angular.module('err969', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p969_koltsa_porshnevye_260";
     $scope.productimg = "assets/img/865672718_koltsa-porshnevye-d.jpg";
     $scope.productname = "Кольца поршневые Д 260 Мотордеталь";
@@ -18465,7 +18465,7 @@ var app = angular.module('err970', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p970_palets_porshnevoj_d38";
     $scope.productimg = "assets/img/813061375_palets-porshnevoj-d38.jpg";
     $scope.productname = "Палец поршневой d=38 мм Д 65 Д 240 Д 245 МТЗ ЮМЗ";
@@ -18484,7 +18484,7 @@ var app = angular.module('err971', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p971_palets_krepleniya_vilki";
     $scope.productimg = "assets/img/775975299_palets-krepleniya-vilki.jpg";
     $scope.productname = "Палец крепления вилки к поперечине МТЗ 80/82";
@@ -18503,7 +18503,7 @@ var app = angular.module('err972', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p972_rychag_zadnej_naveski";
     $scope.productimg = "assets/img/776050097_rychag-zadnej-naveski.jpg";
     $scope.productname = "Рычаг задней навески (левый) МТЗ 80/82 ЮМЗ";
@@ -18522,7 +18522,7 @@ var app = angular.module('err973', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p973_rychag_zadnej_naveski";
     $scope.productimg = "assets/img/776053774_rychag-zadnej-naveski.jpg";
     $scope.productname = "Рычаг задней навески (правый) МТЗ 80/82 ЮМЗ";
@@ -18541,7 +18541,7 @@ var app = angular.module('err974', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p974_vint_regulirovochnyj_240";
     $scope.productimg = "assets/img/753606110_vint-regulirovochnyj-d.jpg";
     $scope.productname = "Винт регулировочный Д 240 243 245 МТЗ";
@@ -18560,7 +18560,7 @@ var app = angular.module('err975', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p975_zaglushka_bloka_tsilindrov";
     $scope.productimg = "assets/img/751519736_zaglushka-bloka-tsilindrov.jpg";
     $scope.productname = "Заглушка блока цилиндров МТЗ";
@@ -18579,7 +18579,7 @@ var app = angular.module('err976', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p976_korpus_salnika_koltsom";
     $scope.productimg = "assets/img/751507206_korpus-salnika-s.jpg";
     $scope.productname = "Корпус сальника с кольцом МТЗ (100*125)";
@@ -18598,7 +18598,7 @@ var app = angular.module('err977', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p977_kryshka_golovki_bloka";
     $scope.productimg = "assets/img/814186118_kryshka-golovki-bloka.jpg";
     $scope.productname = "Крышка головки блока Д 240 МТЗ";
@@ -18617,7 +18617,7 @@ var app = angular.module('err978', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p978_schup_urovnya_masla";
     $scope.productimg = "assets/img/751512208_schup-urovnya-masla.jpg";
     $scope.productname = "Щуп уровня масла ( масломер ) МТЗ";
@@ -18636,7 +18636,7 @@ var app = angular.module('err979', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p979_prokladka_lista_zadnego";
     $scope.productimg = "assets/img/751510868_prokladka-lista-zadnego.jpg";
     $scope.productname = "Прокладка листа заднего Д 240 245 МТЗ";
@@ -18655,7 +18655,7 @@ var app = angular.module('err980', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p980_shajba_bolta_mahovika";
     $scope.productimg = "assets/img/822375956_shajba-bolta-mahovika.jpg";
     $scope.productname = "Шайба болта маховика МТЗ";
@@ -18674,7 +18674,7 @@ var app = angular.module('err981', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p981_shpilka_stojki_osi";
     $scope.productimg = "assets/img/819938267_shpilka-stojki-osi.jpg";
     $scope.productname = "Шпилька стойки оси коромысел МТЗ";
@@ -18693,7 +18693,7 @@ var app = angular.module('err982', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p982_gusenitsa_pravaya_levaya";
     $scope.productimg = "assets/img/748611665_gusenitsa-dt-75-pravaya.jpg";
     $scope.productimg = "assets/img/489601195_gusenitsa-dt-75-pravaya.jpg";
@@ -18717,7 +18717,7 @@ var app = angular.module('err983', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p983_kryshka_bendeksa_reduktora";
     $scope.productimg = "assets/img/819965637_kryshka-bendeksa-reduktora.jpg";
     $scope.productname = "Крышка бендекса редуктора МТЗ";
@@ -18736,7 +18736,7 @@ var app = angular.module('err984', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p984_palets_gusenitsy_150";
     $scope.productimg = "assets/img/773087118_palets-gusenitsy-dt.jpg";
     $scope.productname = "Палец гусеницы ДТ 75 Т 150";
@@ -18755,7 +18755,7 @@ var app = angular.module('err985', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p985_element_filt_topl";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Элемент фильт. топл. Т 150, ДТ 75, ДОН 1500, 1200 (ниточный) (пр-во Седан)";
@@ -18774,7 +18774,7 @@ var app = angular.module('err986', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p986_element_filt_vozd";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Элемент фильт. возд. Т 150 (комп) (пр-во SINTEC)";
@@ -18793,7 +18793,7 @@ var app = angular.module('err987', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p987_element_filt_vozd";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Элемент фильт. возд. Т 150 (элем.безоп.) (пр-во г.Ливны)";
@@ -18812,7 +18812,7 @@ var app = angular.module('err988', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p988_element_filt_vozd";
     $scope.productimg = "assets/img/538882166_element-filt-vozd.jpg";
     $scope.productname = "Элемент фильт. возд. Т 150 (пр-во г.Ливны)";
@@ -18831,7 +18831,7 @@ var app = angular.module('err989', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p989_element_filt_topl";
     $scope.productimg = "assets/img/538882163_element-filt-topl.jpg";
     $scope.productname = "Элемент фильт. топл. Т 150, ДОН-1200 (пр-во г.Ливны)";
@@ -18850,7 +18850,7 @@ var app = angular.module('err990', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p990_dvigatel_mtz_243";
     $scope.productimg = "assets/img/533806310_dvigatel-mtz-d-243.jpg";
     $scope.productname = "Двигатель МТЗ Д-243 (Со свечами накаливания)";
@@ -18869,7 +18869,7 @@ var app = angular.module('err991', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p991_raskos_naveski_mtz";
     $scope.productimg = "assets/img/715570748_raskos-naveski-mtz.jpg";
     $scope.productname = "Раскос навески МТЗ 1221";
@@ -18888,7 +18888,7 @@ var app = angular.module('err992', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p992_rychag_povorotnyj_mtz";
     $scope.productimg = "assets/img/721441338_rychag-povorotnyj-mtz.jpg";
     $scope.productname = "Рычаг поворотный МТЗ 1221";
@@ -18907,7 +18907,7 @@ var app = angular.module('err993', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p993_serga_mehanizma_naveski";
     $scope.productimg = "assets/img/715612141_serga-mehanizma-naveski.jpg";
     $scope.productname = "Серьга механизма навески задней МТЗ 1221";
@@ -18926,7 +18926,7 @@ var app = angular.module('err994', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p994_styazhka_mehanizma_zadnej";
     $scope.productimg = "assets/img/721448582_styazhka-mehanizma-zadnej.jpg";
     $scope.productimg = "assets/img/721448588_styazhka-mehanizma-zadnej.jpg";
@@ -18946,7 +18946,7 @@ var app = angular.module('err995', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p995_patrubok_radiatora_mtz";
     $scope.productimg = "assets/img/721468603_patrubok-radiatora-mtz.jpg";
     $scope.productimg = "assets/img/721469233_patrubok-radiatora-mtz.jpg";
@@ -18966,7 +18966,7 @@ var app = angular.module('err996', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p996_flanets_reduktora_konechnoj";
     $scope.productimg = "assets/img/721480532_flanets-reduktora-konechnoj.jpg";
     $scope.productname = "Фланец редуктора конечной передачи переднего моста МТЗ 1221";
@@ -18985,7 +18985,7 @@ var app = angular.module('err997', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p997_shesternya_zadnego_mosta";
     $scope.productimg = "assets/img/721484062_shesternya-zadnego-mosta.jpg";
     $scope.productimg = "assets/img/721484068_shesternya-zadnego-mosta.jpg";
@@ -19005,7 +19005,7 @@ var app = angular.module('err998', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p998_blok_tsilindrov_240";
     $scope.productimg = "assets/img/782758456_blok-tsilindrov-d.jpg";
     $scope.productname = "Блок цилиндров Д 240 243 МТЗ 80/82";
@@ -19024,7 +19024,7 @@ var app = angular.module('err999', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p999_kryshka_raspredelitelnyh_shesteren";
     $scope.productimg = "assets/img/751443267_kryshka-raspredelitelnyh-shesteren.jpg";
     $scope.productname = "Крышка распределительных шестерен в сборе МТЗ ЗИЛ";
@@ -19043,7 +19043,7 @@ var app = angular.module('err1000', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1000_kryshka_raspredelitelnyh_shesteren";
     $scope.productimg = "assets/img/751447422_kryshka-raspredelitelnyh-shesteren.jpg";
     $scope.productname = "Крышка распределительных шестерен Д 245.9 МТЗ";
@@ -19062,7 +19062,7 @@ var app = angular.module('err1001', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1001_setka_bloka_tsilindrov";
     $scope.productimg = "assets/img/751481044_setka-bloka-tsilindrov.jpg";
     $scope.productname = "Сетка блока цилиндров МТЗ";
@@ -19081,7 +19081,7 @@ var app = angular.module('err1002', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1002_maslozalivnaya_gorlovina_mtz";
     $scope.productimg = "assets/img/751500654_maslozalivnaya-gorlovina-mtz.jpg";
     $scope.productname = "Маслозаливная горловина МТЗ";
@@ -19100,7 +19100,7 @@ var app = angular.module('err1003', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1003_golovka_bloka_tsilindrov";
     $scope.productimg = "assets/img/751281600_golovka-bloka-tsilindrov.jpg";
     $scope.productname = "Головка блока цилиндров двигателя Д 240,243 в сборе";
@@ -19119,7 +19119,7 @@ var app = angular.module('err1004', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1004_vtulka_gbts_240";
     $scope.productimg = "assets/img/752489727_vtulka-gbts-d.jpg";
     $scope.productname = "Втулка ГБЦ Д 240 МТЗ";
@@ -19138,7 +19138,7 @@ var app = angular.module('err1005', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1005_prokladka_kollektora_vpusknogo";
     $scope.productimg = "assets/img/753561406_prokladka-kollektora-vpusknogo.jpg";
     $scope.productname = "Прокладка коллектора впускного Д 243 245 МТЗ";
@@ -19157,7 +19157,7 @@ var app = angular.module('err1006', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1006_kollektor_vpusknoj_240";
     $scope.productimg = "assets/img/753566811_kollektor-vpusknoj-d.jpg";
     $scope.productname = "Коллектор впускной Д 240 243 МТЗ";
@@ -19176,7 +19176,7 @@ var app = angular.module('err1007', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1007_prokladka_kollektora_vpusknogo";
     $scope.productimg = "assets/img/753577405_prokladka-kollektora-vpusknogo.jpg";
     $scope.productname = "Прокладка коллектора впускного Д 240 243 МТЗ";
@@ -19195,7 +19195,7 @@ var app = angular.module('err1008', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1008_vtulka_shatuna_240";
     $scope.productimg = "assets/img/865672071_vtulka-shatuna-d.jpg";
     $scope.productname = "Втулка шатуна Д 240 МТЗ";
@@ -19214,7 +19214,7 @@ var app = angular.module('err1009', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1009_val_kolenchatyj_240";
     $scope.productimg = "assets/img/571753215_val-kolenchatyj-d.jpg";
     $scope.productname = "Вал коленчатый Д 240 Д 243 МТЗ 80/82 (коленвал)";
@@ -19233,7 +19233,7 @@ var app = angular.module('err1010', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1010_bolt_spetsialnyj_raspredelitelnogo";
     $scope.productimg = "assets/img/816510353_bolt-spetsialnyj-raspredelitelnogo.jpg";
     $scope.productname = "Болт специальный распределительного вала МТЗ";
@@ -19252,7 +19252,7 @@ var app = angular.module('err1011', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1011_mehanizm_koromysel_240";
     $scope.productimg = "assets/img/753589020_mehanizm-koromysel-d.jpg";
     $scope.productname = "Механизм коромысел Д 240 245 в сборе МТЗ";
@@ -19271,7 +19271,7 @@ var app = angular.module('err1012', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1012_vozduhoochistitel_240_mtz";
     $scope.productimg = "assets/img/754963159_vozduhoochistitel-d-240.jpg";
     $scope.productname = "Воздухоочиститель Д 240 МТЗ";
@@ -19290,7 +19290,7 @@ var app = angular.module('err1013', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1013_bolt_perehodnika_tkr";
     $scope.productimg = "assets/img/784052650_bolt-perehodnika-tkr.jpg";
     $scope.productname = "Болт переходника ТКР Д 245 Д 260 МТЗ";
@@ -19309,7 +19309,7 @@ var app = angular.module('err1014', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1014_nasos_maslyanyj_260";
     $scope.productimg = "assets/img/768175203_nasos-maslyanyj-d.jpg";
     $scope.productname = "Насос масляный Д 260";
@@ -19328,7 +19328,7 @@ var app = angular.module('err1015', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1015_list_mtz_zadnij";
     $scope.productimg = "assets/img/752449733_list-mtz-zadnij.jpg";
     $scope.productname = "Лист МТЗ задний к блоку под стартер";
@@ -19347,7 +19347,7 @@ var app = angular.module('err1016', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1016_shajba_raspornaya_shesterni";
     $scope.productimg = "assets/img/822386173_shajba-raspornaya-shesterni.jpg";
     $scope.productname = "Шайба распорная шестерни распределительного вала МТЗ";
@@ -19366,7 +19366,7 @@ var app = angular.module('err1017', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1017_shajba_raspredelitelnogo_vala";
     $scope.productimg = "assets/img/822379489_shajba-raspredelitelnogo-vala.jpg";
     $scope.productname = "Шайба распределительного вала упорная МТЗ";
@@ -19385,7 +19385,7 @@ var app = angular.module('err1018', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1018_koromysel_klapanov_mtz";
     $scope.productimg = "assets/img/753602922_os-koromysel-klapanov.jpg";
     $scope.productname = "Ось коромысел клапанов МТЗ Д 240 243 245";
@@ -19404,7 +19404,7 @@ var app = angular.module('err1019', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1019_koromyslo_klapana_vtulkami";
     $scope.productimg = "assets/img/753609153_koromyslo-klapana-s.jpg";
     $scope.productname = "Коромысло клапана с втулками МТЗ";
@@ -19423,7 +19423,7 @@ var app = angular.module('err1020', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1020_shajba_upornaya_mtz";
     $scope.productimg = "assets/img/823964748_shajba-upornaya-mtz.jpg";
     $scope.productname = "Шайба упорная МТЗ";
@@ -19442,7 +19442,7 @@ var app = angular.module('err1021', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1021_tyaga_zadnej_naveski";
     $scope.productimg = "assets/img/777962541_tyaga-zadnej-naveski.jpg";
     $scope.productname = "Тяга задней навески правая в сборе МТЗ 80/82";
@@ -19461,7 +19461,7 @@ var app = angular.module('err1022', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1022_kronshtejn_styazhki_zadnej";
     $scope.productimg = "assets/img/775708882_kronshtejn-styazhki-zadnej.jpg";
     $scope.productname = "Кронштейн стяжки задней навески МТЗ 80/82";
@@ -19480,7 +19480,7 @@ var app = angular.module('err1023', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1023_shkvoren_vilki_poperechiny";
     $scope.productimg = "assets/img/778026591_shkvoren-vilki-poperechiny.jpg";
     $scope.productname = "Шкворень вилки поперечины прицепного устройства МТЗ 80/82";
@@ -19499,7 +19499,7 @@ var app = angular.module('err1024', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1024_vilka_nereguliruemogo_raskosa";
     $scope.productimg = "assets/img/775585301_vilka-nereguliruemogo-raskosa.jpg";
     $scope.productname = "Вилка нерегулируемого раскоса МТЗ 80/82";
@@ -19518,7 +19518,7 @@ var app = angular.module('err1025', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1025_shesternya_vedomaya_z51";
     $scope.productimg = "assets/img/721496023_shesternya-vedomaya-z51.jpg";
     $scope.productname = "Шестерня ведомая (Z=51) МТЗ 1221, 1523";
@@ -19537,7 +19537,7 @@ var app = angular.module('err1026', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1026_shajba_maslootrazhatelnaya_mtz";
     $scope.productimg = "assets/img/824855672_shajba-maslootrazhatelnaya-mtz.jpg";
     $scope.productname = "Шайба маслоотражательная МТЗ";
@@ -19556,7 +19556,7 @@ var app = angular.module('err1027', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1027_baraban_vom_mtz";
     $scope.productimg = "assets/img/779651564_baraban-vom-mtz.jpg";
     $scope.productname = "Барабан ВОМ МТЗ 80/82";
@@ -19575,7 +19575,7 @@ var app = angular.module('err1028', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1028_vodilo_zadnego_vom";
     $scope.productimg = "assets/img/788701844_vodilo-zadnego-vom.jpg";
     $scope.productname = "Водило заднего ВОМ МТЗ 80/82";
@@ -19594,7 +19594,7 @@ var app = angular.module('err1029', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1029_sterzhen_upravleniya_zadnim";
     $scope.productimg = "assets/img/788644824_sterzhen-upravleniya-zadnim.jpg";
     $scope.productname = "Стержень управления задним ВОМ МТЗ 80/82";
@@ -19613,7 +19613,7 @@ var app = angular.module('err1030', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1030_kronshtejn_povorotnogo_vala";
     $scope.productimg = "assets/img/776003038_kronshtejn-povorotnogo-vala.jpg";
     $scope.productname = "Кронштейн поворотного вала задней навески МТЗ 80/82";
@@ -19632,7 +19632,7 @@ var app = angular.module('err1031', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1031_serga_mehanizma_naveski";
     $scope.productimg = "assets/img/776063226_serga-mehanizma-naveski.jpg";
     $scope.productname = "Серьга механизма навески задней МТЗ 80/82";
@@ -19651,7 +19651,7 @@ var app = angular.module('err1032', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1032_mehanizm_fiksatsii_zadnej";
     $scope.productimg = "assets/img/775735710_mehanizm-fiksatsii-zadnej.jpg";
     $scope.productname = "Механизм фиксации задней навески МТЗ 80/82";
@@ -19670,7 +19670,7 @@ var app = angular.module('err1033', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1033_bak_radiatora_mtz";
     $scope.productimg = "assets/img/778061138_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 80/82 верхний (пластик)";
@@ -19689,7 +19689,7 @@ var app = angular.module('err1034', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1034_bak_radiatora_mtz";
     $scope.productimg = "assets/img/778064068_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 80/82 нижний (пластик)";
@@ -19708,7 +19708,7 @@ var app = angular.module('err1035', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1035_bak_radiatora_mtz";
     $scope.productimg = "assets/img/1062523093_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 80/82 нижний металлический";
@@ -19727,7 +19727,7 @@ var app = angular.module('err1036', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1036_amortizator_240243245_radiatora";
     $scope.productimg = "assets/img/778048265_amortizator-d-240243245.jpg";
     $scope.productname = "Амортизатор Д 240/243/245 радиатора МТЗ 80/82";
@@ -19746,7 +19746,7 @@ var app = angular.module('err1037', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1037_val_vtorichnyj_kpp";
     $scope.productimg = "assets/img/811736237_val-vtorichnyj-kpp.jpg";
     $scope.productname = "Вал вторичный КПП МТЗ 800/900/952";
@@ -19765,7 +19765,7 @@ var app = angular.module('err1038', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1038_korpus_vilok_mtz";
     $scope.productimg = "assets/img/768294030_korpus-vilok-mtz.jpg";
     $scope.productname = "Корпус вилок МТЗ 900 950 952 в сборе";
@@ -19784,7 +19784,7 @@ var app = angular.module('err1039', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1039_kozhuh_mahovika_plitoj";
     $scope.productimg = "assets/img/810796875_kozhuh-mahovika-s.jpg";
     $scope.productname = "Кожух маховика с плитой в сборе ПД 10 МТЗ 80/82 ЮМЗ";
@@ -19803,7 +19803,7 @@ var app = angular.module('err1040', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1040_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Диск сцепления нажимной МТЗ 80 82 в сборе (корзина усиленная) нового образца";
@@ -19822,7 +19822,7 @@ var app = angular.module('err1041', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1041_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Диск сцепления нажимной МТЗ 80 82 усиленной корзины";
@@ -19841,7 +19841,7 @@ var app = angular.module('err1042', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1042_rychag_upravleniya_ponizhayuschim";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Рычаг управления понижающим редуктором МТЗ нового образца";
@@ -19860,7 +19860,7 @@ var app = angular.module('err1043', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1043_kulak_vydvizhnoj_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кулак выдвижной МТЗ 80";
@@ -19879,7 +19879,7 @@ var app = angular.module('err1044', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1044_kolonka_rulevaya_gidrobakom";
     $scope.productimg = "assets/img/865674067_kolonka-rulevaya-s.jpg";
     $scope.productname = "Колонка рулевая с гидробаком под насос дозатор МТЗ";
@@ -19898,7 +19898,7 @@ var app = angular.module('err1045', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1045_koleso_rulevoe_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Колесо рулевое МТЗ";
@@ -19917,7 +19917,7 @@ var app = angular.module('err1046', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1046_uplotnitel_rulevoj_kolonki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Уплотнитель рулевой колонки МТЗ (чехол)";
@@ -19936,7 +19936,7 @@ var app = angular.module('err1047', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1047_kryshka_vom_sbore";
     $scope.productimg = "assets/img/789654072_kryshka-vom-v.jpg";
     $scope.productname = "Крышка ВОМ в сборе нового образца 8 шлицов МТЗ 80/82";
@@ -19955,7 +19955,7 @@ var app = angular.module('err1048', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1048_poperechina_mehanicheskoj_zadnej";
     $scope.productimg = "assets/img/776019389_poperechina-mehanicheskoj-zadnej.jpg";
     $scope.productname = "Поперечина механической задней навески МТЗ в сборе с вилкой";
@@ -19974,7 +19974,7 @@ var app = angular.module('err1049', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1049_tyaga_pravaya_sbore";
     $scope.productimg = "assets/img/777102015_tyaga-pravaya-v.jpg";
     $scope.productname = "Тяга правая в сборе правая+левая МТЗ 1025 1005";
@@ -19993,7 +19993,7 @@ var app = angular.module('err1050', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1050_kronshtejn_styazhki_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кронштейн стяжки МТЗ 1005 1025";
@@ -20012,7 +20012,7 @@ var app = angular.module('err1051', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1051_palets_raskosa_mehanizma";
     $scope.productimg = "assets/img/775967265_palets-raskosa-mehanizma.jpg";
     $scope.productname = "Палец раскоса механизма задней навески верхний МТЗ 80/82";
@@ -20031,7 +20031,7 @@ var app = angular.module('err1052', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1052_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/871167054_tyaga-upravleniya-raspredelitelem.jpg";
     $scope.productname = "Тяга управления распределителем 187мм на 102мм";
@@ -20050,7 +20050,7 @@ var app = angular.module('err1053', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1053_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга управления распределителем 227мм";
@@ -20069,7 +20069,7 @@ var app = angular.module('err1054', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1054_masloprovod_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Маслопровод МТЗ";
@@ -20088,7 +20088,7 @@ var app = angular.module('err1055', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1055_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга управления распределителем с вилками 146 мм";
@@ -20107,7 +20107,7 @@ var app = angular.module('err1056', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1056_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга управления распределителем с вилками 187мм";
@@ -20126,7 +20126,7 @@ var app = angular.module('err1057', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1057_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга управления распределителем с вилками 227мм";
@@ -20145,7 +20145,7 @@ var app = angular.module('err1058', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1058_kran_blokirovki_differentsiala";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кран блокировки дифференциала заднего моста МТЗ";
@@ -20164,7 +20164,7 @@ var app = angular.module('err1059', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1059_pedal_upravleniya_blokirovki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Педаль управления блокировки дифференциала МТЗ с ГОРУ";
@@ -20183,7 +20183,7 @@ var app = angular.module('err1060', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1060_zamok_dveri_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Замок двери МТЗ правый УК кабины";
@@ -20202,7 +20202,7 @@ var app = angular.module('err1061', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1061_obojma_vibroizolyatora_kabiny";
     $scope.productimg = "assets/img/914389440_obojma-vibroizolyatora-kabiny.jpg";
     $scope.productname = "Обойма виброизолятора кабины МТЗ";
@@ -20221,7 +20221,7 @@ var app = angular.module('err1062', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1062_petlya_kryshi_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Петля крыши МТЗ";
@@ -20240,7 +20240,7 @@ var app = angular.module('err1063', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1063_ramka_bokovaya_golaya";
     $scope.productimg = "assets/img/914359241_ramka-bokovaya-golaya.jpg";
     $scope.productname = "Рамка боковая голая УК МТЗ";
@@ -20259,7 +20259,7 @@ var app = angular.module('err1064', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1064_kran_ventilyatsii_otopleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кран вентиляции и отопления МТЗ";
@@ -20278,7 +20278,7 @@ var app = angular.module('err1065', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1065_reshetka_nizhnyaya_pod";
     $scope.productimg = "assets/img/1135204948_reshetka-nizhnyaya-pod.jpg";
     $scope.productname = "Решетка нижняя под квадратные фары МТЗ";
@@ -20297,7 +20297,7 @@ var app = angular.module('err1066', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1066_kronshtejn_kryla_perednego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кронштейн крыла переднего МТЗ левый";
@@ -20316,7 +20316,7 @@ var app = angular.module('err1067', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1067_kronshtejn_kryla_perednego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кронштейн крыла переднего МТЗ правый";
@@ -20335,7 +20335,7 @@ var app = angular.module('err1068', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1068_krylo_perednee_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крыло переднее МТЗ голое металическое";
@@ -20354,7 +20354,7 @@ var app = angular.module('err1069', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1069_krylo_zadnee_levoe";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крыло заднее левое УК кабины МТЗ";
@@ -20373,7 +20373,7 @@ var app = angular.module('err1070', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1070_krylo_zadnee_pravoe";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крыло заднее правое УК кабины МТЗ";
@@ -20392,7 +20392,7 @@ var app = angular.module('err1071', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1071_val_pervichnyj_kpp";
     $scope.productimg = "assets/img/721505107_val-pervichnyj-kpp.jpg";
     $scope.productname = "Вал первичный КПП МТЗ 1221";
@@ -20411,7 +20411,7 @@ var app = angular.module('err1072', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1072_gidroraspredelitel_gidropodemnika_mtz";
     $scope.productimg = "assets/img/775678379_gidroraspredelitel-gidropodemnika-mtz.jpg";
     $scope.productname = "Гидрораспределитель гидроподъемника МТЗ 822 922 923 1221";
@@ -20430,7 +20430,7 @@ var app = angular.module('err1073', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1073_disk_stsepleniya_nazhimnoj";
     $scope.productimg = "assets/img/721508237_disk-stsepleniya-nazhimnoj.jpg";
     $scope.productname = "Диск сцепления нажимной МТЗ 1221 в сборе (корзина)";
@@ -20449,7 +20449,7 @@ var app = angular.module('err1074', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1074_disk_stsepleniya_vedomyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Диск сцепления ведомый МТЗ усиленный на пружинах";
@@ -20468,7 +20468,7 @@ var app = angular.module('err1075', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1075_pedal_stsepleniya_sbore";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Педаль сцепления в сборе МТЗ под УК";
@@ -20487,7 +20487,7 @@ var app = angular.module('err1076', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1076_kryshka_stakana_podshipnikov";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Крышка стакана подшипников заднего моста МТЗ 80 -1025";
@@ -20506,7 +20506,7 @@ var app = angular.module('err1077', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1077_rychag_vala_vom";
     $scope.productimg = "assets/img/804512480_rychag-vala-vom.jpg";
     $scope.productname = "Рычаг вала ВОМ МТЗ 800/952/1025/1221";
@@ -20525,7 +20525,7 @@ var app = angular.module('err1078', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1078_vtulka_privoda_nasosa";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Втулка привода насоса НШ МТЗ";
@@ -20544,7 +20544,7 @@ var app = angular.module('err1079', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1079_serga_zadnej_naveski";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Серьга задней навески МТЗ-1025 1221";
@@ -20563,7 +20563,7 @@ var app = angular.module('err1080', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1080_ukazatel_masla_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Указатель масла МТЗ 80-1221";
@@ -20582,7 +20582,7 @@ var app = angular.module('err1081', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1081_reshetka_kapota_verhnyaya";
     $scope.productimg = "assets/img/721521101_reshetka-kapota-verhnyaya.jpg";
     $scope.productname = "Решетка капота верхняя МТЗ 1221,1025,920,952";
@@ -20601,7 +20601,7 @@ var app = angular.module('err1082', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1082_ramka_reshetok_kapota";
     $scope.productimg = "assets/img/721544381_ramka-reshetok-kapota.jpg";
     $scope.productname = "Рамка решеток капота передних МТЗ 1221,920,952";
@@ -20620,7 +20620,7 @@ var app = angular.module('err1083', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1083_tyaga_privoda_razdatochnoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга привода раздаточной коробки МТЗ";
@@ -20639,7 +20639,7 @@ var app = angular.module('err1084', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1084_gajka_osi_naveski";
     $scope.productimg = "assets/img/775655296_gajka-osi-naveski.jpg";
     $scope.productname = "Гайка оси навески МТЗ корончатая";
@@ -20658,7 +20658,7 @@ var app = angular.module('err1085', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1085_kryshka_maslozalivnoj_gorloviny";
     $scope.productimg = "assets/img/816492887_kryshka-maslozalivnoj-gorloviny.jpg";
     $scope.productname = "Крышка маслозаливной горловины МТЗ";
@@ -20677,7 +20677,7 @@ var app = angular.module('err1086', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1086_vilka_tyagi_upravleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Вилка тяги управления гидрораспределителем МТЗ";
@@ -20696,7 +20696,7 @@ var app = angular.module('err1087', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1087_shesternya_kompressora_mtz";
     $scope.productimg = "assets/img/884646229_shesternya-kompressora-mtz.jpg";
     $scope.productname = "Шестерня компрессора МТЗ";
@@ -20715,7 +20715,7 @@ var app = angular.module('err1088', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1088_kran_tormoznoj_novogo";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кран тормозной нового образца МТЗ 80/82";
@@ -20734,7 +20734,7 @@ var app = angular.module('err1089', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1089_regulyator_davleniya_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Регулятор давления МТЗ 80/82";
@@ -20753,7 +20753,7 @@ var app = angular.module('err1090', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1090_kran_tormoznoj_starogo";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кран тормозной старого образца МТЗ 80/82";
@@ -20772,7 +20772,7 @@ var app = angular.module('err1091', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1091_kran_razobschitelnyj_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кран разобщительный МТЗ 80/82";
@@ -20791,7 +20791,7 @@ var app = angular.module('err1092', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1092_styazhka_raskosa_zadnej";
     $scope.productimg = "assets/img/777060607_styazhka-raskosa-zadnej.jpg";
     $scope.productname = "Стяжка раскоса задней навески МТЗ 80/82";
@@ -20810,7 +20810,7 @@ var app = angular.module('err1093', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1093_kontrgajka_vinta_raskosa";
     $scope.productimg = "assets/img/775684807_kontrgajka-vinta-raskosa.jpg";
     $scope.productname = "Контргайка винта раскоса навески МТЗ 80/82";
@@ -20829,7 +20829,7 @@ var app = angular.module('err1094', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1094_palets_stopornyj_verhnej";
     $scope.productimg = "assets/img/775995891_palets-stopornyj-verhnej.jpg";
     $scope.productname = "Палец стопорный верхней тяги с чекой (центрального винта) МТЗ 80/82";
@@ -20848,7 +20848,7 @@ var app = angular.module('err1095', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1095_styazhka_mehanicheskaya_zadnej";
     $scope.productimg = "assets/img/751278060_styazhka-mehanicheskaya-zadnej.jpg";
     $scope.productname = "Стяжка механическая задней навески МТЗ 80/82";
@@ -20867,7 +20867,7 @@ var app = angular.module('err1096', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1096_palets_tyagi_tsentralnoj";
     $scope.productimg = "assets/img/777071621_palets-tyagi-tsentralnoj.jpg";
     $scope.productname = "Палец тяги центральной МТЗ 80/82";
@@ -20886,7 +20886,7 @@ var app = angular.module('err1097', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1097_vilka_poperechiny_zadnej";
     $scope.productimg = "assets/img/775579325_vilka-poperechiny-zadnej.jpg";
     $scope.productname = "Вилка поперечины задней навески МТЗ 80/82 ЮМЗ";
@@ -20905,7 +20905,7 @@ var app = angular.module('err1098', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1098_datchik_skorosti_mtz";
     $scope.productimg = "assets/img/721545846_datchik-skorosti-mtz.jpg";
     $scope.productname = "Датчик скорости МТЗ 1221/1522 (453843.001)";
@@ -20924,7 +20924,7 @@ var app = angular.module('err1099', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1099_nasos_dozator_mtz";
     $scope.productimg = "assets/img/1060981424_nasos-dozator-mtz-s.jpg";
     $scope.productname = "Насос-дозатор МТЗ с клапаном";
@@ -20943,7 +20943,7 @@ var app = angular.module('err1100', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1100_dvigatel_puskovoj_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Двигатель пусковой МТЗ, ПД 10У (исп. 1) в сборе";
@@ -20962,7 +20962,7 @@ var app = angular.module('err1101', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1101_ustrojstvo_perehodnoe_puskacha";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Устройство переходное с пускача ПД-10 на стартер МТЗ";
@@ -20981,7 +20981,7 @@ var app = angular.module('err1102', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1102_patrubok_vodyanoj_podvodyaschij";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Патрубок водяной подводящий МТЗ";
@@ -21000,7 +21000,7 @@ var app = angular.module('err1103', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1103_datchik_davleniya_masla";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Датчик давления масла аварийный МТЗ 80-1221";
@@ -21019,7 +21019,7 @@ var app = angular.module('err1104', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1104_datchik_davleniya_masla";
     $scope.productimg = "assets/img/1062685472_datchik-davleniya-masla.jpg";
     $scope.productname = "Датчик давления масла МТЗ";
@@ -21038,7 +21038,7 @@ var app = angular.module('err1105', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1105_kombinatsiya_priborov_mtz";
     $scope.productimg = "assets/img/721582118_kombinatsiya-priborov-mtz.jpg";
     $scope.productname = "Комбинация приборов МТЗ 1221/1222/1523 (6 приборов) (КД8811-1, АР70.3801)";
@@ -21057,7 +21057,7 @@ var app = angular.module('err1106', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1106_prokladki_dvigatelya_240";
     $scope.productimg = "assets/img/1112562135_prokladki-dvigatelya-d.jpg";
     $scope.productname = "Прокладки двигателя Д 240 МТЗ ( ремкомплект )";
@@ -21076,7 +21076,7 @@ var app = angular.module('err1107', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1107_element_filt_masl";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Элемент фильт. масл. Т 150, МТЗ";
@@ -21095,7 +21095,7 @@ var app = angular.module('err1108', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1108_gidroraspredelitel_mtz_1221";
     $scope.productimg = "assets/img/721596246_gidroraspredelitel-mtz-1221.jpg";
     $scope.productname = "Гидрораспределитель МТЗ 1221 (аналог РП70)";
@@ -21114,7 +21114,7 @@ var app = angular.module('err1109', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1109_otopitel_mtz_1221";
     $scope.productimg = "assets/img/580508701_otopitel-mtz-80.jpg";
     $scope.productname = "Отопитель МТЗ 80, 1221 кабины";
@@ -21133,7 +21133,7 @@ var app = angular.module('err1110', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1110_tsilindr_";
     $scope.productimg = "assets/img/699352321_tsilindr-pd-10.jpg";
     $scope.productname = "Цилиндр ПД-10";
@@ -21152,7 +21152,7 @@ var app = angular.module('err1111', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1111_amortizator_podushka_dvigatelya";
     $scope.productimg = "assets/img/710630630_amortizator-podushka-dvigatelya.jpg";
     $scope.productname = "Амортизатор (подушка двигателя) Д240 МТЗ 80/82";
@@ -21171,7 +21171,7 @@ var app = angular.module('err1112', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1112_bak_radiatora_mtz";
     $scope.productimg = "assets/img/710648319_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 80/82 верхний латунь";
@@ -21190,7 +21190,7 @@ var app = angular.module('err1113', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1113_bak_radiatora_mtz";
     $scope.productimg = "assets/img/710646521_bak-radiatora-mtz.jpg";
     $scope.productname = "Бак радиатора МТЗ 80/82 верхний металический";
@@ -21209,7 +21209,7 @@ var app = angular.module('err1114', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1114_blok_tsilindrov_dvigatelya";
     $scope.productimg = "assets/img/751334598_blok-tsilindrov-dvigatelya.jpg";
     $scope.productname = "Блок цилиндров двигателя Д 245.7, 9, 12С МТЗ";
@@ -21228,7 +21228,7 @@ var app = angular.module('err1115', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1115_blok_predohranitelnyj_mtz";
     $scope.productimg = "assets/img/710668192_blok-predohranitelnyj-mtz.jpg";
     $scope.productname = "Блок предохранительный МТЗ";
@@ -21247,7 +21247,7 @@ var app = angular.module('err1116', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1116_bolt_vkladysha_zadnej";
     $scope.productimg = "assets/img/710674467_bolt-vkladysha-zadnej.jpg";
     $scope.productname = "Болт вкладыша задней ступицы МТЗ 80/82";
@@ -21266,7 +21266,7 @@ var app = angular.module('err1117', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1117_bolt_kolenvala_mtz";
     $scope.productimg = "assets/img/710676418_bolt-kolenvala-mtz.jpg";
     $scope.productname = "Болт коленвала МТЗ 80/82 (храповик)";
@@ -21285,7 +21285,7 @@ var app = angular.module('err1118', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1118_bolt_kolesa_zadnego";
     $scope.productimg = "assets/img/710681352_bolt-kolesa-zadnego.jpg";
     $scope.productname = "Болт колеса заднего МТЗ 80/82 с гайкой";
@@ -21304,7 +21304,7 @@ var app = angular.module('err1119', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1119_bolt_kolesa_perednego";
     $scope.productimg = "assets/img/710695864_bolt-kolesa-perednego.jpg";
     $scope.productname = "Болт колеса переднего МТЗ 80/82";
@@ -21323,7 +21323,7 @@ var app = angular.module('err1120', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1120_bolt_upravleniya_vom";
     $scope.productimg = "assets/img/710698133_bolt-upravleniya-vom.jpg";
     $scope.productname = "Болт управления ВОМ МТЗ 80 /82";
@@ -21342,7 +21342,7 @@ var app = angular.module('err1121', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1121_bolt_kronshtejna_naveski";
     $scope.productimg = "assets/img/784045357_bolt-kronshtejna-naveski.jpg";
     $scope.productname = "Болт кронштейна навески МТЗ 80/82";
@@ -21361,7 +21361,7 @@ var app = angular.module('err1122', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1122_bolt_povorotnogo_ugolnika";
     $scope.productimg = "assets/img/784055078_bolt-povorotnogo-ugolnika.jpg";
     $scope.productname = "Болт поворотного угольника МТЗ 80/82 d=14";
@@ -21380,7 +21380,7 @@ var app = angular.module('err1123', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1123_bolt_prizonnyj_glavnoj";
     $scope.productimg = "assets/img/710710454_bolt-prizonnyj-glavnoj.jpg";
     $scope.productname = "Болт призонный главной пары МТЗ 80/82";
@@ -21399,7 +21399,7 @@ var app = angular.module('err1124', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1124_bolt_shtutser_r80";
     $scope.productimg = "assets/img/710713856_bolt-shtutser-r80.jpg";
     $scope.productname = "Болт штуцер Р80 d=24 МТЗ ЮМЗ";
@@ -21418,7 +21418,7 @@ var app = angular.module('err1125', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1125_brus_perednij_mtz";
     $scope.productimg = "assets/img/710716123_brus-perednij-mtz.jpg";
     $scope.productname = "Брус передний МТЗ";
@@ -21437,7 +21437,7 @@ var app = angular.module('err1126', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1126_val_vedomyj_privoda";
     $scope.productimg = "assets/img/710720163_val-vedomyj-privoda.jpg";
     $scope.productname = "Вал ведомый привода ВОМ МТЗ 80/82";
@@ -21456,7 +21456,7 @@ var app = angular.module('err1127', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1127_val_pervichnyj_kpp";
     $scope.productimg = "assets/img/946279398_val-pervichnyj-kpp.jpg";
     $scope.productname = "Вал первичный КПП МТЗ 900 , 920 , 950 , 952";
@@ -21475,7 +21475,7 @@ var app = angular.module('err1128', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1128_val_pervichnyj_kpp";
     $scope.productimg = "assets/img/710858000_val-pervichnyj-kpp.jpg";
     $scope.productname = "Вал первичный КПП МТЗ";
@@ -21494,7 +21494,7 @@ var app = angular.module('err1129', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1129_val_rulevogo_upravleniya";
     $scope.productimg = "assets/img/710861182_val-rulevogo-upravleniya.jpg";
     $scope.productname = "Вал рулевого управления МТЗ";
@@ -21513,7 +21513,7 @@ var app = angular.module('err1130', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1130_val_silovoj_peredachi";
     $scope.productimg = "assets/img/823202757_val-silovoj-peredachi.jpg";
     $scope.productname = "Вал силовой передачи МТЗ 80/82";
@@ -21532,7 +21532,7 @@ var app = angular.module('err1131', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1131_val_promezhutochnyj_kpp";
     $scope.productimg = "assets/img/710878114_val-promezhutochnyj-kpp.jpg";
     $scope.productname = "Вал промежуточный КПП МТЗ";
@@ -21551,7 +21551,7 @@ var app = angular.module('err1132', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1132_val_vnutrennij_kpp";
     $scope.productimg = "assets/img/823953737_val-vnutrennij-kpp.jpg";
     $scope.productname = "Вал внутренний КПП МТЗ";
@@ -21570,7 +21570,7 @@ var app = angular.module('err1133', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1133_val_vilok_vklyucheniya";
     $scope.productimg = "assets/img/710883378_val-vilok-vklyucheniya.jpg";
     $scope.productname = "Вал вилок включения МТЗ";
@@ -21589,7 +21589,7 @@ var app = angular.module('err1134', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1134_val_vtorichnyj_kpp";
     $scope.productimg = "assets/img/710894461_val-vtorichnyj-kpp.jpg";
     $scope.productname = "Вал вторичный КПП МТЗ";
@@ -21608,7 +21608,7 @@ var app = angular.module('err1135', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1135_val_vom_perednij";
     $scope.productimg = "assets/img/793654573_val-vom-perednij.jpg";
     $scope.productname = "Вал ВОМ передний МТЗ 80/82";
@@ -21627,7 +21627,7 @@ var app = angular.module('err1136', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1136_val_vom_mtz";
     $scope.productimg = "assets/img/710906944_val-vom-mtz.jpg";
     $scope.productname = "Вал ВОМ МТЗ 80/82 6 шлицов";
@@ -21646,7 +21646,7 @@ var app = angular.module('err1137', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1137_val_hvostovik_vom";
     $scope.productimg = "assets/img/791905742_val-hvostovik-vom.jpg";
     $scope.productname = "Вал хвостовик ВОМ МТЗ 80/82 (8 шлицов )";
@@ -21665,7 +21665,7 @@ var app = angular.module('err1138', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1138_val_hvostovik_vom";
     $scope.productimg = "assets/img/791908111_val-hvostovik-vom.jpg";
     $scope.productname = "Вал хвостовик ВОМ МТЗ 80/82 21 шлиц";
@@ -21684,7 +21684,7 @@ var app = angular.module('err1139', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1139_val_promezhutochnoj_opory";
     $scope.productimg = "assets/img/966381376_val-promezhutochnoj-opory.jpg";
     $scope.productname = "Вал промежуточной опоры карданного вала МТЗ";
@@ -21703,7 +21703,7 @@ var app = angular.module('err1140', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1140_val_kolenchatyj_2457900";
     $scope.productimg = "assets/img/711518619_val-kolenchatyj-d-24579e2.jpg";
     $scope.productname = "Вал коленчатый Д-245.7,9,Е2 ГАЗ МАЗ ПАЗ";
@@ -21722,7 +21722,7 @@ var app = angular.module('err1141', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1141_val_raspredelitelnyj_mtz";
     $scope.productimg = "assets/img/711520843_val-raspredelitelnyj-mtz.jpg";
     $scope.productname = "Вал распределительный МТЗ";
@@ -21741,7 +21741,7 @@ var app = angular.module('err1142', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1142_valik_pereklyucheniya_oborotov";
     $scope.productimg = "assets/img/711546668_valik-pereklyucheniya-oborotov.jpg";
     $scope.productname = "Валик переключения оборотов ВОМ МТЗ";
@@ -21760,7 +21760,7 @@ var app = angular.module('err1143', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1143_valik_pereklyucheniya_peredach";
     $scope.productimg = "assets/img/711522358_valik-pereklyucheniya-peredach.jpg";
     $scope.productname = "Валик переключения передач КПП МТЗ";
@@ -21779,7 +21779,7 @@ var app = angular.module('err1144', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1144_valik_upravleniya_blokirovki";
     $scope.productimg = "assets/img/711524034_valik-upravleniya-blokirovki.jpg";
     $scope.productname = "Валик управления блокировки диференциала МТЗ 80/82";
@@ -21798,7 +21798,7 @@ var app = angular.module('err1145', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1145_ventilyator_mtz_metallicheskij";
     $scope.productimg = "assets/img/711526432_ventilyator-mtz-metallicheskij.jpg";
     $scope.productname = "Вентилятор МТЗ металлический 4 лопасти";
@@ -21817,7 +21817,7 @@ var app = angular.module('err1146', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1146_ventilyator_plastikovyj_mtz";
     $scope.productimg = "assets/img/1152015128_ventilyator-plastikovyj-mtz.jpg";
     $scope.productname = "Вентилятор пластиковый МТЗ 6 лопастей (крыльчатка)";
@@ -21836,7 +21836,7 @@ var app = angular.module('err1147', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1147_vilka_vyklyucheniya_stsepleniya";
     $scope.productimg = "assets/img/711531857_vilka-vyklyucheniya-stsepleniya.jpg";
     $scope.productname = "Вилка выключения сцепления МТЗ";
@@ -21855,7 +21855,7 @@ var app = angular.module('err1148', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1148_vtulka_vala_vom";
     $scope.productimg = "assets/img/711543756_vtulka-vala-vom.jpg";
     $scope.productname = "Втулка вала ВОМ МТЗ 1221 1025";
@@ -21874,7 +21874,7 @@ var app = angular.module('err1149', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1149_vtulka_podshipnika_vnutrennego";
     $scope.productimg = "assets/img/711553593_vtulka-podshipnika-vnutrennego.jpg";
     $scope.productname = "Втулка подшипника внутреннего вала КПП МТЗ";
@@ -21893,7 +21893,7 @@ var app = angular.module('err1150', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1150_vtulka_osi_kachaniya";
     $scope.productimg = "assets/img/832721471_vtulka-osi-kachaniya.jpg";
     $scope.productname = "Втулка оси качания МТЗ ЮМЗ";
@@ -21912,7 +21912,7 @@ var app = angular.module('err1151', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1151_vtulka_promezhutochnoj_opory";
     $scope.productimg = "assets/img/832739509_vtulka-promezhutochnoj-opory.jpg";
     $scope.productname = "Втулка промежуточной опоры карданного вала МТЗ";
@@ -21931,7 +21931,7 @@ var app = angular.module('err1152', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1152_vtulka_raspredelitelnogo_vala";
     $scope.productimg = "assets/img/751523482_vtulka-raspredelitelnogo-vala.jpg";
     $scope.productname = "Втулка распределительного вала МТЗ средняя";
@@ -21950,7 +21950,7 @@ var app = angular.module('err1153', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1153_vtulka_raspredelitelnogo_vala";
     $scope.productimg = "assets/img/751527870_vtulka-raspredelitelnogo-vala.jpg";
     $scope.productname = "Втулка распределительного вала МТЗ задняя";
@@ -21969,7 +21969,7 @@ var app = angular.module('err1154', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1154_vtulka_raspredelitelnogo_vala";
     $scope.productimg = "assets/img/751529830_vtulka-raspredelitelnogo-vala.jpg";
     $scope.productname = "Втулка распределительного вала МТЗ передняя";
@@ -21988,7 +21988,7 @@ var app = angular.module('err1155', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1155_vtulka_rulevogo_upravleniya";
     $scope.productimg = "assets/img/711579185_vtulka-rulevogo-upravleniya.jpg";
     $scope.productname = "Втулка рулевого управления МТЗ пластик белый";
@@ -22007,7 +22007,7 @@ var app = angular.module('err1156', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1156_vtulka_tsapfy_povorotnogo";
     $scope.productimg = "assets/img/711588580_vtulka-tsapfy-povorotnogo.jpg";
     $scope.productname = "Втулка цапфы поворотного кулака МТЗ верхняя";
@@ -22026,7 +22026,7 @@ var app = angular.module('err1157', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1157_vtulka_tsapfy_verhnyaya";
     $scope.productimg = "assets/img/711591525_vtulka-tsapfy-verhnyaya.jpg";
     $scope.productname = "Втулка цапфы верхняя МТЗ чугун";
@@ -22045,7 +22045,7 @@ var app = angular.module('err1158', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1158_vtulka_kulaka_vydvizhnogo";
     $scope.productimg = "assets/img/711595703_vtulka-kulaka-vydvizhnogo.jpg";
     $scope.productname = "Втулка кулака выдвижного МТЗ нижняя чугунная";
@@ -22064,7 +22064,7 @@ var app = angular.module('err1159', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1159_vtulka_shesterni_vala";
     $scope.productimg = "assets/img/850227737_vtulka-shesterni-vala.jpg";
     $scope.productname = "Втулка шестерни вала промежуточного КПП МТЗ бронза";
@@ -22083,7 +22083,7 @@ var app = angular.module('err1160', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1160_vtyagivayuschee_rele_mtz";
     $scope.productimg = "assets/img/711615232_vtyagivayuschee-rele-mtz.jpg";
     $scope.productname = "Втягивающее реле МТЗ ЗИЛ-5301 СТ-142Н 24В";
@@ -22102,7 +22102,7 @@ var app = angular.module('err1161', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1161_vtyagivayuschee_rele_mtz";
     $scope.productimg = "assets/img/711619107_vtyagivayuschee-rele-mtz.jpg";
     $scope.productname = "Втягивающее реле МТЗ Т-40 СТ-212 12В";
@@ -22121,7 +22121,7 @@ var app = angular.module('err1162', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1162_vtyagivayuschee_rele_reduktornogo";
     $scope.productimg = "assets/img/712440606_vtyagivayuschee-rele-reduktornogo.jpg";
     $scope.productname = "Втягивающее реле редукторного стартера МТЗ 12 В";
@@ -22140,7 +22140,7 @@ var app = angular.module('err1163', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1163_vtyagivayuschee_rele_startera";
     $scope.productimg = "assets/img/1212043731_vtyagivayuschee-rele-startera.jpg";
     $scope.productname = "Втягивающее реле стартера МТЗ 24В";
@@ -22159,7 +22159,7 @@ var app = angular.module('err1164', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1164_vyklyuchatel_blokirovki_mtz";
     $scope.productimg = "assets/img/712442419_vyklyuchatel-blokirovki-mtz.jpg";
     $scope.productname = "Выключатель блокировки МТЗ (лягушка)";
@@ -22178,7 +22178,7 @@ var app = angular.module('err1165', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1165_vyklyuchatel_mehanicheskoj_blokirovki";
     $scope.productimg = "assets/img/712444623_vyklyuchatel-mehanicheskoj-blokirovki.jpg";
     $scope.productname = "Выключатель механической блокировки ПВМ МТЗ";
@@ -22197,7 +22197,7 @@ var app = angular.module('err1166', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1166_gajka_promezhutochnogo_vala";
     $scope.productimg = "assets/img/823925635_gajka-promezhutochnogo-vala.jpg";
     $scope.productname = "Гайка промежуточного вала МТЗ";
@@ -22216,7 +22216,7 @@ var app = angular.module('err1167', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1167_gajka_zadnej_stupitsy";
     $scope.productimg = "assets/img/819866951_gajka-zadnej-stupitsy.jpg";
     $scope.productname = "Гайка задней ступицы МТЗ Т-150 ПТС М-18";
@@ -22235,7 +22235,7 @@ var app = angular.module('err1168', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1168_gajka_perednej_stupitsy";
     $scope.productimg = "assets/img/712449773_gajka-perednej-stupitsy.jpg";
     $scope.productname = "Гайка передней ступицы МТЗ";
@@ -22254,7 +22254,7 @@ var app = angular.module('err1169', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1169_gajka_krepleniya_soshki";
     $scope.productimg = "assets/img/712461854_gajka-krepleniya-soshki.jpg";
     $scope.productname = "Гайка крепления сошки МТЗ";
@@ -22273,7 +22273,7 @@ var app = angular.module('err1170', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1170_glavnaya_para_zadnego";
     $scope.productimg = "assets/img/712465653_glavnaya-para-zadnego.jpg";
     $scope.productname = "Главная пара заднего моста МТЗ 1025 1221";
@@ -22292,7 +22292,7 @@ var app = angular.module('err1171', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1171_glushitel_mtz_dvigatel";
     $scope.productimg = "assets/img/712467372_glushitel-mtz-dvigatel.jpg";
     $scope.productname = "Глушитель МТЗ двигатель Д 245 L=1370 мм.";
@@ -22311,7 +22311,7 @@ var app = angular.module('err1172', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1172_glushitel_mtz_yumz";
     $scope.productimg = "assets/img/712468811_glushitel-mtz-yumz.jpg";
     $scope.productname = "Глушитель МТЗ ЮМЗ L=930mm.";
@@ -22330,7 +22330,7 @@ var app = angular.module('err1173', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1173_glushitel_mtz_yumz";
     $scope.productimg = "assets/img/712470090_glushitel-mtz-yumz.jpg";
     $scope.productname = "Глушитель МТЗ ЮМЗ L=1370 мм";
@@ -22349,7 +22349,7 @@ var app = angular.module('err1174', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1174_glushitel_mtz_yumz";
     $scope.productimg = "assets/img/712471697_glushitel-mtz-yumz.jpg";
     $scope.productname = "Глушитель МТЗ ЮМЗ L=1150 мм.";
@@ -22368,7 +22368,7 @@ var app = angular.module('err1175', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1175_datchik_avarijnogo_davleniya";
     $scope.productimg = "assets/img/712482099_datchik-avarijnogo-davleniya.jpg";
     $scope.productname = "Датчик аварийного давления воздуха МТЗ";
@@ -22387,7 +22387,7 @@ var app = angular.module('err1176', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1176_datchik_zasorennosti_vozdushnogo";
     $scope.productimg = "assets/img/712488309_datchik-zasorennosti-vozdushnogo.jpg";
     $scope.productname = "Датчик засоренности воздушного фильтра МТЗ";
@@ -22406,7 +22406,7 @@ var app = angular.module('err1177', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1177_datchik_signalizatora_davleniya";
     $scope.productimg = "assets/img/712489942_datchik-signalizatora-davleniya.jpg";
     $scope.productname = "Датчик сигнализатора давления масла МТЗ";
@@ -22425,7 +22425,7 @@ var app = angular.module('err1178', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1178_datchik_temperatury_ohlazhdeniya";
     $scope.productimg = "assets/img/712492474_datchik-temperatury-ohlazhdeniya.jpg";
     $scope.productname = "Датчик температуры охлаждения жидкости МТЗ УАЗ";
@@ -22444,7 +22444,7 @@ var app = angular.module('err1179', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1179_dver_kabiny_mtz";
     $scope.productimg = "assets/img/712495979_dver-kabiny-mtz.jpg";
     $scope.productname = "Дверь кабины МТЗ УК правая каркас";
@@ -22463,7 +22463,7 @@ var app = angular.module('err1180', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1180_dver_kabiny_mtz";
     $scope.productimg = "assets/img/712498787_dver-kabiny-mtz.jpg";
     $scope.productname = "Дверь кабины МТЗ УК правая в сборе";
@@ -22482,7 +22482,7 @@ var app = angular.module('err1181', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1181_disk_tormoznoj_mtz";
     $scope.productimg = "assets/img/1289095361_disk-tormoznoj-mtz.jpg";
     $scope.productname = "Диск тормозной МТЗ ЮМЗ";
@@ -22501,7 +22501,7 @@ var app = angular.module('err1182', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1182_disk_tormoznoj_nazhimnoj";
     $scope.productimg = "assets/img/712509180_disk-tormoznoj-nazhimnoj.jpg";
     $scope.productname = "Диск тормозной нажимной МТЗ в сборе старого образца";
@@ -22520,7 +22520,7 @@ var app = angular.module('err1183', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1183_disk_tormoznoj_nazhimnoj";
     $scope.productimg = "assets/img/712511353_disk-tormoznoj-nazhimnoj.jpg";
     $scope.productname = "Диск тормозной нажимной МТЗ в сборе нового образца";
@@ -22539,7 +22539,7 @@ var app = angular.module('err1184', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1184_val_kardannyj_mtz";
     $scope.productimg = "assets/img/712522484_val-kardannyj-mtz-1221.jpg";
     $scope.productname = "Вал карданный МТЗ-1221 1025 L=850mm";
@@ -22558,7 +22558,7 @@ var app = angular.module('err1185', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1185_karter_maslyanyj_240";
     $scope.productimg = "assets/img/712525081_karter-maslyanyj-d.jpg";
     $scope.productname = "Картер масляный Д 240 Д243 МТЗ метал";
@@ -22577,7 +22577,7 @@ var app = angular.module('err1186', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1186_klin_perednego_veduschego";
     $scope.productimg = "assets/img/713014444_klin-perednego-veduschego.jpg";
     $scope.productname = "Клин переднего ведущего моста МТЗ";
@@ -22596,7 +22596,7 @@ var app = angular.module('err1187', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1187_kozhuh_tormoznoj_mtz";
     $scope.productimg = "assets/img/713032319_kozhuh-tormoznoj-mtz.jpg";
     $scope.productname = "Кожух тормозной МТЗ рабочий";
@@ -22615,7 +22615,7 @@ var app = angular.module('err1188', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1188_kozhuh_tormoznoj_mtz";
     $scope.productimg = "assets/img/713033334_kozhuh-tormoznoj-mtz-900-1221.jpg";
     $scope.productname = "Кожух тормозной МТЗ-900-1221 рабочий";
@@ -22634,7 +22634,7 @@ var app = angular.module('err1189', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1189_kollektor_vypusknoj_mtz";
     $scope.productimg = "assets/img/713035040_kollektor-vypusknoj-mtz.jpg";
     $scope.productname = "Коллектор выпускной МТЗ 80/82";
@@ -22653,7 +22653,7 @@ var app = angular.module('err1190', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1190_kollektor_vypusknoj_mtz";
     $scope.productimg = "assets/img/813866074_kollektor-vypusknoj-mtz.jpg";
     $scope.productname = "Коллектор выпускной МТЗ Д-245";
@@ -22672,7 +22672,7 @@ var app = angular.module('err1191', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1191_kolpak_kryshki_golovki";
     $scope.productimg = "assets/img/814092324_kolpak-kryshki-golovki.jpg";
     $scope.productname = "Колпак крышки головки блока МТЗ";
@@ -22691,7 +22691,7 @@ var app = angular.module('err1192', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1192_kombinatsiya_priborov_mtz";
     $scope.productimg = "assets/img/713056989_kombinatsiya-5-priborov.jpg";
     $scope.productname = "Комбинация 5 приборов МТЗ 80-950";
@@ -22710,7 +22710,7 @@ var app = angular.module('err1193', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1193_kompressor_vozdushnyj_paz";
     $scope.productimg = "assets/img/713068508_kompressor-vozdushnyj-paz.jpg";
     $scope.productname = "Компрессор воздушный ПАЗ 1-цилиндровый 155л/м";
@@ -22729,7 +22729,7 @@ var app = angular.module('err1194', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1194_vyklyuchatel_signala_stoyanochnogo";
     $scope.productimg = "assets/img/713063210_vyklyuchatel-signala-stoyanochnogo.jpg";
     $scope.productname = "Выключатель сигнала стояночного тормоза ВАЗ ГАЗ ПАЗ МТЗ";
@@ -22748,7 +22748,7 @@ var app = angular.module('err1195', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1195_korpus_zadnego_mosta";
     $scope.productimg = "assets/img/713071064_korpus-zadnego-mosta.jpg";
     $scope.productname = "Корпус заднего моста МТЗ";
@@ -22767,7 +22767,7 @@ var app = angular.module('err1196', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1196_korpus_termostata_pod";
     $scope.productimg = "assets/img/713072361_korpus-termostata-pod.jpg";
     $scope.productname = "Корпус термостата под стартер МТЗ 80/82";
@@ -22786,7 +22786,7 @@ var app = angular.module('err1197', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1197_korpus_termostata_nizhnij";
     $scope.productimg = "assets/img/713075146_korpus-termostata-nizhnij.jpg";
     $scope.productname = "Корпус термостата нижний МТЗ 80/82";
@@ -22805,7 +22805,7 @@ var app = angular.module('err1198', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1198_korobka_pereklyucheniya_peredach";
     $scope.productimg = "assets/img/713077422_korobka-pereklyucheniya-peredach.jpg";
     $scope.productname = "Коробка переключения передач МТЗ с прямым рычагом";
@@ -22824,7 +22824,7 @@ var app = angular.module('err1199', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1199_kranik_slivnoj_sistemy";
     $scope.productimg = "assets/img/713082604_kranik-slivnoj-sistemy.jpg";
     $scope.productname = "Краник сливной системы охлаждения , отопления ,вентилятора КР 29";
@@ -22843,7 +22843,7 @@ var app = angular.module('err1200', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1200_krestovina_rulevogo_kardannogo";
     $scope.productimg = "assets/img/713134426_krestovina-rulevogo-kardannogo.jpg";
     $scope.productname = "Крестовина рулевого карданного вала МТЗ ЮМЗ ГАЗ с подшипником";
@@ -22862,7 +22862,7 @@ var app = angular.module('err1201', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1201_kronshtejn_rulevogo_tsilindra";
     $scope.productimg = "assets/img/713144629_kronshtejn-rulevogo-tsilindra.jpg";
     $scope.productname = "Кронштейн рулевого цилиндра МТЗ";
@@ -22881,7 +22881,7 @@ var app = angular.module('err1202', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1202_kronshtejn_otvodki_mtz";
     $scope.productimg = "assets/img/713165468_kronshtejn-otvodki-mtz.jpg";
     $scope.productname = "Кронштейн отводки МТЗ";
@@ -22900,7 +22900,7 @@ var app = angular.module('err1203', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1203_kronshtejn_perednego_gruza";
     $scope.productimg = "assets/img/714448368_kronshtejn-perednego-gruza.jpg";
     $scope.productname = "Кронштейн переднего груза МТЗ (балласта)";
@@ -22919,7 +22919,7 @@ var app = angular.module('err1204', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1204_kronshtejn_upravleniya_gidrouzlami";
     $scope.productimg = "assets/img/714451072_kronshtejn-upravleniya-gidrouzlami.jpg";
     $scope.productname = "Кронштейн управления гидроузлами МТЗ";
@@ -22938,7 +22938,7 @@ var app = angular.module('err1205', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1205_krylo_zadnee_levoe";
     $scope.productimg = "assets/img/714453388_krylo-zadnee-levoe.jpg";
     $scope.productname = "Крыло заднее левое МТЗ УК";
@@ -22957,7 +22957,7 @@ var app = angular.module('err1206', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1206_krylo_zadnee_pravoe";
     $scope.productimg = "assets/img/714494782_krylo-zadnee-pravoe.jpg";
     $scope.productname = "Крыло заднее правое МТЗ УК";
@@ -22976,7 +22976,7 @@ var app = angular.module('err1207', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1207_krylo_perednee_mtz";
     $scope.productimg = "assets/img/714498566_krylo-perednee-mtz.jpg";
     $scope.productname = "Крыло переднее МТЗ 80 голое узкое";
@@ -22995,7 +22995,7 @@ var app = angular.module('err1208', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1208_krylo_perednee_mtz";
     $scope.productimg = "assets/img/714499813_krylo-perednee-mtz.jpg";
     $scope.productname = "Крыло переднее МТЗ пластиковое";
@@ -23014,7 +23014,7 @@ var app = angular.module('err1209', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1209_krylo_perednee_mtz";
     $scope.productimg = "assets/img/714503265_krylo-perednee-mtz.jpg";
     $scope.productname = "Крыло переднее МТЗ голое широкое метал";
@@ -23033,7 +23033,7 @@ var app = angular.module('err1210', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1210_krylchatka_vodyanogo_nasosa";
     $scope.productimg = "assets/img/1330899367_krylchatka-vodyanogo-nasosa.jpg";
     $scope.productname = "Крыльчатка водяного насоса нового образца Д 240 , 245";
@@ -23052,7 +23052,7 @@ var app = angular.module('err1211', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1211_kryshka_korpus_termostata";
     $scope.productimg = "assets/img/865669823_kryshka-i-korpus.jpg";
     $scope.productname = "Крышка и корпус термостата Д 243 Д 245";
@@ -23071,7 +23071,7 @@ var app = angular.module('err1212', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1212_kryshka_upravleniya_kpp";
     $scope.productimg = "assets/img/714520168_kryshka-upravleniya-kpp.jpg";
     $scope.productname = "Крышка управления КПП МТЗ";
@@ -23090,7 +23090,7 @@ var app = angular.module('err1213', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1213_kryshka_kpp_mtz";
     $scope.productimg = "assets/img/714521524_kryshka-kpp-mtz.jpg";
     $scope.productname = "Крышка КПП МТЗ правая";
@@ -23109,7 +23109,7 @@ var app = angular.module('err1214', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1214_kryshka_lyuka_kryshki";
     $scope.productimg = "assets/img/714522646_kryshka-lyuka-kryshki.jpg";
     $scope.productname = "Крышка люка крышки шестерен МТЗ";
@@ -23128,7 +23128,7 @@ var app = angular.module('err1215', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1215_kryshka_vinta_differentsiala";
     $scope.productimg = "assets/img/715612516_kryshka-vinta-differentsiala.jpg";
     $scope.productname = "Крышка винта дифференциала переднего моста МТЗ";
@@ -23147,7 +23147,7 @@ var app = angular.module('err1216', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1216_kryshka_shesteren_raspredelitelnogo";
     $scope.productimg = "assets/img/751439109_kryshka-shesteren-raspredelitelnogo.jpg";
     $scope.productname = "Крышка шестерен распределительного вала МТЗ голая";
@@ -23166,7 +23166,7 @@ var app = angular.module('err1217', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1217_kryshka_korpusa_raspredelitelya";
     $scope.productimg = "assets/img/714548419_kryshka-korpusa-raspredelitelya.jpg";
     $scope.productname = "Крышка корпуса распределителя ГУР МТЗ";
@@ -23185,7 +23185,7 @@ var app = angular.module('err1218', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1218_kryshka_rukava_poluosi";
     $scope.productimg = "assets/img/768254092_kryshka-rukava-poluosi.jpg";
     $scope.productname = "Крышка рукава полуоси МТЗ";
@@ -23204,7 +23204,7 @@ var app = angular.module('err1219', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1219_kryshka_stakana_zadnego";
     $scope.productimg = "assets/img/714545304_kryshka-stakana-zadnego.jpg";
     $scope.productname = "Крышка стакана заднего моста МТЗ 892-1025";
@@ -23223,7 +23223,7 @@ var app = angular.module('err1220', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1220_kryshka_filtra_tonkoj";
     $scope.productimg = "assets/img/714599318_kryshka-filtra-tonkoj.jpg";
     $scope.productname = "Крышка фильтра тонкой очистки топлива МТЗ";
@@ -23242,7 +23242,7 @@ var app = angular.module('err1221', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1221_lenta_vom_tormoznaya";
     $scope.productimg = "assets/img/807684686_lenta-vom-tormoznaya.jpg";
     $scope.productname = "Лента ВОМ тормозная широкая (56 мм) МТЗ 1025/1221";
@@ -23261,7 +23261,7 @@ var app = angular.module('err1222', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1222_maslootrazhatel_kryshki_shesteren";
     $scope.productimg = "assets/img/816533254_maslootrazhatel-kryshki-shesteren.jpg";
     $scope.productname = "Маслоотражатель крышки шестерен МТЗ Д 240 Д 243 Д 245";
@@ -23280,7 +23280,7 @@ var app = angular.module('err1223', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1223_masloprovod_radiatora_maslyanogo";
     $scope.productimg = "assets/img/715644582_masloprovod-radiatora-maslyanogo.jpg";
     $scope.productname = "Маслопровод радиатора масляного МТЗ";
@@ -23299,7 +23299,7 @@ var app = angular.module('err1224', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1224_masloprovod_gidrosistemy_mtz";
     $scope.productimg = "assets/img/715646998_masloprovod-gidrosistemy-mtz.jpg";
     $scope.productname = "Маслопровод гидросистемы МТЗ под НШ 32";
@@ -23318,7 +23318,7 @@ var app = angular.module('err1225', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1225_masloprovod_rulevogo_upravleniya";
     $scope.productimg = "assets/img/715678779_masloprovod-rulevogo-upravleniya.jpg";
     $scope.productname = "Маслопровод рулевого управления МТЗ";
@@ -23337,7 +23337,7 @@ var app = angular.module('err1226', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1226_truba_nsh32_r80";
     $scope.productimg = "assets/img/715697764_truba-nsh32-r80.jpg";
     $scope.productname = "Труба НШ32 Р80 МТЗ";
@@ -23356,7 +23356,7 @@ var app = angular.module('err1227', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1227_most_perednij_pod";
     $scope.productimg = "assets/img/798800468_most-perednij-pod.jpg";
     $scope.productname = "Мост передний под ГОРу МТЗ-82 8 шпилек";
@@ -23375,7 +23375,7 @@ var app = angular.module('err1228', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1228_mufta_promezhutochnogo_vala";
     $scope.productimg = "assets/img/723599799_mufta-promezhutochnogo-vala.jpg";
     $scope.productname = "Муфта промежуточного вала МТЗ 1005 1025 1221";
@@ -23394,7 +23394,7 @@ var app = angular.module('err1229', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1229_mufta_ponizhayuschego_reduktora";
     $scope.productimg = "assets/img/715800220_mufta-ponizhayuschego-reduktora.jpg";
     $scope.productname = "Муфта понижающего редуктора зубчатая МТЗ 80/82";
@@ -23413,7 +23413,7 @@ var app = angular.module('err1230', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1230_mufta_soedinitelnaya_korpusa";
     $scope.productimg = "assets/img/715755547_mufta-soedinitelnaya-korpusa.jpg";
     $scope.productname = "Муфта соединительная корпуса сцепления МТЗ 80/82";
@@ -23432,7 +23432,7 @@ var app = angular.module('err1231', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1231_bolt_sergi_tsentralnoj";
     $scope.productimg = "assets/img/775479157_bolt-sergi-tsentralnoj.jpg";
     $scope.productname = "Болт серьги центральной тяги задней навески МТЗ 80/82";
@@ -23451,7 +23451,7 @@ var app = angular.module('err1232', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1232_val_povorota_zadnej";
     $scope.productimg = "assets/img/775564075_val-povorota-zadnej.jpg";
     $scope.productname = "Вал поворота задней навески МТЗ 80/82 (поворотный)";
@@ -23470,7 +23470,7 @@ var app = angular.module('err1233', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1233_tyaga_verhnyaya_zadnej";
     $scope.productimg = "assets/img/775603204_tyaga-verhnyaya-zadnej.jpg";
     $scope.productname = "Тяга верхняя задней навески МТЗ 80/82 (центральный винт)";
@@ -23489,7 +23489,7 @@ var app = angular.module('err1234', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1234_prodolnyh_tyag_zadnej";
     $scope.productimg = "assets/img/715798385_os-prodolnyh-tyag.jpg";
     $scope.productname = "Ось продольных тяг задней навески МТЗ 80/82";
@@ -23508,7 +23508,7 @@ var app = angular.module('err1235', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1235_mehanizma_zadnej_naveski";
     $scope.productimg = "assets/img/715812981_os-mehanizma-zadnej.jpg";
     $scope.productname = "Ось механизма задней навески МТЗ 100 1025 1221 1005 усиленная";
@@ -23527,7 +23527,7 @@ var app = angular.module('err1236', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1236_palets_prodolnoj_tyagi";
     $scope.productimg = "assets/img/871175734_palets-prodolnoj-tyagi.jpg";
     $scope.productname = "Палец продольной тяги задней навески МТЗ 80/82";
@@ -23546,7 +23546,7 @@ var app = angular.module('err1237', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1237_proushina_styazhki_zadnej";
     $scope.productimg = "assets/img/776026470_proushina-styazhki-zadnej.jpg";
     $scope.productname = "Проушина стяжки задней навески МТЗ 80/82";
@@ -23565,7 +23565,7 @@ var app = angular.module('err1238', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1238_pruzhina_mehanizma_zadnej";
     $scope.productimg = "assets/img/776031597_pruzhina-mehanizma-zadnej.jpg";
     $scope.productname = "Пружина механизма задней навески МТЗ";
@@ -23584,7 +23584,7 @@ var app = angular.module('err1239', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1239_raskos_zadnej_naveski";
     $scope.productimg = "assets/img/715940830_raskos-zadnej-naveski.jpg";
     $scope.productname = "Раскос задней навески регулируемый МТЗ 80/82";
@@ -23603,7 +23603,7 @@ var app = angular.module('err1240', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1240_rychag_zadnej_naveski";
     $scope.productimg = "assets/img/715945288_rychag-zadnej-naveski.jpg";
     $scope.productname = "Рычаг задней навески левый МТЗ 80/82/892/900/950/1005/1025 усиленный";
@@ -23622,7 +23622,7 @@ var app = angular.module('err1241', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1241_rychag_povorotnyj_zadnej";
     $scope.productimg = "assets/img/715947878_rychag-povorotnyj-zadnej.jpg";
     $scope.productname = "Рычаг поворотный задней навески МТЗ 80/82";
@@ -23641,7 +23641,7 @@ var app = angular.module('err1242', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1242_serga_rychaga_povorotnogo";
     $scope.productimg = "assets/img/776968255_serga-rychaga-povorotnogo.jpg";
     $scope.productname = "Серьга рычага поворотного задней навески МТЗ 80/82";
@@ -23660,7 +23660,7 @@ var app = angular.module('err1243', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1243_tyaga_zadnyaya_pravayalevaya";
     $scope.productimg = "assets/img/777077131_tyaga-zadnyaya-pravayalevaya.jpg";
     $scope.productname = "Тяга задняя правая/левая МТЗ 1005 1025";
@@ -23679,7 +23679,7 @@ var app = angular.module('err1244', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1244_tyaga_zadnej_naveski";
     $scope.productimg = "assets/img/716039467_tyaga-zadnej-naveski.jpg";
     $scope.productname = "Тяга задней навески левая короткая МТЗ 80/82 (удлинитель)";
@@ -23698,7 +23698,7 @@ var app = angular.module('err1245', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1245_tyaga_naveski_zadnyaya";
     $scope.productimg = "assets/img/777958948_tyaga-naveski-zadnyaya.jpg";
     $scope.productname = "Тяга навески задняя левая МТЗ 80/82 удлинитель";
@@ -23717,7 +23717,7 @@ var app = angular.module('err1246', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1246_tyaga_naveski_zadnyaya";
     $scope.productimg = "assets/img/716044038_tyaga-naveski-zadnyaya.jpg";
     $scope.productname = "Тяга навески задняя правая МТЗ 80/82 удлинитель";
@@ -23736,7 +23736,7 @@ var app = angular.module('err1247', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1247_shajba_vtulka_osi";
     $scope.productimg = "assets/img/778012190_shajba-vtulka-osi.jpg";
     $scope.productname = "Шайба (втулка) оси навески МТЗ 80/82";
@@ -23755,7 +23755,7 @@ var app = angular.module('err1248', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1248_shplint_mehanizma_fiksatsii";
     $scope.productimg = "assets/img/716053637_shplint-mehanizma-fiksatsii.jpg";
     $scope.productname = "Шплинт механизма фиксации тяги задней навески МТЗ 80/82";
@@ -23774,7 +23774,7 @@ var app = angular.module('err1249', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1249_nakladka_diska_stsepleniya";
     $scope.productimg = "assets/img/716058745_nakladka-diska-stsepleniya.jpg";
     $scope.productname = "Накладка диска сцепления МТЗ";
@@ -23793,7 +23793,7 @@ var app = angular.module('err1250', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1250_nasos_vodyanoj_240";
     $scope.productimg = "assets/img/716061978_nasos-vodyanoj-d-240.jpg";
     $scope.productname = "Насос водяной Д-240 МТЗ (водяная помпа)";
@@ -23812,7 +23812,7 @@ var app = angular.module('err1251', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1251_nasos_vodyanoj_245";
     $scope.productimg = "assets/img/722991867_nasos-vodyanoj-d-245.jpg";
     $scope.productname = "Насос водяной Д-245 со шкивом 2х ручейковый";
@@ -23831,7 +23831,7 @@ var app = angular.module('err1252', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1252_natyazhitel_remnya_generatora";
     $scope.productimg = "assets/img/723004257_natyazhitel-remnya-generatora.jpg";
     $scope.productname = "Натяжитель ремня генератора МТЗ-1221";
@@ -23850,7 +23850,7 @@ var app = angular.module('err1253', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1253_toplivoprovod_drenazhnyj_mtz";
     $scope.productimg = "assets/img/723007034_toplivoprovod-drenazhnyj-mtz.jpg";
     $scope.productname = "Топливопровод дренажный МТЗ";
@@ -23869,7 +23869,7 @@ var app = angular.module('err1254', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1254_satellita_zadnego_vom";
     $scope.productimg = "assets/img/884646977_os-satellita-zadnego.jpg";
     $scope.productname = "Ось сателлита заднего ВОМ МТЗ 80/82";
@@ -23888,7 +23888,7 @@ var app = angular.module('err1255', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1255_shesterni_privoda_vom";
     $scope.productimg = "assets/img/723028258_os-shesterni-privoda.jpg";
     $scope.productname = "Ось шестерни привода ВОМ МТЗ 80/82";
@@ -23907,7 +23907,7 @@ var app = angular.module('err1256', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1256_palets_poperechiny_mtz";
     $scope.productimg = "assets/img/723081365_palets-poperechiny-mtz.jpg";
     $scope.productname = "Палец поперечины МТЗ";
@@ -23926,7 +23926,7 @@ var app = angular.module('err1257', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1257_patrubok_vodyanogo_nasosa";
     $scope.productimg = "assets/img/813759968_patrubok-vodyanogo-nasosa.jpg";
     $scope.productname = "Патрубок водяного насоса МТЗ старого образца";
@@ -23945,7 +23945,7 @@ var app = angular.module('err1258', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1258_patrubok_perehodnoj_vpusknogo";
     $scope.productimg = "assets/img/723153569_patrubok-perehodnoj-vpusknogo.jpg";
     $scope.productname = "Патрубок переходной впускного коллектора с заслонкой МТЗ";
@@ -23964,7 +23964,7 @@ var app = angular.module('err1259', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1259_patrubok_golovki_tsilindrov";
     $scope.productimg = "assets/img/723157988_patrubok-golovki-tsilindrov.jpg";
     $scope.productname = "Патрубок головки цилиндров МТЗ";
@@ -23983,7 +23983,7 @@ var app = angular.module('err1260', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1260_patrubok_radiatora_verhnij";
     $scope.productimg = "assets/img/723174296_patrubok-radiatora-verhnij.jpg";
     $scope.productname = "Патрубок радиатора верхний МТЗ L= 270мм.";
@@ -24002,7 +24002,7 @@ var app = angular.module('err1261', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1261_patrubok_radiatora_mtz";
     $scope.productimg = "assets/img/723183533_patrubok-radiatora-mtz.jpg";
     $scope.productname = "Патрубок радиатора МТЗ верхний + нижний";
@@ -24021,7 +24021,7 @@ var app = angular.module('err1262', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1262_patrubok_radiatora_nizhnij";
     $scope.productimg = "assets/img/822422673_patrubok-radiatora-nizhnij.jpg";
     $scope.productname = "Патрубок радиатора нижний МТЗ-1221";
@@ -24040,7 +24040,7 @@ var app = angular.module('err1263', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1263_pereklyuchatel_podrulevoj_130mm";
     $scope.productimg = "assets/img/723194677_pereklyuchatel-podrulevoj-130mm.jpg";
     $scope.productname = "Переключатель подрулевой 130мм. МТЗ";
@@ -24059,7 +24059,7 @@ var app = angular.module('err1264', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1264_perehodnik_kollektora_mtz";
     $scope.productimg = "assets/img/723219400_perehodnik-kollektora-mtz.jpg";
     $scope.productname = "Переходник коллектора МТЗ Д-245 под турбину";
@@ -24078,7 +24078,7 @@ var app = angular.module('err1265', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1265_povodok_mtz";
     $scope.productimg = "assets/img/723361874_povodok-pd-mtz.jpg";
     $scope.productname = "Поводок ПД МТЗ";
@@ -24097,7 +24097,7 @@ var app = angular.module('err1266', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1266_podsvetka_nomernogo_znaka";
     $scope.productimg = "assets/img/989197168_podsvetka-nomernogo-znaka.jpg";
     $scope.productname = "Подсветка номерного знака МТЗ,ГАЗЕЛЬ, МАЗ, УАЗ, ЗИЛ 12В";
@@ -24116,7 +24116,7 @@ var app = angular.module('err1267', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1267_podushka_kabiny_mtz";
     $scope.productimg = "assets/img/723370681_podushka-kabiny-mtz.jpg";
     $scope.productname = "Подушка кабины МТЗ ЗИЛ-130 передняя верхняя";
@@ -24135,7 +24135,7 @@ var app = angular.module('err1268', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1268_preobrazovatel_napryazheniya_mtz";
     $scope.productimg = "assets/img/723616295_preobrazovatel-napryazheniya-mtz.jpg";
     $scope.productname = "Преобразователь напряжения МТЗ 14/28В";
@@ -24154,7 +24154,7 @@ var app = angular.module('err1269', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1269_privod_startera_mtz";
     $scope.productimg = "assets/img/723619015_privod-startera-mtz.jpg";
     $scope.productname = "Привод стартера МТЗ 12В 6 шлицов";
@@ -24173,7 +24173,7 @@ var app = angular.module('err1270', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1270_privod_startera_mtz";
     $scope.productimg = "assets/img/723624619_privod-startera-mtz.jpg";
     $scope.productname = "Привод стартера МТЗ 24В 4 шлица";
@@ -24192,7 +24192,7 @@ var app = angular.module('err1271', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1271_privod_reduktornogo_startera";
     $scope.productimg = "assets/img/865671745_privod-reduktornogo-startera.jpg";
     $scope.productname = "Привод редукторного стартера МТЗ 12В/24В";
@@ -24211,7 +24211,7 @@ var app = angular.module('err1272', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1272_kryshka_maslozalivnoj_gorloviny";
     $scope.productimg = "assets/img/751504274_kryshka-maslozalivnoj-gorloviny.jpg";
     $scope.productname = "Крышка маслозаливной горловины МТЗ";
@@ -24230,7 +24230,7 @@ var app = angular.module('err1273', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1273_kryshka_toplivnogo_baka";
     $scope.productimg = "assets/img/723633772_kryshka-toplivnogo-baka.jpg";
     $scope.productname = "Крышка топливного бака МТЗ большая";
@@ -24249,7 +24249,7 @@ var app = angular.module('err1274', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1274_prokladka_kryshki_klapanov";
     $scope.productimg = "assets/img/723638209_prokladka-kryshki-klapanov.jpg";
     $scope.productname = "Прокладка крышки клапанов МТЗ верхняя пробковая";
@@ -24268,7 +24268,7 @@ var app = angular.module('err1275', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1275_prokladka_kryshki_klapanov";
     $scope.productimg = "assets/img/723639159_prokladka-kryshki-klapanov.jpg";
     $scope.productname = "Прокладка крышки клапанов МТЗ нижняя пробковая";
@@ -24287,7 +24287,7 @@ var app = angular.module('err1276', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1276_prokladka_kryshki_raspredeleniya";
     $scope.productimg = "assets/img/723640490_prokladka-kryshki-raspredeleniya.jpg";
     $scope.productname = "Прокладка крышки распределения Д-260";
@@ -24306,7 +24306,7 @@ var app = angular.module('err1277', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1277_prokladka_perehodnika_vypusknogo";
     $scope.productimg = "assets/img/723641479_prokladka-perehodnika-vypusknogo.jpg";
     $scope.productname = "Прокладка переходника выпускного коллектора МТЗ Д-245";
@@ -24325,7 +24325,7 @@ var app = angular.module('err1278', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1278_prokladka_bachka_radiatora";
     $scope.productimg = "assets/img/822425052_prokladka-bachka-radiatora.jpg";
     $scope.productname = "Прокладка бачка радиатора МТЗ";
@@ -24344,7 +24344,7 @@ var app = angular.module('err1279', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1279_pruzhina_klapana_naruzhnaya";
     $scope.productimg = "assets/img/724535733_pruzhina-klapana-naruzhnaya.jpg";
     $scope.productname = "Пружина клапана наружная МТЗ большая";
@@ -24363,7 +24363,7 @@ var app = angular.module('err1280', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1280_pruzhina_osi_koromysel";
     $scope.productimg = "assets/img/724539404_pruzhina-osi-koromysel.jpg";
     $scope.productname = "Пружина оси коромысел МТЗ";
@@ -24382,7 +24382,7 @@ var app = angular.module('err1281', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1281_radiator_otopitelya_mtz";
     $scope.productimg = "assets/img/725360998_radiator-otopitelya-uk.jpg";
     $scope.productname = "Радиатор отопителя УК МТЗ";
@@ -24401,7 +24401,7 @@ var app = angular.module('err1282', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1282_radiator_mtz_ryadnyj";
     $scope.productimg = "assets/img/725370321_radiator-mtz-80-4-h.jpg";
     $scope.productname = "Радиатор МТЗ-80 4-х рядный Оренбург";
@@ -24420,7 +24420,7 @@ var app = angular.module('err1283', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1283_radiator_mtz_ryadnyj";
     $scope.productimg = "assets/img/725373182_radiator-mtz-80-4-h.jpg";
     $scope.productname = "Радиатор МТЗ-80 4-х рядный Бишкек";
@@ -24439,7 +24439,7 @@ var app = angular.module('err1284', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1284_regulyator_glubiny_vspashki";
     $scope.productimg = "assets/img/725377152_regulyator-glubiny-vspashki.jpg";
     $scope.productname = "Регулятор глубины вспашки силовой МТЗ Беларусь";
@@ -24458,7 +24458,7 @@ var app = angular.module('err1285', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1285_rejka_gur_mtz";
     $scope.productimg = "assets/img/725379197_rejka-gur-mtz.jpg";
     $scope.productname = "Рейка ГУР МТЗ";
@@ -24477,7 +24477,7 @@ var app = angular.module('err1286', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1286_rele_povorotov_erp";
     $scope.productimg = "assets/img/725380392_rele-povorotov-erp-1.jpg";
     $scope.productname = "Реле поворотов ЭРП-1 3747.025 МТЗ-80-3022";
@@ -24496,7 +24496,7 @@ var app = angular.module('err1287', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1287_rele_502_startera";
     $scope.productimg = "assets/img/725382520_rele-rs-502.jpg";
     $scope.productname = "Реле РС 502 стартера МТЗ старого образца";
@@ -24515,7 +24515,7 @@ var app = angular.module('err1288', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1288_remkomplekt_vodyanogo_naosa";
     $scope.productimg = "assets/img/725385435_remkomplekt-vodyanogo-naosa.jpg";
     $scope.productname = "Ремкомплект водяного наоса МТЗ Д-245";
@@ -24534,7 +24534,7 @@ var app = angular.module('err1289', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1289_remkomplekt_korziny_mtz";
     $scope.productimg = "assets/img/725395332_remkomplekt-korziny-mtz-80.jpg";
     $scope.productname = "Ремкомплект корзины МТЗ-80";
@@ -24553,7 +24553,7 @@ var app = angular.module('err1290', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1290_disk_promezhutochnoj_opory";
     $scope.productimg = "assets/img/725398426_disk-promezhutochnoj-opory.jpg";
     $scope.productname = "Диск промежуточной опоры (толстый) МТЗ";
@@ -24572,7 +24572,7 @@ var app = angular.module('err1291', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1291_disk_promezhutochnoj_opory";
     $scope.productimg = "assets/img/725399887_disk-promezhutochnoj-opory.jpg";
     $scope.productname = "Диск промежуточной опоры (тонкий) МТЗ";
@@ -24591,7 +24591,7 @@ var app = angular.module('err1292', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1292_remkomplekt_promezhutochnoj_opory";
     $scope.productimg = "assets/img/725417176_remkomplekt-promezhutochnoj-opory.jpg";
     $scope.productname = "Ремкомплект промежуточной опоры МТЗ ( ёжики )";
@@ -24610,7 +24610,7 @@ var app = angular.module('err1293', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1293_reshetka_radiatora_verhnyaya";
     $scope.productimg = "assets/img/725437022_reshetka-radiatora-verhnyaya.jpg";
     $scope.productname = "Решетка радиатора верхняя МТЗ";
@@ -24629,7 +24629,7 @@ var app = angular.module('err1294', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1294_reshetka_radiatora_nizhnyaya";
     $scope.productimg = "assets/img/725438030_reshetka-radiatora-nizhnyaya.jpg";
     $scope.productname = "Решетка радиатора нижняя МТЗ";
@@ -24648,7 +24648,7 @@ var app = angular.module('err1295', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1295_reshetka_radiatora_nizhnyaya";
     $scope.productimg = "assets/img/725439398_reshetka-radiatora-nizhnyaya.jpg";
     $scope.productname = "Решетка радиатора нижняя под круглые фары МТЗ";
@@ -24667,7 +24667,7 @@ var app = angular.module('err1296', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1296_rychag_povorotnyj_pravyj";
     $scope.productimg = "assets/img/725444601_rychag-povorotnyj-pravyj.jpg";
     $scope.productname = "Рычаг поворотный правый рулевого управления под ГОРУ МТЗ";
@@ -24686,7 +24686,7 @@ var app = angular.module('err1297', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1297_rychag_povorotnyj_pod";
     $scope.productimg = "assets/img/725446198_rychag-povorotnyj-pod.jpg";
     $scope.productname = "Рычаг поворотный под ГУР МТЗ (люлька)";
@@ -24705,7 +24705,7 @@ var app = angular.module('err1298', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1298_satellit_vom_osyu";
     $scope.productimg = "assets/img/725449531_satellit-vom-s.jpg";
     $scope.productname = "Сателлит ВОМ с осью в сборе МТЗ";
@@ -24724,7 +24724,7 @@ var app = angular.module('err1299', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1299_setka_filtra_maslyanogo";
     $scope.productimg = "assets/img/725455959_setka-filtra-maslyanogo.jpg";
     $scope.productname = "Сетка фильтра масляного центробежной очистки МТЗ";
@@ -24743,7 +24743,7 @@ var app = angular.module('err1300', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1300_signal_zvukovoj_mtz";
     $scope.productimg = "assets/img/725458313_signal-zvukovoj-mtz.jpg";
     $scope.productname = "Сигнал звуковой МТЗ";
@@ -24762,7 +24762,7 @@ var app = angular.module('err1301', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1301_sinhronizator_mtz";
     $scope.productimg = "assets/img/725459866_sinhronizator-mtz.jpg";
     $scope.productname = "Синхронизатор МТЗ";
@@ -24781,7 +24781,7 @@ var app = angular.module('err1302', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1302_stakan_vala_otbora";
     $scope.productimg = "assets/img/791902094_stakan-vala-otbora.jpg";
     $scope.productname = "Стакан вала отбора мощности МТЗ 80/82";
@@ -24800,7 +24800,7 @@ var app = angular.module('err1303', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1303_stekloochistitel_universalnyj_schyotkoj";
     $scope.productimg = "assets/img/725478623_stekloochistitel-universalnyj-so.jpg";
     $scope.productname = "Стеклоочиститель универсальный со щёткой МТЗ";
@@ -24819,7 +24819,7 @@ var app = angular.module('err1304', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1304_stupitsa_zadnego_kolesa";
     $scope.productimg = "assets/img/725481889_stupitsa-zadnego-kolesa.jpg";
     $scope.productname = "Ступица заднего колеса МТЗ без болтов";
@@ -24838,7 +24838,7 @@ var app = angular.module('err1305', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1305_tarelka_pruzhin_klapana";
     $scope.productimg = "assets/img/725487106_tarelka-pruzhin-klapana.jpg";
     $scope.productname = "Тарелка пружин клапана верхняя МТЗ";
@@ -24857,7 +24857,7 @@ var app = angular.module('err1306', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1306_tahospidometr_mtz";
     $scope.productimg = "assets/img/725489172_tahospidometr-mtz.jpg";
     $scope.productname = "Тахоспидометр МТЗ";
@@ -24876,7 +24876,7 @@ var app = angular.module('err1307', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1307_trubka_toplivnaya_nizkogo";
     $scope.productimg = "assets/img/725531985_trubka-toplivnaya-nizkogo.jpg";
     $scope.productname = "Трубка топливная низкого давления ПВХ со штуцером длинная 1050 мм.";
@@ -24895,7 +24895,7 @@ var app = angular.module('err1308', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1308_toplivoprovod_nizkogo_davleniya";
     $scope.productimg = "assets/img/725534841_toplivoprovod-nizkogo-davleniya.jpg";
     $scope.productname = "Топливопровод низкого давления МТЗ";
@@ -24914,7 +24914,7 @@ var app = angular.module('err1309', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1309_toplivoprovod_nizkogo_davleniya";
     $scope.productimg = "assets/img/1121491705_toplivoprovod-nizkogo-davleniya.jpg";
     $scope.productname = "Топливопровод низкого давления (обратка) МТЗ";
@@ -24933,7 +24933,7 @@ var app = angular.module('err1310', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1310_tros_upravleniya_blokirovkoj";
     $scope.productimg = "assets/img/725540694_tros-upravleniya-blokirovkoj.jpg";
     $scope.productname = "Трос управления блокировкой дифференциала МТЗ";
@@ -24952,7 +24952,7 @@ var app = angular.module('err1311', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1311_tros_upravleniya_blokirovkoj";
     $scope.productimg = "assets/img/725541384_tros-upravleniya-blokirovkoj.jpg";
     $scope.productname = "Трос управления блокировкой дифференциала МТЗ короткий";
@@ -24971,7 +24971,7 @@ var app = angular.module('err1312', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1312_truba_manometra_vozduha";
     $scope.productimg = "assets/img/816474239_truba-manometra-vozduha.jpg";
     $scope.productname = "Труба манометра воздуха МТЗ";
@@ -24990,7 +24990,7 @@ var app = angular.module('err1313', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1313_trubka_toplivnaya_drenazhnaya";
     $scope.productimg = "assets/img/725575945_trubka-toplivnaya-drenazhnaya.jpg";
     $scope.productname = "Трубка топливная дренажная форсунок МТЗ";
@@ -25009,7 +25009,7 @@ var app = angular.module('err1314', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1314_trubka_otvodyaschaya_mtz";
     $scope.productimg = "assets/img/725579465_trubka-otvodyaschaya-mtz.jpg";
     $scope.productname = "Трубка отводящая МТЗ L=240";
@@ -25028,7 +25028,7 @@ var app = angular.module('err1315', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1315_trubka_podvodyaschaya_245";
     $scope.productimg = "assets/img/725582490_trubka-podvodyaschaya-d-245.jpg";
     $scope.productname = "Трубка подводящая Д-245 ЗИЛ-5301 Бычок";
@@ -25047,7 +25047,7 @@ var app = angular.module('err1316', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1316_trubka_tnvd_l855";
     $scope.productimg = "assets/img/725591480_trubka-tnvd-l855.jpg";
     $scope.productname = "Трубка ТНВД L=855";
@@ -25066,7 +25066,7 @@ var app = angular.module('err1317', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1317_trubki_toplivnye_vysokogo";
     $scope.productimg = "assets/img/725593067_trubki-toplivnye-vysokogo.jpg";
     $scope.productname = "Трубки топливные высокого давления МТЗ Д-240 4 штуки";
@@ -25085,7 +25085,7 @@ var app = angular.module('err1318', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1318_truboprovod_gidrosistemy_mtz";
     $scope.productimg = "assets/img/725593908_truboprovod-gidrosistemy-mtz.jpg";
     $scope.productname = "Трубопровод гидросистемы МТЗ";
@@ -25104,7 +25104,7 @@ var app = angular.module('err1319', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1319_ugolnik_gajkoj_toplivnyj";
     $scope.productimg = "assets/img/725595031_ugolnik-s-gajkoj.jpg";
     $scope.productname = "Угольник с гайкой топливный";
@@ -25123,7 +25123,7 @@ var app = angular.module('err1320', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1320_ukazatel_davleniya_vozduha";
     $scope.productimg = "assets/img/725596207_ukazatel-davleniya-vozduha.jpg";
     $scope.productname = "Указатель давления воздуха МТЗ-1221 с аварийной сигнализацией";
@@ -25142,7 +25142,7 @@ var app = angular.module('err1321', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1321_uplotnenie_stekla_mtz";
     $scope.productimg = "assets/img/725601978_uplotnenie-stekla-mtz.jpg";
     $scope.productname = "Уплотнение стекла МТЗ МК (замок) метр/погон";
@@ -25161,7 +25161,7 @@ var app = angular.module('err1322', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1322_uplotnenie_stekla_mtz";
     $scope.productimg = "assets/img/725602715_uplotnenie-stekla-mtz.jpg";
     $scope.productname = "Уплотнение стекла МТЗ УК (метр/погон.)";
@@ -25180,7 +25180,7 @@ var app = angular.module('err1323', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1323_fara_traktornaya_perednyaya";
     $scope.productimg = "assets/img/832706798_fara-traktornaya-perednyaya.jpg";
     $scope.productname = "Фара тракторная передняя МТЗ (квадратная)";
@@ -25199,7 +25199,7 @@ var app = angular.module('err1324', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1324_fiksator_osi_koromysel";
     $scope.productimg = "assets/img/725610649_fiksator-osi-koromysel.jpg";
     $scope.productname = "Фиксатор оси коромысел МТЗ";
@@ -25218,7 +25218,7 @@ var app = angular.module('err1325', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1325_filtr_gidrobaka_mtz";
     $scope.productimg = "assets/img/725612680_filtr-gidrobaka-mtz.jpg";
     $scope.productname = "Фильтр гидробака МТЗ в сборе";
@@ -25237,7 +25237,7 @@ var app = angular.module('err1326', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1326_filtr_toplivnyj_tonkoj";
     $scope.productimg = "assets/img/725614621_filtr-toplivnyj-tonkoj.jpg";
     $scope.productname = "Фильтр топливный тонкой очистки МТЗ";
@@ -25256,7 +25256,7 @@ var app = angular.module('err1327', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1327_flanets_perednego_mosta";
     $scope.productimg = "assets/img/725619403_flanets-perednego-mosta.jpg";
     $scope.productname = "Фланец переднего моста 5-отверстий МТЗ";
@@ -25275,7 +25275,7 @@ var app = angular.module('err1328', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1328_flanets_perednego_mosta";
     $scope.productimg = "assets/img/725621086_flanets-perednego-mosta.jpg";
     $scope.productname = "Фланец переднего моста 8-отверстий МТЗ";
@@ -25294,7 +25294,7 @@ var app = angular.module('err1329', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1329_flanets_promezhutochnoj_opory";
     $scope.productimg = "assets/img/725622680_flanets-promezhutochnoj-opory.jpg";
     $scope.productname = "Фланец промежуточной опоры МТЗ";
@@ -25313,7 +25313,7 @@ var app = angular.module('err1330', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1330_flanets_promezhutochnoj_opory";
     $scope.productimg = "assets/img/725625531_flanets-promezhutochnoj-opory.jpg";
     $scope.productname = "Фланец промежуточной опоры карданного вала МТЗ";
@@ -25332,7 +25332,7 @@ var app = angular.module('err1331', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1331_flanets_shesterni_privoda";
     $scope.productimg = "assets/img/813954568_flanets-shesterni-privoda.jpg";
     $scope.productname = "Фланец шестерни привода ТНВД МТЗ";
@@ -25351,7 +25351,7 @@ var app = angular.module('err1332', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1332_fonar_zadnij_mtz";
     $scope.productimg = "assets/img/725629862_fonar-zadnij-mtz.jpg";
     $scope.productname = "Фонарь задний МТЗ пластмасовый МК кабина";
@@ -25370,7 +25370,7 @@ var app = angular.module('err1333', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1333_fonar_mtz_perednij";
     $scope.productimg = "assets/img/725631650_fonar-mtz-perednij.jpg";
     $scope.productname = "Фонарь МТЗ передний алюминевый";
@@ -25389,7 +25389,7 @@ var app = angular.module('err1334', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1334_fonar_mtz_perednij";
     $scope.productimg = "assets/img/725633288_fonar-mtz-perednij.jpg";
     $scope.productname = "Фонарь МТЗ передний пластмасовый";
@@ -25408,7 +25408,7 @@ var app = angular.module('err1335', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1335_filtr_maslyanyj_tsentrobezhnyj";
     $scope.productimg = "assets/img/813860383_filtr-maslyanyj-tsentrobezhnyj.jpg";
     $scope.productname = "Фильтр масляный центробежный ( центрифуга) МТЗ Д 240, Д 243";
@@ -25427,7 +25427,7 @@ var app = angular.module('err1336', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1336_chehol_kapota_mtz";
     $scope.productimg = "assets/img/966344380_chehol-kapota-mtz-80.jpg";
     $scope.productname = "Чехол капота МТЗ-80";
@@ -25446,7 +25446,7 @@ var app = angular.module('err1337', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1337_chehol_rychaga_kpp";
     $scope.productimg = "assets/img/725640241_chehol-rychaga-kpp.jpg";
     $scope.productname = "Чехол рычага КПП нового образца МТЗ";
@@ -25465,7 +25465,7 @@ var app = angular.module('err1338', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1338_chehol_tormoznoj_mtz";
     $scope.productimg = "assets/img/725641535_chehol-tormoznoj-mtz.jpg";
     $scope.productname = "Чехол тормозной МТЗ";
@@ -25484,7 +25484,7 @@ var app = angular.module('err1339', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1339_shajba_stupitsy_zadnej";
     $scope.productimg = "assets/img/725642671_shajba-stupitsy-zadnej.jpg";
     $scope.productname = "Шайба ступицы задней сферическая МТЗ";
@@ -25503,7 +25503,7 @@ var app = angular.module('err1340', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1340_shatun_mtz_260";
     $scope.productimg = "assets/img/751268236_shatun-mtz-d-260.jpg";
     $scope.productname = "Шатун МТЗ Д-260 d=38мм";
@@ -25522,7 +25522,7 @@ var app = angular.module('err1341', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1341_shesternya_peredachi_zadnego";
     $scope.productimg = "assets/img/741996426_shesternya-1-j-peredachi.jpg";
     $scope.productname = "Шестерня 1-й передачи и заднего хода дополнительная Z=32 МТЗ";
@@ -25541,7 +25541,7 @@ var app = angular.module('err1342', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1342_shesternya_vedomaya_stupeni";
     $scope.productimg = "assets/img/726635925_shesternya-vedomaya-2-j.jpg";
     $scope.productname = "Шестерня ведомая 2-й ступени редуктора МТЗ";
@@ -25560,7 +25560,7 @@ var app = angular.module('err1343', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1343_glavnaya_para_perednego";
     $scope.productimg = "assets/img/726651480_glavnaya-para-perednego.jpg";
     $scope.productname = "Главная пара переднего моста МТЗ";
@@ -25579,7 +25579,7 @@ var app = angular.module('err1344', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1344_shesternya_solnechnaya_vom";
     $scope.productimg = "assets/img/884635615_shesternya-solnechnaya-vom.jpg";
     $scope.productname = "Шестерня солнечная ВОМ МТЗ 80/82";
@@ -25598,7 +25598,7 @@ var app = angular.module('err1345', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1345_shesternya_promezhutochnaya_razdatochnoj";
     $scope.productimg = "assets/img/726660328_shesternya-promezhutochnaya-razdatochnoj.jpg";
     $scope.productname = "Шестерня промежуточная раздаточной коробки МТЗ";
@@ -25617,7 +25617,7 @@ var app = angular.module('err1346', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1346_shesternya_poluosi_z22";
     $scope.productimg = "assets/img/726662775_shesternya-poluosi-z22.jpg";
     $scope.productname = "Шестерня полуоси Z=22 МТЗ";
@@ -25636,7 +25636,7 @@ var app = angular.module('err1347', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1347_shesternya_privoda_nasosa";
     $scope.productimg = "assets/img/884632717_shesternya-privoda-nasosa.jpg";
     $scope.productname = "Шестерня привода насоса МТЗ Z=24";
@@ -25655,7 +25655,7 @@ var app = angular.module('err1348', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1348_shesternya_kolenchatogo_vala";
     $scope.productimg = "assets/img/726770968_shesternya-kolenchatogo-vala.jpg";
     $scope.productname = "Шестерня коленчатого вала Д 260 Z=27";
@@ -25674,7 +25674,7 @@ var app = angular.module('err1349', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1349_shesternya_privoda_maslyanogo";
     $scope.productimg = "assets/img/822390855_shesternya-privoda-maslyanogo.jpg";
     $scope.productname = "Шестерня привода масляного насоса Д 240 Д 243 Д 245 Z= 42 МТЗ";
@@ -25693,7 +25693,7 @@ var app = angular.module('err1350', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1350_shesternya_raspredelitelnogo_vala";
     $scope.productimg = "assets/img/726780515_shesternya-raspredelitelnogo-vala.jpg";
     $scope.productname = "Шестерня распределительного вала МТЗ Z=40";
@@ -25712,7 +25712,7 @@ var app = angular.module('err1351', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1351_shesternya_privoda_toplivnogo";
     $scope.productimg = "assets/img/813033905_shesternya-privoda-toplivnogo.jpg";
     $scope.productname = "Шестерня привода топливного насоса МТЗ Д 245 80/82";
@@ -25731,7 +25731,7 @@ var app = angular.module('err1352', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1352_shesternya_veduschaya_pravaya";
     $scope.productimg = "assets/img/726786272_shesternya-veduschaya-pravaya.jpg";
     $scope.productname = "Шестерня ведущая правая короткая МТЗ";
@@ -25750,7 +25750,7 @@ var app = angular.module('err1353', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1353_shesternya_veduschaya_levaya";
     $scope.productimg = "assets/img/726791286_shesternya-veduschaya-levaya.jpg";
     $scope.productname = "Шестерня ведущая левая длинная МТЗ";
@@ -25769,7 +25769,7 @@ var app = angular.module('err1354', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1354_shesternya_reduktora_konechnoj";
     $scope.productimg = "assets/img/726796406_shesternya-reduktora-konechnoj.jpg";
     $scope.productname = "Шестерня редуктора конечной передачи МТЗ";
@@ -25788,7 +25788,7 @@ var app = angular.module('err1355', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1355_shesternya_vedomaya_mtz";
     $scope.productimg = "assets/img/726797319_shesternya-vedomaya-mtz.jpg";
     $scope.productname = "Шестерня ведомая МТЗ";
@@ -25807,7 +25807,7 @@ var app = angular.module('err1356', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1356_shesternya_promezhutochnaya_mtz";
     $scope.productimg = "assets/img/726800892_shesternya-promezhutochnaya-mtz.jpg";
     $scope.productname = "Шестерня промежуточная МТЗ";
@@ -25826,7 +25826,7 @@ var app = angular.module('err1357', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1357_shkiv_generatora_mtz";
     $scope.productimg = "assets/img/726802193_shkiv-generatora-mtz.jpg";
     $scope.productname = "Шкив генератора МТЗ";
@@ -25845,7 +25845,7 @@ var app = angular.module('err1358', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1358_shkiv_kolenvala_245";
     $scope.productimg = "assets/img/726807619_shkiv-kolenvala-d-245.jpg";
     $scope.productname = "Шкив коленвала Д-245 2х ручейковый МТЗ ЗИЛ-5301 ПАЗ";
@@ -25864,7 +25864,7 @@ var app = angular.module('err1359', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1359_shlang_manometra_masla";
     $scope.productimg = "assets/img/726828041_shlang-manometra-masla.jpg";
     $scope.productname = "Шланг манометра масла МТЗ L = 480мм";
@@ -25883,7 +25883,7 @@ var app = angular.module('err1360', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1360_shlang_manometra_masla";
     $scope.productimg = "assets/img/726831905_shlang-manometra-masla.jpg";
     $scope.productname = "Шланг манометра масла МТЗ L=530мм";
@@ -25902,7 +25902,7 @@ var app = angular.module('err1361', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1361_shtanga_tolkatelya_klapana";
     $scope.productimg = "assets/img/819939255_shtanga-tolkatelya-klapana.jpg";
     $scope.productname = "Штанга толкателя клапана МТЗ";
@@ -25921,7 +25921,7 @@ var app = angular.module('err1362', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1362_shtutser_masloprovoda_mtz";
     $scope.productimg = "assets/img/726840017_shtutser-masloprovoda-mtz.jpg";
     $scope.productname = "Штуцер маслопровода МТЗ";
@@ -25940,7 +25940,7 @@ var app = angular.module('err1363', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1363_shtutser_obratki_mtz";
     $scope.productimg = "assets/img/726842538_shtutser-obratki-mtz.jpg";
     $scope.productname = "Штуцер обратки МТЗ (переходник)";
@@ -25959,7 +25959,7 @@ var app = angular.module('err1364', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1364_shtutser_gidroarmatury_mtz";
     $scope.productimg = "assets/img/726844082_shtutser-gidroarmatury-mtz.jpg";
     $scope.productname = "Штуцер гидроарматуры МТЗ";
@@ -25978,7 +25978,7 @@ var app = angular.module('err1365', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1365_schetka_startera_mtz";
     $scope.productimg = "assets/img/726846889_schetka-startera-mtz.jpg";
     $scope.productname = "Щетка стартера МТЗ Бычок Т-25 Т-16 ( 4 шт в комплекте)";
@@ -25997,7 +25997,7 @@ var app = angular.module('err1366', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1366_elektrodvigatel_otopitelya_mtz";
     $scope.productimg = "assets/img/726874850_elektrodvigatel-otopitelya-mtz.jpg";
     $scope.productname = "Электродвигатель отопителя МТЗ 12В 40Вт";
@@ -26016,7 +26016,7 @@ var app = angular.module('err1367', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1367_yakor_startera_mtz";
     $scope.productimg = "assets/img/726897927_yakor-startera-mtz.jpg";
     $scope.productname = "Якорь стартера МТЗ СТ142 М";
@@ -26035,7 +26035,7 @@ var app = angular.module('err1368', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1368_starter_yumz_reduktornyj";
     $scope.productimg = "assets/img/710483493_starter-yumz-reduktornyj.jpg";
     $scope.productname = "Стартер ЮМЗ редукторный 12В 2,7Квт";
@@ -26054,7 +26054,7 @@ var app = angular.module('err1369', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1369_starter_mtz_reduktornyj";
     $scope.productimg = "assets/img/710487886_starter-mtz-reduktornyj.jpg";
     $scope.productname = "Стартер МТЗ редукторный 12В 2,7 кВт";
@@ -26073,7 +26073,7 @@ var app = angular.module('err1370', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1370_starter_reduktornyj_mtz";
     $scope.productimg = "assets/img/710501939_starter-reduktornyj-mtz.jpg";
     $scope.productname = "Стартер редукторный МТЗ Т40 Т25 12В 3,2 кВт";
@@ -26092,7 +26092,7 @@ var app = angular.module('err1371', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1371_starter_mtz_reduktornyj";
     $scope.productimg = "assets/img/710510929_starter-mtz-reduktornyj.jpg";
     $scope.productname = "Стартер МТЗ редукторный 12В 2,8 кВт";
@@ -26111,7 +26111,7 @@ var app = angular.module('err1372', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1372_starter_yumz_reduktornyj";
     $scope.productimg = "assets/img/710516872_starter-yumz-reduktornyj.jpg";
     $scope.productname = "Стартер ЮМЗ редукторный 12В 2,8 кВт";
@@ -26130,7 +26130,7 @@ var app = angular.module('err1373', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1373_starter_mtz_reduktornyj";
     $scope.productimg = "assets/img/710521114_starter-mtz-reduktornyj.jpg";
     $scope.productname = "Стартер МТЗ редукторный 12В 3,2 кВт с дополнительным реле";
@@ -26149,7 +26149,7 @@ var app = angular.module('err1374', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1374_starter_yumz_reduktornyj";
     $scope.productimg = "assets/img/710525312_starter-yumz-reduktornyj.jpg";
     $scope.productname = "Стартер ЮМЗ редукторный 12В 3,2 кВт";
@@ -26168,7 +26168,7 @@ var app = angular.module('err1375', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1375_generator_240_243";
     $scope.productimg = "assets/img/710546338_generator-d-240.jpg";
     $scope.productname = "Генератор Д 240 , 243 14В 0,7 кВт Россия";
@@ -26187,7 +26187,7 @@ var app = angular.module('err1376', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1376_generator_t25_14v";
     $scope.productimg = "assets/img/710554401_generator-t25-14v.jpg";
     $scope.productname = "Генератор Т25 14В 0,7 кВт";
@@ -26206,7 +26206,7 @@ var app = angular.module('err1377', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1377_generator_t40_14v";
     $scope.productimg = "assets/img/710557766_generator-t40-14v.jpg";
     $scope.productname = "Генератор Т40 14В 0,7 кВт";
@@ -26225,7 +26225,7 @@ var app = angular.module('err1378', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1378_generator_d240_243";
     $scope.productimg = "assets/img/710570333_generator-d240-.jpg";
     $scope.productname = "Генератор Д240 , 243 28В 1кВт";
@@ -26244,7 +26244,7 @@ var app = angular.module('err1379', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1379_generator_d240_243";
     $scope.productimg = "assets/img/710581125_generator-d240-243.jpg";
     $scope.productname = "Генератор Д240 ,243 14В 1 кВт 72 А";
@@ -26263,7 +26263,7 @@ var app = angular.module('err1380', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1380_generator_14v_100a";
     $scope.productimg = "assets/img/710593521_generator-14v-100a.jpg";
     $scope.productname = "Генератор 14В 100А 1,4кВт МТЗ";
@@ -26282,7 +26282,7 @@ var app = angular.module('err1381', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1381_starter_mtz_t40";
     $scope.productimg = "assets/img/710600647_starter-mtz-t40.jpg";
     $scope.productname = "Стартер МТЗ Т40 ЮМЗ Т25 12V 2,7кВт";
@@ -26301,7 +26301,7 @@ var app = angular.module('err1382', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1382_starter_mtz_12v";
     $scope.productimg = "assets/img/710608995_starter-mtz-12v.jpg";
     $scope.productname = "Стартер МТЗ 12V аналог СТ142М";
@@ -26320,7 +26320,7 @@ var app = angular.module('err1383', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1383_korpus_vala_kardannogo";
     $scope.productimg = "assets/img/870723381_korpus-vala-kardannogo.jpg";
     $scope.productname = "Корпус вала карданного МТЗ";
@@ -26339,7 +26339,7 @@ var app = angular.module('err1384', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1384_pruzhina_privoda_perednego";
     $scope.productimg = "assets/img/721606563_pruzhina-privoda-perednego.jpg";
     $scope.productimg = "assets/img/714386094_pruzhina-privoda-perednego.jpg";
@@ -26359,7 +26359,7 @@ var app = angular.module('err1385', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1385_koltso_friktsiona_razdatochnoj";
     $scope.productimg = "assets/img/871253541_koltso-friktsiona-razdatochnoj.jpg";
     $scope.productname = "Кольцо фрикциона раздаточной коробки МТЗ 1025-1221";
@@ -26378,7 +26378,7 @@ var app = angular.module('err1386', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1386_shajba_vala_privoda";
     $scope.productimg = "assets/img/714392880_shajba-vala-privoda.jpg";
     $scope.productname = "Шайба вала привода переднего ведущего моста МТЗ 1025-1221";
@@ -26397,7 +26397,7 @@ var app = angular.module('err1387', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1387_porshen_privoda_perednego";
     $scope.productimg = "assets/img/870733399_porshen-privoda-perednego.jpg";
     $scope.productname = "Поршень привода переднего ведущего моста МТЗ 1221";
@@ -26416,7 +26416,7 @@ var app = angular.module('err1388', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1388_bolt_prostavochnyj_dlinnyj";
     $scope.productimg = "assets/img/721626618_bolt-prostavochnyj-dlinnyj.jpg";
     $scope.productname = "Болт проставочный длинный редуктора бортового МТЗ";
@@ -26435,7 +26435,7 @@ var app = angular.module('err1389', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1389_bolt_sergi_zadnej";
     $scope.productimg = "assets/img/721631850_bolt-sergi-zadnej.jpg";
     $scope.productname = "Болт серьги задней навески МТЗ 1221";
@@ -26454,7 +26454,7 @@ var app = angular.module('err1390', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1390_bonka_sistemy_upravleniya";
     $scope.productimg = "assets/img/871253679_bonka-sistemy-upravleniya.jpg";
     $scope.productname = "Бонка (системы управления подачи топлива) МТЗ";
@@ -26473,7 +26473,7 @@ var app = angular.module('err1391', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1391_val_stsepleniya_mtz";
     $scope.productimg = "assets/img/865696446_val-stsepleniya-mtz.jpg";
     $scope.productname = "Вал сцепления МТЗ 1025 1221";
@@ -26492,7 +26492,7 @@ var app = angular.module('err1392', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1392_val_vedomyj_privoda";
     $scope.productimg = "assets/img/871248579_val-vedomyj-privoda.jpg";
     $scope.productimg = "assets/img/871248582_val-vedomyj-privoda.jpg";
@@ -26512,7 +26512,7 @@ var app = angular.module('err1393', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1393_val_kronshtejna_upravleniya";
     $scope.productimg = "assets/img/721701357_val-kronshtejna-upravleniya.jpg";
     $scope.productname = "Вал кронштейна управления гидрораспределителем МТЗ 1221";
@@ -26531,7 +26531,7 @@ var app = angular.module('err1394', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1394_val_upravleniya_gidroraspredelitelem";
     $scope.productimg = "assets/img/721706766_val-upravleniya-gidroraspredelitelem.jpg";
     $scope.productname = "Вал управления гидрораспределителем МТЗ 1221";
@@ -26550,7 +26550,7 @@ var app = angular.module('err1395', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1395_val_kronshtejna_upravleniya";
     $scope.productimg = "assets/img/721741322_val-kronshtejna-upravleniya.jpg";
     $scope.productname = "Вал кронштейна управления подачей топлива МТЗ 1221";
@@ -26569,7 +26569,7 @@ var app = angular.module('err1396', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1396_val_korusa_stseplennya";
     $scope.productimg = "assets/img/721847754_val-korusa-stseplennya.jpg";
     $scope.productimg = "assets/img/721847757_val-korusa-stseplennya.jpg";
@@ -26591,7 +26591,7 @@ var app = angular.module('err1397', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1397_val_privoda_gidronasosa";
     $scope.productimg = "assets/img/870733096_val-privoda-gidronasosa.jpg";
     $scope.productname = "Вал привода гидронасоса МТЗ 1221";
@@ -26610,7 +26610,7 @@ var app = angular.module('err1398', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1398_shesternya_zadnego_mosta";
     $scope.productimg = "assets/img/865697937_shesternya-zadnego-mosta.jpg";
     $scope.productimg = "assets/img/865697970_shesternya-zadnego-mosta.jpg";
@@ -26630,7 +26630,7 @@ var app = angular.module('err1399', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1399_shesternya_zadnego_mosta";
     $scope.productimg = "assets/img/722932534_shesternya-zadnego-mosta.jpg";
     $scope.productname = "Шестерня заднего моста ведущая правая короткая МТЗ 1221";
@@ -26649,7 +26649,7 @@ var app = angular.module('err1400', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1400_valik_upravleniya_vom";
     $scope.productimg = "assets/img/722943806_valik-upravleniya-vom.jpg";
     $scope.productname = "Валик управления ВОМ МТЗ 80/82/1221";
@@ -26668,7 +26668,7 @@ var app = angular.module('err1401', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1401_valik_vklyucheniya_privoda";
     $scope.productimg = "assets/img/722948257_valik-vklyucheniya-privoda.jpg";
     $scope.productname = "Валик включения привода НМШ-25 МТЗ 1025-1221";
@@ -26687,7 +26687,7 @@ var app = angular.module('err1402', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1402_vilka_vklyucheniya_privoda";
     $scope.productimg = "assets/img/722998154_vilka-vklyucheniya-privoda.jpg";
     $scope.productname = "Вилка включения привода ВОМ МТЗ 100, 1221";
@@ -26706,7 +26706,7 @@ var app = angular.module('err1403', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1403_vilka_korpusa_stsepleniya";
     $scope.productimg = "assets/img/745586614_vilka-korpusa-stsepleniya.jpg";
     $scope.productname = "Вилка корпуса сцепления МТЗ 1221";
@@ -26725,7 +26725,7 @@ var app = angular.module('err1404', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1404_vilka_gidravlicheskogo_raskosa";
     $scope.productimg = "assets/img/723007751_vilka-gidravlicheskogo-raskosa.jpg";
     $scope.productname = "Вилка гидравлического раскоса под цетральную тягу МТЗ 1221";
@@ -26744,7 +26744,7 @@ var app = angular.module('err1405', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1405_vilka_mufty_ponizhayuschego";
     $scope.productimg = "assets/img/723021592_vilka-mufty-ponizhayuschego.jpg";
     $scope.productname = "Вилка муфты понижающего редуктора МТЗ 1025-1221";
@@ -26763,7 +26763,7 @@ var app = angular.module('err1406', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1406_vint_mosta_perednego";
     $scope.productimg = "assets/img/723029442_vint-mosta-perednego.jpg";
     $scope.productname = "Винт моста переднего МТЗ";
@@ -26782,7 +26782,7 @@ var app = angular.module('err1407', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1407_vint_regulirovochnyj_perednego";
     $scope.productimg = "assets/img/871166274_vint-regulirovochnyj-perednego.jpg";
     $scope.productname = "Винт регулировочный переднего ведущего моста редуктора МТЗ 80/82";
@@ -26801,7 +26801,7 @@ var app = angular.module('err1408', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1408_shesterni_korpusa_stsepleniya";
     $scope.productimg = "assets/img/870732418_os-shesterni-korpusa.jpg";
     $scope.productimg = "assets/img/870732431_os-shesterni-korpusa.jpg";
@@ -26821,7 +26821,7 @@ var app = angular.module('err1409', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1409_vtulka_podvoda_masla";
     $scope.productimg = "assets/img/870725721_vtulka-podvoda-masla.jpg";
     $scope.productname = "Втулка подвода масла к валу первичному МТЗ 1025 1221 1553";
@@ -26840,7 +26840,7 @@ var app = angular.module('err1410', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1410_vtulka_navesnogo_ustrojstva";
     $scope.productimg = "assets/img/870722645_vtulka-navesnogo-ustrojstva.jpg";
     $scope.productname = "Втулка навесного устройства с силовым регулятором МТЗ 1221";
@@ -26859,7 +26859,7 @@ var app = angular.module('err1411', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1411_vtulka_raspornaya_privoda";
     $scope.productimg = "assets/img/723078655_vtulka-raspornaya-privoda.jpg";
     $scope.productname = "Втулка распорная привода ВОМ МТЗ 1025 1221 1553";
@@ -26878,7 +26878,7 @@ var app = angular.module('err1412', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1412_vtulka_shesterni_vedomoj";
     $scope.productimg = "assets/img/865686102_vtulka-shesterni-vedomoj.jpg";
     $scope.productimg = "assets/img/865686143_vtulka-shesterni-vedomoj.jpg";
@@ -26898,7 +26898,7 @@ var app = angular.module('err1413', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1413_vtulka_korobki_peredach";
     $scope.productimg = "assets/img/723085043_vtulka-korobki-peredach.jpg";
     $scope.productname = "Втулка коробки передач МТЗ 1221";
@@ -26917,7 +26917,7 @@ var app = angular.module('err1414', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1414_vtulka_vala_ponizhennyh";
     $scope.productimg = "assets/img/1009366306_vtulka-vala-ponizhennyh.jpg";
     $scope.productname = "Втулка вала пониженных передач упорная МТЗ 1025 1221 1553";
@@ -26936,7 +26936,7 @@ var app = angular.module('err1415', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1415_vtulka_vala_ponizhennyh";
     $scope.productimg = "assets/img/865697095_vtulka-vala-ponizhennyh.jpg";
     $scope.productname = "Втулка вала пониженных передач 18 шлицов МТЗ 1221";
@@ -26955,7 +26955,7 @@ var app = angular.module('err1416', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1416_vtulka_vala_vtorichnogo";
     $scope.productimg = "assets/img/870724194_vtulka-vala-vtorichnogo.jpg";
     $scope.productimg = "assets/img/870724207_vtulka-vala-vtorichnogo.jpg";
@@ -26975,7 +26975,7 @@ var app = angular.module('err1417', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1417_vtulka_privoda_gidronasosa";
     $scope.productimg = "assets/img/870727086_vtulka-privoda-gidronasosa.jpg";
     $scope.productname = "Втулка привода гидронасоса НМШ-25 шлицевая МТЗ 1221";
@@ -26994,7 +26994,7 @@ var app = angular.module('err1418', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1418_vtulka_perednego_veduschego";
     $scope.productimg = "assets/img/870727345_vtulka-perednego-veduschego.jpg";
     $scope.productname = "Втулка переднего ведущего моста МТЗ 1221";
@@ -27013,7 +27013,7 @@ var app = angular.module('err1419', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1419_stakan_vala_vtorichnogo";
     $scope.productimg = "assets/img/724294457_stakan-vala-vtorichnogo.jpg";
     $scope.productimg = "assets/img/724294460_stakan-vala-vtorichnogo.jpg";
@@ -27033,7 +27033,7 @@ var app = angular.module('err1420', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1420_gorlovina_zalivnaya_mtz";
     $scope.productimg = "assets/img/724305578_gorlovina-zalivnaya-mtz.jpg";
     $scope.productimg = "assets/img/724305575_gorlovina-zalivnaya-mtz.jpg";
@@ -27053,7 +27053,7 @@ var app = angular.module('err1421', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1421_zaglushka_kryshki_differentsiala";
     $scope.productimg = "assets/img/871171834_zaglushka-kryshki-differentsiala.jpg";
     $scope.productimg = "assets/img/871171844_zaglushka-kryshki-differentsiala.jpg";
@@ -27073,7 +27073,7 @@ var app = angular.module('err1422', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1422_zaglushka_korusa_stsepleniya";
     $scope.productimg = "assets/img/871170511_zaglushka-korusa-stsepleniya.jpg";
     $scope.productname = "Заглушка коруса сцепления МТЗ";
@@ -27092,7 +27092,7 @@ var app = angular.module('err1423', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1423_zaschyolka_upravleniya_stoyanochnym";
     $scope.productimg = "assets/img/724326406_zaschyolka-upravleniya-stoyanochnym.jpg";
     $scope.productname = "Защёлка управления стояночным тормозом МТЗ";
@@ -27111,7 +27111,7 @@ var app = angular.module('err1424', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1424_klapan_perepusknoj_rulevogo";
     $scope.productimg = "assets/img/870732705_klapan-perepusknoj-rulevogo.jpg";
     $scope.productname = "Клапан перепускной рулевого управления МТЗ";
@@ -27130,7 +27130,7 @@ var app = angular.module('err1425', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1425_kozhuh_vom_mtz";
     $scope.productimg = "assets/img/724398724_kozhuh-vom-mtz.jpg";
     $scope.productname = "Кожух ВОМ МТЗ";
@@ -27149,7 +27149,7 @@ var app = angular.module('err1426', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1426_kozhuh_ograzhdeniya_kardannogo";
     $scope.productimg = "assets/img/724470019_kozhuh-ograzhdeniya-kardannogo.jpg";
     $scope.productname = "Кожух ограждения карданного вала МТЗ средний";
@@ -27168,7 +27168,7 @@ var app = angular.module('err1427', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1427_koltso_vtulki_upornoj";
     $scope.productimg = "assets/img/724473331_koltso-vtulki-upornoj.jpg";
     $scope.productname = "Кольцо втулки упорной МТЗ";
@@ -27187,7 +27187,7 @@ var app = angular.module('err1428', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1428_koltso_stopornoe_mtz";
     $scope.productimg = "assets/img/871253031_koltso-stopornoe-mtz.jpg";
     $scope.productname = "Кольцо стопорное МТЗ";
@@ -27206,7 +27206,7 @@ var app = angular.module('err1429', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1429_kontrgajka_privoda_rulevogo";
     $scope.productimg = "assets/img/726461498_kontrgajka-privoda-rulevogo.jpg";
     $scope.productname = "Контргайка привода рулевого управления МТЗ 1221";
@@ -27225,7 +27225,7 @@ var app = angular.module('err1430', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1430_korpus_stsepleniya_mtz";
     $scope.productimg = "assets/img/1136990551_korpus-stsepleniya-mtz.jpg";
     $scope.productname = "Корпус сцепления МТЗ 1221 в сборе";
@@ -27244,7 +27244,7 @@ var app = angular.module('err1431', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1431_korpus_zadnego_mosta";
     $scope.productimg = "assets/img/726466273_korpus-zadnego-mosta.jpg";
     $scope.productname = "Корпус заднего моста МТЗ 1221 голый";
@@ -27263,7 +27263,7 @@ var app = angular.module('err1432', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1432_kronshtejn_dlya_datchika";
     $scope.productimg = "assets/img/727491143_kronshtejn-dlya-datchika.jpg";
     $scope.productname = "Кронштейн для датчика блокировки дифференциала МТЗ 90,92";
@@ -27282,7 +27282,7 @@ var app = angular.module('err1433', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1433_kronshtejn_armatury_rulevogo";
     $scope.productimg = "assets/img/726534465_kronshtejn-armatury-rulevogo.jpg";
     $scope.productname = "Кронштейн арматуры рулевого управления МТЗ";
@@ -27301,7 +27301,7 @@ var app = angular.module('err1434', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1434_kozhuh_ograzhdeniya_kardannogo";
     $scope.productimg = "assets/img/726551119_kozhuh-ograzhdeniya-kardannogo.jpg";
     $scope.productname = "Кожух ограждения карданного вала МТЗ передний";
@@ -27320,7 +27320,7 @@ var app = angular.module('err1435', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1435_kronshtejn_navesnogo_ustrojstva";
     $scope.productimg = "assets/img/726553274_kronshtejn-navesnogo-ustrojstva.jpg";
     $scope.productname = "Кронштейн навесного устройства МТЗ 1221";
@@ -27339,7 +27339,7 @@ var app = angular.module('err1436', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1436_kronshtejn_upravleniya_blokirovkoj";
     $scope.productimg = "assets/img/727490313_kronshtejn-upravleniya-blokirovkoj.jpg";
     $scope.productname = "Кронштейн управления блокировкой дифференциала МТЗ 1221";
@@ -27358,7 +27358,7 @@ var app = angular.module('err1437', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1437_kronshtejn_tyagi_upravleniya";
     $scope.productimg = "assets/img/859471009_kronshtejn-tyagi-upravleniya.jpg";
     $scope.productimg = "assets/img/859471015_kronshtejn-tyagi-upravleniya.jpg";
@@ -27378,7 +27378,7 @@ var app = angular.module('err1438', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1438_kronshtejn_pritsepnogo_ustrojstva";
     $scope.productimg = "assets/img/726696903_kronshtejn-pritsepnogo-ustrojstva.jpg";
     $scope.productname = "Кронштейн прицепного устройства МТЗ";
@@ -27397,7 +27397,7 @@ var app = angular.module('err1439', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1439_kronshtejn_truboprovodov_silovogo";
     $scope.productimg = "assets/img/871181545_kronshtejn-truboprovodov-silovogo.jpg";
     $scope.productname = "Кронштейн трубопроводов силового регулятора МТЗ 1221";
@@ -27416,7 +27416,7 @@ var app = angular.module('err1440', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1440_kronshtejn_korpusa_vilok";
     $scope.productimg = "assets/img/768287291_kronshtejn-korpusa-vilok.jpg";
     $scope.productname = "Кронштейн корпуса вилок управления МТЗ";
@@ -27435,7 +27435,7 @@ var app = angular.module('err1441', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1441_kronshtejn_krepleniya_zamka";
     $scope.productimg = "assets/img/727488752_kronshtejn-krepleniya-zamka.jpg";
     $scope.productname = "Кронштейн крепления замка люка крыши кабины МТЗ 1221";
@@ -27454,7 +27454,7 @@ var app = angular.module('err1442', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1442_kronshtejn_levyj_navesnoj";
     $scope.productimg = "assets/img/726767911_kronshtejn-levyj-navesnoj.jpg";
     $scope.productname = "Кронштейн левый навесной МТЗ 1221 1025";
@@ -27473,7 +27473,7 @@ var app = angular.module('err1443', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1443_kronshtejn_kabiny_mtz";
     $scope.productimg = "assets/img/1117488846_kronshtejn-kabiny-uk.jpg";
     $scope.productname = "Кронштейн кабины УК МТЗ 1221";
@@ -27492,7 +27492,7 @@ var app = angular.module('err1444', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1444_kronshtejn_kabiny_levyj";
     $scope.productimg = "assets/img/726844260_kronshtejn-kabiny-uk.jpg";
     $scope.productname = "Кронштейн кабины УК левый МТЗ";
@@ -27511,7 +27511,7 @@ var app = angular.module('err1445', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1445_kronshtejn_opornyj_ograzhdeniya";
     $scope.productimg = "assets/img/726851622_kronshtejn-opornyj-ograzhdeniya.jpg";
     $scope.productname = "Кронштейн опорный ограждения карданного привода МТЗ 1221";
@@ -27530,7 +27530,7 @@ var app = angular.module('err1446', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1446_kronshtejn_rychaga_upravleniya";
     $scope.productimg = "assets/img/859471770_kronshtejn-rychaga-upravleniya.jpg";
     $scope.productimg = "assets/img/859471792_kronshtejn-rychaga-upravleniya.jpg";
@@ -27550,7 +27550,7 @@ var app = angular.module('err1447', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1447_kronshtejn_upravleniya_blokirovkoj";
     $scope.productimg = "assets/img/870722954_kronshtejn-upravleniya-blokirovkoj.jpg";
     $scope.productname = "Кронштейн управления блокировкой дифференциала (с ГУР) МТЗ 1221";
@@ -27569,7 +27569,7 @@ var app = angular.module('err1448', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1448_kryshka_vom_zadnego";
     $scope.productimg = "assets/img/726863964_kryshka-vom-zadnego.jpg";
     $scope.productname = "Крышка ВОМ заднего рулевого управления МТЗ 1221";
@@ -27588,7 +27588,7 @@ var app = angular.module('err1449', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1449_kryshka_krepleniya_zadnej";
     $scope.productimg = "assets/img/726865384_kryshka-krepleniya-zadnej.jpg";
     $scope.productname = "Крышка крепления задней навески с силовым регулятором МТЗ 1221";
@@ -27607,7 +27607,7 @@ var app = angular.module('err1450', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1450_kryshka_korpusa_stsepleniya";
     $scope.productimg = "assets/img/726866859_kryshka-korpusa-stsepleniya.jpg";
     $scope.productname = "Крышка корпуса сцепления нижняя МТЗ 1221";
@@ -27626,7 +27626,7 @@ var app = angular.module('err1451', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1451_kryshka_podshipnika_korpusa";
     $scope.productimg = "assets/img/865698576_kryshka-podshipnika-korpusa.jpg";
     $scope.productname = "Крышка подшипника корпуса сцепления МТЗ 1221";
@@ -27645,7 +27645,7 @@ var app = angular.module('err1452', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1452_masloprovod_privoda_nasosa";
     $scope.productimg = "assets/img/1328955764_masloprovod-privoda-nasosa.jpg";
     $scope.productname = "Маслопровод привода насоса МТЗ 1221";
@@ -27664,7 +27664,7 @@ var app = angular.module('err1453', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1453_masloprovod_privoda_perednego";
     $scope.productimg = "assets/img/726873577_masloprovod-privoda-perednego.jpg";
     $scope.productname = "Маслопровод привода переднего ведущего моста МТЗ 1221";
@@ -27683,7 +27683,7 @@ var app = angular.module('err1454', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1454_mufta_zubchataya_vala";
     $scope.productimg = "assets/img/871252174_mufta-zubchataya-vala.jpg";
     $scope.productname = "Муфта зубчатая вала вторичного (30 шлицов) МТЗ 1025-3022";
@@ -27702,7 +27702,7 @@ var app = angular.module('err1455', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1455_mufta_zubchataya_ponizhayuschego";
     $scope.productimg = "assets/img/726877709_mufta-zubchataya-ponizhayuschego.jpg";
     $scope.productname = "Муфта зубчатая понижающего редуктора (24 шлица) МТЗ 1025-3022";
@@ -27721,7 +27721,7 @@ var app = angular.module('err1456', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1456_nakonechnik_tyagi_tnvd";
     $scope.productimg = "assets/img/726878945_nakonechnik-tyagi-tnvd.jpg";
     $scope.productname = "Наконечник тяги ТНВД (вилка) МТЗ 1221";
@@ -27740,7 +27740,7 @@ var app = angular.module('err1457', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1457_obojma_perednego_veduschego";
     $scope.productimg = "assets/img/871251899_obojma-perednego-veduschego.jpg";
     $scope.productimg = "assets/img/871251908_obojma-perednego-veduschego.jpg";
@@ -27760,7 +27760,7 @@ var app = angular.module('err1458', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1458_obojma_mtz_1221";
     $scope.productimg = "assets/img/859444318_obojma-mtz-1221.jpg";
     $scope.productimg = "assets/img/859444329_obojma-mtz-1221.jpg";
@@ -27780,7 +27780,7 @@ var app = angular.module('err1459', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1459_obojma_perednego_veduschego";
     $scope.productimg = "assets/img/870728217_obojma-perednego-veduschego.jpg";
     $scope.productname = "Обойма переднего ведущего моста с сальником МТЗ 1221";
@@ -27799,7 +27799,7 @@ var app = angular.module('err1460', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1460_obojma_privoda_rulevogo";
     $scope.productimg = "assets/img/1328956984_obojma-privoda-rulevogo.jpg";
     $scope.productname = "Обойма привода рулевого управления МТЗ 1221";
@@ -27818,7 +27818,7 @@ var app = angular.module('err1461', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1461_obojma_salnika_mtz";
     $scope.productimg = "assets/img/1706183513_obojma-salnika-mtz.jpg";
     $scope.productname = "Обойма сальника МТЗ 1221";
@@ -27837,7 +27837,7 @@ var app = angular.module('err1462', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1462_ogranichitel_mehanizma_zadnej";
     $scope.productimg = "assets/img/726910908_ogranichitel-mehanizma-zadnej.jpg";
     $scope.productname = "Ограничитель механизма задней навески МТЗ 1221";
@@ -27856,7 +27856,7 @@ var app = angular.module('err1463', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1463_stoyanochnogo_tormoza_mtz";
     $scope.productimg = "assets/img/726912720_os-stoyanochnogo-tormoza.jpg";
     $scope.productname = "Ось стояночного тормоза МТЗ 1221";
@@ -27875,7 +27875,7 @@ var app = angular.module('err1464', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1464_kryshki_korpusa_differentsiala";
     $scope.productimg = "assets/img/726914727_os-kryshki-korpusa.jpg";
     $scope.productname = "Ось крышки корпуса дифференциала переднего ведущего моста МТЗ";
@@ -27894,7 +27894,7 @@ var app = angular.module('err1465', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1465_shesterni_1180_korpusa";
     $scope.productimg = "assets/img/871169200_os-shesterni-1180.jpg";
     $scope.productimg = "assets/img/871169212_os-shesterni-1180.jpg";
@@ -27914,7 +27914,7 @@ var app = angular.module('err1466', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1466_koromysla_ponizhayuschego_reduktora";
     $scope.productimg = "assets/img/871167568_os-koromysla-ponizhayuschego.jpg";
     $scope.productimg = "assets/img/871167578_os-koromysla-ponizhayuschego.jpg";
@@ -27934,7 +27934,7 @@ var app = angular.module('err1467', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1467_palets_fiksatsii_tyagi";
     $scope.productimg = "assets/img/870729236_palets-fiksatsii-tyagi.jpg";
     $scope.productimg = "assets/img/870729245_palets-fiksatsii-tyagi.jpg";
@@ -27954,7 +27954,7 @@ var app = angular.module('err1468', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1468_palets_povodka_koromysel";
     $scope.productimg = "assets/img/726940660_palets-povodka-koromysel.jpg";
     $scope.productname = "Палец поводка коромысел коробки передач МТЗ 1025-1523";
@@ -27973,7 +27973,7 @@ var app = angular.module('err1469', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1469_petlya_kryshi_mtz";
     $scope.productimg = "assets/img/726946024_petlya-kryshi-mtz.jpg";
     $scope.productname = "Петля крыши МТЗ 1221";
@@ -27992,7 +27992,7 @@ var app = angular.module('err1470', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1470_planka_korpusa_vilok";
     $scope.productimg = "assets/img/726948003_planka-korpusa-vilok.jpg";
     $scope.productname = "Планка корпуса вилок коробки передач МТЗ";
@@ -28011,7 +28011,7 @@ var app = angular.module('err1471', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1471_planka_promezhutochnoj_shesterni";
     $scope.productimg = "assets/img/859442966_planka-promezhutochnoj-shesterni.jpg";
     $scope.productname = "Планка промежуточной шестерни заднего хода МТЗ 1221";
@@ -28030,7 +28030,7 @@ var app = angular.module('err1472', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1472_planka_armatury_gidroagregatov";
     $scope.productimg = "assets/img/745575616_planka-armatury-gidroagregatov.jpg";
     $scope.productname = "Планка арматуры гидроагрегатов МТЗ 1221";
@@ -28049,7 +28049,7 @@ var app = angular.module('err1473', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1473_plastina_prizhimnaya_hvostovika";
     $scope.productimg = "assets/img/859438907_plastina-prizhimnaya-hvostovika.jpg";
     $scope.productname = "Пластина прижимная хвостовика ВОМ МТЗ 80-1221 (6 отверстий)";
@@ -28068,7 +28068,7 @@ var app = angular.module('err1474', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1474_plastina_zadnej_naveski";
     $scope.productimg = "assets/img/726960906_plastina-zadnej-naveski.jpg";
     $scope.productname = "Пластина задней навески МТЗ 822-1221";
@@ -28087,7 +28087,7 @@ var app = angular.module('err1475', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1475_plastina_ogranichitelnaya_mehanizma";
     $scope.productimg = "assets/img/726962903_plastina-ogranichitelnaya-mehanizma.jpg";
     $scope.productname = "Пластина ограничительная механизма переключения передач МТЗ 1221";
@@ -28106,7 +28106,7 @@ var app = angular.module('err1476', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1476_plastina_fiksatora_privoda";
     $scope.productimg = "assets/img/859443620_plastina-fiksatora-privoda.jpg";
     $scope.productname = "Пластина фиксатора привода насоса НШ МТЗ 1221";
@@ -28125,7 +28125,7 @@ var app = angular.module('err1477', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1477_plastina_regulirovochnaya_pritsepnogo";
     $scope.productimg = "assets/img/727532525_plastina-regulirovochnaya-pritsepnogo.jpg";
     $scope.productname = "Пластина регулировочная прицепного устройства МТЗ 1221";
@@ -28144,7 +28144,7 @@ var app = angular.module('err1478', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1478_plastina_regulirovochnaya_pritsepnogo";
     $scope.productimg = "assets/img/745572704_plastina-regulirovochnaya-pritsepnogo.jpg";
     $scope.productname = "Пластина регулировочная прицепного устройства МТЗ 1221 ( 0,5 мм)";
@@ -28163,7 +28163,7 @@ var app = angular.module('err1479', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1479_plastina_regulirovochnaya_pritsepnogo";
     $scope.productimg = "assets/img/745570776_plastina-regulirovochnaya-pritsepnogo.jpg";
     $scope.productname = "Пластина регулировочная прицепного устройства МТЗ 1221 ( 0,2 мм )";
@@ -28182,7 +28182,7 @@ var app = angular.module('err1480', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1480_povodok_dlya_vala";
     $scope.productimg = "assets/img/727547231_povodok-dlya-vala.jpg";
     $scope.productname = "Поводок для вала пониженных передач МТЗ 1221";
@@ -28201,7 +28201,7 @@ var app = angular.module('err1481', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1481_polzun_dlya_privoda";
     $scope.productimg = "assets/img/859435120_polzun-dlya-privoda.jpg";
     $scope.productname = "Ползун для привода регулятора МТЗ 1221";
@@ -28220,7 +28220,7 @@ var app = angular.module('err1482', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1482_poluos_zadnego_mosta";
     $scope.productimg = "assets/img/727565563_poluos-zadnego-mosta.jpg";
     $scope.productname = "Полуось заднего моста МТЗ 1221-1523";
@@ -28239,7 +28239,7 @@ var app = angular.module('err1483', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1483_poruchen_kryshi_kabiny";
     $scope.productimg = "assets/img/727569382_poruchen-kryshi-kabiny.jpg";
     $scope.productname = "Поручень крыши кабины МТЗ 1221";
@@ -28258,7 +28258,7 @@ var app = angular.module('err1484', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1484_prokladka_toplivnoj_sistemy";
     $scope.productimg = "assets/img/727574804_prokladka-toplivnoj-sistemy.jpg";
     $scope.productname = "Прокладка топливной системы (медная) d=10 мм";
@@ -28277,7 +28277,7 @@ var app = angular.module('err1485', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1485_planka_regulirovochnaya_mtz";
     $scope.productimg = "assets/img/727611433_planka-regulirovochnaya-mtz.jpg";
     $scope.productname = "Планка регулировочная МТЗ";
@@ -28296,7 +28296,7 @@ var app = angular.module('err1486', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1486_rukav_poluosi_levyj";
     $scope.productimg = "assets/img/729816175_rukav-poluosi-levyj.jpg";
     $scope.productname = "Рукав полуоси левый МТЗ 1221";
@@ -28315,7 +28315,7 @@ var app = angular.module('err1487', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1487_rukav_poluosi_pravyj";
     $scope.productimg = "assets/img/727563976_rukav-poluosi-pravyj.jpg";
     $scope.productname = "Рукав полуоси правый МТЗ 1221";
@@ -28334,7 +28334,7 @@ var app = angular.module('err1488', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1488_rychag_zadnego_mosta";
     $scope.productimg = "assets/img/871172974_rychag-zadnego-mosta.jpg";
     $scope.productname = "Рычаг заднего моста МТЗ (управления ВОМ)";
@@ -28353,7 +28353,7 @@ var app = angular.module('err1489', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1489_rychag_upravleniya_zadnim";
     $scope.productimg = "assets/img/808574280_rychag-upravleniya-zadnim.jpg";
     $scope.productname = "Рычаг управления задним ВОМ МТЗ 80/82/1221";
@@ -28372,7 +28372,7 @@ var app = angular.module('err1490', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1490_rychag_upravleniya_podachej";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Рычаг управления подачей топлива МТЗ";
@@ -28391,7 +28391,7 @@ var app = angular.module('err1491', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1491_rychag_vala_vilok";
     $scope.productimg = "assets/img/729824389_rychag-vala-vilok.jpg";
     $scope.productname = "Рычаг вала вилок включения МТЗ";
@@ -28410,7 +28410,7 @@ var app = angular.module('err1492', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1492_rychag_zadnej_naveski";
     $scope.productimg = "assets/img/729819369_rychag-zadnej-naveski.jpg";
     $scope.productname = "Рычаг задней навески с силовым регулятором МТЗ 1221 левый";
@@ -28429,7 +28429,7 @@ var app = angular.module('err1493', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1493_rychag_zadnej_naveski";
     $scope.productimg = "assets/img/1153740295_rychag-zadnej-naveski.jpg";
     $scope.productname = "Рычаг задней навески с силовым регулятором МТЗ 1221 правый";
@@ -28448,7 +28448,7 @@ var app = angular.module('err1494', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1494_richag_mtz_keruvannya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Ричаг МТЗ керування регулятором ГНС вироб-во МТЗ (Білорусь)";
@@ -28467,7 +28467,7 @@ var app = angular.module('err1495', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1495_sektor_dlya_privoda";
     $scope.productimg = "assets/img/871178528_sektor-dlya-privoda.jpg";
     $scope.productimg = "assets/img/871178562_sektor-dlya-privoda.jpg";
@@ -28488,7 +28488,7 @@ var app = angular.module('err1496', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1496_sektor_mtz_kapota";
     $scope.productimg = "assets/img/727586387_sektor-mtz-kapota.jpg";
     $scope.productname = "Сектор МТЗ капота левый";
@@ -28507,7 +28507,7 @@ var app = angular.module('err1497', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1497_sektor_mtz_kapota";
     $scope.productimg = "assets/img/727584746_sektor-mtz-kapota.jpg";
     $scope.productname = "Сектор МТЗ капота правый";
@@ -28526,7 +28526,7 @@ var app = angular.module('err1498', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1498_serga_navesnogo_ustrojstva";
     $scope.productimg = "assets/img/870729659_serga-navesnogo-ustrojstva.jpg";
     $scope.productname = "Серьга навесного устройства с силовым регулятором МТЗ 1221";
@@ -28545,7 +28545,7 @@ var app = angular.module('err1499', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1499_skoba_mtz_1025";
     $scope.productimg = "assets/img/871253308_skoba-mtz-1025-1221.jpg";
     $scope.productname = "Скоба МТЗ 1025-1221";
@@ -28564,7 +28564,7 @@ var app = angular.module('err1500', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1500_soshka_rulevogo_upravleniya";
     $scope.productimg = "assets/img/729525629_soshka-rulevogo-upravleniya.jpg";
     $scope.productname = "Сошка рулевого управления МТЗ 1221";
@@ -28583,7 +28583,7 @@ var app = angular.module('err1501', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1501_stakan_podshipnika_vala";
     $scope.productimg = "assets/img/870719248_stakan-podshipnika-vala.jpg";
     $scope.productname = "Стакан подшипника вала первичного КПП МТЗ 1221 с реверс редуктором";
@@ -28602,7 +28602,7 @@ var app = angular.module('err1502', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1502_stakan_vodila_zadnego";
     $scope.productimg = "assets/img/729535156_stakan-vodila-zadnego.jpg";
     $scope.productimg = "assets/img/729535158_stakan-vodila-zadnego.jpg";
@@ -28622,7 +28622,7 @@ var app = angular.module('err1503', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1503_stakan_podshipnika_privoda";
     $scope.productimg = "assets/img/729537610_stakan-podshipnika-privoda.jpg";
     $scope.productname = "Стакан подшипника привода гидронасоса МТЗ 1221";
@@ -28641,7 +28641,7 @@ var app = angular.module('err1504', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1504_stakan_pruzhiny_stsepleniya";
     $scope.productimg = "assets/img/870722256_stakan-pruzhiny-stsepleniya.jpg";
     $scope.productname = "Стакан пружины сцепления МТЗ";
@@ -28660,7 +28660,7 @@ var app = angular.module('err1505', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1505_gnezdo_vala_promezhutochnogo";
     $scope.productimg = "assets/img/870721487_gnezdo-vala-promezhutochnogo.jpg";
     $scope.productname = "Гнездо вала промежуточного МТЗ";
@@ -28679,7 +28679,7 @@ var app = angular.module('err1506', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1506_stopor_upravleniya_zadnim";
     $scope.productimg = "assets/img/871252799_stopor-upravleniya-zadnim.jpg";
     $scope.productimg = "assets/img/871252807_stopor-upravleniya-zadnim.jpg";
@@ -28699,7 +28699,7 @@ var app = angular.module('err1507', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1507_stupitsa_zadnego_kolesa";
     $scope.productimg = "assets/img/729563720_stupitsa-zadnego-kolesa.jpg";
     $scope.productname = "Ступица заднего колеса МТЗ 1221";
@@ -28718,7 +28718,7 @@ var app = angular.module('err1508', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1508_toplivozabornik_mtz_1221";
     $scope.productimg = "assets/img/871250401_toplivozabornik-mtz-1221.jpg";
     $scope.productname = "Топливозаборник МТЗ 1221";
@@ -28737,7 +28737,7 @@ var app = angular.module('err1509', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1509_truboprovod_mtz_1221";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Трубопровод МТЗ 1221";
@@ -28756,7 +28756,7 @@ var app = angular.module('err1510', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1510_trubka_mtz_1221";
     $scope.productimg = "assets/img/871248220_trubka-mtz-1221.jpg";
     $scope.productimg = "assets/img/871248245_trubka-mtz-1221.jpg";
@@ -28776,7 +28776,7 @@ var app = angular.module('err1511', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1511_trubka_mtz_950";
     $scope.productimg = "assets/img/816450614_trubka-mtz-80-.jpg";
     $scope.productname = "Трубка МТЗ 80- 950 маслопровод масляного радиатора";
@@ -28795,7 +28795,7 @@ var app = angular.module('err1512', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1512_truboprovod_vnevmoprivoda_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Трубопровод вневмопривода МТЗ";
@@ -28814,7 +28814,7 @@ var app = angular.module('err1513', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1513_tyaga_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/729590914_tyaga-upravleniya-raspredelitelem.jpg";
     $scope.productname = "Тяга управления распределителем в сборе МТЗ 1221";
@@ -28833,7 +28833,7 @@ var app = angular.module('err1514', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1514_tyaga_upravleniya_stsepleniem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Тяга управления сцеплением РУП МТЗ 1221";
@@ -28852,7 +28852,7 @@ var app = angular.module('err1515', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1515_tyaga_upravleniya_stsepleniem";
     $scope.productimg = "assets/img/729601630_tyaga-upravleniya-stsepleniem.jpg";
     $scope.productname = "Тяга управления сцеплением РУП МТЗ 1221";
@@ -28871,7 +28871,7 @@ var app = angular.module('err1516', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1516_tyaga_upravleniya_zadnim";
     $scope.productimg = "assets/img/788639675_tyaga-upravleniya-zadnim.jpg";
     $scope.productname = "Тяга управления задним ВОМ МТЗ 80/82";
@@ -28890,7 +28890,7 @@ var app = angular.module('err1517', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1517_tyaga_upravleniya_regulyatorom";
     $scope.productimg = "assets/img/729622568_tyaga-upravleniya-regulyatorom.jpg";
     $scope.productname = "Тяга управления регулятором ГНС МТЗ 1221";
@@ -28909,7 +28909,7 @@ var app = angular.module('err1518', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1518_tyaga_upravleniya_regulyatorom";
     $scope.productimg = "assets/img/729640151_tyaga-upravleniya-regulyatorom.jpg";
     $scope.productname = "Тяга управления регулятором ГНС МТЗ 1221";
@@ -28928,7 +28928,7 @@ var app = angular.module('err1519', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1519_tyaga_upravleniya_regulyatorom";
     $scope.productimg = "assets/img/729657906_tyaga-upravleniya-regulyatorom.jpg";
     $scope.productname = "Тяга управления регулятором ГНС МТЗ 1221";
@@ -28947,7 +28947,7 @@ var app = angular.module('err1520', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1520_ushko_dlya_akkumulyatornyh";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Ушко для аккумуляторных батарей МТЗ 1025-1221";
@@ -28966,7 +28966,7 @@ var app = angular.module('err1521', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1521_ushko_upravleniya_stsepleniem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Ушко управления сцеплением МТЗ";
@@ -28985,7 +28985,7 @@ var app = angular.module('err1522', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1522_fiksator_tyagi_upravleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Фиксатор тяги управления блокировкой МТЗ";
@@ -29004,7 +29004,7 @@ var app = angular.module('err1523', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1523_flanets_osi_vyklyucheniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Фланец оси выключения сцепления МТЗ";
@@ -29023,7 +29023,7 @@ var app = angular.module('err1524', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1524_hvostovik_rulevogo_promezhutochnogo";
     $scope.productimg = "assets/img/831983398_hvostovik-rulevogo-promezhutochnogo.jpg";
     $scope.productname = "Хвостовик рулевого промежуточного вала МТЗ";
@@ -29042,7 +29042,7 @@ var app = angular.module('err1525', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1525_homut_krepleniya_ograzhdeniya";
     $scope.productimg = "assets/img/870727769_homut-krepleniya-ograzhdeniya.jpg";
     $scope.productimg = "assets/img/870727770_homut-krepleniya-ograzhdeniya.jpg";
@@ -29062,7 +29062,7 @@ var app = angular.module('err1526', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1526_shajba_raspornaya_stsepleniya";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба распорная сцепления РУП МТЗ";
@@ -29081,7 +29081,7 @@ var app = angular.module('err1527', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1527_shajba_upravleniya_raspredelitelem";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба управления распределителем МТЗ";
@@ -29100,7 +29100,7 @@ var app = angular.module('err1528', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1528_shajba_pritsepnogo_ustrojstva";
     $scope.productimg = "assets/img/870733878_shajba-pritsepnogo-ustrojstva.jpg";
     $scope.productimg = "assets/img/870733923_shajba-pritsepnogo-ustrojstva.jpg";
@@ -29120,7 +29120,7 @@ var app = angular.module('err1529', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1529_shajba_vala_upravleniya";
     $scope.productimg = "assets/img/871175103_shajba-vala-upravleniya.jpg";
     $scope.productname = "Шайба вала управления ВОМ МТЗ";
@@ -29139,7 +29139,7 @@ var app = angular.module('err1530', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1530_shajba_kryshki_korpusa";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба крышки корпуса распорной заднего моста МТЗ";
@@ -29158,7 +29158,7 @@ var app = angular.module('err1531', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1531_shajba_raspornaya_reduktora";
     $scope.productimg = "assets/img/871176737_shajba-raspornaya-reduktora.jpg";
     $scope.productname = "Шайба распорная редуктора привода ВОМ 2й ступени МТЗ 80/82 (большая)";
@@ -29177,7 +29177,7 @@ var app = angular.module('err1532', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1532_shajba_sapuna_klapana";
     $scope.productimg = "assets/img/871247930_shajba-sapuna-klapana.jpg";
     $scope.productname = "Шайба сапуна клапана корпуса гидросистемы МТЗ";
@@ -29196,7 +29196,7 @@ var app = angular.module('err1533', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1533_shajba_upornaya_mtz";
     $scope.productimg = "assets/img/807742807_shajba-upornaya-mtz.jpg";
     $scope.productname = "Шайба упорная МТЗ 80/82 (ВОМ)";
@@ -29215,7 +29215,7 @@ var app = angular.module('err1534', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1534_shajba_reduktora_perednego";
     $scope.productimg = "assets/img/871249143_shajba-reduktora-perednego.jpg";
     $scope.productname = "Шайба редуктора переднего моста МТЗ";
@@ -29234,7 +29234,7 @@ var app = angular.module('err1535', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1535_shajba_upornaya_mtz";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба упорная МТЗ";
@@ -29253,7 +29253,7 @@ var app = angular.module('err1536', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1536_shpilka_korobki_peredach";
     $scope.productimg = "assets/img/871179541_shpilka-korobki-peredach.jpg";
     $scope.productimg = "assets/img/871179613_shpilka-korobki-peredach.jpg";
@@ -29273,7 +29273,7 @@ var app = angular.module('err1537', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1537_shtift_reduktora_perednego";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Штифт редуктора переднего ведущего моста МТЗ";
@@ -29292,7 +29292,7 @@ var app = angular.module('err1538', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1538_shtok_korpusa_vilok";
     $scope.productimg = "assets/img/871174271_shtok-korpusa-vilok.jpg";
     $scope.productname = "Шток корпуса вилок МТЗ";
@@ -29311,7 +29311,7 @@ var app = angular.module('err1539', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1539_kran_tormoznoj_sektsionnyj";
     $scope.productimg = "assets/img/729785377_kran-tormoznoj-2h.jpg";
     $scope.productname = "Кран тормозной 2х секционный подпеждальный ЗИЛ КАМАЗ МАЗ (пр-во ПАЗ)";
@@ -29330,7 +29330,7 @@ var app = angular.module('err1540', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1540_uschilnyuvach_mtz_kompresora";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Ущільнювач МТЗ компресора вироб-ва МТЗ Білорусь";
@@ -29349,7 +29349,7 @@ var app = angular.module('err1541', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1541_1221_mtz_filtr";
     $scope.productimg = "assets/img/745585828_1221-mtz-filtr.jpg";
     $scope.productname = "1221 МТЗ фільтр масляний (Україна)";
@@ -29368,7 +29368,7 @@ var app = angular.module('err1542', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1542_shatunno_porshnevoj_komplekt";
     $scope.productimg = "assets/img/729759594_shatunno-porshnevoj-komplekt-kompressora.jpg";
     $scope.productname = "Шатунно-поршневой комплект компрессора МТЗ";
@@ -29387,7 +29387,7 @@ var app = angular.module('err1543', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1543_pruzhina_klapana_vnutrennyaya";
     $scope.productimg = "assets/img/740406915_pruzhina-klapana-vnutrennyaya.jpg";
     $scope.productname = "Пружина клапана внутренняя МТЗ Д 243 Д 245 Д 260 (малая)";
@@ -29406,7 +29406,7 @@ var app = angular.module('err1544', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1544_stojka_osi_koromysel";
     $scope.productimg = "assets/img/740407295_stojka-osi-koromysel.jpg";
     $scope.productname = "Стойка оси коромысел средняя МТЗ Д 240 243 245";
@@ -29425,7 +29425,7 @@ var app = angular.module('err1545', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1545_masloprivod_gidrosistemy_mtz";
     $scope.productimg = "assets/img/740408647_masloprivod-gidrosistemy-mtz.jpg";
     $scope.productname = "Маслопривод гидросистемы МТЗ 1221";
@@ -29444,7 +29444,7 @@ var app = angular.module('err1546', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1546_truboprovod_mtz_1221";
     $scope.productimg = "assets/img/740409421_truboprovod-mtz-1221.jpg";
     $scope.productname = "Трубопровод МТЗ 1221";
@@ -29463,7 +29463,7 @@ var app = angular.module('err1547', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1547_rychag_povorotnyj_pravyj";
     $scope.productimg = "assets/img/740410958_rychag-povorotnyj-pravyj.jpg";
     $scope.productimg = "assets/img/740410959_rychag-povorotnyj-pravyj.jpg";
@@ -29483,7 +29483,7 @@ var app = angular.module('err1548', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1548_val_bokovoj_vom";
     $scope.productimg = "assets/img/793772004_val-bokovoj-vom.jpg";
     $scope.productname = "Вал боковой ВОМ МТЗ 80/82";
@@ -29502,7 +29502,7 @@ var app = angular.module('err1549', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1549_vtulka_barabana_vom";
     $scope.productimg = "assets/img/1009312453_vtulka-barabana-vom.jpg";
     $scope.productname = "Втулка барабана ВОМ МТЗ 80/82";
@@ -29521,7 +29521,7 @@ var app = angular.module('err1550', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1550_gajka_stupitsy_zadnego";
     $scope.productimg = "assets/img/740418009_gajka-stupitsy-zadnego.jpg";
     $scope.productimg = "assets/img/740418011_gajka-stupitsy-zadnego.jpg";
@@ -29541,7 +29541,7 @@ var app = angular.module('err1551', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1551_datchik_temperatury_ohlazhdeniya";
     $scope.productimg = "assets/img/740419835_datchik-temperatury-ohlazhdeniya.jpg";
     $scope.productname = "Датчик температуры охлаждения жидкости МТЗ";
@@ -29560,7 +29560,7 @@ var app = angular.module('err1552', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1552_koltso_mehanicheskoj_zadnej";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Кольцо механической задней навески МТЗ";
@@ -29579,7 +29579,7 @@ var app = angular.module('err1553', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1553_palets_prodolnoj_tyagi";
     $scope.productimg = "assets/img/775981226_palets-prodolnoj-tyagi.jpg";
     $scope.productname = "Палец продольной тяги задней навески МТЗ 80/82";
@@ -29598,7 +29598,7 @@ var app = angular.module('err1554', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1554_patrubok_dvigatelya_puskovogo";
     $scope.productimg = "assets/img/740424083_patrubok-dvigatelya-puskovogo.jpg";
     $scope.productimg = "assets/img/740423692_patrubok-dvigatelya-puskovogo.jpg";
@@ -29618,7 +29618,7 @@ var app = angular.module('err1555', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1555_plastina_korpusa_stsepleniya";
     $scope.productimg = "assets/img/740424956_plastina-korpusa-stsepleniya.jpg";
     $scope.productname = "Пластина корпуса сцепления МТЗ";
@@ -29637,7 +29637,7 @@ var app = angular.module('err1556', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1556_tyaga_stsepleniya_vilkoj";
     $scope.productimg = "assets/img/740429004_tyaga-stsepleniya-s.jpg";
     $scope.productname = "Тяга сцепления с вилкой МТЗ 1221";
@@ -29656,7 +29656,7 @@ var app = angular.module('err1557', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1557_shajba_mtz_virob";
     $scope.productimg = "assets/img/871245220_shajba-mtz-virob-va.jpg";
     $scope.productname = "Шайба МТЗ вироб-ва МТЗ Білорусь";
@@ -29675,7 +29675,7 @@ var app = angular.module('err1558', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1558_shesternya_korpusa_stsepleniya";
     $scope.productimg = "assets/img/865684082_shesternya-korpusa-stsepleniya.jpg";
     $scope.productname = "Шестерня корпуса сцепления Z=27 старого образца без шлицов МТЗ 1025-2022";
@@ -29694,7 +29694,7 @@ var app = angular.module('err1559', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1559_shesternya_korpusa_stsepleniya";
     $scope.productimg = "assets/img/865682339_shesternya-korpusa-stsepleniya.jpg";
     $scope.productname = "Шестерня корпуса сцепления Z=27 МТЗ 1025-2022";
@@ -29713,7 +29713,7 @@ var app = angular.module('err1560', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1560_shesternya_stsepleniya_z32";
     $scope.productimg = "assets/img/741284449_shesternya-stsepleniya-z32.jpg";
     $scope.productimg = "assets/img/741284837_shesternya-stsepleniya-z32.jpg";
@@ -29733,7 +29733,7 @@ var app = angular.module('err1561', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1561_shesternya_vala_privoda";
     $scope.productimg = "assets/img/865686460_shesternya-vala-privoda.jpg";
     $scope.productname = "Шестерня вала привода ВОМ МТЗ 1025-1221";
@@ -29752,7 +29752,7 @@ var app = angular.module('err1562', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1562_shesternya_kpp_promezhutochnogo";
     $scope.productimg = "assets/img/744556674_shesternya-kpp-promezhutochnogo.jpg";
     $scope.productname = "Шестерня КПП промежуточного вала РУП МТЗ 1025 1221 Z=34";
@@ -29771,7 +29771,7 @@ var app = angular.module('err1563', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1563_shesternya_kpp_promezhutochnogo";
     $scope.productimg = "assets/img/744557471_shesternya-kpp-promezhutochnogo.jpg";
     $scope.productname = "Шестерня КПП промежуточного вала МТЗ 1025 1221 Z=21";
@@ -29790,7 +29790,7 @@ var app = angular.module('err1564', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1564_shesternya_kpp_vtorichnogo";
     $scope.productimg = "assets/img/865681817_shesternya-kpp-vtorichnogo.jpg";
     $scope.productname = "Шестерня КПП вторичного вала МТЗ 1025 1221 Z=30";
@@ -29809,7 +29809,7 @@ var app = angular.module('err1565', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1565_shesternya_kpp_promezhutochnogo";
     $scope.productimg = "assets/img/865696084_shesternya-kpp-promezhutochnogo.jpg";
     $scope.productname = "Шестерня КПП промежуточного вала МТЗ 1025 1221 Z=34";
@@ -29828,7 +29828,7 @@ var app = angular.module('err1566', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1566_shesternya_vala_ponizhennyh";
     $scope.productimg = "assets/img/744560313_shesternya-vala-ponizhennyh.jpg";
     $scope.productname = "Шестерня вала пониженных передач МТЗ 100 1221";
@@ -29847,7 +29847,7 @@ var app = angular.module('err1567', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1567_shesternya_peredachi_kpp";
     $scope.productimg = "assets/img/744561732_shesternya-2-j-peredachi.jpg";
     $scope.productname = "Шестерня 2-й передачи КПП МТЗ 1025 1221 Z=37";
@@ -29866,7 +29866,7 @@ var app = angular.module('err1568', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1568_shesternya_promezhutochnogo_vala";
     $scope.productimg = "assets/img/865683694_shesternya-promezhutochnogo-vala.jpg";
     $scope.productname = "Шестерня промежуточного вала МТЗ 1025 1221 Z=40";
@@ -29885,7 +29885,7 @@ var app = angular.module('err1569', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1569_shesternya_vala_vtorichnogo";
     $scope.productimg = "assets/img/865685742_shesternya-vala-vtorichnogo.jpg";
     $scope.productname = "Шестерня вала вторичного Z=37 КПП МТЗ 1025 1221";
@@ -29904,7 +29904,7 @@ var app = angular.module('err1570', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1570_shesternya_kpp_vala";
     $scope.productimg = "assets/img/865687192_shesternya-kpp-vala.jpg";
     $scope.productname = "Шестерня КПП вала пониженных передач Z=38 МТЗ 1221";
@@ -29923,7 +29923,7 @@ var app = angular.module('err1571', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1571_1918_mtz_gakkum";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "1918-Н-р МТЗ г/аккум. г/збільш.ваги РАС повний (Роменський з-д Тракторозап)";
@@ -29942,7 +29942,7 @@ var app = angular.module('err1572', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1572_1925_mtz_gakkum";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "1925-р/к МТЗ г/аккум. РАС (Роменський з-д Тракторозап)";
@@ -29961,7 +29961,7 @@ var app = angular.module('err1573', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1573_regulyator_glubiny_vspashki";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Регулятор глубины вспашки силовой (догружатель) МТЗ 80-1221";
@@ -29980,7 +29980,7 @@ var app = angular.module('err1574', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1574_1952_mtz_filtr";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "1952-р/к МТЗ фільтр распред КПП (Роменський з-д Тракторозап)";
@@ -29999,7 +29999,7 @@ var app = angular.module('err1575', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1575_nakonechnik_rulevoj_tyagi";
     $scope.productimg = "assets/img/745557705_nakonechnik-rulevoj-tyagi.jpg";
     $scope.productname = "Наконечник рулевой тяги левый МТЗ 892-1221";
@@ -30018,7 +30018,7 @@ var app = angular.module('err1576', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1576_nakonechnik_rulevoj_tyagi";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Наконечник рулевой тяги правый МТЗ 892-1221";
@@ -30037,7 +30037,7 @@ var app = angular.module('err1577', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1577_prokladka_kryshki_klapannoj";
     $scope.productimg = "assets/img/745563105_prokladka-kryshki-klapannoj.jpg";
     $scope.productname = "Прокладка крышки клапанной нижняя МТЗ";
@@ -30056,7 +30056,7 @@ var app = angular.module('err1578', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1578_pruzhyna_rychaga_otzhimnogo";
     $scope.productimg = "assets/img/745565493_pruzhyna-rychaga-otzhimnogo.jpg";
     $scope.productname = "Пружына рычага отжимного ЮМЗ";
@@ -30075,7 +30075,7 @@ var app = angular.module('err1579', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1579_tyaga_rychaga_otzhimnogo";
     $scope.productimg = "assets/img/745567092_tyaga-rychaga-otzhimnogo.jpg";
     $scope.productname = "Тяга рычага отжимного ЮМЗ";
@@ -30094,7 +30094,7 @@ var app = angular.module('err1580', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1580_zveno_gusenitsy_chaz";
     $scope.productimg = "assets/img/741274332_zveno-gusenitsy-dt.jpg";
     $scope.productimg = "assets/img/748621912_zveno-gusenitsy-dt.jpg";
@@ -30117,7 +30117,7 @@ var app = angular.module('err1581', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1581_rukav_poluosi_chulok";
     $scope.productimg = "assets/img/743637311_rukav-poluosi-chulok.jpg";
     $scope.productname = "Рукав полуоси (чулок) заднего моста МТЗ";
@@ -30136,7 +30136,7 @@ var app = angular.module('err1582', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1582_lenta_tormoznaya_130";
     $scope.productimg = "assets/img/752273123_lenta-tormoznaya-t.jpg";
     $scope.productname = "Лента тормозная Т 130 Т 170";
@@ -30155,7 +30155,7 @@ var app = angular.module('err1583', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1583_opora_kartera_maslyanogo";
     $scope.productimg = "assets/img/752441777_opora-kartera-maslyanogo.jpg";
     $scope.productname = "Опора картера масляного МТЗ Д 240 243";
@@ -30174,7 +30174,7 @@ var app = angular.module('err1584', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1584_list_dvigatelya_zadnij";
     $scope.productimg = "assets/img/752446687_list-dvigatelya-zadnij.jpg";
     $scope.productname = "Лист двигателя задний МТЗ под ПД";
@@ -30193,7 +30193,7 @@ var app = angular.module('err1585', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1585_stojka_osi_koromysel";
     $scope.productimg = "assets/img/753620856_stojka-osi-koromysel.jpg";
     $scope.productname = "Стойка оси коромысел МТЗ крайняя (3 отверстия)";
@@ -30212,7 +30212,7 @@ var app = angular.module('err1586', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1586_toplivnye_trubki_vysokogo";
     $scope.productimg = "assets/img/754968741_toplivnye-trubki-vysokogo.jpg";
     $scope.productname = "Топливные трубки высокого давления МТЗ (к-т 4шт)";
@@ -30231,7 +30231,7 @@ var app = angular.module('err1587', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1587_gajka_vtorichnogo_vala";
     $scope.productimg = "assets/img/755752561_gajka-vtorichnogo-vala.jpg";
     $scope.productname = "Гайка вторичного вала МТЗ";
@@ -30250,7 +30250,7 @@ var app = angular.module('err1588', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1588_bolt_vala_kardannogo";
     $scope.productimg = "assets/img/755764923_bolt-vala-kardannogo.jpg";
     $scope.productname = "Болт вала карданного с гайкой (специальный) МТЗ";
@@ -30269,7 +30269,7 @@ var app = angular.module('err1589', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1589_rychag_otzhimnoj_korziny";
     $scope.productimg = "assets/img/1064947119_rychag-otzhimnoj-korziny.jpg";
     $scope.productname = "Рычаг отжимной корзины сцепления МТЗ в сборе";
@@ -30288,7 +30288,7 @@ var app = angular.module('err1590', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1590_vyklyuchatel_massy_mtz";
     $scope.productimg = "assets/img/755837169_vyklyuchatel-massy-mtz.jpg";
     $scope.productname = "Выключатель массы МТЗ";
@@ -30307,7 +30307,7 @@ var app = angular.module('err1591', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1591_vyklyuchatel_knopochnyj_dvuhklemovyj";
     $scope.productimg = "assets/img/755840320_vyklyuchatel-knopochnyj-dvuhklemovyj.jpg";
     $scope.productname = "Выключатель кнопочный двухклемовый МТЗ";
@@ -30326,7 +30326,7 @@ var app = angular.module('err1592', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1592_ampermetr_mtz_maz";
     $scope.productimg = "assets/img/755843387_ampermetr-mtz-maz.jpg";
     $scope.productname = "Амперметр МТЗ МАЗ КАМАЗ";
@@ -30345,7 +30345,7 @@ var app = angular.module('err1593', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1593_serga_styazhki_naveski";
     $scope.productimg = "assets/img/1064963318_serga-styazhki-naveski.jpg";
     $scope.productname = "Серьга стяжки навески МТЗ с гайкой и болтом в сборе";
@@ -30364,7 +30364,7 @@ var app = angular.module('err1594', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1594_kranik_maslyanogo_radiatora";
     $scope.productimg = "assets/img/755854095_kranik-maslyanogo-radiatora.jpg";
     $scope.productname = "Краник масляного радиатора МТЗ ПП6-1";
@@ -30383,7 +30383,7 @@ var app = angular.module('err1595', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1595_ukazatel_davleniya_masla";
     $scope.productimg = "assets/img/1346643113_ukazatel-davleniya-masla.jpg";
     $scope.productname = "Указатель давления масла (манометр) МТЗ 6 атмосфер";
@@ -30402,7 +30402,7 @@ var app = angular.module('err1596', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1596_pereklyuchatel_sveta_mtz";
     $scope.productimg = "assets/img/755858432_pereklyuchatel-sveta-mtz.jpg";
     $scope.productname = "Переключатель света МТЗ";
@@ -30421,7 +30421,7 @@ var app = angular.module('err1597', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1597_signal_zvukovoj_s311";
     $scope.productimg = "assets/img/755861362_signal-zvukovoj-s311.jpg";
     $scope.productname = "Сигнал звуковой С311 МТЗ КАМАЗ МАЗ ГАЗ";
@@ -30440,7 +30440,7 @@ var app = angular.module('err1598', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1598_porshnevye_koltsa_240";
     $scope.productimg = "assets/img/755862520_porshnevye-koltsa-d.jpg";
     $scope.productname = "Поршневые кольца Д 240 МТЗ";
@@ -30459,7 +30459,7 @@ var app = angular.module('err1599', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1599_datchik_temperatury_ohlazhdeniya";
     $scope.productimg = "assets/img/755864296_datchik-temperatury-ohlazhdeniya.jpg";
     $scope.productname = "Датчик температуры охлаждения жидкости МТЗ ГАЗ КРАЗ ЗИЛ";
@@ -30478,7 +30478,7 @@ var app = angular.module('err1600', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1600_ukazatel_temperatury_vody";
     $scope.productimg = "assets/img/755874324_ukazatel-temperatury-vody.jpg";
     $scope.productname = "Указатель температуры воды МТЗ механический";
@@ -30497,7 +30497,7 @@ var app = angular.module('err1601', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1601_nasos_toplivnyj_nizkogo";
     $scope.productimg = "assets/img/755890191_nasos-toplivnyj-nizkogo.jpg";
     $scope.productname = "Насос топливный низкого давления ТННД МТЗ ЮМЗ Т40 ( подкачка)";
@@ -30516,7 +30516,7 @@ var app = angular.module('err1602', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1602_zamok_zazhiganiya_mtz";
     $scope.productimg = "assets/img/756050419_zamok-zazhiganiya-mtz.jpg";
     $scope.productname = "Замок зажигания МТЗ (выключатель)";
@@ -30535,7 +30535,7 @@ var app = angular.module('err1603', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1603_vkladyshi_240_mtz";
     $scope.productimg = "assets/img/756067246_vkladyshi-d-240.jpg";
     $scope.productname = "Вкладыши Д 240 МТЗ к-т корень + шатун";
@@ -30554,7 +30554,7 @@ var app = angular.module('err1604', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1604_zamok_zazhiganiya_mtz";
     $scope.productimg = "assets/img/756070815_zamok-zazhiganiya-mtz.jpg";
     $scope.productname = "Замок зажигания МТЗ";
@@ -30573,7 +30573,7 @@ var app = angular.module('err1605', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1605_vyklyuchatel_signala_tormoza";
     $scope.productimg = "assets/img/756072462_vyklyuchatel-signala-tormoza.jpg";
     $scope.productname = "Выключатель сигнала тормоза МТЗ";
@@ -30592,7 +30592,7 @@ var app = angular.module('err1606', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1606_gidrotsilindr_tss50";
     $scope.productimg = "assets/img/756075939_gidrotsilindr-tss50.jpg";
     $scope.productname = "Гидроцилиндр ЦС50";
@@ -30611,7 +30611,7 @@ var app = angular.module('err1607', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1607_golovka_kompressora_mtz";
     $scope.productimg = "assets/img/756080005_golovka-kompressora-mtz.jpg";
     $scope.productname = "Головка компрессора МТЗ 80/82";
@@ -30630,7 +30630,7 @@ var app = angular.module('err1608', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1608_datchik_davleniya_vozduha";
     $scope.productimg = "assets/img/756087756_datchik-davleniya-vozduha.jpg";
     $scope.productname = "Датчик давления воздуха МТЗ 10 атмосфер";
@@ -30649,7 +30649,7 @@ var app = angular.module('err1609', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1609_zamok_dveri_mtz";
     $scope.productimg = "assets/img/756108882_zamok-dveri-mtz.jpg";
     $scope.productname = "Замок двери МТЗ левый УК кабины (полный комплект)";
@@ -30668,7 +30668,7 @@ var app = angular.module('err1610', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1610_val_kolenchatyj_smd";
     $scope.productimg = "assets/img/756117758_val-kolenchatyj-smd.jpg";
     $scope.productname = "Вал коленчатый СМД 18 СМД 22";
@@ -30687,7 +30687,7 @@ var app = angular.module('err1611', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1611_val_kolenchatyj_kamaz";
     $scope.productimg = "assets/img/756122878_val-kolenchatyj-kamaz.jpg";
     $scope.productname = "Вал коленчатый КАМАЗ";
@@ -30706,7 +30706,7 @@ var app = angular.module('err1612', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1612_val_kolenchatyj_yamz";
     $scope.productimg = "assets/img/756126461_val-kolenchatyj-yamz.jpg";
     $scope.productname = "Вал коленчатый ЯМЗ 236";
@@ -30725,7 +30725,7 @@ var app = angular.module('err1613', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1613_poluos_zadnego_mosta";
     $scope.productimg = "assets/img/1064891644_poluos-zadnego-mosta.jpg";
     $scope.productname = "Полуось заднего моста МТЗ нового образца";
@@ -30744,7 +30744,7 @@ var app = angular.module('err1614', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1614_kompressor_vozdushnyj_mtz";
     $scope.productimg = "assets/img/756146646_kompressor-vozdushnyj-mtz.jpg";
     $scope.productname = "Компрессор воздушный МТЗ";
@@ -30763,7 +30763,7 @@ var app = angular.module('err1615', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1615_radiator_vodyanoj_mtz";
     $scope.productimg = "assets/img/762755831_radiator-vodyanoj-mtz.jpg";
     $scope.productname = "Радиатор водяной МТЗ латунный с металлическими бачками 4-х рядный";
@@ -30782,7 +30782,7 @@ var app = angular.module('err1616', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1616_koleso_karetki_napravlyayuschee";
     $scope.productimg = "assets/img/763677858_koleso-karetki-napravlyayuschee.jpg";
     $scope.productname = "Колесо каретки направляющее ДТ 75 (каток опорный)";
@@ -30801,7 +30801,7 @@ var app = angular.module('err1617', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1617_mehanizm_koromysel_240";
     $scope.productimg = "assets/img/753589020_mehanizm-koromysel-d.jpg";
     $scope.productname = "Механизм коромысел Д 240 245 в сборе МТЗ";
@@ -30820,7 +30820,7 @@ var app = angular.module('err1618', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1618_pereklyuchatel_far_povorotov";
     $scope.productimg = "assets/img/723191453_pereklyuchatel-far-povorotov.jpg";
     $scope.productname = "Переключатель фар, поворотов ,звукового сигнала МТЗ";
@@ -30839,7 +30839,7 @@ var app = angular.module('err1619', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1619_kranik_toplivnogo_baka";
     $scope.productimg = "assets/img/726922984_kranik-toplivnogo-baka.jpg";
     $scope.productname = "Краник топливного бака ПД с отстойником (КР-12)";
@@ -30858,7 +30858,7 @@ var app = angular.module('err1620', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1620_klapan_perepusknoj_mtz";
     $scope.productimg = "assets/img/765403865_klapan-perepusknoj-mtz.jpg";
     $scope.productname = "Клапан перепускной МТЗ ЮМЗ";
@@ -30877,7 +30877,7 @@ var app = angular.module('err1621', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1621_privod_tahospidometra_mtz";
     $scope.productimg = "assets/img/765430984_privod-tahospidometra-mtz.jpg";
     $scope.productname = "Привод тахоспидометра МТЗ (2400 о/м)";
@@ -30896,7 +30896,7 @@ var app = angular.module('err1622', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1622_disk_stsepleniya_mtz";
     $scope.productimg = "assets/img/765659504_disk-stsepleniya-mtz-80.jpg";
     $scope.productname = "Диск сцепления МТЗ-80 усиленный (Д-240)";
@@ -30915,7 +30915,7 @@ var app = angular.module('err1623', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1623_disk_stsepleniya_zil";
     $scope.productimg = "assets/img/766540972_disk-stsepleniya-zil.jpg";
     $scope.productname = "Диск сцепления ЗИЛ";
@@ -30934,7 +30934,7 @@ var app = angular.module('err1624', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1624_disk_stsepleniya_kamaz";
     $scope.productimg = "assets/img/767967040_disk-stsepleniya-kamaz.jpg";
     $scope.productname = "Диск сцепления КАМАЗ";
@@ -30953,7 +30953,7 @@ var app = angular.module('err1625', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1625_disk_stsepleniya_myagkij";
     $scope.productimg = "assets/img/767976365_disk-stsepleniya-a-41.jpg";
     $scope.productname = "Диск сцепления А-41 мягкий";
@@ -30972,7 +30972,7 @@ var app = angular.module('err1626', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1626_perehodnik_kollektora_vypusknogo";
     $scope.productimg = "assets/img/768215645_perehodnik-kollektora-vypusknogo.jpg";
     $scope.productname = "Переходник коллектора выпускного МТЗ 80/82";
@@ -30991,7 +30991,7 @@ var app = angular.module('err1627', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1627_venets_mahovika_pod";
     $scope.productimg = "assets/img/754974950_venets-mahovika-pod.jpg";
     $scope.productname = "Венец маховика под стартер МТЗ";
@@ -31010,7 +31010,7 @@ var app = angular.module('err1628', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1628_rukav_poluosi_chulok";
     $scope.productimg = "assets/img/743637311_rukav-poluosi-chulok.jpg";
     $scope.productname = "Рукав полуоси (чулок) МТЗ";
@@ -31029,7 +31029,7 @@ var app = angular.module('err1629', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1629_bolt_vkladysha_zadnej";
     $scope.productimg = "assets/img/710674467_bolt-vkladysha-zadnej.jpg";
     $scope.productname = "Болт вкладыша задней ступицы МТЗ 80/82";
@@ -31048,7 +31048,7 @@ var app = angular.module('err1630', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1630_bolt_sergi_zadnej";
     $scope.productimg = "assets/img/755757227_bolt-sergi-zadnej.jpg";
     $scope.productname = "Болт серьги задней навески МТЗ 80/82";
@@ -31067,7 +31067,7 @@ var app = angular.module('err1631', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1631_vtulka_kronshtejna_povorotnogo";
     $scope.productimg = "assets/img/755950313_vtulka-kronshtejna-povorotnogo.jpg";
     $scope.productname = "Втулка кронштейна поворотного вала задней навески МТЗ 80/82";
@@ -31086,7 +31086,7 @@ var app = angular.module('err1632', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1632_mehanizm_zadnej_naveski";
     $scope.productimg = "assets/img/775718782_mehanizm-zadnej-naveski.jpg";
     $scope.productname = "Механизм задней навески в сборе МТЗ 80/82";
@@ -31105,7 +31105,7 @@ var app = angular.module('err1633', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1633_mehanizma_zadnej_naveski";
     $scope.productimg = "assets/img/715812981_os-mehanizma-zadnej.jpg";
     $scope.productname = "Ось механизма задней навески МТЗ 100 1025 1221 1005 усиленная";
@@ -31124,7 +31124,7 @@ var app = angular.module('err1634', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1634_palets_krepleniya_gidrotsilindra";
     $scope.productimg = "assets/img/775961415_palets-krepleniya-gidrotsilindra.jpg";
     $scope.productname = "Палец крепления гидроцилиндра ЦС-100 МТЗ 80/82";
@@ -31143,7 +31143,7 @@ var app = angular.module('err1635', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1635_palets_raskosa_mehanizma";
     $scope.productimg = "assets/img/756012105_palets-raskosa-mehanizma.jpg";
     $scope.productname = "Палец раскоса механизма задней навески МТЗ нижний";
@@ -31162,7 +31162,7 @@ var app = angular.module('err1636', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1636_poperechina_zadnej_naveski";
     $scope.productimg = "assets/img/776020718_poperechina-zadnej-naveski.jpg";
     $scope.productname = "Поперечина задней навески МТЗ 80/82 (Д 240) в сборе";
@@ -31181,7 +31181,7 @@ var app = angular.module('err1637', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1637_raskos_zadnej_naveski";
     $scope.productimg = "assets/img/776034600_raskos-zadnej-naveski.jpg";
     $scope.productname = "Раскос задней навески нерегулируемый МТЗ 80/82";
@@ -31200,7 +31200,7 @@ var app = angular.module('err1638', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1638_cheka_zadnej_naveski";
     $scope.productimg = "assets/img/778007674_cheka-zadnej-naveski.jpg";
     $scope.productname = "Чека задней навески МТЗ 80/82";
@@ -31219,7 +31219,7 @@ var app = angular.module('err1639', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1639_kryshka_opornaya_silovogo";
     $scope.productimg = "assets/img/755786756_kryshka-opornaya-silovogo.jpg";
     $scope.productname = "Крышка опорная силового вала редуктора МТЗ 80/82";
@@ -31238,7 +31238,7 @@ var app = angular.module('err1640', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1640_porshnevaya_gruppa_mtz";
     $scope.productimg = "assets/img/808639242_porshnevaya-gruppa-mtz.jpg";
     $scope.productname = "Поршневая группа МТЗ ЮМЗ на 1 цилиндр";
@@ -31257,7 +31257,7 @@ var app = angular.module('err1641', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1641_shkiv_kolenchatogo_vala";
     $scope.productimg = "assets/img/1289376679_shkiv-kolenchatogo-vala.jpg";
     $scope.productname = "Шкив коленчатого вала Д 240 МТЗ";
@@ -31276,7 +31276,7 @@ var app = angular.module('err1642', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1642_patrubok_vypusknogo_kollektora";
     $scope.productimg = "assets/img/812912198_patrubok-vypusknogo-kollektora.jpg";
     $scope.productname = "Патрубок выпускного коллектора переходной МТЗ Д 240 243";
@@ -31295,7 +31295,7 @@ var app = angular.module('err1643', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1643_gilza_shkvornya_perednego";
     $scope.productimg = "assets/img/755850906_gilza-shkvornya-perednego.jpg";
     $scope.productname = "Гильза шкворня переднего ведущего моста МТЗ 80/82";
@@ -31314,7 +31314,7 @@ var app = angular.module('err1644', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1644_radiator_maslyanyj_zmeevik";
     $scope.productimg = "assets/img/813026336_radiator-maslyanyj-zmeevik.jpg";
     $scope.productname = "Радиатор масляный (змеевик) МТЗ 80/82";
@@ -31333,7 +31333,7 @@ var app = angular.module('err1645', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1645_vkladyshi_shatunnye_korennye";
     $scope.productimg = "assets/img/813072417_vkladyshi-shatunnye-.jpg";
     $scope.productname = "Вкладыши шатунные + коренные МТЗ Д 240";
@@ -31352,7 +31352,7 @@ var app = angular.module('err1646', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1646_shesternya_promezhutochnaya_z53";
     $scope.productimg = "assets/img/813739762_shesternya-promezhutochnaya-z53.jpg";
     $scope.productname = "Шестерня промежуточная Z=53 МТЗ";
@@ -31371,7 +31371,7 @@ var app = angular.module('err1647', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1647_klapan_vpusknoj_240";
     $scope.productimg = "assets/img/690116285_klapan-vpusknoj-d.jpg";
     $scope.productname = "Клапан впускной Д 240, 243, 245 МТЗ";
@@ -31390,7 +31390,7 @@ var app = angular.module('err1648', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1648_shatun_mtz_240";
     $scope.productimg = "assets/img/756153073_shatun-mtz-d.jpg";
     $scope.productname = "Шатун МТЗ Д 240 Д 243";
@@ -31409,7 +31409,7 @@ var app = angular.module('err1649', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1649_kryshka_lyuka_raspredelitelnyh";
     $scope.productimg = "assets/img/814069287_kryshka-lyuka-raspredelitelnyh.jpg";
     $scope.productname = "Крышка люка распределительных шестерен МТЗ";
@@ -31428,7 +31428,7 @@ var app = angular.module('err1650', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1650_shesternya_privoda_maslyanogo";
     $scope.productimg = "assets/img/814097400_shesternya-privoda-maslyanogo.jpg";
     $scope.productname = "Шестерня привода масляного насоса МТЗ старого образца Z=46";
@@ -31447,7 +31447,7 @@ var app = angular.module('err1651', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1651_masloprovod_kompressora_mtz";
     $scope.productimg = "assets/img/754964265_masloprovod-kompressora-mtz.jpg";
     $scope.productname = "Маслопровод компрессора МТЗ L=352 мм";
@@ -31466,7 +31466,7 @@ var app = angular.module('err1652', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1652_vtulka_napravlyayuschaya_klapana";
     $scope.productimg = "assets/img/754968295_vtulka-napravlyayuschaya-klapana.jpg";
     $scope.productname = "Втулка направляющая клапана МТЗ";
@@ -31485,7 +31485,7 @@ var app = angular.module('err1653', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1653_shesternya_kolenchatogo_vala";
     $scope.productimg = "assets/img/814180874_shesternya-kolenchatogo-vala.jpg";
     $scope.productname = "Шестерня коленчатого вала Д 240 243 245 МТЗ Z=20";
@@ -31504,7 +31504,7 @@ var app = angular.module('err1654', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1654_trubka_manometra_masla";
     $scope.productimg = "assets/img/1346646020_trubka-manometra-masla.jpg";
     $scope.productname = "Трубка манометра масла МТЗ";
@@ -31523,7 +31523,7 @@ var app = angular.module('err1655', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1655_patrubok_nasosa_maslyanogo";
     $scope.productimg = "assets/img/816448795_patrubok-nasosa-maslyanogo.jpg";
     $scope.productname = "Патрубок насоса масляного МТЗ отводящий";
@@ -31542,7 +31542,7 @@ var app = angular.module('err1656', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1656_maslootrazhatel_kolenvala_zadnij";
     $scope.productimg = "assets/img/816471925_maslootrazhatel-kolenvala-zadnij.jpg";
     $scope.productname = "Маслоотражатель коленвала задний МТЗ";
@@ -31561,7 +31561,7 @@ var app = angular.module('err1657', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1657_val_raspredelitelnyj_mtz";
     $scope.productimg = "assets/img/816475402_val-raspredelitelnyj-mtz.jpg";
     $scope.productname = "Вал распределительный МТЗ Д 240 Д 243";
@@ -31580,7 +31580,7 @@ var app = angular.module('err1658', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1658_prokladka_kollektora_vypusknogo";
     $scope.productimg = "assets/img/816477048_prokladka-kollektora-vypusknogo.jpg";
     $scope.productname = "Прокладка коллектора выпускного МТЗ под турбину";
@@ -31599,7 +31599,7 @@ var app = angular.module('err1659', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1659_maslootrazhatel_kolenvala_perednij";
     $scope.productimg = "assets/img/816485900_maslootrazhatel-kolenvala-perednij.jpg";
     $scope.productname = "Маслоотражатель коленвала передний МТЗ";
@@ -31618,7 +31618,7 @@ var app = angular.module('err1660', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1660_zaglushka_gbts_243";
     $scope.productimg = "assets/img/816490999_zaglushka-gbts-d.jpg";
     $scope.productname = "Заглушка ГБЦ Д 243 245 МТЗ";
@@ -31637,7 +31637,7 @@ var app = angular.module('err1661', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1661_patrubok_golovki_tsilindrov";
     $scope.productimg = "assets/img/816494971_patrubok-golovki-tsilindrov.jpg";
     $scope.productname = "Патрубок головки цилиндров Д 240 Д 243 МТЗ";
@@ -31656,7 +31656,7 @@ var app = angular.module('err1662', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1662_filtr_sapuna_golovki";
     $scope.productimg = "assets/img/816496611_filtr-sapuna-golovki.jpg";
     $scope.productname = "Фильтр сапуна головки блока МТЗ";
@@ -31675,7 +31675,7 @@ var app = angular.module('err1663', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1663_planka_shesterni_vala";
     $scope.productimg = "assets/img/816505281_planka-shesterni-vala.jpg";
     $scope.productname = "Планка шестерни вала распределительного МТЗ Д 240 Д 243 Д 245";
@@ -31694,7 +31694,7 @@ var app = angular.module('err1664', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1664_vtulka_krepleniya_lonzherona";
     $scope.productimg = "assets/img/816513747_vtulka-krepleniya-lonzherona.jpg";
     $scope.productname = "Втулка крепления лонжерона МТЗ";
@@ -31713,7 +31713,7 @@ var app = angular.module('err1665', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1665_venets_mahovika_mtz";
     $scope.productimg = "assets/img/817215620_venets-mahovika-mtz.jpg";
     $scope.productname = "Венец маховика МТЗ под пусковой двигатель";
@@ -31732,7 +31732,7 @@ var app = angular.module('err1666', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1666_kabina_mtz_komplektnosti";
     $scope.productimg = "assets/img/818214926_kabina-mtz-1-j.jpg";
     $scope.productimg = "assets/img/818215051_kabina-mtz-1-j.jpg";
@@ -31754,7 +31754,7 @@ var app = angular.module('err1667', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1667_mahovik_pod_mtz";
     $scope.productimg = "assets/img/818281309_mahovik-pod-pd.jpg";
     $scope.productname = "Маховик под ПД МТЗ Z=119";
@@ -31773,7 +31773,7 @@ var app = angular.module('err1668', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1668_opora_dvigatelya_240";
     $scope.productimg = "assets/img/818311355_opora-dvigatelya-d.jpg";
     $scope.productname = "Опора двигателя Д 240 Д 243 МТЗ передняя";
@@ -31792,7 +31792,7 @@ var app = angular.module('err1669', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1669_palets_promezhutochnoj_shesterni";
     $scope.productimg = "assets/img/818316527_palets-promezhutochnoj-shesterni.jpg";
     $scope.productname = "Палец промежуточной шестерни Д 240 243 245 260 МТЗ";
@@ -31811,7 +31811,7 @@ var app = angular.module('err1670', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1670_patrubok_blokov_tsilindra";
     $scope.productimg = "assets/img/818332190_patrubok-blokov-tsilindra.jpg";
     $scope.productname = "Патрубок блоков цилиндра МТЗ (маслозаливная горловина)";
@@ -31830,7 +31830,7 @@ var app = angular.module('err1671', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1671_mahovik_mtz_pod";
     $scope.productimg = "assets/img/756136170_mahovik-mtz-pod.jpg";
     $scope.productname = "Маховик МТЗ под стартер";
@@ -31849,7 +31849,7 @@ var app = angular.module('err1672', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1672_palets_mahovika_240";
     $scope.productimg = "assets/img/818341728_palets-mahovika-d.jpg";
     $scope.productname = "Палец маховика Д 240 243 245 МТЗ";
@@ -31868,7 +31868,7 @@ var app = angular.module('err1673', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1673_shesternya_privoda_nsh";
     $scope.productimg = "assets/img/819935690_shesternya-privoda-nsh.jpg";
     $scope.productname = "Шестерня привода НШ 10 МТЗ";
@@ -31887,7 +31887,7 @@ var app = angular.module('err1674', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1674_tolkatel_klapana_mtz";
     $scope.productimg = "assets/img/820051377_tolkatel-klapana-mtz.jpg";
     $scope.productname = "Толкатель клапана МТЗ";
@@ -31906,7 +31906,7 @@ var app = angular.module('err1675', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1675_trubka_podvoda_vozduha";
     $scope.productimg = "assets/img/822371958_trubka-podvoda-vozduha.jpg";
     $scope.productname = "Трубка подвода воздуха впускного коллектора МТЗ";
@@ -31925,7 +31925,7 @@ var app = angular.module('err1676', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1676_planka_upornaya_raspredelitelnogo";
     $scope.productimg = "assets/img/822381435_planka-upornaya-raspredelitelnogo.jpg";
     $scope.productname = "Планка упорная распределительного вала МТЗ";
@@ -31944,7 +31944,7 @@ var app = angular.module('err1677', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1677_valik_vodyanogo_nasosa";
     $scope.productimg = "assets/img/822387754_valik-vodyanogo-nasosa.jpg";
     $scope.productname = "Валик водяного насоса МТЗ нового образца";
@@ -31963,7 +31963,7 @@ var app = angular.module('err1678', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1678_masloprovod_maslyanogo_radiatora";
     $scope.productimg = "assets/img/822404221_masloprovod-maslyanogo-radiatora.jpg";
     $scope.productname = "Маслопровод масляного радиатора МТЗ";
@@ -31982,7 +31982,7 @@ var app = angular.module('err1679', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1679_masloprovod_maslyanogo_radiatora";
     $scope.productimg = "assets/img/822406189_masloprovod-maslyanogo-radiatora.jpg";
     $scope.productname = "Маслопровод масляного радиатора МТЗ";
@@ -32001,7 +32001,7 @@ var app = angular.module('err1680', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1680_maslyanyj_radiator_mtz";
     $scope.productimg = "assets/img/822410520_maslyanyj-radiator-mtz.jpg";
     $scope.productname = "Масляный радиатор МТЗ 2-х рядный";
@@ -32020,7 +32020,7 @@ var app = angular.module('err1681', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1681_zaglushka_kolenchatogo_vala";
     $scope.productimg = "assets/img/822415273_zaglushka-kolenchatogo-vala.jpg";
     $scope.productname = "Заглушка коленчатого вала МТЗ";
@@ -32039,7 +32039,7 @@ var app = angular.module('err1682', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1682_radiator_vodyanogo_ohlazhdeniya";
     $scope.productimg = "assets/img/822427824_radiator-vodyanogo-ohlazhdeniya.jpg";
     $scope.productname = "Радиатор водяного охлаждения МТЗ 1025 1221 4-х рядный";
@@ -32058,7 +32058,7 @@ var app = angular.module('err1683', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1683_fara_zadnyaya_rabochaya";
     $scope.productimg = "assets/img/866045884_fara-zadnyaya-rabochaya.jpg";
     $scope.productname = "Фара задняя (рабочая) тракторная металлический корпус с лампой";
@@ -32077,7 +32077,7 @@ var app = angular.module('err1684', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1684_kolpak_uplotneniya_karetki";
     $scope.productimg = "assets/img/929482376_kolpak-uplotneniya-karetki.jpg";
     $scope.productname = "Колпак уплотнения каретки ДТ-75";
@@ -32096,7 +32096,7 @@ var app = angular.module('err1685', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1685_bolt_vilki_privoda";
     $scope.productimg = "assets/img/1004472838_bolt-vilki-privoda.jpg";
     $scope.productname = "Болт вилки привода насоса МТЗ";
@@ -32115,7 +32115,7 @@ var app = angular.module('err1686', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1686_element_vozdushnogo_filtra";
     $scope.productimg = "assets/img/1060902139_element-vozdushnogo-filtra.jpg";
     $scope.productname = "Элемент воздушного фильтра Т 16 Т 25 Т 40 (кассета воздухоочистителя)";
@@ -32134,7 +32134,7 @@ var app = angular.module('err1687', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1687_nasos_maslyanyj_243";
     $scope.productimg = "assets/img/1060923596_nasos-maslyanyj-d.jpg";
     $scope.productname = "Насос масляный Д 243 Д 245 МТЗ (32 зуба)";
@@ -32153,7 +32153,7 @@ var app = angular.module('err1688', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1688_kachaniya_mtz";
     $scope.productimg = "assets/img/1060991799_os-kachaniya-mtz.jpg";
     $scope.productname = "Ось качания МТЗ";
@@ -32172,7 +32172,7 @@ var app = angular.module('err1689', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1689_gilza_tsilindrov_mtz";
     $scope.productimg = "assets/img/1062661104_gilza-tsilindrov-mtz.jpg";
     $scope.productname = "Гильза цилиндров МТЗ Д 240";
@@ -32191,7 +32191,7 @@ var app = angular.module('err1690', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1690_datchik_davleniya_masla";
     $scope.productimg = "assets/img/1062711840_datchik-davleniya-masla.jpg";
     $scope.productname = "Датчик давления масла КАМАЗ (ММ 370)";
@@ -32210,7 +32210,7 @@ var app = angular.module('err1691', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1691_disk_friktsionnyj_130";
     $scope.productimg = "assets/img/1062771468_disk-friktsionnyj-t.jpg";
     $scope.productname = "Диск фрикционный Т 130 Т 170 с наружными зубами";
@@ -32229,7 +32229,7 @@ var app = angular.module('err1692', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1692_zamok_dveri_levyj";
     $scope.productimg = "assets/img/1063645664_zamok-dveri-levyj.jpg";
     $scope.productname = "Замок двери левый малой кабины МТЗ";
@@ -32248,7 +32248,7 @@ var app = angular.module('err1693', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1693_klapan_zaschitnyj_trojnoj";
     $scope.productimg = "assets/img/1063729284_klapan-zaschitnyj-trojnoj.jpg";
     $scope.productname = "Клапан защитный тройной КАМАЗ";
@@ -32267,7 +32267,7 @@ var app = angular.module('err1694', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1694_klapan_upravleniya_tormozami";
     $scope.productimg = "assets/img/1063733683_klapan-upravleniya-tormozami.jpg";
     $scope.productname = "Клапан управления тормозами прицепа с 1м проводом КАМАЗ";
@@ -32286,7 +32286,7 @@ var app = angular.module('err1695', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1695_klapan_upravleniya_tormoza";
     $scope.productimg = "assets/img/1063738278_klapan-upravleniya-tormoza.jpg";
     $scope.productname = "Клапан управления тормоза прицепа с 2мя проводами КАМАЗ";
@@ -32305,7 +32305,7 @@ var app = angular.module('err1696', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1696_klapan_uskoritelnyj_kamaz";
     $scope.productimg = "assets/img/1063770320_klapan-uskoritelnyj-kamaz.jpg";
     $scope.productname = "Клапан ускорительный КАМАЗ";
@@ -32324,7 +32324,7 @@ var app = angular.module('err1697', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1697_klapan_elektromagnitnyj_kamaz";
     $scope.productimg = "assets/img/1063776123_klapan-elektromagnitnyj-kamaz.jpg";
     $scope.productname = "Клапан электромагнитный КАМАЗ МАЗ старого образца";
@@ -32343,7 +32343,7 @@ var app = angular.module('err1698', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1698_klapan_elektromagnitnyj_kamaz";
     $scope.productimg = "assets/img/1063781667_klapan-elektromagnitnyj-kamaz.jpg";
     $scope.productname = "Клапан электромагнитный КАМАЗ МАЗ нового образца";
@@ -32362,7 +32362,7 @@ var app = angular.module('err1699', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1699_korzina_stsepleniya_disk";
     $scope.productimg = "assets/img/1063798329_korzina-stsepleniya-disk.jpg";
     $scope.productname = "Корзина сцепления (диск нажимной) МТЗ простая";
@@ -32381,7 +32381,7 @@ var app = angular.module('err1700', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1700_kran_razobschitelnyj_kamaz";
     $scope.productimg = "assets/img/1063805436_kran-razobschitelnyj-kamaz.jpg";
     $scope.productname = "Кран разобщительный КАМАЗ";
@@ -32400,7 +32400,7 @@ var app = angular.module('err1701', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1701_kran_upravleniya_delitelem";
     $scope.productimg = "assets/img/1063843531_kran-upravleniya-delitelem.jpg";
     $scope.productname = "Кран управления делителем с тросом КАМАЗ";
@@ -32419,7 +32419,7 @@ var app = angular.module('err1702', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1702_regulyator_davleniya_vozduha";
     $scope.productimg = "assets/img/1064939645_regulyator-davleniya-vozduha.jpg";
     $scope.productname = "Регулятор давления воздуха КАМАЗ";
@@ -32438,7 +32438,7 @@ var app = angular.module('err1703', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1703_kran_tormoznoj_obratnogo";
     $scope.productimg = "assets/img/1064951700_kran-tormoznoj-obratnogo.jpg";
     $scope.productname = "Кран тормозной обратного действия 4х контактный КАМАЗ";
@@ -32457,7 +32457,7 @@ var app = angular.module('err1704', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1704_rychag_tormoza_regulirovochnyj";
     $scope.productimg = "assets/img/1064957048_rychag-tormoza-regulirovochnyj.jpg";
     $scope.productname = "Рычаг тормоза регулировочный КАМАЗ левый/правый задний";
@@ -32476,7 +32476,7 @@ var app = angular.module('err1705', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1705_styazhka_zadnej_naveski";
     $scope.productimg = "assets/img/1064973232_styazhka-zadnej-naveski.jpg";
     $scope.productname = "Стяжка задней навески МТЗ 1221";
@@ -32495,7 +32495,7 @@ var app = angular.module('err1706', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1706_tsilindr_tormoznoj_glavnyj";
     $scope.productimg = "assets/img/1064982850_tsilindr-tormoznoj-glavnyj.jpg";
     $scope.productname = "Цилиндр тормозной главный КАМАЗ в сборе";
@@ -32514,7 +32514,7 @@ var app = angular.module('err1707', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1707_shesternya_privoda_tnvd";
     $scope.productimg = "assets/img/1065099853_shesternya-privoda-tnvd.jpg";
     $scope.productname = "Шестерня привода ТНВД МТЗ Д240 Z=30";
@@ -32533,7 +32533,7 @@ var app = angular.module('err1708', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1708_kronshtejn_pritsepnogo_ustrojstva";
     $scope.productimg = "assets/img/1133750439_kronshtejn-pritsepnogo-ustrojstva.jpg";
     $scope.productname = "Кронштейн прицепного устройства левый ЮМЗ";
@@ -32552,7 +32552,7 @@ var app = angular.module('err1709', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1709_starter_yumz_reduktornyj";
     $scope.productimg = "assets/img/1133753415_starter-yumz-reduktornyj.jpg";
     $scope.productname = "Стартер ЮМЗ редукторный";
@@ -32571,7 +32571,7 @@ var app = angular.module('err1710', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1710_shatun_yumz_starogo";
     $scope.productimg = "assets/img/1133761749_shatun-d-65.jpg";
     $scope.productname = "Шатун Д 65 ЮМЗ старого образца";
@@ -32590,7 +32590,7 @@ var app = angular.module('err1711', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1711_golovka_bloka_tsilindrov";
     $scope.productimg = "assets/img/1133775985_golovka-bloka-tsilindrov.jpg";
     $scope.productname = "Головка блока цилиндров ЮМЗ в сборе";
@@ -32609,7 +32609,7 @@ var app = angular.module('err1712', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1712_vkladyshi_shatunnye_yumz";
     $scope.productimg = "assets/img/1133787525_vkladyshi-shatunnye-yumz.jpg";
     $scope.productname = "Вкладыши шатунные ЮМЗ Н1";
@@ -32628,7 +32628,7 @@ var app = angular.module('err1713', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1713_filtr_maslyanyj_tsentrobezhnyj";
     $scope.productimg = "assets/img/1133806909_filtr-maslyanyj-tsentrobezhnyj.jpg";
     $scope.productname = "Фильтр масляный центробежный ЮМЗ в сборе (центрофуга)";
@@ -32647,7 +32647,7 @@ var app = angular.module('err1714', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1714_val_kolenchatyj_yumz";
     $scope.productimg = "assets/img/1133834563_val-kolenchatyj-d.jpg";
     $scope.productname = "Вал коленчатый Д 65 ЮМЗ";
@@ -32666,7 +32666,7 @@ var app = angular.module('err1715', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1715_vkladyshi_korennye_yumz";
     $scope.productimg = "assets/img/1133890621_vkladyshi-korennye-yumz.jpg";
     $scope.productname = "Вкладыши коренные ЮМЗ Н1";
@@ -32685,7 +32685,7 @@ var app = angular.module('err1716', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1716_prokladki_zadnego_mosta";
     $scope.productimg = "assets/img/1133901782_prokladki-zadnego-mosta.jpg";
     $scope.productname = "Прокладки заднего моста ЮМЗ";
@@ -32704,7 +32704,7 @@ var app = angular.module('err1717', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1717_kompressor_vozdushnyj_yumz";
     $scope.productimg = "assets/img/1134005548_kompressor-vozdushnyj-yumz.jpg";
     $scope.productname = "Компрессор воздушный ЮМЗ";
@@ -32723,7 +32723,7 @@ var app = angular.module('err1718', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1718_disk_stsepleniya_yumz";
     $scope.productimg = "assets/img/1134028253_disk-stsepleniya-yumz.jpg";
     $scope.productname = "Диск сцепления ЮМЗ";
@@ -32742,7 +32742,7 @@ var app = angular.module('err1719', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1719_nasos_vodyanoj_yumz";
     $scope.productimg = "assets/img/1134110833_nasos-vodyanoj-yumz.jpg";
     $scope.productname = "Насос водяной ЮМЗ без шкива";
@@ -32761,7 +32761,7 @@ var app = angular.module('err1720', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1720_valik_pereklyucheniya_reduktora";
     $scope.productimg = "assets/img/1098345692_valik-pereklyucheniya-reduktora.jpg";
     $scope.productname = "Валик переключения редуктора ЮМЗ";
@@ -32780,7 +32780,7 @@ var app = angular.module('err1721', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1721_rychag_naruzhnyj_pravyj";
     $scope.productimg = "assets/img/1134232320_rychag-naruzhnyj-pravyj.jpg";
     $scope.productname = "Рычаг наружный правый механизма задней навески ЮМЗ";
@@ -32799,7 +32799,7 @@ var app = angular.module('err1722', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1722_rychag_vala_povorotnogo";
     $scope.productimg = "assets/img/1138403499_rychag-vala-povorotnogo.jpg";
     $scope.productname = "Рычаг вала поворотного наружный левый механизма задней навески ЮМЗ";
@@ -32818,7 +32818,7 @@ var app = angular.module('err1723', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1723_disk_vedomyj_mufty";
     $scope.productimg = "assets/img/1098345694_disk-vedomyj-mufty.jpg";
     $scope.productname = "Диск ведомый муфты ВОМ ЮМЗ";
@@ -32837,7 +32837,7 @@ var app = angular.module('err1724', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1724_bak_radiatora_yumz";
     $scope.productimg = "assets/img/1138418324_bak-radiatora-yumz.jpg";
     $scope.productname = "Бак радиатора ЮМЗ верхний пластмасовый";
@@ -32856,7 +32856,7 @@ var app = angular.module('err1725', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1725_generator_yumz_14v";
     $scope.productimg = "assets/img/1098345695_generator-yumz-d-65.jpg";
     $scope.productname = "Генератор ЮМЗ Д-65 14В 700Вт Г460.3701";
@@ -32875,7 +32875,7 @@ var app = angular.module('err1726', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1726_palets_goru_korotkij";
     $scope.productimg = "assets/img/1138471425_palets-goru-korotkij.jpg";
     $scope.productname = "Палец ГОРУ (короткий) передней оси ЮМЗ 6002-3000024";
@@ -32894,7 +32894,7 @@ var app = angular.module('err1727', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1727_palets_goru_dlinnyj";
     $scope.productimg = "assets/img/1138483477_palets-goru-dlinnyj.jpg";
     $scope.productname = "Палець ГОРУ (длинный) передней оси ЮМЗ 45-3000021";
@@ -32913,7 +32913,7 @@ var app = angular.module('err1728', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1728_kronshtejn_krepleniya_nasos";
     $scope.productimg = "assets/img/1112584273_kronshtejn-krepleniya-nasos-dozatora.jpg";
     $scope.productname = "Кронштейн крепления насос-дозатора ЮМЗ";
@@ -32932,7 +32932,7 @@ var app = angular.module('err1729', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1729_korzina_stsepleniya_yumz";
     $scope.productimg = "assets/img/1142497471_korzina-stsepleniya-yumz.jpg";
     $scope.productname = "Корзина сцепления ЮМЗ Д-65";
@@ -32951,7 +32951,7 @@ var app = angular.module('err1730', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1730_schetchik_motochasov_yumz";
     $scope.productimg = "assets/img/1177269140_schetchik-motochasov-yumz.jpg";
     $scope.productname = "Счетчик моточасов ЮМЗ СЧ-100Б";
@@ -32970,7 +32970,7 @@ var app = angular.module('err1731', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1731_korzina_stsepleniya_yumz";
     $scope.productimg = "assets/img/1200264018_korzina-stsepleniya-yumz.jpg";
     $scope.productname = "Корзина сцепления ЮМЗ Д-65";
@@ -32989,7 +32989,7 @@ var app = angular.module('err1732', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1732_koltso_podshipnika_upornoe";
     $scope.productimg = "assets/img/1200266528_koltso-podshipnika-upornoe.jpg";
     $scope.productname = "Кольцо подшипника упорное ЮМЗ 64,5*56*8";
@@ -33008,7 +33008,7 @@ var app = angular.module('err1733', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1733_vkladyshi_zadnego_uplotnitelya";
     $scope.productimg = "assets/img/1200269028_vkladyshi-zadnego-uplotnitelya.jpg";
     $scope.productname = "Вкладыши заднего уплотнителя коленвала ЮМЗ";
@@ -33027,7 +33027,7 @@ var app = angular.module('err1734', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1734_kronshtejn_tyagi_zadnej";
     $scope.productimg = "assets/img/1200287110_kronshtejn-tyagi-zadnej.jpg";
     $scope.productname = "Кронштейн тяги задней навески ЮМЗ";
@@ -33046,7 +33046,7 @@ var app = angular.module('err1735', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1735_stakan_podshipnika_bolshoj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Стакан подшипника большой Т-25";
@@ -33065,7 +33065,7 @@ var app = angular.module('err1736', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1736_stakan_podshipnika_malyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Стакан подшипника малый Т-25";
@@ -33084,7 +33084,7 @@ var app = angular.module('err1737', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1737_remkomplekt_filtra_toplivnogo";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Ремкомплект фильтра топливного Т-25 Т-40 Т-16 старого образца";
@@ -33103,7 +33103,7 @@ var app = angular.module('err1738', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1738_nasos_maslyanyj";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Насос масляный Т-25";
@@ -33122,7 +33122,7 @@ var app = angular.module('err1739', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1739_val_pervichnyj_kpp";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Вал первичный КПП Т-25 Z=20";
@@ -33141,7 +33141,7 @@ var app = angular.module('err1740', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1740_remkomplekt_nakonechnika_rulevoj";
     $scope.productimg = "assets/img/1107207407_remkomplekt-nakonechnika-rulevoj.jpg";
     $scope.productname = "Ремкомплект наконечника рулевой тяги Т-25 с пальцем";
@@ -33160,7 +33160,7 @@ var app = angular.module('err1741', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1741_val_reversa_kpp";
     $scope.productimg = "assets/img/1597080534_val-reversa-kpp.jpg";
     $scope.productname = "Вал реверса КПП Т-25 короткий нового образца";
@@ -33179,7 +33179,7 @@ var app = angular.module('err1742', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1742_vkladyshi_shatunnye_t16";
     $scope.productimg = "assets/img/1597076152_vkladyshi-shatunnye-d-21.jpg";
     $scope.productname = "Вкладыши шатунные Д-21 Т16 Т25 Н2 пр-во ЗПС г.Тамбов";
@@ -33198,7 +33198,7 @@ var app = angular.module('err1743', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1743_shajba_stopornaya_bolta";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Шайба стопорная болта вала вторичного КПП Т-25";
@@ -33217,7 +33217,7 @@ var app = angular.module('err1744', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1744_prokladki_kpp";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Прокладки КПП Т-25";
@@ -33236,7 +33236,7 @@ var app = angular.module('err1745', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1745_vtulka_shlitsevaya_nsh";
     $scope.productimg = "assets/img/no-img-ua-at-510x383.jpg";
     $scope.productname = "Втулка шлицевая НШ-10 Т-25 4 и 6 шлицов";
@@ -33255,7 +33255,7 @@ var app = angular.module('err1746', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1746_starter_222_restavratsiya";
     $scope.productimg = "assets/img/1742568114_starter-st-222-t-25.jpg";
     $scope.productname = "Стартер СТ-222 Т-25 Т-16 реставрация";
@@ -33274,7 +33274,7 @@ var app = angular.module('err1747', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1747_nasos_dozator";
     $scope.productimg = "assets/img/1742565604_nasos-dozator-t.jpg";
     $scope.productname = "Насос дозатор Т 25 ХУ-85";
@@ -33293,7 +33293,7 @@ var app = angular.module('err1748', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1748_venets_mahovika_pod";
     $scope.productimg = "assets/img/1742560811_venets-mahovika-t-16.jpg";
     $scope.productname = "Венец маховика Т-16 Т-25 под стартер Z=133";
@@ -33312,7 +33312,7 @@ var app = angular.module('err1749', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1749_trubka_toplivnaya_komplekt";
     $scope.productimg = "assets/img/1742549565_trubka-toplivnaya-t-25.jpg";
     $scope.productname = "Трубка топливная Т-25 комплект";
@@ -33331,7 +33331,7 @@ var app = angular.module('err1750', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1750_komplekt_prokladok_dvigatelya";
     $scope.productimg = "assets/img/1742541409_komplekt-prokladok-dvigatelya.jpg";
     $scope.productname = "Комплект прокладок двигателя Д 21 Т-25";
@@ -33350,7 +33350,7 @@ var app = angular.module('err1751', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1751_zadnyaya_poluos_1439026";
     $scope.productimg = "assets/img/1742538393_os-zadnyaya-t-25.jpg";
     $scope.productname = "Ось задняя Т-25 полуось 14.39.026-А";
@@ -33369,7 +33369,7 @@ var app = angular.module('err1752', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1752_vkladyshi_shatunnye_t16";
     $scope.productimg = "assets/img/1742527518_vkladyshi-shatunnye-d-21.jpg";
     $scope.productname = "Вкладыши шатунные Д-21 Т16 Т25 Р2 пр-во ЗПС г.Тамбов";
@@ -33388,7 +33388,7 @@ var app = angular.module('err1753', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1753_gidrotsilindr_rulevoj_povorotnyj";
     $scope.productimg = "assets/img/1742532453_gidrotsilindr-rulevoj-povorotnyj.jpg";
     $scope.productname = "Гидроцилиндр рулевой поворотный Т 25";
@@ -33407,7 +33407,7 @@ var app = angular.module('err1754', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1754_valik_nasosa_dozatora";
     $scope.productimg = "assets/img/1742522450_valik-nasosa-dozatora.jpg";
     $scope.productname = "Валик насоса дозатора МТЗ";
@@ -33426,7 +33426,7 @@ var app = angular.module('err1755', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1755_vkladyshi_shatunnye_t16";
     $scope.productimg = "assets/img/1742512501_vkladyshi-shatunnye-d-21.jpg";
     $scope.productname = "Вкладыши шатунные Д-21 Т16 Т25 Н1 пр-во ЗПС г.Тамбов";
@@ -33445,7 +33445,7 @@ var app = angular.module('err1756', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1756_vkladyshi_korennye_t16";
     $scope.productimg = "assets/img/1668628901_vkladyshi-korennye-d-21.jpg";
     $scope.productname = "Вкладыши коренные Д-21 Т16 Т25 Р2 пр-во ЗПС г.Тамбов";
@@ -33464,7 +33464,7 @@ var app = angular.module('err1757', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1757_vkladyshi_korennye_t16";
     $scope.productimg = "assets/img/1668630658_vkladyshi-korennye-d-21.jpg";
     $scope.productname = "Вкладыши коренные Д-21 Т16 Т25 Н2 пр-во ЗПС г.Тамбов";
@@ -33483,7 +33483,7 @@ var app = angular.module('err1758', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1758_remkomplekt_korziny_stsepeniya";
     $scope.productimg = "assets/img/1597069676_remkomplekt-korziny-stsepeniya.jpg";
     $scope.productname = "Ремкомплект корзины сцепения Т-25 полный";
@@ -33502,7 +33502,7 @@ var app = angular.module('err1759', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1759_vkladyshi_shatunnye_t16";
     $scope.productimg = "assets/img/1597074134_vkladyshi-shatunnye-d-21.jpg";
     $scope.productname = "Вкладыши шатунные Д-21 Т16 Т25 Р3 пр-во ЗПС г.Тамбов";
@@ -33521,7 +33521,7 @@ var app = angular.module('err1760', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1760_tyaga_naveski_prodolnaya";
     $scope.productimg = "assets/img/1596950152_tyaga-naveski-t-25.jpg";
     $scope.productname = "Тяга навески Т-25 продольная левая (лыжа)";
@@ -33540,7 +33540,7 @@ var app = angular.module('err1761', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1761_filtr_maslyanyj_tsentrobezhnyj";
     $scope.productimg = "assets/img/1596667982_filtr-maslyanyj-tsentrobezhnyj.jpg";
     $scope.productname = "Фильтр масляный центробежный Т 25 (центрофуга)";
@@ -33559,7 +33559,7 @@ var app = angular.module('err1762', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1762_pruzhina_rychaga_otzhimnogo";
     $scope.productimg = "assets/img/1107207409_pruzhina-rychaga-otzhimnogo.jpg";
     $scope.productname = "Пружина рычага отжимного Т-25";
@@ -33578,7 +33578,7 @@ var app = angular.module('err1763', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1763_prokladka_rukava_poluosi";
     $scope.productimg = "assets/img/1591468927_prokladka-rukava-poluosi.jpg";
     $scope.productname = "Прокладка рукава полуоси заднего моста Т-25";
@@ -33597,7 +33597,7 @@ var app = angular.module('err1764', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1764_tsapfy_levaya_shponka";
     $scope.productimg = "assets/img/1591466179_os-tsapfy-levaya.jpg";
     $scope.productname = "Ось цапфы левая Т-25 шпонка по центру";
@@ -33616,7 +33616,7 @@ var app = angular.module('err1765', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1765_vkladyshi_korennye_t16";
     $scope.productimg = "assets/img/1668625725_vkladyshi-korennye-d-21.jpg";
     $scope.productname = "Вкладыши коренные Д-21 Т16 Т25 Р1 пр-во ЗПС г.Тамбов";
@@ -33635,7 +33635,7 @@ var app = angular.module('err1766', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1766_prokladka_poddona";
     $scope.productimg = "assets/img/1107207410_prokladka-poddona-t-25.jpg";
     $scope.productname = "Прокладка поддона Т-25";
@@ -33654,7 +33654,7 @@ var app = angular.module('err1767', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1767_remkomplekt_nakonechnika_rulevoj";
     $scope.productimg = "assets/img/1107207411_remkomplekt-nakonechnika-rulevoj.jpg";
     $scope.productname = "Ремкомплект наконечника рулевой тяги Т-25";
@@ -33673,7 +33673,7 @@ var app = angular.module('err1768', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1768_korpus_salnikov_bortovoj";
     $scope.productimg = "assets/img/1591456250_korpus-t-25-salnikov.jpg";
     $scope.productname = "Корпус Т-25 сальников бортовой передачи";
@@ -33692,7 +33692,7 @@ var app = angular.module('err1769', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1769_zadnego_mosta_val";
     $scope.productimg = "assets/img/1591441641_os-zadnego-mosta.jpg";
     $scope.productname = "Ось заднего моста Т-25 (вал-гриб)";
@@ -33711,7 +33711,7 @@ var app = angular.module('err1770', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1770_ochistitel_dvigatelya_zollex";
     $scope.productimg = "assets/img/1137026807_ochistitel-dvigatelya-zollex.jpg";
     $scope.productname = "Очиститель двигателя Zollex";
@@ -33730,7 +33730,7 @@ var app = angular.module('err1771', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1771_disk_kolesa_perednij";
     $scope.productimg = "assets/img/1209722525_disk-kolesa-perednij.jpg";
     $scope.productimg = "assets/img/1209722527_disk-kolesa-perednij.jpg";
@@ -33750,7 +33750,7 @@ var app = angular.module('err1772', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1772_disk_kolesa_zadnij";
     $scope.productimg = "assets/img/1209728307_disk-kolesa-zadnij.jpg";
     $scope.productimg = "assets/img/1209728336_disk-kolesa-zadnij.jpg";
@@ -33770,7 +33770,7 @@ var app = angular.module('err1773', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1773_nasos_vodyanoj_kamaz";
     $scope.productimg = "assets/img/1540212116_nasos-vodyanoj-kamaz.jpg";
     $scope.productname = "Насос водяной КАМАЗ";
@@ -33789,7 +33789,7 @@ var app = angular.module('err1774', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1774_koltsa_porshnevye_yamz";
     $scope.productimg = "assets/img/1557559030_koltsa-porshnevye-yamz.jpg";
     $scope.productname = "Кольца поршневые ЯМЗ 236";
@@ -33808,7 +33808,7 @@ var app = angular.module('err1775', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1775_koltsa_porshnevye_260";
     $scope.productimg = "assets/img/1557587974_koltsa-porshnevye-d-260.jpg";
     $scope.productname = "Кольца поршневые Д-260";
@@ -33827,7 +33827,7 @@ var app = angular.module('err1776', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1776_vyklyuchatel_massy_distantsionnyj";
     $scope.productimg = "assets/img/1560098606_vyklyuchatel-massy-distantsionnyj.jpg";
     $scope.productname = "Выключатель массы дистанционный КАМАЗ";
@@ -33846,7 +33846,7 @@ var app = angular.module('err1777', []);
 app.controller('errCtrl', function($scope) {
     $scope.brandname = "avtochast.in.ua";
     $scope.brandgenerator = "er.or.ignore : : er.or.ignore@gmail.com";
-    $scope.site_icon = "../assets/img/err-ava-100x100-1.png";
+    $scope.site_icon = "assets/img/err-ava-100x100-1.png";
     $scope.productid = "avtochast_p1777_schitok_mtz_80821221";
     $scope.productimg = "assets/img/1586262549_schitok-mtz-80821221-paneli.jpg";
     $scope.productimg = "assets/img/1586263456_schitok-mtz-80821221-paneli.jpg";

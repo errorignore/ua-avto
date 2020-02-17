@@ -26,3 +26,12 @@ $("div.err-search-button").click(function() {
 $("div.cards-catalog").toggle();
 });
 });
+
+
+
+$(document).ready(function() {
+$("div.err-search-button").click(function() {
+$(".col-md-3.sidenav").toggle();
+});
+});
+
