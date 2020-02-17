@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="Windows-1252" ?>
 <NotepadPlus>
-    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="no" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="yes" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+    <FindHistory nbMaxFindHistoryPath="10" nbMaxFindHistoryFilter="10" nbMaxFindHistoryFind="10" nbMaxFindHistoryReplace="10" matchWord="no" matchCase="yes" wrap="yes" directionDown="yes" fifRecuisive="yes" fifInHiddenFolder="yes" dlgAlwaysVisible="no" fifFilterFollowsDoc="no" fifFolderFollowsDoc="yes" searchMode="1" transparencyMode="1" transparency="150" dotMatchesNewline="no" isSearch2ButtonsMode="no">
+        <Path name="C:\Users\er.or.ignore\Desktop\ua-avto" />
         <Path name="C:\Users\er.or.ignore\Desktop\ua-avto\products" />
         <Path name="C:\Users\er.or.ignore\Desktop\ua-avto\u" />
         <Filter name="*.*" />
+        <Find name='&lt;div class=&quot;col-md-3&quot;&gt;' />
+        <Find name='&lt;section class=&quot;col-md-9 main-content&quot;&gt;' />
         <Find name=" : : " />
         <Find name="saveas type=htm folder=* file=*" />
         <Find name="wait seconds={{!var1}}" />
@@ -12,9 +15,8 @@
         <Find name='&lt;section class=&quot;err-navbar-menu&quot;&gt;' />
         <Find name='&lt;section class=&quot;col-md-12 err-navbar-menu&quot;&gt;' />
         <Find name="&lt;!---  err  ----&gt;" />
-        <Find name='&lt;script class=&quot;err-ng-streem&quot; src=&quot;assets/errorignore/js/err_date.js&quot;&gt;' />
-        <Find name='&lt;section class=&quot;productinfo avtochast&quot; id=&quot;{{productid}}&quot;&gt;' />
-        <Replace name="" />
+        <Replace name='&lt;div class=&quot;col-md-2&quot;&gt;' />
+        <Replace name='&lt;section class=&quot;col-md main-content&quot;&gt;' />
         <Replace name="wait seconds=2" />
         <Replace name='&lt;section class=&quot;col-md-12 err-navbar-menu&quot;&gt;&lt;nav class=&quot;err-navbar err-navbar-expand beta-menu err-navbar-dropdown align-items-center err-navbar-fixed-top collapsed&quot;&gt;&lt;button class=&quot;err-navbar-toggler err-navbar-toggler-right&quot; type=&quot;button&quot; data-toggle=&quot;collapse&quot; data-target=&quot;#err-navbarSupportedContent&quot; aria-controls=&quot;err-navbarSupportedContent&quot; aria-expanded=&quot;false&quot; aria-label=&quot;Toggle navigation&quot;&gt;&lt;div class=&quot;hamburger&quot;&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;span&gt;&lt;/span&gt;&lt;/div&gt;&lt;/button&gt;&lt;div class=&quot;menu-logo&quot;&gt;&lt;div class=&quot;err-navbar-brand&quot;&gt;&lt;span class=&quot;err-navbar-caption-wrap err&quot;&gt;&lt;a class=&quot;err-navbar-caption text-success display-5&quot; href=&quot;index.html&quot;&gt;&lt;div class=&quot;brand-name&quot;&gt;&lt;span class=&quot;brand-name&quot;&gt;&#x00AB; &#x0423;&#x041A;&#x0420;&#x0410;&#x0412;&#x0422;&#x041E;&#x0427;&#x0410;&#x0421;&#x0422;&#x042C; &#x00BB;&lt;/span&gt;&lt;/div&gt;&lt;/a&gt;&lt;/span&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;collapse err-navbar-collapse&quot; id=&quot;err-navbarSupportedContent&quot;&gt;&lt;ul class=&quot;err-navbar-nav nav-dropdown nav-right&quot; data-app-modern-menu=&quot;true&quot;&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;zapchasti-mtz-80-82.html&quot;&gt; &#x0417;&#x0410;&#x041F;&#x0427;&#x0410;&#x0421;&#x0422;&#x0418; &#x0414;&#x041B;&#x042F; &#x0422;&#x0420;&#x0410;&#x041A;&#x0422;&#x041E;&#x0420;&#x041E;&#x0412; &#x041C;&#x0422;&#x0417; 80-82&lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;zapchasti-umz.html&quot;&gt;&#x0417;&#x0410;&#x041F;&#x0427;&#x0410;&#x0421;&#x0422;&#x0418; &#x0414;&#x041B;&#x042F; &#x0422;&#x0420;&#x0410;&#x041A;&#x0422;&#x041E;&#x0420;&#x041E;&#x0412; &#x042E;&#x041C;&#x0417;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;zapchasti-dt75-t130.html&quot;&gt; &#x0417;&#x0410;&#x041F;&#x0427;&#x0410;&#x0421;&#x0422;&#x0418; &#x041D;&#x0410; &#x0414;&#x0422;-75 &#x0438; &#x0422;-130 &lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;zapchasti-eo2126.html&quot;&gt; &#x0417;&#x0410;&#x041F;&#x0427;&#x0410;&#x0421;&#x0422;&#x0418; &#x0414;&#x041B;&#x042F; &#x042D;&#x041A;&#x0421;&#x041A;&#x0410;&#x0412;&#x0410;&#x0422;&#x041E;&#x0420;&#x041E;&#x0412; &#x042D;&#x041E;-2621&lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;zapchasti-t25.html&quot;&gt; &#x0417;&#x0410;&#x041F;&#x0427;&#x0410;&#x0421;&#x0422;&#x0418; &#x0414;&#x041B;&#x042F; &#x0422;&#x0420;&#x0410;&#x041A;&#x0422;&#x041E;&#x0420;&#x041E;&#x0412; &#x0422;-25&lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;kompressori.html&quot;&gt; &#x041A;&#x041E;&#x041C;&#x041F;&#x0420;&#x0415;&#x0421;&#x0421;&#x041E;&#x0420;&#x042B; &#x0412;&#x041E;&#x0417;&#x0414;&#x0423;&#x0428;&#x041D;&#x042B;&#x0415; &lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;gidravlika.html&quot;&gt; &#x0413;&#x0418;&#x0414;&#x0420;&#x0410;&#x0412;&#x041B;&#x0418;&#x041A;&#x0410; &lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-link link text-success display-7&quot; href=&quot;kolenvali.html&quot;&gt; &#x041A;&#x041E;&#x041B;&#x0415;&#x041D;&#x0427;&#x0410;&#x0422;&#x042B;&#x0419; &#x0412;&#x0410;&#x041B;&lt;br&gt;&lt;/a&gt;&lt;/li&gt;&lt;li class=&quot;err-nav-item&quot;&gt;&lt;a class=&quot;nav-li' />
         <Replace name='&lt;body class=&quot;row&quot;&gt;&lt;div class=&quot;preloader&quot;&gt;&lt;div class=&quot;preloader__row&quot;&gt;&lt;div class=&quot;preloader__item&quot;&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;' />
@@ -23,8 +25,6 @@
         <Replace name='&lt;!---*****err*****navbar*****----&gt;&lt;!---section class=&quot;col-md-12 err-navbar-menu&quot;&gt;' />
         <Replace name="&lt;!---  err*****scripts  ----&gt;" />
         <Replace name='&lt;!---  err  ----&gt;&lt;script class=&quot;err-ng-streem&quot; src=&quot;assets/errorignore/js/err_date.js&quot;&gt;' />
-        <Replace name='&lt;!---section class=&quot;productinfo avtochast&quot; id=&quot;{{productid}}&quot;&gt;' />
-        <Replace name='&lt;script class=&quot;err-ng-streem&quot; src=&quot;https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js&quot;&gt;&lt;/script&gt;&lt;script class=&quot;err-ng-streem&quot; src=&quot;https://ajax.googleapis.com/ajax/libs/jquery/3.4.0/jquery.min.js&quot;&gt;&lt;/script&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/tether/tether.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/bootstrap/css/bootstrap.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/bootstrap/css/bootstrap-grid.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/bootstrap/css/bootstrap-reboot.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/dropdown/css/style.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/theme/css/style.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot; href=&quot;assets/errorignore/css/err-addons2_1.css&quot; type=&quot;text/css&quot;&gt;&lt;link rel=&quot;preload&quot; as=&quot;style&quot; href=&quot;assets/errorignore/css/err-addons2_1.css&quot;&gt;&lt;/head&gt;' />
     </FindHistory>
     <History nbMaxFile="10" inSubMenu="no" customLength="-1">
         <File filename="C:\Users\er.or.ignore\Desktop\ua-avto\products\avtochast_p1001_setka_bloka_tsilindrov.html" />
@@ -44,7 +44,7 @@
         <GUIConfig name="ScintillaViewsSplitter">vertical</GUIConfig>
         <GUIConfig name="UserDefineDlg" position="undocked">hide</GUIConfig>
         <GUIConfig name="TabSetting" replaceBySpace="no" size="4" />
-        <GUIConfig name="AppPosition" x="1483" y="173" width="1100" height="700" isMaximized="yes" />
+        <GUIConfig name="AppPosition" x="1483" y="156" width="1100" height="700" isMaximized="yes" />
         <GUIConfig name="noUpdate" intervalDays="15" nextUpdateDate="20200222">yes</GUIConfig>
         <GUIConfig name="Auto-detection">yes</GUIConfig>
         <GUIConfig name="CheckHistoryFiles">no</GUIConfig>
@@ -70,7 +70,7 @@
         <GUIConfig name="ScintillaGlobalSettings" enableMultiSelection="no" />
         <GUIConfig name="openSaveDir" value="0" defaultDirPath="" />
         <GUIConfig name="titleBar" short="no" />
-        <GUIConfig name="stylerTheme" path="C:\Users\er.or.ignore\Desktop\ua-avto\np+\Notepad++Portable\App\Notepad++\stylers.xml" />
+        <GUIConfig name="stylerTheme" path="C:\Users\er.or.ignore\Desktop\ua-avto\np+\Notepad++Portable\App\Notepad++\themes\Mono Industrial.xml" />
         <GUIConfig name="wordCharList" useDefault="yes" charsAdded="" />
         <GUIConfig name="delimiterSelection" leftmostDelimiter="40" rightmostDelimiter="41" delimiterSelectionOnEntireDocument="no" />
         <GUIConfig name="multiInst" setting="0" />
@@ -92,5 +92,7 @@
         <ProjectPanel id="1" workSpaceFile="" />
         <ProjectPanel id="2" workSpaceFile="" />
     </ProjectPanels>
-    <FileBrowser />
+    <FileBrowser latestSelectedItem="C:\Users\er.or.ignore\Desktop\ua-avto\avtochast_p1777_schitok_mtz_80821221.html">
+        <root foldername="C:\Users\er.or.ignore\Desktop\ua-avto" />
+    </FileBrowser>
 </NotepadPlus>
