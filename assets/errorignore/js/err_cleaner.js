@@ -22,28 +22,36 @@ $(document).ready(function() {
 });
 
 $(document).ready(function() {
-$("div.err-search-button").click(function() {
-$("div.cards-catalog").toggle();
+	$("div.err-search-button").click(function() {
+    $(".err-transform").toggle();
 });
 });
 
-$(document).ready(function() {
-$("div.err-search-button").click(function() {
-$(".sidenav").toggle();
-});
-});
+															$(document).ready(function() {
+															$("div.err-search-button").click(function() {
+															$("div.cards-catalog").toggle();
+															});
+															});
 
-$(document).ready(function() {
-$("div.err-search-button").click(function() {
-$(".page-description-text").toggle();
-});
-});
+															$(document).ready(function() {
+															$("div.err-search-button").click(function() {
+															$(".sidenav").toggle();
+															});
+															});
+
+															$(document).ready(function() {
+															$("div.err-search-button").click(function() {
+															$(".page-informer").toggle();
+															});
+															});
+
+
+															$(document).ready(function() {
+															$("div.err-search-button").click(function() {
+															$(".page-description-text").toggle();
+															});
+															});
 
 
 
-$(document).ready(function() {
-$("div.err-search-button").click(function() {
-$("div.err-banner").toggle();
-});
-});
 

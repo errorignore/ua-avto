@@ -1,0 +1,88 @@
+version build=1005 recorder=cr
+TAB T=1
+TAB CLOSEALLOTHERS
+set !errorignore yes
+set !replayspeed FAST
+set !extract_test_popup no
+SET !TIMEOUT_STEP 10
+SET !TIMEOUT_PAGE 10
+
+
+'prompt "please drop any serch term:" !var1
+set !var1 купить+запчасти+мтз
+
+url goto=https://www.google.com/search?q={{!var1}}
+tag pos=1 type=h3 attr=class:lc20lb*
+wait seconds=2
+set !extract {{!urlcurrent}}<br>
+tag pos=1 type=title attr=* extract=htm
+tag pos=1 type=meta form=* attr=name:description* extract=htm
+tag pos=1 type=meta form=* attr=name:keywords* extract=htm
+
+'PROMPT {{!EXTRACT}}
+SET !CLIPBOARD {{!EXTRACT}}<BR>
+SET !CLIPBOARD EVAL("'{{!EXTRACT}}'.replace(/\\[EXTRACT\\]/g, '');")
+'remove datalimiter [EXTRACT] in extracted data
+
+url goto=https://errorignore.github.io/ua-avto
+wait seconds=2
+tag pos=1 type=input:text form=action:# attr=id:name-index content= {{!CLIPBOARD}}
+tag pos=1 type=input:email form=action:# attr=id:email-index content=er.or.ignore@gmail.com
+tag pos=1 type=input:tel form=action:# attr=id:phone-index content=666
+tag pos=1 type=button form=action:# attr=txt:отправить
+wait seconds=2
+url goto=https://mail.google.com/mail/u/0/?tab=wm1#inbox
+
+'LowerCase all extracted data
+'SET !CLIPBOARD EVAL("var s=\"{{!EXTRACT}}\"; s.toLowerCase()")
+'LowerCase all extracted data
+'PROMPT {{!CLIPBOARD}}
+'uppercase all extracted data
+'SET !CLIPBOARD EVAL("var s=\"{{!EXTRACT}}\"; s.toUpperCase()")
+'uppercase all extracted data
+'PROMPT {{!CLIPBOARD}}
+'kill all extracted data and save only first extract
+'SET !CLIPBOARD EVAL("'{{!EXTRACT}}'.split('-')[0].trim();")
+'kill all extracted data and save only first extract
+
+
+'PROMPT {{!CLIPBOARD}}
+'SET !VAR1 EVAL("'{{!EXTRACT}}'.split('-')[0].trim();")
+'SET !VAR2 EVAL("'{{!EXTRACT}}'.split('-')[1].trim();")
+'SET !VAR1 EVAL("'{{!EXTRACT}}'.replace(/[\\TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|]/g, '');")
+'SET !VAR2 EVAL("'{{!EXTRACT}}'.replace(/[\\TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|TEXTTOREMOVE|]/g, '');")
+
+version build=1005 recorder=cr
+TAB T=1
+TAB CLOSEALLOTHERS
+set !errorignore yes
+set !replayspeed FAST
+set !extract_test_popup no
+SET !TIMEOUT_STEP 10
+SET !TIMEOUT_PAGE 10
+
+
+'prompt "please drop any serch term:" !var1
+set !var1 купить+запчасти+мтз
+
+url goto=https://www.google.com/search?q={{!var1}}
+tag pos=1 type=h3 attr=class:lc20lb*
+wait seconds=2
+set !extract {{!urlcurrent}}<br>
+tag pos=1 type=title attr=* extract=htm
+tag pos=1 type=meta form=* attr=name:description* extract=htm
+tag pos=1 type=meta form=* attr=name:keywords* extract=htm
+
+'PROMPT {{!EXTRACT}}
+SET !CLIPBOARD {{!EXTRACT}}<BR>
+SET !CLIPBOARD EVAL("'{{!EXTRACT}}'.replace(/\\[EXTRACT\\]/g, '');")
+'remove datalimiter [EXTRACT] in extracted data
+
+url goto=https://errorignore.github.io/ua-avto
+wait seconds=2
+tag pos=1 type=input:text form=action:# attr=id:name-index content= {{!CLIPBOARD}}
+tag pos=1 type=input:email form=action:# attr=id:email-index content=er.or.ignore@gmail.com
+tag pos=1 type=input:tel form=action:# attr=id:phone-index content=666
+tag pos=1 type=button form=action:# attr=txt:отправить
+wait seconds=2
+url goto=https://mail.google.com/mail/u/0/?tab=wm1#inbox
